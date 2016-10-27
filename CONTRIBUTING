@@ -1,0 +1,26 @@
+# Bijdragen
+
+Het doel van [perinatologie.nl](http://perinatologie.nl) is samenwerking in de geboortezorg.
+Gezamelijk werken aan een praktische dataset is hier een belangrijk onderdeel van.
+
+Patches tbv het uitbreiden en verbeteren van de `peri22x` dataset zijn daarom van harte welkom!
+
+## Workflow
+
+Nieuwe patches kunnen ingestuurd worden mbv een [pull-request](https://github.com/perinatologie/peri22x/compare/).
+
+Klik [hier](https://guides.github.com/activities/contributing-to-open-source/) voor een korte introductie.
+
+## Coding-conventions
+
+Wij hanteren de volgende conventies tbv het formateren van bestanden in deze repository:
+
+* charset = utf-8
+* end_of_line = lf
+* indent_style = space
+* indent_size = 2
+* insert_final_newline = true
+* trim_trailing_whitespace = true
+
+Wanneer je gebruik maakt van een editor die ondersteuning bied voor [.editorconfig files](http://editorconfig.org/)
+dan gaat dit vanzelf goed. Wees er anders extra alert op.

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mappings>
+  <mapping id="keyid-bsn" concept="peri22-dataelement-10030" status="ok" />
+  <mapping id="keyid-geboortedatum" concept="peri22-dataelement-18265" status="ok" transformer="stamp2date" />
+  <mapping id="keyid-bloodtype" concept="peri22-dataelement-10810"
+    comment="Let op, keyid bevat bloedgroep en rhesusfactor. Rhesusfactor gaat hier verloren"
+    status="draft"
+    >
+    <item from="A pos" to="112144000" />
+    <item from="A neg" to="112144000" />
+    <item from="B pos" to="112149005" />
+    <item from="B neg" to="112149005" />
+    <item from="AB pos" to="165743006" />
+    <item from="AB neg" to="165743006" />
+    <item from="O pos" to="58460004" />
+    <item from="O neg" to="58460004" />
+    <item from="" to="UNK" />
+  </mapping>
+
+
+  <mapping id="keyid-spirit_conslusierisico" concept="peri22-dataelement-20305">
+      <item from="1e lijn (VIL A)" to="1" />
+      <item from="overlegsituatie (VIL B)" to="2" />
+      <item from="2e lijn (VIL C)" to="3" />
+      <item from="1e lijn met plaatsindicatie (VIL D)" to="4" />
+      <item from="3e lijns zorg" to="5" />
+       <item from="" to="1" />
+  </mapping>
+
+  <mapping id="keyid-birthdate" concept="peri22-dataelement-10040" />
+  <mapping id="keyid-nickname" concept="peri22-dataelement-82360" />
+  <mapping id="keyid-firstname" concept="peri22-dataelement-10042" />
+  <mapping id="keyid-initials" concept="peri22-dataelement-82359" />
+  <mapping id="keyid-nameprefix" concept="peri22-dataelement-82363" />
+  <mapping id="keyid-lastname" concept="peri22-dataelement-10043" />
+  <mapping id="keyid-full_lastname" concept="peri22x-vrouw-volledige_achternaam" comment="nb"/>
+  <mapping id="keyid-birthcountry" concept="peri22x-vrouw-geboorteland" />
+  <mapping id="keyid-mn_memo" concept="peri22x-alert_tekst" />
+  <mapping id="keyid-lvr1_burgelijkestaat" concept="peri22x-burgelijke_staat" >
+      <item from="Gehuwd" to="1" />
+      <item from="Samenwonend" to="2" />
+      <item from="Alleenstaand" to="3" />
+      <item from="Gescheiden" to="4" />
+      <item from="L.A.T" to="5" />
+      <item from="Overig" to="6" />
+      <item from="Onbek" to="UNK" />
+      <item from="*" to="NI" />
+  </mapping>
+
+    <!--
+    Te converteren
+
+    1	rooms katholiek / 276120001 Catholic religion
+    2	ned.hervormd
+    3	gereformeerd
+    4	jeh.getuige / 276118004 Jehovah's Witness religion
+    5	islam / 271390004 Islam
+    7	joods / 276121002 Judaism
+    8	hindoe / 61154002 Hinduism
+    9	christelijk
+    21	boeddhisme / 33822009 Buddhism
+    23	PKN
+    24	ger.gem / 07 Gereformeerde Gemeente
+    25	ger.gem.ned / 08 Gereformeerde Gemeente in Nederland
+    26	oud ger.gem / 09 Oud Gereformeerde Gemeente
+    27	herst.herv / 03 Hersteld Hervormde kerk
+    28	ger.vrijg / 05 Gereformeerd Vrijgemaakt
+    29	protestant
+    30	baptisme
+    10	geen / 160552003 Not religious
+    6	overig / OTH Overig
+    0	onbek / UNK Onbekend
+    NI	geen informatie
+
+    Wat te doen?
+
+    276116000	2.16.840.1.113883.6.96	Christian religion	0	L
+    01	2.16.840.1.113883.2.4.4.13.51	PKN - Hervormd	1	L
+    02	2.16.840.1.113883.2.4.4.13.51	PKN - Gereformeerd	1	L
+    04	2.16.840.1.113883.2.4.4.13.51	Christelijk Gereformeerd	1	L
+    06 2.16.840.1.113883.2.4.4.13.51 Nederlands Gereformeerd 1 L
+    10	2.16.840.1.113883.2.4.4.13.51	Evangelisch	1	L
+    11	2.16.840.1.113883.2.4.4.13.51	Overig protestants	1	L
+    -->
+  <mapping id="keyid-lvr1_godsdienst" concept="peri22-dataelement-82156" >
+      <item from="rooms katholiek" to="276120001" />
+      <item from="jeh.getuige" to="276118004" />
+      <item from="islam" to="271390004" />
+      <item from="joods" to="276121002" />
+      <item from="hindoe" to="61154002" />
+      <item from="boeddhisme" to="33822009" />
+      <item from="ger.gem" to="07" />
+      <item from="ger.gem.ned" to="08" />
+      <item from="oud ger.gem" to="09" />
+      <item from="herst.herv" to="03" />
+      <item from="ger.vrijg" to="05" />
+      <item from="geen" to="160552003" />
+      <item from="overig" to="OTH" />
+      <item from="ned.hervormd" to="OTH" />
+      <item from="gereformeerd" to="OTH" />
+      <item from="christelijk" to="OTH" />
+      <item from="PKN" to="OTH" />
+      <item from="protestant" to="OTH" />
+      <item from="baptisme" to="OTH" />
+      <item from="onbek" to="UNK" />
+      <item from="*" to="NI" />
+  </mapping>
+
+<!--
+  1	Nederlands
+  2	Europeïde
+  3	Noord-Afrikaans
+  4	Overig Afrikaans
+  5	Turks
+  6	Zuid-Aziatisch
+  7	Oost- en Zuidoost-Aziatisch
+  8	Overig Aziatisch
+  9	Overig Westers
+  10	Overig niet Westers
+  11	Meervoudige afkomst
+  UNK	onbekend
+
+  14 Latijns Amerikaans
+  13 Hindoestaans
+  12 Kaukasisch	0
+  3 Noord-Afrikaans
+  4	 Overig Afrikaans
+  5 Turks
+  8 Overig Aziatisch
+  11 Meervoudige afkomst / Overig
+  UNK onbekend
+-->
+
+  <mapping id="keyid-spirit_ethnicity" concept="peri22-dataelement-10400">
+    <item from="Nederlands" to="12" />
+    <item from="Europeïde" to="12" />
+    <item from="Noord-Afrikaans" to="3" />
+    <item from="Overig Afrikaans" to="4" />
+    <item from="Turks" to="5" />
+    <item from="Zuid-Aziatisch" to="8" />
+    <item from="Oost- en Zuidoost-Aziatisch" to="8" />
+    <item from="Overig Aziatisch" to="8" />
+    <item from="Overig Westers" to="12" />
+    <item from="Overig niet Westers" to="11" />
+    <item from="Meervoudige afkomst" to="11" />
+    <item from="onbekend" to="UNK" />
+  </mapping>
+
+  <mapping id="keyid-okc_spreektnl" concept="peri22-dataelement-10401"
+    comment="No source mapping for 'poor'">
+    <item from="ja" to="G" />
+    <item from="beperkt" to="P" />
+    <item from="nee" to="N" />
+    <item from="*" to="NI" />
+  </mapping>
+
+  <mapping id="keyid-postalcode" concept="peri22-dataelement-10304" />
+  <mapping id="keyid-city" concept="peri22-dataelement-10305" />
+  <mapping id="keyid-country" concept="peri22-dataelement-10307"
+    comment="Hoe hoort deze mapping te werken?">
+  </mapping>
+  <mapping id="keyid-partner_firstname" concept="peri22-dataelement-80639" />
+  <mapping id="keyid-partner_lastname" concept="peri22-dataelement-80641" />
+
+
+</mappings>

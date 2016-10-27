@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mappings>
+  <mapping id="keyid-gravida" concept="peri22-dataelement-20010" status="ok" />
+  <mapping id="keyid-para" concept="peri22-dataelement-20153" status="ok" />
+  <mapping id="keyid-fetalloss" concept="peri22-dataelement-80678" />
+  <mapping id="keyid-totalliving" concept="peri22-dataelement-80617" />
+  <mapping id="keyid-startstamp" concept="peri22-dataelement-20290" />
+  <mapping id="keyid-endstamp" concept="peri22-dataelement-20340" />
+  <mapping id="keyid-edd" concept="peri22-dataelement-20030" />
+  <mapping id="keyid-weight" concept="peri22-dataelement-20211" />
+  <mapping id="keyid-length" concept="peri22-dataelement-20212" />
+  <mapping id="keyid-lvr1_bloodtransfer" concept="peri22-dataelement-10805" />
+  <mapping id="keyid-lvr1_foliumzuur" concept="peri22-dataelement-80819" />
+  <mapping id="keyid-intake_nse" concept="peri22-dataelement-10803" />
+  <mapping id="keyid-intake_huisgew" concept="peri22-dataelement-80680" />
+  <mapping id="keyid-mn_besnjn" concept="peri22-dataelement-80675" />
+
+  <mapping id="keyid-spirit_conslusierisico" concept="peri22-dataelement-20305">
+      <item from="1e lijn (VIL A)" to="1" />
+      <item from="overlegsituatie (VIL B)" to="2" />
+      <item from="2e lijn (VIL C)" to="3" />
+      <item from="1e lijn met plaatsindicatie (VIL D)" to="4" />
+      <item from="3e lijns zorg" to="5" />
+  </mapping>
+
+  <!--
+    Peri22
+      00 geen voorkeur
+      10 thuis
+      20 1e lijnsvoorziening
+      21 kraamcentrum
+      22 geboortecentrum 1e lijn
+      30 2e lijnsvoorziening
+      31 poliklinisch
+      32 ziekenhuis op medische indicatie
+      UNK onbekend
+      ASKU weet het nog niet
+
+    Onatal
+    00 geen voorkeur
+    10 thuis
+    20 1e lijnsvoorziening
+    21 kraamcentrum
+    22 geboortecentrum 1e lijn
+    31 poliklinisch
+    ASKU weet het nog niet
+    UNK onbekend
+  -->
+
+  <mapping id="keyid-job_client" concept="peri22-dataelement-82154" />
+  <mapping id="keyid-prn_gewensteplaatsbaring" concept="peri22-dataelement-20511">
+      <item from="geen voorkeur" to="00" />
+      <item from="thuis" to="10" />
+      <item from="1e lijnsvoorziening" to="20" />
+      <item from="kraamcentrum" to="21" />
+      <item from="geboortecentrum 1e lijn" to="22" />
+      <item from="poliklinisch" to="31" />
+      <item from="weet het nog niet" to="ASKU" />
+      <item from="onbekend" to="UNK" />
+  </mapping>
+
+</mappings>

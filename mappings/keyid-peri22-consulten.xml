@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mappings>
+  <mapping id="keyid-mn_datconsdatum" concept="peri22-dataelement-80737" transformer="stamp2date" status="ok"  />
+  <mapping id="keyid-amduur" concept="peri22-dataelement-80738" transformer="gestation2days" status="ok"  />
+  <mapping id="keyid-mn_gewicht" concept="peri22-dataelement-20211" status="ok"  />
+  <mapping id="keyid-mn_levenvoelen" concept="peri22-dataelement-80746" status="ok">
+    <item from="01" to="289431008" note="goed" />
+    <item from="02" to="276372004" note="weinig"/>
+    <item from="03" to="276369006" note="dubieus"/>
+    <item from="04" to="289432001" note="niet" />
+    <!-- item from="09" to="UNK" note="niet vermeld"/-->
+  </mapping>
+  <mapping id="keyid-mn_fundushoogte_cm" concept="peri22-dataelement-80741" status="ok"  />
+  <mapping id="keyid-mn_fundushoogte_cm" concept="peri22-dataelement-80741" status="ok"  />
+  <mapping id="keyid-mn_hb" concept="peri22-dataelement-10814" status="ok"  />
+  <mapping id="keyid-mn_mcv" concept="peri22-dataelement-80951" status="ok"  />
+  <mapping id="keyid-mn_commentaar" concept="peri22-dataelement-80748" status="ok"  />
+  
+</mappings>

@@ -1,0 +1,1629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<client>
+  <forms>
+    <form keyid="client" label="Client" uuid="eaa2eefe-de84-4585-8a92-ffb04d38c4e5" createstamp="1245768526" updatestamp="1474370762">
+      <values>
+        <value label="BSN" value="392548480" keyid="bsn"/>
+        <value label="Geboortedatum" value="134218800" type="date" keyid="birthdate"/>
+        <value label="Bloedgroep" value="A neg" keyid="bloodtype"/>
+        <value label="Roepnaam" value="Theressa" keyid="nickname"/>
+        <value label="Voornamen" value="Hendrika" keyid="firstname"/>
+        <value label="Initialen" value="T.C." keyid="initials"/>
+        <value label="Voorvoegsel" value="van der" keyid="nameprefix"/>
+        <value label="Familienaam" value="Janssen" keyid="lastname"/>
+        <value label="Volledige achternaam" value="van der Kamp-Janssen" keyid="full_lastname"/>
+        <value label="Geboorteland" value="Nederland" keyid="birthcountry"/>
+        <value label="Etniciteit" value="Europeïde" keyid="spirit_ethnicity"/>
+        <value label="Spreekt Nederlands" value="ja" keyid="okc_spreektnl"/>
+        <value label="Alert tekst" value="Een belangrijke mededeling voor zorgverleners" keyid="mn_memo"/>
+        <value label="Adres" value="Suikerveldlaan 28E33" keyid="addressline1"/>
+        <value label="Postcode" value="6308 AA" keyid="postalcode"/>
+        <value label="Plaats" value="Rotterdam" keyid="city"/>
+        <value label="Land" value="Netherlands" keyid="country"/>
+        <value label="Huisarts" value="Overbergh" keyid="huisartsuuid"/>
+        <value label="Apotheker" value="Potheek" keyid="apothekeruuid"/>
+        <value label="Specialist" value="Kruitwiel." keyid="specialistuuid"/>
+        <value label="Ziekenhuis" value="TweeSteden Ziekenhuis" keyid="ziekenhuisuuid"/>
+        <value label="ZIS nummer" value="12313244" keyid="ziekenhuisklientnummer"/>
+        <value label="Partner voornaam" value="Karel" keyid="partner_firstname" repeat=""/>
+        <value label="Partner achternaam" value="van der Kamp" keyid="partner_lastname" repeat=""/>
+        <value label="Burg.staat" value="Gehuwd" keyid="lvr1_burgelijkestaat"/>
+        <value label="Religion" value="islam" keyid="lvr1_godsdienst"/>
+      </values>
+    </form>
+  </forms>
+  <eocs>
+    <eoc>
+      <forms>
+        <form keyid="verloskunde_dossier_intake" label="Intake" uuid="086f5631-788c-486d-a641-77bfc34f758e" createstamp="1416408836" updatestamp="1416408836">
+          <values>
+            <value label="Graviditeit" value="4" keyid="gravida"/>
+            <value label="Pariteit" value="0" keyid="para"/>
+            <value label="Spontane abortus" value="" keyid="abortionspon"/>
+            <value label="Abortus provocatus" value="1" keyid="abortionprov"/>
+            <value label="EUG" value="" keyid="eug"/>
+            <value label="Fetal loss +20wk" value="" keyid="fetalloss"/>
+            <value label="Totaal in leven" value="77" keyid="totalliving"/>
+            <value label="Start datum dossier" value="1416408836" type="date" keyid="startstamp"/>
+            <value label="Datum eind dossier" value="1435212000" type="date" keyid="endstamp"/>
+            <value label="Datum LM" value="" type="date" keyid="lmd"/>
+            <value label="A terme datum" value="1414828800" type="date" keyid="edd"/>
+            <value label="Cyclus dagen" value="" keyid="mn_cyclusdagen"/>
+            <value label="Cyclus regelmatig" value="" keyid="mn_cyclusregulariteit"/>
+            <value label="Zekerheid AT" value="" keyid="zekerheidat"/>
+            <value label="Anti-conceptie" value="" keyid="mn_anticonceptiesoort"/>
+            <value label="Weight" value="90" keyid="weight"/>
+            <value label="Length" value="183" keyid="length"/>
+            <value label="Hoofdbehandelaar" value="Anonymous" keyid="casemanager"/>
+            <value label="Extern memo" value="Bhj sdfsk dfhksjdf aguiadshujdsagcyudeagcuaisdgyudsscgyuaechuudasgyuesgudsacgyuseaec. BydughdsjacdeshjegseuichuidesgcyudesgchisaahchjdesgceyuechjdegcyudsacgyuseaecGcyugheussgcyuseghxjdghjsschfjdsvbddsgjghdjsdudksaahcdushcxjschduhcudsdhjshcjdsvhudhudcjichjdsdhsgvudehcjxjcishjehfhrevgsyfduyfr3w88e7wfq9eiduwqhufarihgid yfd67re84wi8iwjqdjchfg t hhnjsxijchu hu bncb u h u cbdudhehwudiefue" keyid="zwangerschap_memo"/>
+            <value label="Atermelijst opmerking" value="" keyid="mn_opmerk"/>
+            <value label="Intake memo" value="" keyid="intake_memo"/>
+            <value label="Anamnese memo" value="geb.dat: 01-09-2014 12:00, G/P: 78/78, Pietje, (jongen), am.duur: 30+3, uitkomst: Partus, gew.: 3450g, AS.: 9, 9, 10,geb.dat: 28-10-2014 00:00, G/P: 13/12, Henkie, (jongen), am.duur: ?, AS.: 1, 5, 10,geb.dat: 04-12-2013 00:00, G/P: 12/11, Piet piet, am.duur: ?, aangep.door: 1e lijns verloskundige, olv: gynaecoloog v Dessel, perineum.: totaal rupt,G/P: 12/11, Koos koos, am.duur: ?, perineum.: totaal rupt,geb.dat: 09-10-2013 01:00, G/P: 11/10, am.duur: 39+3, uitkomst: Partus, duur ontsl.: 551:10u, gew.: 3800g,G/P: 10/9, am.duur: ?,G/P: 9/8, am.duur: ?,G/P: 8/7, am.duur: ?,G/P: 7/6, eva2, am.duur: ?,G/P: 6/5, Eva, am.duur: ?,geb.dat: 26-02-2011 00:00, G/P: 5/4, (jongen), am.duur: 39+4, uitkomst: Partus, aangep.door: 1e lijns verloskundige, olv: gynaecoloog Vos, hulp baring: bijstimulatie, gew.: 1300g, perineum.: totaal rupt, nvt, nvt,G/P: 4/3, Carel, (jongen), am.duur: ?, uitkomst: Partus, aangep.door: 1e lijns verloskundige, olv: gynaecoloog Appels, gew.: 30g,G/P: 3/2, am.duur: ?,G/P: 2/1, (jongen), am.duur: ?, loc.baring: Onbekend, aangep.door: 1e lijns verloskundige, olv: 1e lijns verloskundige Hongliang Wang,G/P: 2/1, am.duur: ?,G/P: 2/1, am.duur: ?,geb.dat: 14-07-2010 15:02, G/P: 1/, (jongen), am.duur: 39+5, uitkomst: Partus, aangep.door: 1e lijns verloskundige, olv: 1e lijns verloskundige Marieke van Pietersen, duur ontsl.: 2u, ligging: achterhoofd-achter, gew.: 1700g," keyid="intake_anamnese_memo"/>
+            <value label="Cystitis" value="" keyid="intake_cystitis"/>
+            <value label="Peridontale infecties" value="" keyid="intake_peridontinf"/>
+            <value label="Candida" value="" keyid="intake_candida"/>
+            <value label="Pap. datum" value="1433916000" type="date" keyid="mn_papdatum"/>
+            <value label="Pap. uitslag" value="" keyid="mn_papuitslag"/>
+            <value label="Varicella" value="Onbekend" keyid="intake_varicella"/>
+            <value label="HSV-1" value="Onbekend" keyid="hsv1"/>
+            <value label="MRSA risico" value="" keyid="intake_mrsa"/>
+            <value label="Bloed Trans." value="nee" keyid="lvr1_bloodtransfer"/>
+            <value label="Trombose" value="" keyid="trombose"/>
+            <value label="Foliumzuur" value="" keyid="lvr1_foliumzuur"/>
+            <value label="Gezondheid" value="vrij goed" keyid="okc_gezondheid"/>
+            <value label="Operaties" value="asdjhsgda jshdgaj sh" keyid="mn_operatie"/>
+            <value label="NSE" value="Nee" keyid="intake_nse"/>
+            <value label="Sex. geweld" value="" keyid="intake_sexgew"/>
+            <value label="Huis. geweld" value="" keyid="intake_huisgew"/>
+            <value label="Besnijdenis" value="Nee" keyid="mn_besnjn"/>
+            <value label="Besnijdenis opm." value="" keyid="mn_besntext"/>
+            <value label="Med. risk" value="geen problematiek" keyid="lvr1_medrisk"/>
+            <value label="Concl. risicostatus" value="" keyid="spirit_conslusierisico"/>
+            <value label="Opm. fam. anam." value="" keyid="intake_famopm"/>
+            <value label="Beroep client" value="Zandkorrelverzamelaa" keyid="job_client"/>
+            <value label="Hyp. Tensie" value="" keyid="mn_htensie"/>
+            <value label="Rubella vaccinatie" value="" keyid="mn_tuberculose"/>
+            <value label="test cong. afw. man" value="" keyid="mn_congenafwman"/>
+            <value label="HSV-1 partner" value="" keyid="hsv1_partner"/>
+            <value label="Opm. HSV-1 partner" value="" keyid="hsv1_partner_opm"/>
+            <value label="Psych. problematiek" value="" keyid="intake_psych"/>
+            <value label="Opm. medicaties" value="" keyid="mn_medicatie"/>
+            <value label="Intakedatum" value="" keyid="mn_eigen01"/>
+            <value label="Trombose" value="" keyid="mn_eigen02"/>
+            <value label="Schildklierafw." value="" keyid="mn_schildklier"/>
+            <value label="Diabetes" value="" keyid="mn_diabetes"/>
+            <value label="Opm. fam. anam." value="" keyid="intake_famopm"/>
+            <value label="Gewenste plaats baring" value="" keyid="prn_gewensteplaatsbaring"/>
+            <value label="afgesproken plaats baring" value="" keyid="ziekenhuisuuid"/>
+            <value label="voorg.wijze van bevallen" value="" keyid="mn_bevwijz"/>
+            <value label="Kraamzorg aangevraagd" value="" keyid="mn_krmzorgaangevr"/>
+            <value label="voorg.voeding" value="" keyid="mn_voeding"/>
+            <value label="opmerking" value="" keyid="mn_opmerking"/>
+            <value label="Ziekten en bijzonderheden" keyid="diseases" value="Nierfunctiestoornissen preëxistente (01-10-2006 - 05-10-2011, jkgjhgjk);Hypothyreoidie na chirurgische of I-131 goed ingesteld, aanwezig TSH-receptor antistoffen (jkhaskdjaksdh);Trombose diep veneuse /longembolie preëxistente;Epilepsie zonder medicatie;Astma preëxistente;Alcoholmisbruik preëxistente (10-09-2014 - 11-09-2014, dgfdfg);Sclerose multiple preëxistente;Tuberculose in de anamnese;Harddrugs gebruik (heroïne, methadon, cocaïne, XTC en dergelijke)" type="multiselect"/>
+            <value label="Notitie ziekten" value="" keyid="mn_ziekten"/>
+            <value label="Notitie soa" value="" keyid="mn_soa"/>
+            <value label="Allergie" keyid="allergies" value="latex" type="multiselect"/>
+            <value label="Notitie allergien" value="" keyid="mn_allergie"/>
+            <value label="Roken" value="" keyid="mn_roken"/>
+            <value label="Drugs voor zws" value="" keyid="mn_drugs_voor"/>
+            <value label="Drugs tijdens zws" value="" keyid="mn_drugs_tijdens"/>
+            <value label="Alc voor zws" value="" keyid="mn_alcohol_voor"/>
+            <value label="Alc tijdens zws" value="" keyid="mn_alcohol_tijdens"/>
+            <value label="Drug" keyid="drugs" value="Amefetamine/speed"/>
+            <value label="Notitie toxicaties" value="m&amp;amp;ms" keyid="mn_toxicatie"/>
+          </values>
+        </form>
+        <form keyid="anamnese" label="Anamnese" uuid="75b6843f-81e9-4a22-9f0b-ae2312286cfd" createstamp="1452079476" updatestamp="1473335023">
+          <values>
+            <value label="Reference" value="0000089" keyid="ref"/>
+            <value label="Graviditeit" value="80" keyid="gravida"/>
+            <value label="Pariteit" value="80" keyid="para"/>
+            <value label="Spontane abortus" value="" keyid="abortionspon"/>
+            <value label="Abortus provocatus" value="1" keyid="abortionprov"/>
+            <value label="EUG" value="" keyid="eug"/>
+            <value label="Fetal loss +20wk" value="" keyid="fetalloss"/>
+            <value label="Totaal in leven" value="78" keyid="totalliving"/>
+            <value label="Bloedverlies" value="" keyid="bloedverlies"/>
+            <value label="Gewicht" value="" keyid="gewicht" repeat="0"/>
+            <value label="Percentiel Lower" value="" keyid="percentiel_lower" repeat="0"/>
+            <value label="Percentiel Upper" value="" keyid="percentiel_upper" repeat="0"/>
+            <value label="Percentiel OAF" value="" keyid="percentiel_oaf" repeat="0"/>
+            <value label="Naam kind" value="" keyid="naam_kind" repeat="0"/>
+            <value label="Geslacht" value="" keyid="gender_code" repeat="0"/>
+            <value label="AM duur" value="?" keyid="amduur"/>
+            <value label="Uitkomst" value="                                                    " keyid="uitkomst"/>
+            <value label="Eindverantwoordelijke" value="                                                        " keyid="eindverantwoordelijk"/>
+            <value label="Afgesloten" value="" keyid="afgesloten"/>
+          </values>
+        </form>
+        <form keyid="anamnese" label="Anamnese" uuid="a7f17ff1-1a99-4f1c-a7df-12c00ab261ed" createstamp="1393923632" updatestamp="1451472353">
+          <values>
+            <value label="Reference" value="0000041" keyid="ref"/>
+            <value label="Graviditeit" value="13" keyid="gravida"/>
+            <value label="Pariteit" value="12" keyid="para"/>
+            <value label="Spontane abortus" value="4" keyid="abortionspon"/>
+            <value label="Abortus provocatus" value="1" keyid="abortionprov"/>
+            <value label="EUG" value="" keyid="eug"/>
+            <value label="Fetal loss +20wk" value="" keyid="fetalloss"/>
+            <value label="Totaal in leven" value="7" keyid="totalliving"/>
+            <value label="Geboorte Datum" value="1414450800" keyid="geboortedatum"/>
+            <value label="Bloedverlies" value="" keyid="bloedverlies"/>
+            <value label="Gewicht" value="3750" keyid="gewicht" repeat="0"/>
+            <value label="Percentiel Lower" value="" keyid="percentiel_lower" repeat="0"/>
+            <value label="Percentiel Upper" value="" keyid="percentiel_upper" repeat="0"/>
+            <value label="Percentiel OAF" value="" keyid="percentiel_oaf" repeat="0"/>
+            <value label="Naam kind" value="Henkie" keyid="naam_kind" repeat="0"/>
+            <value label="Geslacht" value="B" keyid="gender_code" repeat="0"/>
+            <value label="AM duur" value="?" keyid="amduur"/>
+            <value label="Uitkomst" value="                                                    " keyid="uitkomst"/>
+            <value label="Eindverantwoordelijke" value="                                                        " keyid="eindverantwoordelijk"/>
+            <value label="Afgesloten" value="overdracht" keyid="afgesloten"/>
+          </values>
+        </form>
+        <form keyid="anamnese" label="Anamnese" uuid="8beaa438-28d8-4f9f-97b1-b57b2a797908" createstamp="1426783489" updatestamp="1426783489">
+          <values>
+            <value label="Reference" value="" keyid="ref"/>
+            <value label="Graviditeit" value="79" keyid="gravida"/>
+            <value label="Pariteit" value="79" keyid="para"/>
+            <value label="Spontane abortus" value="" keyid="abortionspon"/>
+            <value label="Abortus provocatus" value="1" keyid="abortionprov"/>
+            <value label="EUG" value="" keyid="eug"/>
+            <value label="Fetal loss +20wk" value="" keyid="fetalloss"/>
+            <value label="Totaal in leven" value="77" keyid="totalliving"/>
+            <value label="Bloedverlies" value="" keyid="bloedverlies"/>
+            <value label="Gewicht" value="" keyid="gewicht" repeat="0"/>
+            <value label="Percentiel Lower" value="" keyid="percentiel_lower" repeat="0"/>
+            <value label="Percentiel Upper" value="" keyid="percentiel_upper" repeat="0"/>
+            <value label="Percentiel OAF" value="" keyid="percentiel_oaf" repeat="0"/>
+            <value label="Naam kind" value="" keyid="naam_kind" repeat="0"/>
+            <value label="Geslacht" value="" keyid="gender_code" repeat="0"/>
+            <value label="AM duur" value="?" keyid="amduur"/>
+            <value label="Uitkomst" value="                                                    " keyid="uitkomst"/>
+            <value label="Eindverantwoordelijke" value="                                                        " keyid="eindverantwoordelijk"/>
+            <value label="Afgesloten" value="" keyid="afgesloten"/>
+          </values>
+        </form>
+        <form keyid="anamnese" label="Anamnese" uuid="329a43a7-1ecb-42fe-b5ee-ef5d54289e7e" createstamp="1398935822" updatestamp="1443110732">
+          <values>
+            <value label="Reference" value="0000045" keyid="ref"/>
+            <value label="Graviditeit" value="78" keyid="gravida"/>
+            <value label="Pariteit" value="78" keyid="para"/>
+            <value label="Spontane abortus" value="" keyid="abortionspon"/>
+            <value label="Abortus provocatus" value="1" keyid="abortionprov"/>
+            <value label="EUG" value="" keyid="eug"/>
+            <value label="Fetal loss +20wk" value="" keyid="fetalloss"/>
+            <value label="Totaal in leven" value="8" keyid="totalliving"/>
+            <value label="Geboorte Datum" value="1403773200" keyid="geboortedatum"/>
+            <value label="Bloedverlies" value="" keyid="bloedverlies"/>
+            <value label="Gewicht" value="3450" keyid="gewicht" repeat="0"/>
+            <value label="Percentiel Lower" value="P97.7" keyid="percentiel_lower" repeat="0"/>
+            <value label="Percentiel Upper" value="" keyid="percentiel_upper" repeat="0"/>
+            <value label="Percentiel OAF" value="6" keyid="percentiel_oaf" repeat="0"/>
+            <value label="Naam kind" value="Pietje" keyid="naam_kind" repeat="0"/>
+            <value label="Geslacht" value="B" keyid="gender_code" repeat="0"/>
+            <value label="AM duur" value="30+3" keyid="amduur"/>
+            <value label="Uitkomst" value="                            partus                                                    " keyid="uitkomst"/>
+            <value label="Eindverantwoordelijke" value="                                                        " keyid="eindverantwoordelijk"/>
+            <value label="Afgesloten" value="abortus" keyid="afgesloten"/>
+          </values>
+        </form>
+        <form keyid="anamnese" label="Anamnese" uuid="228341bf-e33b-4732-954d-cc148f4d77fb" createstamp="1317726838" updatestamp="1458896895">
+          <values>
+            <value label="Reference" value="0000033" keyid="ref"/>
+            <value label="Graviditeit" value="11" keyid="gravida"/>
+            <value label="Pariteit" value="10" keyid="para"/>
+            <value label="Spontane abortus" value="4" keyid="abortionspon"/>
+            <value label="Abortus provocatus" value="1" keyid="abortionprov"/>
+            <value label="EUG" value="" keyid="eug"/>
+            <value label="Fetal loss +20wk" value="" keyid="fetalloss"/>
+            <value label="Totaal in leven" value="" keyid="totalliving"/>
+            <value label="Geboorte Datum" value="1381273200" keyid="geboortedatum"/>
+            <value label="Bloedverlies" value="" keyid="bloedverlies"/>
+            <value label="Gewicht" value="3800" keyid="gewicht" repeat="0"/>
+            <value label="Percentiel Lower" value="P50" keyid="percentiel_lower" repeat="0"/>
+            <value label="Percentiel Upper" value="P90" keyid="percentiel_upper" repeat="0"/>
+            <value label="Percentiel OAF" value="4" keyid="percentiel_oaf" repeat="0"/>
+            <value label="Naam kind" value="" keyid="naam_kind" repeat="0"/>
+            <value label="Geslacht" value="" keyid="gender_code" repeat="0"/>
+            <value label="AM duur" value="39+3" keyid="amduur"/>
+            <value label="Uitkomst" value="                            Partus                        " keyid="uitkomst"/>
+            <value label="Eindverantwoordelijke" value="                                                        " keyid="eindverantwoordelijk"/>
+            <value label="Afgesloten" value="overdracht" keyid="afgesloten"/>
+          </values>
+        </form>
+        <form keyid="anamnese" label="Anamnese" uuid="2b1c73b2-8d0a-4aaa-bf32-31d4544ccd5d" createstamp="1317726854" updatestamp="1346399981">
+          <values>
+            <value label="Reference" value="0000034" keyid="ref"/>
+            <value label="Graviditeit" value="12" keyid="gravida"/>
+            <value label="Pariteit" value="11" keyid="para"/>
+            <value label="Spontane abortus" value="4" keyid="abortionspon"/>
+            <value label="Abortus provocatus" value="1" keyid="abortionprov"/>
+            <value label="EUG" value="" keyid="eug"/>
+            <value label="Fetal loss +20wk" value="" keyid="fetalloss"/>
+            <value label="Totaal in leven" value="" keyid="totalliving"/>
+            <value label="Geboorte Datum" value="1386111600" keyid="geboortedatum"/>
+            <value label="Bloedverlies" value="" keyid="bloedverlies"/>
+            <value label="Gewicht" value="" keyid="gewicht" repeat="0"/>
+            <value label="Percentiel Lower" value="" keyid="percentiel_lower" repeat="0"/>
+            <value label="Percentiel Upper" value="" keyid="percentiel_upper" repeat="0"/>
+            <value label="Percentiel OAF" value="" keyid="percentiel_oaf" repeat="0"/>
+            <value label="Naam kind" value="Piet piet" keyid="naam_kind" repeat="0"/>
+            <value label="Geslacht" value="" keyid="gender_code" repeat="0"/>
+            <value label="Gewicht" value="" keyid="gewicht" repeat="1"/>
+            <value label="Percentiel Lower" value="" keyid="percentiel_lower" repeat="1"/>
+            <value label="Percentiel Upper" value="" keyid="percentiel_upper" repeat="1"/>
+            <value label="Percentiel OAF" value="" keyid="percentiel_oaf" repeat="1"/>
+            <value label="Naam kind" value="Koos koos" keyid="naam_kind" repeat="1"/>
+            <value label="Geslacht" value="" keyid="gender_code" repeat="1"/>
+            <value label="AM duur" value="?" keyid="amduur"/>
+            <value label="Uitkomst" value="                                                    " keyid="uitkomst"/>
+            <value label="Eindverantwoordelijke" value="                                                            gynaecoloog                                v Dessel                                                        " keyid="eindverantwoordelijk"/>
+            <value label="Afgesloten" value="einde zorg" keyid="afgesloten"/>
+          </values>
+        </form>
+        <form keyid="anamnese" label="Anamnese" uuid="7bafd713-b705-4f14-9e93-8f87a4bcd209" createstamp="1301654580" updatestamp="1301654580">
+          <values>
+            <value label="Reference" value="" keyid="ref"/>
+            <value label="Graviditeit" value="10" keyid="gravida"/>
+            <value label="Pariteit" value="9" keyid="para"/>
+            <value label="Spontane abortus" value="4" keyid="abortionspon"/>
+            <value label="Abortus provocatus" value="1" keyid="abortionprov"/>
+            <value label="EUG" value="" keyid="eug"/>
+            <value label="Fetal loss +20wk" value="" keyid="fetalloss"/>
+            <value label="Totaal in leven" value="" keyid="totalliving"/>
+            <value label="Bloedverlies" value="" keyid="bloedverlies"/>
+            <value label="Gewicht" value="" keyid="gewicht" repeat="0"/>
+            <value label="Percentiel Lower" value="" keyid="percentiel_lower" repeat="0"/>
+            <value label="Percentiel Upper" value="" keyid="percentiel_upper" repeat="0"/>
+            <value label="Percentiel OAF" value="" keyid="percentiel_oaf" repeat="0"/>
+            <value label="Naam kind" value="" keyid="naam_kind" repeat="0"/>
+            <value label="Geslacht" value="" keyid="gender_code" repeat="0"/>
+            <value label="AM duur" value="?" keyid="amduur"/>
+            <value label="Uitkomst" value="                                                    " keyid="uitkomst"/>
+            <value label="Eindverantwoordelijke" value="                                                        " keyid="eindverantwoordelijk"/>
+            <value label="Afgesloten" value="" keyid="afgesloten"/>
+          </values>
+        </form>
+        <form keyid="anamnese" label="Anamnese" uuid="23143cfc-848b-4071-90ec-6b664376dc1e" createstamp="1296732607" updatestamp="1296732607">
+          <values>
+            <value label="Reference" value="" keyid="ref"/>
+            <value label="Graviditeit" value="9" keyid="gravida"/>
+            <value label="Pariteit" value="8" keyid="para"/>
+            <value label="Spontane abortus" value="4" keyid="abortionspon"/>
+            <value label="Abortus provocatus" value="1" keyid="abortionprov"/>
+            <value label="EUG" value="" keyid="eug"/>
+            <value label="Fetal loss +20wk" value="" keyid="fetalloss"/>
+            <value label="Totaal in leven" value="" keyid="totalliving"/>
+            <value label="Bloedverlies" value="" keyid="bloedverlies"/>
+            <value label="Gewicht" value="" keyid="gewicht" repeat="0"/>
+            <value label="Percentiel Lower" value="" keyid="percentiel_lower" repeat="0"/>
+            <value label="Percentiel Upper" value="" keyid="percentiel_upper" repeat="0"/>
+            <value label="Percentiel OAF" value="" keyid="percentiel_oaf" repeat="0"/>
+            <value label="Naam kind" value="" keyid="naam_kind" repeat="0"/>
+            <value label="Geslacht" value="" keyid="gender_code" repeat="0"/>
+            <value label="AM duur" value="?" keyid="amduur"/>
+            <value label="Uitkomst" value="                                                    " keyid="uitkomst"/>
+            <value label="Eindverantwoordelijke" value="                                                        " keyid="eindverantwoordelijk"/>
+            <value label="Afgesloten" value="" keyid="afgesloten"/>
+          </values>
+        </form>
+        <form keyid="anamnese" label="Anamnese" uuid="00e512ce-1920-4bf1-83ac-d427d50912ed" createstamp="1285300615" updatestamp="1285300615">
+          <values>
+            <value label="Reference" value="" keyid="ref"/>
+            <value label="Graviditeit" value="7" keyid="gravida"/>
+            <value label="Pariteit" value="6" keyid="para"/>
+            <value label="Spontane abortus" value="" keyid="abortionspon"/>
+            <value label="Abortus provocatus" value="0" keyid="abortionprov"/>
+            <value label="EUG" value="" keyid="eug"/>
+            <value label="Fetal loss +20wk" value="" keyid="fetalloss"/>
+            <value label="Totaal in leven" value="" keyid="totalliving"/>
+            <value label="Bloedverlies" value="" keyid="bloedverlies"/>
+            <value label="Gewicht" value="" keyid="gewicht" repeat="0"/>
+            <value label="Percentiel Lower" value="" keyid="percentiel_lower" repeat="0"/>
+            <value label="Percentiel Upper" value="" keyid="percentiel_upper" repeat="0"/>
+            <value label="Percentiel OAF" value="" keyid="percentiel_oaf" repeat="0"/>
+            <value label="Naam kind" value="eva2" keyid="naam_kind" repeat="0"/>
+            <value label="Geslacht" value="" keyid="gender_code" repeat="0"/>
+            <value label="AM duur" value="?" keyid="amduur"/>
+            <value label="Uitkomst" value="                                                    " keyid="uitkomst"/>
+            <value label="Eindverantwoordelijke" value="                                                        " keyid="eindverantwoordelijk"/>
+            <value label="Afgesloten" value="" keyid="afgesloten"/>
+          </values>
+        </form>
+        <form keyid="anamnese" label="Anamnese" uuid="1901d671-29ad-40d2-a877-22ec012f8b78" createstamp="1282308268" updatestamp="1282308268">
+          <values>
+            <value label="Reference" value="" keyid="ref"/>
+            <value label="Graviditeit" value="6" keyid="gravida"/>
+            <value label="Pariteit" value="5" keyid="para"/>
+            <value label="Spontane abortus" value="" keyid="abortionspon"/>
+            <value label="Abortus provocatus" value="0" keyid="abortionprov"/>
+            <value label="EUG" value="" keyid="eug"/>
+            <value label="Fetal loss +20wk" value="" keyid="fetalloss"/>
+            <value label="Totaal in leven" value="" keyid="totalliving"/>
+            <value label="Bloedverlies" value="" keyid="bloedverlies"/>
+            <value label="Gewicht" value="" keyid="gewicht" repeat="0"/>
+            <value label="Percentiel Lower" value="" keyid="percentiel_lower" repeat="0"/>
+            <value label="Percentiel Upper" value="" keyid="percentiel_upper" repeat="0"/>
+            <value label="Percentiel OAF" value="" keyid="percentiel_oaf" repeat="0"/>
+            <value label="Naam kind" value="Eva" keyid="naam_kind" repeat="0"/>
+            <value label="Geslacht" value="" keyid="gender_code" repeat="0"/>
+            <value label="AM duur" value="?" keyid="amduur"/>
+            <value label="Uitkomst" value="                                                    " keyid="uitkomst"/>
+            <value label="Eindverantwoordelijke" value="                                                        " keyid="eindverantwoordelijk"/>
+            <value label="Afgesloten" value="" keyid="afgesloten"/>
+          </values>
+        </form>
+        <form keyid="anamnese" label="Anamnese" uuid="bd8eb6b8-10fc-4e1f-8341-58f5f094cb6a" createstamp="1277895404" updatestamp="1473333674">
+          <values>
+            <value label="Reference" value="0000022" keyid="ref"/>
+            <value label="Graviditeit" value="5" keyid="gravida"/>
+            <value label="Pariteit" value="4" keyid="para"/>
+            <value label="Spontane abortus" value="" keyid="abortionspon"/>
+            <value label="Abortus provocatus" value="0" keyid="abortionprov"/>
+            <value label="EUG" value="" keyid="eug"/>
+            <value label="Fetal loss +20wk" value="" keyid="fetalloss"/>
+            <value label="Totaal in leven" value="4" keyid="totalliving"/>
+            <value label="Geboorte Datum" value="1298674800" keyid="geboortedatum"/>
+            <value label="Bloedverlies" value="" keyid="bloedverlies"/>
+            <value label="Gewicht" value="1300" keyid="gewicht" repeat="0"/>
+            <value label="Percentiel Lower" value="" keyid="percentiel_lower" repeat="0"/>
+            <value label="Percentiel Upper" value="P2.3" keyid="percentiel_upper" repeat="0"/>
+            <value label="Percentiel OAF" value="1" keyid="percentiel_oaf" repeat="0"/>
+            <value label="Naam kind" value="" keyid="naam_kind" repeat="0"/>
+            <value label="Geslacht" value="B" keyid="gender_code" repeat="0"/>
+            <value label="AM duur" value="39+4" keyid="amduur"/>
+            <value label="Uitkomst" value="                            partus                                                    " keyid="uitkomst"/>
+            <value label="Eindverantwoordelijke" value="                                                            gynaecoloog                                Vos                                                        " keyid="eindverantwoordelijk"/>
+            <value label="Afgesloten" value="einde zorg" keyid="afgesloten"/>
+          </values>
+        </form>
+        <form keyid="anamnese" label="Anamnese" uuid="aefc14e9-12ee-4baa-b0ba-58b97bf14054" createstamp="1277807703" updatestamp="1435095563">
+          <values>
+            <value label="Reference" value="0000021" keyid="ref"/>
+            <value label="Graviditeit" value="4" keyid="gravida"/>
+            <value label="Pariteit" value="3" keyid="para"/>
+            <value label="Spontane abortus" value="" keyid="abortionspon"/>
+            <value label="Abortus provocatus" value="" keyid="abortionprov"/>
+            <value label="EUG" value="" keyid="eug"/>
+            <value label="Fetal loss +20wk" value="" keyid="fetalloss"/>
+            <value label="Totaal in leven" value="" keyid="totalliving"/>
+            <value label="Geboorte Datum" value="1409997600" keyid="geboortedatum"/>
+            <value label="Locatie" value="THUIS" keyid="fullname"/>
+            <value label="Bloedverlies" value="" keyid="bloedverlies"/>
+            <value label="Gewicht" value="3090" keyid="gewicht" repeat="0"/>
+            <value label="Percentiel Lower" value="P10" keyid="percentiel_lower" repeat="0"/>
+            <value label="Percentiel Upper" value="P50" keyid="percentiel_upper" repeat="0"/>
+            <value label="Percentiel OAF" value="3" keyid="percentiel_oaf" repeat="0"/>
+            <value label="Naam kind" value="Carel" keyid="naam_kind" repeat="0"/>
+            <value label="Geslacht" value="B" keyid="gender_code" repeat="0"/>
+            <value label="AM duur" value="38+2" keyid="amduur"/>
+            <value label="Uitkomst" value="                            Partus                        " keyid="uitkomst"/>
+            <value label="Eindverantwoordelijke" value="                                                            gynaecoloog                                Appels                                                        " keyid="eindverantwoordelijk"/>
+            <value label="Afgesloten" value="overdracht" keyid="afgesloten"/>
+          </values>
+        </form>
+        <form keyid="anamnese" label="Anamnese" uuid="fcc4d02e-7fc0-438f-8a8e-c984f3de52dd" createstamp="1276199185" updatestamp="1276199185">
+          <values>
+            <value label="Reference" value="" keyid="ref"/>
+            <value label="Graviditeit" value="3" keyid="gravida"/>
+            <value label="Pariteit" value="2" keyid="para"/>
+            <value label="Spontane abortus" value="" keyid="abortionspon"/>
+            <value label="Abortus provocatus" value="" keyid="abortionprov"/>
+            <value label="EUG" value="" keyid="eug"/>
+            <value label="Fetal loss +20wk" value="" keyid="fetalloss"/>
+            <value label="Totaal in leven" value="" keyid="totalliving"/>
+            <value label="Bloedverlies" value="" keyid="bloedverlies"/>
+            <value label="Gewicht" value="" keyid="gewicht" repeat="0"/>
+            <value label="Percentiel Lower" value="" keyid="percentiel_lower" repeat="0"/>
+            <value label="Percentiel Upper" value="" keyid="percentiel_upper" repeat="0"/>
+            <value label="Percentiel OAF" value="" keyid="percentiel_oaf" repeat="0"/>
+            <value label="Naam kind" value="" keyid="naam_kind" repeat="0"/>
+            <value label="Geslacht" value="" keyid="gender_code" repeat="0"/>
+            <value label="AM duur" value="?" keyid="amduur"/>
+            <value label="Uitkomst" value="                                                    " keyid="uitkomst"/>
+            <value label="Eindverantwoordelijke" value="                                                        " keyid="eindverantwoordelijk"/>
+            <value label="Afgesloten" value="" keyid="afgesloten"/>
+          </values>
+        </form>
+        <form keyid="anamnese" label="Anamnese" uuid="c8e15f99-029f-4e68-9230-e8119c13646d" createstamp="1270644201" updatestamp="1270644201">
+          <values>
+            <value label="Reference" value="" keyid="ref"/>
+            <value label="Graviditeit" value="8" keyid="gravida"/>
+            <value label="Pariteit" value="7" keyid="para"/>
+            <value label="Spontane abortus" value="4" keyid="abortionspon"/>
+            <value label="Abortus provocatus" value="1" keyid="abortionprov"/>
+            <value label="EUG" value="" keyid="eug"/>
+            <value label="Fetal loss +20wk" value="" keyid="fetalloss"/>
+            <value label="Totaal in leven" value="" keyid="totalliving"/>
+            <value label="Bloedverlies" value="" keyid="bloedverlies"/>
+            <value label="Gewicht" value="" keyid="gewicht" repeat="0"/>
+            <value label="Percentiel Lower" value="" keyid="percentiel_lower" repeat="0"/>
+            <value label="Percentiel Upper" value="" keyid="percentiel_upper" repeat="0"/>
+            <value label="Percentiel OAF" value="" keyid="percentiel_oaf" repeat="0"/>
+            <value label="Naam kind" value="" keyid="naam_kind" repeat="0"/>
+            <value label="Geslacht" value="" keyid="gender_code" repeat="0"/>
+            <value label="AM duur" value="?" keyid="amduur"/>
+            <value label="Uitkomst" value="                                                    " keyid="uitkomst"/>
+            <value label="Eindverantwoordelijke" value="                                                        " keyid="eindverantwoordelijk"/>
+            <value label="Afgesloten" value="" keyid="afgesloten"/>
+          </values>
+        </form>
+        <form keyid="anamnese" label="Anamnese" uuid="da0ffdaf-fcc0-40b7-b95c-492bf71bc02b" createstamp="1253034504" updatestamp="1435244161">
+          <values>
+            <value label="Reference" value="0000010" keyid="ref"/>
+            <value label="Graviditeit" value="2" keyid="gravida"/>
+            <value label="Pariteit" value="1" keyid="para"/>
+            <value label="Spontane abortus" value="" keyid="abortionspon"/>
+            <value label="Abortus provocatus" value="" keyid="abortionprov"/>
+            <value label="EUG" value="" keyid="eug"/>
+            <value label="Fetal loss +20wk" value="" keyid="fetalloss"/>
+            <value label="Totaal in leven" value="" keyid="totalliving"/>
+            <value label="Geboorte Datum" value="1264766400" keyid="geboortedatum"/>
+            <value label="Locatie" value="Onbekend" keyid="fullname"/>
+            <value label="Bloedverlies" value="" keyid="bloedverlies"/>
+            <value label="Gewicht" value="3180" keyid="gewicht" repeat="0"/>
+            <value label="Percentiel Lower" value="P10" keyid="percentiel_lower" repeat="0"/>
+            <value label="Percentiel Upper" value="P50" keyid="percentiel_upper" repeat="0"/>
+            <value label="Percentiel OAF" value="3" keyid="percentiel_oaf" repeat="0"/>
+            <value label="Naam kind" value="" keyid="naam_kind" repeat="0"/>
+            <value label="Geslacht" value="A" keyid="gender_code" repeat="0"/>
+            <value label="Gewicht" value="" keyid="gewicht" repeat="1"/>
+            <value label="Percentiel Lower" value="" keyid="percentiel_lower" repeat="1"/>
+            <value label="Percentiel Upper" value="P2.3" keyid="percentiel_upper" repeat="1"/>
+            <value label="Percentiel OAF" value="1" keyid="percentiel_oaf" repeat="1"/>
+            <value label="Naam kind" value="" keyid="naam_kind" repeat="1"/>
+            <value label="Geslacht" value="" keyid="gender_code" repeat="1"/>
+            <value label="Gewicht" value="" keyid="gewicht" repeat="2"/>
+            <value label="Percentiel Lower" value="" keyid="percentiel_lower" repeat="2"/>
+            <value label="Percentiel Upper" value="P2.3" keyid="percentiel_upper" repeat="2"/>
+            <value label="Percentiel OAF" value="1" keyid="percentiel_oaf" repeat="2"/>
+            <value label="Naam kind" value="" keyid="naam_kind" repeat="2"/>
+            <value label="Geslacht" value="" keyid="gender_code" repeat="2"/>
+            <value label="AM duur" value="39+1" keyid="amduur"/>
+            <value label="Uitkomst" value="                                                    " keyid="uitkomst"/>
+            <value label="Eindverantwoordelijke" value="                                                            1e lijns verloskundige                                Hongliang Wang                                                        " keyid="eindverantwoordelijk"/>
+            <value label="Afgesloten" value="overdracht" keyid="afgesloten"/>
+          </values>
+        </form>
+        <form keyid="anamnese" label="Anamnese" uuid="c7f1f169-33de-41df-854d-b3c5569b2b78" createstamp="1250754943" updatestamp="1435097465">
+          <values>
+            <value label="Reference" value="0000005" keyid="ref"/>
+            <value label="Graviditeit" value="1" keyid="gravida"/>
+            <value label="Pariteit" value="" keyid="para"/>
+            <value label="Spontane abortus" value="" keyid="abortionspon"/>
+            <value label="Abortus provocatus" value="" keyid="abortionprov"/>
+            <value label="EUG" value="" keyid="eug"/>
+            <value label="Fetal loss +20wk" value="" keyid="fetalloss"/>
+            <value label="Totaal in leven" value="" keyid="totalliving"/>
+            <value label="Geboorte Datum" value="1279112520" keyid="geboortedatum"/>
+            <value label="Bloedverlies" value="" keyid="bloedverlies"/>
+            <value label="Gewicht" value="2520" keyid="gewicht" repeat="0"/>
+            <value label="Percentiel Lower" value="P10" keyid="percentiel_lower" repeat="0"/>
+            <value label="Percentiel Upper" value="P50" keyid="percentiel_upper" repeat="0"/>
+            <value label="Percentiel OAF" value="3" keyid="percentiel_oaf" repeat="0"/>
+            <value label="Naam kind" value="" keyid="naam_kind" repeat="0"/>
+            <value label="Geslacht" value="A" keyid="gender_code" repeat="0"/>
+            <value label="AM duur" value="39+5" keyid="amduur"/>
+            <value label="Uitkomst" value="                            partus                                                    " keyid="uitkomst"/>
+            <value label="Eindverantwoordelijke" value="                                                            1e lijns verloskundige                                Marieke van Pietersen                                                        " keyid="eindverantwoordelijk"/>
+            <value label="Afgesloten" value="einde zorg" keyid="afgesloten"/>
+          </values>
+        </form>
+        <form keyid="zwangerschap.consult" label="Zwangerschapsconsult" uuid="395e9a66-d8d1-4324-b2ce-dee24e7e7703" createstamp="1442907597" updatestamp="1442907603" employeelabel="Joost Martens Martens">
+          <values>
+            <value label="Datum" value="1442907597" type="datetime" keyid="mn_datconsdatum"/>
+            <value label="Zwangerschapsduur" value="40+0" keyid="amduur"/>
+            <value label="Zorgvraag" value="prenatale zorg / reguliere controles" keyid="mn_zorgvraag"/>
+            <value label="Soort" value="regulier" keyid="mn_srt"/>
+            <value label="Roken" value="rookt niet" keyid="mn_roken"/>
+            <value label="Alcohol" value="Geen" keyid="mn_alcohol"/>
+            <value label="RR" value="" keyid="mn_rr"/>
+            <value label="Pols" value="" keyid="mn_pols"/>
+            <value label="Gewicht" value="" keyid="mn_gewicht"/>
+            <value label="Leven voelen" value="" keyid="mn_levenvoelen"/>
+            <value label="Leven voelen opmerking" value="" keyid="mn_leven"/>
+            <value label="Fundushoogte anatomisch" value="" keyid="mn_fundushoogte_a"/>
+            <value label="Fundushoogte" value="" keyid="mn_fundushoogte_cm"/>
+            <value label="Fundushoogte" value="" keyid="mn_fundushoogte_week"/>
+            <value label="Vruchtwater" value="" keyid="mn_vruchtwater"/>
+            <value label="Contractiliteit" value="" keyid="mn_contractiviteit"/>
+            <value label="Hb." value="" keyid="mn_hb"/>
+            <value label="MCV" value="" keyid="mn_mcv"/>
+            <value label="Oedeem" value="" keyid="mn_oed"/>
+            <value label="Proteinurie" value="" keyid="mn_proteinurie"/>
+            <value label="Glucosurie" value="" keyid="mn_glucosurie"/>
+            <value label="Ketonurie" value="" keyid="mn_ketonurie"/>
+            <value label="Ligging" value="" keyid="mn_ligging" repeat="0"/>
+            <value label="Positie rug" value="" keyid="mn_positierug" repeat="0"/>
+            <value label="Indaling" value="" keyid="mn_indaling_code" repeat="0"/>
+            <value label="Indaling opmerking" value="" keyid="mn_indaling" repeat="0"/>
+            <value label="Foetale harttonen" value="" keyid="mn_harttonen_code" repeat="0"/>
+            <value label="Cortonen methode" value="" keyid="mn_harttonen_methode" repeat="0"/>
+            <value label="Cortonen opmerking" value="" keyid="mn_harttonen" repeat="0"/>
+            <value label="IUVD" value="" keyid="prn_iuvd" repeat="0"/>
+            <value label="Commentaar" value="" keyid="mn_commentaar"/>
+            <value label="medicatierisico" value="" keyid="medicatierisico"/>
+          </values>
+        </form>
+        <form keyid="zwangerschap.consult" label="Zwangerschapsconsult" uuid="2b237fd4-d970-4b3e-abb2-33395f528782" createstamp="1429023822" updatestamp="1442418140" employeelabel="Joost Martens Martens">
+          <values>
+            <value label="Datum" value="1429023822" type="datetime" keyid="mn_datconsdatum"/>
+            <value label="Zwangerschapsduur" value="40+0" keyid="amduur"/>
+            <value label="Zorgvraag" value="" keyid="mn_zorgvraag"/>
+            <value label="Soort" value="" keyid="mn_srt"/>
+            <value label="Roken" value="" keyid="mn_roken"/>
+            <value label="Alcohol" value="" keyid="mn_alcohol"/>
+            <value label="RR" value="" keyid="mn_rr"/>
+            <value label="Pols" value="" keyid="mn_pols"/>
+            <value label="Gewicht" value="" keyid="mn_gewicht"/>
+            <value label="Leven voelen" value="" keyid="mn_levenvoelen"/>
+            <value label="Leven voelen opmerking" value="" keyid="mn_leven"/>
+            <value label="Fundushoogte anatomisch" value="" keyid="mn_fundushoogte_a"/>
+            <value label="Fundushoogte" value="" keyid="mn_fundushoogte_cm"/>
+            <value label="Fundushoogte" value="" keyid="mn_fundushoogte_week"/>
+            <value label="Vruchtwater" value="" keyid="mn_vruchtwater"/>
+            <value label="Contractiliteit" value="" keyid="mn_contractiviteit"/>
+            <value label="Hb." value="" keyid="mn_hb"/>
+            <value label="MCV" value="" keyid="mn_mcv"/>
+            <value label="Oedeem" value="" keyid="mn_oed"/>
+            <value label="Proteinurie" value="" keyid="mn_proteinurie"/>
+            <value label="Glucosurie" value="" keyid="mn_glucosurie"/>
+            <value label="Ketonurie" value="" keyid="mn_ketonurie"/>
+            <value label="Ligging" value="" keyid="mn_ligging" repeat="0"/>
+            <value label="Positie rug" value="" keyid="mn_positierug" repeat="0"/>
+            <value label="Indaling" value="" keyid="mn_indaling_code" repeat="0"/>
+            <value label="Indaling opmerking" value="" keyid="mn_indaling" repeat="0"/>
+            <value label="Foetale harttonen" value="" keyid="mn_harttonen_code" repeat="0"/>
+            <value label="Cortonen methode" value="" keyid="mn_harttonen_methode" repeat="0"/>
+            <value label="Cortonen opmerking" value="" keyid="mn_harttonen" repeat="0"/>
+            <value label="IUVD" value="" keyid="prn_iuvd" repeat="0"/>
+            <value label="Commentaar" value="" keyid="mn_commentaar"/>
+            <value label="medicatierisico" value="" keyid="medicatierisico"/>
+          </values>
+        </form>
+        <form keyid="verwijzing" label="verwijzing" uuid="909fe6e7-e554-44dc-95b1-2e6260c55624" createstamp="1450182575" updatestamp="1450182575" employeelabel="Joost Martens Martens">
+          <values>
+            <value label="Datum onderzoek" value="1450182574" type="datetime" keyid="mn_datum"/>
+            <value label="Zwangerschapsduur" value="40+0" keyid="amduur"/>
+            <value label="Periode" value="" keyid="mn_periode"/>
+            <value label="Periode start zorg" value="" keyid="spirit_periode"/>
+            <value label="Redensoort" value="" keyid="mn_redensoort"/>
+            <value label="Ziekenhuis" value="Anonymous" keyid="mn_ziekenhuisuuid"/>
+            <value label="Gynaecoloog" value="Anonymous" keyid="mn_gynaecolooguuid"/>
+            <value label="Overname" value="" keyid="spirit_overname"/>
+            <value label="Praktijk" value="Anonymous" keyid="mn_bronpraktijk"/>
+            <value label="Commentaar" value="" keyid="mn_comment"/>
+            <value label="Opmerking" value="" keyid="mn_verwijstext"/>
+            <value label="Bloedverlies" value="" keyid="overdracht_bloedverlies"/>
+            <value label="Medicatie" value="" keyid="overdracht_medicatie"/>
+            <value label="Actuele RR" value="" keyid="overdracht_rr"/>
+            <value label="Spoednummer" value="" keyid="overdracht_tel"/>
+            <value label="MRSA besmetting aangetoond" value="" keyid="overdracht_mrsa"/>
+            <value label="Vermoeden IUVD" value="" keyid="overdracht_iuvd"/>
+            <value label="Waarschijnlijkheid IUVD" value="" keyid="overdracht_iuvd_zekerheid"/>
+          </values>
+        </form>
+        <form keyid="verwijzing" label="verwijzing" uuid="648890c9-c903-4189-ae56-711eaafdec7b" createstamp="1445866591" updatestamp="1445866591" employeelabel="Joost Martens Martens">
+          <values>
+            <value label="Datum onderzoek" value="1445866591" type="datetime" keyid="mn_datum"/>
+            <value label="Zwangerschapsduur" value="40+0" keyid="amduur"/>
+            <value label="Periode" value="" keyid="mn_periode"/>
+            <value label="Periode start zorg" value="" keyid="spirit_periode"/>
+            <value label="Redensoort" value="" keyid="mn_redensoort"/>
+            <value label="Ziekenhuis" value="Anonymous" keyid="mn_ziekenhuisuuid"/>
+            <value label="Gynaecoloog" value="Anonymous" keyid="mn_gynaecolooguuid"/>
+            <value label="Overname" value="" keyid="spirit_overname"/>
+            <value label="Praktijk" value="Anonymous" keyid="mn_bronpraktijk"/>
+            <value label="Commentaar" value="" keyid="mn_comment"/>
+            <value label="Opmerking" value="" keyid="mn_verwijstext"/>
+            <value label="Bloedverlies" value="" keyid="overdracht_bloedverlies"/>
+            <value label="Medicatie" value="" keyid="overdracht_medicatie"/>
+            <value label="Actuele RR" value="" keyid="overdracht_rr"/>
+            <value label="Spoednummer" value="" keyid="overdracht_tel"/>
+            <value label="MRSA besmetting aangetoond" value="" keyid="overdracht_mrsa"/>
+            <value label="Vermoeden IUVD" value="" keyid="overdracht_iuvd"/>
+            <value label="Waarschijnlijkheid IUVD" value="" keyid="overdracht_iuvd_zekerheid"/>
+          </values>
+        </form>
+        <form keyid="inkomende verwijzing" label="inkomende verwijzing" uuid="48ac69f1-851c-4203-9f9d-a8240a9d5310" createstamp="1439379675" updatestamp="1439380341" employeelabel="Joost Martens Martens">
+          <values>
+            <value label="Datum onderzoek" value="1439379675" type="datetime" keyid="mn_datum"/>
+            <value label="Zwangerschapsduur" value="40+0" keyid="amduur"/>
+            <value label="Periode" value="" keyid="mn_periode"/>
+            <value label="Periode start zorg" value="" keyid="spirit_periode"/>
+            <value label="Redensoort" value="" keyid="mn_redensoort"/>
+            <value label="Ziekenhuis" value="Anonymous" keyid="mn_ziekenhuisuuid"/>
+            <value label="Gynaecoloog" value="Anonymous" keyid="mn_gynaecolooguuid"/>
+            <value label="Overname" value="" keyid="spirit_overname"/>
+            <value label="Praktijk" value="Verloskundigen In Den Bolle Buik" keyid="mn_bronpraktijk"/>
+            <value label="Commentaar" value="" keyid="mn_comment"/>
+            <value label="Opmerking" value="" keyid="mn_verwijstext"/>
+            <value label="Bloedverlies" value="" keyid="overdracht_bloedverlies"/>
+            <value label="Medicatie" value="" keyid="overdracht_medicatie"/>
+            <value label="Actuele RR" value="" keyid="overdracht_rr"/>
+            <value label="Spoednummer" value="" keyid="overdracht_tel"/>
+            <value label="MRSA besmetting aangetoond" value="" keyid="overdracht_mrsa"/>
+            <value label="Vermoeden IUVD" value="" keyid="overdracht_iuvd"/>
+            <value label="Waarschijnlijkheid IUVD" value="" keyid="overdracht_iuvd_zekerheid"/>
+          </values>
+        </form>
+        <form keyid="spoedoverdracht" label="spoedoverdracht" uuid="64dd3123-d857-42ac-9fc3-1c5f642d1d38" createstamp="1436273647" updatestamp="1436273647" employeelabel="Joost Martens Martens">
+          <values>
+            <value label="Datum onderzoek" value="1436273647" type="datetime" keyid="mn_datum"/>
+            <value label="Zwangerschapsduur" value="40+0" keyid="amduur"/>
+            <value label="Periode" value="" keyid="mn_periode"/>
+            <value label="Periode start zorg" value="" keyid="spirit_periode"/>
+            <value label="Redensoort" value="" keyid="mn_redensoort"/>
+            <value label="Ziekenhuis" value="Anonymous" keyid="mn_ziekenhuisuuid"/>
+            <value label="Gynaecoloog" value="Anonymous" keyid="mn_gynaecolooguuid"/>
+            <value label="Overname" value="" keyid="spirit_overname"/>
+            <value label="Praktijk" value="Anonymous" keyid="mn_bronpraktijk"/>
+            <value label="Commentaar" value="" keyid="mn_comment"/>
+            <value label="Opmerking" value="" keyid="mn_verwijstext"/>
+            <value label="Bloedverlies" value="" keyid="overdracht_bloedverlies"/>
+            <value label="Medicatie" value="" keyid="overdracht_medicatie"/>
+            <value label="Actuele RR" value="" keyid="overdracht_rr"/>
+            <value label="Spoednummer" value="0031651166727" keyid="overdracht_tel"/>
+            <value label="MRSA besmetting aangetoond" value="" keyid="overdracht_mrsa"/>
+            <value label="Vermoeden IUVD" value="" keyid="overdracht_iuvd"/>
+            <value label="Waarschijnlijkheid IUVD" value="" keyid="overdracht_iuvd_zekerheid"/>
+          </values>
+        </form>
+        <form keyid="overdracht" label="overdracht" uuid="0848dd19-2ab3-4b5a-9493-5c6f915e7fa1" createstamp="1428937527" updatestamp="1436171511" employeelabel="Joost Martens Martens">
+          <values>
+            <value label="Datum onderzoek" value="1428937527" type="datetime" keyid="mn_datum"/>
+            <value label="Zwangerschapsduur" value="40+0" keyid="amduur"/>
+            <value label="Periode" value="" keyid="mn_periode"/>
+            <value label="Periode start zorg" value="" keyid="spirit_periode"/>
+            <value label="Redensoort" value="" keyid="mn_redensoort"/>
+            <value label="Ziekenhuis" value="Anonymous" keyid="mn_ziekenhuisuuid"/>
+            <value label="Gynaecoloog" value="Anonymous" keyid="mn_gynaecolooguuid"/>
+            <value label="Overname" value="" keyid="spirit_overname"/>
+            <value label="Praktijk" value="Anonymous" keyid="mn_bronpraktijk"/>
+            <value label="Commentaar" value="" keyid="mn_comment"/>
+            <value label="Opmerking" value="" keyid="mn_verwijstext"/>
+            <value label="Bloedverlies" value="" keyid="overdracht_bloedverlies"/>
+            <value label="Medicatie" value="" keyid="overdracht_medicatie"/>
+            <value label="Actuele RR" value="" keyid="overdracht_rr"/>
+            <value label="Spoednummer" value="" keyid="overdracht_tel"/>
+            <value label="MRSA besmetting aangetoond" value="" keyid="overdracht_mrsa"/>
+            <value label="Vermoeden IUVD" value="" keyid="overdracht_iuvd"/>
+            <value label="Waarschijnlijkheid IUVD" value="" keyid="overdracht_iuvd_zekerheid"/>
+          </values>
+        </form>
+        <form keyid="verwijzing" label="verwijzing" uuid="b8a70bcc-ac7d-484f-8a53-697d04a04646" createstamp="1425934098" updatestamp="1425934098" employeelabel=" Faassen">
+          <values>
+            <value label="Datum onderzoek" value="1425934098" type="datetime" keyid="mn_datum"/>
+            <value label="Zwangerschapsduur" value="40+0" keyid="amduur"/>
+            <value label="Periode" value="" keyid="mn_periode"/>
+            <value label="Periode start zorg" value="" keyid="spirit_periode"/>
+            <value label="Redensoort" value="" keyid="mn_redensoort"/>
+            <value label="Ziekenhuis" value="Anonymous" keyid="mn_ziekenhuisuuid"/>
+            <value label="Gynaecoloog" value="Anonymous" keyid="mn_gynaecolooguuid"/>
+            <value label="Overname" value="" keyid="spirit_overname"/>
+            <value label="Praktijk" value="Anonymous" keyid="mn_bronpraktijk"/>
+            <value label="Commentaar" value="" keyid="mn_comment"/>
+            <value label="Opmerking" value="" keyid="mn_verwijstext"/>
+            <value label="Bloedverlies" value="" keyid="overdracht_bloedverlies"/>
+            <value label="Medicatie" value="" keyid="overdracht_medicatie"/>
+            <value label="Actuele RR" value="" keyid="overdracht_rr"/>
+            <value label="Spoednummer" value="" keyid="overdracht_tel"/>
+            <value label="MRSA besmetting aangetoond" value="" keyid="overdracht_mrsa"/>
+            <value label="Vermoeden IUVD" value="" keyid="overdracht_iuvd"/>
+            <value label="Waarschijnlijkheid IUVD" value="" keyid="overdracht_iuvd_zekerheid"/>
+          </values>
+        </form>
+        <form keyid="spoedoverdracht" label="spoedoverdracht" uuid="fc16d606-c358-4ab6-a08f-8b7b3240c007" createstamp="1416409471" updatestamp="1416409501" employeelabel=" Brul">
+          <values>
+            <value label="Datum onderzoek" value="1416409471" type="datetime" keyid="mn_datum"/>
+            <value label="Zwangerschapsduur" value="40+0" keyid="amduur"/>
+            <value label="Periode" value="" keyid="mn_periode"/>
+            <value label="Periode start zorg" value="" keyid="spirit_periode"/>
+            <value label="Redensoort" value="" keyid="mn_redensoort"/>
+            <value label="Ziekenhuis" value="Anonymous" keyid="mn_ziekenhuisuuid"/>
+            <value label="Gynaecoloog" value="Anonymous" keyid="mn_gynaecolooguuid"/>
+            <value label="Overname" value="" keyid="spirit_overname"/>
+            <value label="Praktijk" value="Anonymous" keyid="mn_bronpraktijk"/>
+            <value label="Commentaar" value="" keyid="mn_comment"/>
+            <value label="Opmerking" value="" keyid="mn_verwijstext"/>
+            <value label="Bloedverlies" value="20" keyid="overdracht_bloedverlies"/>
+            <value label="Medicatie" value="Nee" keyid="overdracht_medicatie"/>
+            <value label="Actuele RR" value="123/88" keyid="overdracht_rr"/>
+            <value label="Spoednummer" value="23" keyid="overdracht_tel"/>
+            <value label="MRSA besmetting aangetoond" value="Ja" keyid="overdracht_mrsa"/>
+            <value label="Vermoeden IUVD" value="Nee" keyid="overdracht_iuvd"/>
+            <value label="Waarschijnlijkheid IUVD" value="" keyid="overdracht_iuvd_zekerheid"/>
+          </values>
+        </form>
+        <form keyid="echo.groeicontrole" label="groeicontrole" uuid="d3490858-c7f1-4198-a081-ff4ab01114cf" createstamp="1453825280" updatestamp="1453825315" employeelabel="Anke Moen">
+          <values>
+            <value label="Datum onderzoek" value="1453825280" type="datetime" keyid="mn_datum"/>
+            <value label="Zwangerschapsduur" value="40+0" keyid="amduur"/>
+            <value label="CRL" value="" keyid="mn_crl" repeat="0"/>
+            <value label="DPB" value="" keyid="mn_dpb" repeat="0"/>
+            <value label="HC" value="" keyid="mn_hc" repeat="0"/>
+            <value label="TCD" value="" keyid="mn_tcd" repeat="0"/>
+            <value label="AC" value="" keyid="mn_ac" repeat="0"/>
+            <value label="FL" value="" keyid="mn_fl" repeat="0"/>
+            <value label="EFW" value="" keyid="mn_efw" repeat="0"/>
+            <value label="Chorioniciteit" value="" keyid="mn_chorioniciteit" repeat="0"/>
+            <value label="Ligging kind" value="" keyid="echo_ligging" repeat="0"/>
+            <value label="Hartactie" value="" keyid="echo_hartactie" repeat="0"/>
+            <value label="Dooierzak" value="" keyid="echo_dooierzak" repeat="0"/>
+            <value label="Locatie placenta" value="" keyid="echo_placenta" repeat="0"/>
+            <value label="Navelstrenginsertie" value="" keyid="echo_nsinsertie" repeat="0"/>
+            <value label="Navelstreng vaten" value="" keyid="echo_nsvaten" repeat="0"/>
+            <value label="Vruchtwater" value="" keyid="echo_vruchtwater" repeat="0"/>
+            <value label="Vruchtwater AFI" value="" keyid="echo_vwafi" repeat="0"/>
+            <value label="Vruchtwater grootst gemeten pocket" value="" keyid="echo_vwpocket" repeat="0"/>
+            <value label="Bewegingen" value="" keyid="echo_bewegingen" repeat="0"/>
+            <value label="Geslacht" value="" keyid="echo_geslacht" repeat="0"/>
+            <value label="Vorm schedel" value="" keyid="echo_vorm" repeat="0"/>
+            <value label="Densiteit schedel" value="" keyid="echo_densschedel" repeat="0"/>
+            <value label="Midline" value="" keyid="echo_midline" repeat="0"/>
+            <value label="Cavum sept. pellucidum" value="" keyid="echo_cavum" repeat="0"/>
+            <value label="Cerebellum" value="" keyid="echo_cerebellum" repeat="0"/>
+            <value label="Laterale ventrikels" value="" keyid="echo_ventrikels" repeat="0"/>
+            <value label="Afmeting achterhoorn" value="" keyid="echo_achterhoorn" repeat="0"/>
+            <value label="Wervelkolom" value="" keyid="echo_wervelkolom" repeat="0"/>
+            <value label="Intactheid huid rug" value="" keyid="echo_huidrug" repeat="0"/>
+            <value label="Orbita" value="" keyid="echo_orbita" repeat="0"/>
+            <value label="Aangezicht/profiel" value="" keyid="echo_aangezicht" repeat="0"/>
+            <value label="Bovenlip" value="" keyid="echo_bovenlip" repeat="0"/>
+            <value label="Bovenkaak" value="" keyid="echo_bovenkaak" repeat="0"/>
+            <value label="Vorm thorax" value="" keyid="echo_vormthorax" repeat="0"/>
+            <value label="Diagnose thorax" value="" keyid="echo_diagnthorax" repeat="0"/>
+            <value label="Densiteit longen" value="" keyid="echo_denslongen" repeat="0"/>
+            <value label="Hart situs" value="" keyid="echo_situs" repeat="0"/>
+            <value label="4 Kamerbeeld" value="" keyid="echo_4kamer" repeat="0"/>
+            <value label="AV kleppen" value="" keyid="echo_kleppen" repeat="0"/>
+            <value label="Crux" value="" keyid="echo_crux" repeat="0"/>
+            <value label="Kruising grote vaten" value="" keyid="echo_kruising" repeat="0"/>
+            <value label="3 Vessel view" value="" keyid="echo_3vessel" repeat="0"/>
+            <value label="Buikwand" value="" keyid="echo_buikwand" repeat="0"/>
+            <value label="Maagvulling" value="" keyid="echo_maag" repeat="0"/>
+            <value label="Blaasvulling" value="" keyid="echo_blaas" repeat="0"/>
+            <value label="Galblaas" value="" keyid="echo_galblaas" repeat="0"/>
+            <value label="Tr. gastro-intestinalis" value="" keyid="echo_gastro" repeat="0"/>
+            <value label="Linker nier" value="" keyid="echo_lnier" repeat="0"/>
+            <value label="Rechter nier" value="" keyid="echo_rnier" repeat="0"/>
+            <value label="Linker pyelum" value="" keyid="echo_lpyelum" repeat="0"/>
+            <value label="Rechter pyelum" value="" keyid="echo_rpyelum" repeat="0"/>
+            <value label="Linker pyelum" value="" keyid="echo_lpyelummm" repeat="0"/>
+            <value label="Rechter pyelum" value="" keyid="echo_rpyelummm" repeat="0"/>
+            <value label="Densiteit nieren" value="" keyid="echo_densnieren" repeat="0"/>
+            <value label="Bovenste extremiteiten" value="" keyid="echo_bextremi" repeat="0"/>
+            <value label="Humerus" value="" keyid="echo_hunerus" repeat="0"/>
+            <value label="Ulna" value="" keyid="echo_ulna" repeat="0"/>
+            <value label="Radius" value="" keyid="echo_radius" repeat="0"/>
+            <value label="Stand handen" value="" keyid="echo_handen" repeat="0"/>
+            <value label="Vingers" value="" keyid="echo_vingers" repeat="0"/>
+            <value label="Onderste extremiteiten" value="" keyid="echo_oextremi" repeat="0"/>
+            <value label="Stand voeten" value="" keyid="echo_voeten" repeat="0"/>
+            <value label="Tenen" value="" keyid="echo_tenen" repeat="0"/>
+            <value label="Fibula" value="" keyid="echo_fibula" repeat="0"/>
+            <value label="Tibula" value="" keyid="echo_tibula" repeat="0"/>
+            <value label="Opmerkingen" value="" keyid="echo_opmerk" repeat="0"/>
+            <value label="NT" value="" keyid="mn_ntmm" repeat="0"/>
+            <value label="NT" value="" keyid="mn_ntmom" repeat="0"/>
+            <value label="Neusbeentje" value="" keyid="mn_nb" repeat="0"/>
+            <value label="Neusbeentje" value="" keyid="mn_nbmm" repeat="0"/>
+            <value label="Algehele beoordeling" value="" keyid="seo_beoordeling" repeat="0"/>
+            <value label="Conclusie SEO" value="" keyid="seo_conslusie" repeat="0"/>
+            <value label="Advies SEO" value="" keyid="seo_advies" repeat="0"/>
+            <value label="Uitkomst" value="" keyid="mn_uitkomst" repeat="0"/>
+          </values>
+        </form>
+        <form keyid="echo." label="" uuid="e9ed2bc8-243e-410d-a908-d9db906bc4d5" createstamp="1450273536" updatestamp="1450273536" employeelabel="">
+          <values>
+            <value label="Datum onderzoek" value="1450273536" type="datetime" keyid="mn_datum"/>
+            <value label="Zwangerschapsduur" value="40+0" keyid="amduur"/>
+            <value label="CRL" value="" keyid="mn_crl" repeat="0"/>
+            <value label="DPB" value="" keyid="mn_dpb" repeat="0"/>
+            <value label="HC" value="" keyid="mn_hc" repeat="0"/>
+            <value label="TCD" value="" keyid="mn_tcd" repeat="0"/>
+            <value label="AC" value="" keyid="mn_ac" repeat="0"/>
+            <value label="FL" value="" keyid="mn_fl" repeat="0"/>
+            <value label="EFW" value="" keyid="mn_efw" repeat="0"/>
+            <value label="Chorioniciteit" value="" keyid="mn_chorioniciteit" repeat="0"/>
+            <value label="Ligging kind" value="" keyid="echo_ligging" repeat="0"/>
+            <value label="Hartactie" value="" keyid="echo_hartactie" repeat="0"/>
+            <value label="Dooierzak" value="" keyid="echo_dooierzak" repeat="0"/>
+            <value label="Locatie placenta" value="" keyid="echo_placenta" repeat="0"/>
+            <value label="Navelstrenginsertie" value="" keyid="echo_nsinsertie" repeat="0"/>
+            <value label="Navelstreng vaten" value="" keyid="echo_nsvaten" repeat="0"/>
+            <value label="Vruchtwater" value="" keyid="echo_vruchtwater" repeat="0"/>
+            <value label="Vruchtwater AFI" value="" keyid="echo_vwafi" repeat="0"/>
+            <value label="Vruchtwater grootst gemeten pocket" value="" keyid="echo_vwpocket" repeat="0"/>
+            <value label="Bewegingen" value="" keyid="echo_bewegingen" repeat="0"/>
+            <value label="Geslacht" value="" keyid="echo_geslacht" repeat="0"/>
+            <value label="Vorm schedel" value="" keyid="echo_vorm" repeat="0"/>
+            <value label="Densiteit schedel" value="" keyid="echo_densschedel" repeat="0"/>
+            <value label="Midline" value="" keyid="echo_midline" repeat="0"/>
+            <value label="Cavum sept. pellucidum" value="" keyid="echo_cavum" repeat="0"/>
+            <value label="Cerebellum" value="" keyid="echo_cerebellum" repeat="0"/>
+            <value label="Laterale ventrikels" value="" keyid="echo_ventrikels" repeat="0"/>
+            <value label="Afmeting achterhoorn" value="" keyid="echo_achterhoorn" repeat="0"/>
+            <value label="Wervelkolom" value="" keyid="echo_wervelkolom" repeat="0"/>
+            <value label="Intactheid huid rug" value="" keyid="echo_huidrug" repeat="0"/>
+            <value label="Orbita" value="" keyid="echo_orbita" repeat="0"/>
+            <value label="Aangezicht/profiel" value="" keyid="echo_aangezicht" repeat="0"/>
+            <value label="Bovenlip" value="" keyid="echo_bovenlip" repeat="0"/>
+            <value label="Bovenkaak" value="" keyid="echo_bovenkaak" repeat="0"/>
+            <value label="Vorm thorax" value="" keyid="echo_vormthorax" repeat="0"/>
+            <value label="Diagnose thorax" value="" keyid="echo_diagnthorax" repeat="0"/>
+            <value label="Densiteit longen" value="" keyid="echo_denslongen" repeat="0"/>
+            <value label="Hart situs" value="" keyid="echo_situs" repeat="0"/>
+            <value label="4 Kamerbeeld" value="" keyid="echo_4kamer" repeat="0"/>
+            <value label="AV kleppen" value="" keyid="echo_kleppen" repeat="0"/>
+            <value label="Crux" value="" keyid="echo_crux" repeat="0"/>
+            <value label="Kruising grote vaten" value="" keyid="echo_kruising" repeat="0"/>
+            <value label="3 Vessel view" value="" keyid="echo_3vessel" repeat="0"/>
+            <value label="Buikwand" value="" keyid="echo_buikwand" repeat="0"/>
+            <value label="Maagvulling" value="" keyid="echo_maag" repeat="0"/>
+            <value label="Blaasvulling" value="" keyid="echo_blaas" repeat="0"/>
+            <value label="Galblaas" value="" keyid="echo_galblaas" repeat="0"/>
+            <value label="Tr. gastro-intestinalis" value="" keyid="echo_gastro" repeat="0"/>
+            <value label="Linker nier" value="" keyid="echo_lnier" repeat="0"/>
+            <value label="Rechter nier" value="" keyid="echo_rnier" repeat="0"/>
+            <value label="Linker pyelum" value="" keyid="echo_lpyelum" repeat="0"/>
+            <value label="Rechter pyelum" value="" keyid="echo_rpyelum" repeat="0"/>
+            <value label="Linker pyelum" value="" keyid="echo_lpyelummm" repeat="0"/>
+            <value label="Rechter pyelum" value="" keyid="echo_rpyelummm" repeat="0"/>
+            <value label="Densiteit nieren" value="" keyid="echo_densnieren" repeat="0"/>
+            <value label="Bovenste extremiteiten" value="" keyid="echo_bextremi" repeat="0"/>
+            <value label="Humerus" value="" keyid="echo_hunerus" repeat="0"/>
+            <value label="Ulna" value="" keyid="echo_ulna" repeat="0"/>
+            <value label="Radius" value="" keyid="echo_radius" repeat="0"/>
+            <value label="Stand handen" value="" keyid="echo_handen" repeat="0"/>
+            <value label="Vingers" value="" keyid="echo_vingers" repeat="0"/>
+            <value label="Onderste extremiteiten" value="" keyid="echo_oextremi" repeat="0"/>
+            <value label="Stand voeten" value="" keyid="echo_voeten" repeat="0"/>
+            <value label="Tenen" value="" keyid="echo_tenen" repeat="0"/>
+            <value label="Fibula" value="" keyid="echo_fibula" repeat="0"/>
+            <value label="Tibula" value="" keyid="echo_tibula" repeat="0"/>
+            <value label="Opmerkingen" value="" keyid="echo_opmerk" repeat="0"/>
+            <value label="NT" value="" keyid="mn_ntmm" repeat="0"/>
+            <value label="NT" value="" keyid="mn_ntmom" repeat="0"/>
+            <value label="Neusbeentje" value="" keyid="mn_nb" repeat="0"/>
+            <value label="Neusbeentje" value="" keyid="mn_nbmm" repeat="0"/>
+            <value label="Algehele beoordeling" value="" keyid="seo_beoordeling" repeat="0"/>
+            <value label="Conclusie SEO" value="" keyid="seo_conslusie" repeat="0"/>
+            <value label="Advies SEO" value="" keyid="seo_advies" repeat="0"/>
+            <value label="Uitkomst" value="" keyid="mn_uitkomst" repeat="0"/>
+          </values>
+        </form>
+        <form keyid="echo.termijnbepaling" label="termijnbepaling" uuid="39db7890-6508-451f-b6ca-360c92f12388" createstamp="1445961957" updatestamp="1445962002" employeelabel="Joost Martens">
+          <values>
+            <value label="Datum onderzoek" value="1445961957" type="datetime" keyid="mn_datum"/>
+            <value label="Zwangerschapsduur" value="40+0" keyid="amduur"/>
+            <value label="CRL" value="" keyid="mn_crl" repeat="0"/>
+            <value label="DPB" value="" keyid="mn_dpb" repeat="0"/>
+            <value label="HC" value="" keyid="mn_hc" repeat="0"/>
+            <value label="TCD" value="" keyid="mn_tcd" repeat="0"/>
+            <value label="AC" value="" keyid="mn_ac" repeat="0"/>
+            <value label="FL" value="" keyid="mn_fl" repeat="0"/>
+            <value label="EFW" value="" keyid="mn_efw" repeat="0"/>
+            <value label="Chorioniciteit" value="" keyid="mn_chorioniciteit" repeat="0"/>
+            <value label="Ligging kind" value="" keyid="echo_ligging" repeat="0"/>
+            <value label="Hartactie" value="" keyid="echo_hartactie" repeat="0"/>
+            <value label="Dooierzak" value="" keyid="echo_dooierzak" repeat="0"/>
+            <value label="Locatie placenta" value="" keyid="echo_placenta" repeat="0"/>
+            <value label="Navelstrenginsertie" value="" keyid="echo_nsinsertie" repeat="0"/>
+            <value label="Navelstreng vaten" value="" keyid="echo_nsvaten" repeat="0"/>
+            <value label="Vruchtwater" value="" keyid="echo_vruchtwater" repeat="0"/>
+            <value label="Vruchtwater AFI" value="" keyid="echo_vwafi" repeat="0"/>
+            <value label="Vruchtwater grootst gemeten pocket" value="" keyid="echo_vwpocket" repeat="0"/>
+            <value label="Bewegingen" value="" keyid="echo_bewegingen" repeat="0"/>
+            <value label="Geslacht" value="" keyid="echo_geslacht" repeat="0"/>
+            <value label="Vorm schedel" value="" keyid="echo_vorm" repeat="0"/>
+            <value label="Densiteit schedel" value="" keyid="echo_densschedel" repeat="0"/>
+            <value label="Midline" value="" keyid="echo_midline" repeat="0"/>
+            <value label="Cavum sept. pellucidum" value="" keyid="echo_cavum" repeat="0"/>
+            <value label="Cerebellum" value="" keyid="echo_cerebellum" repeat="0"/>
+            <value label="Laterale ventrikels" value="" keyid="echo_ventrikels" repeat="0"/>
+            <value label="Afmeting achterhoorn" value="" keyid="echo_achterhoorn" repeat="0"/>
+            <value label="Wervelkolom" value="" keyid="echo_wervelkolom" repeat="0"/>
+            <value label="Intactheid huid rug" value="" keyid="echo_huidrug" repeat="0"/>
+            <value label="Orbita" value="" keyid="echo_orbita" repeat="0"/>
+            <value label="Aangezicht/profiel" value="" keyid="echo_aangezicht" repeat="0"/>
+            <value label="Bovenlip" value="" keyid="echo_bovenlip" repeat="0"/>
+            <value label="Bovenkaak" value="" keyid="echo_bovenkaak" repeat="0"/>
+            <value label="Vorm thorax" value="" keyid="echo_vormthorax" repeat="0"/>
+            <value label="Diagnose thorax" value="" keyid="echo_diagnthorax" repeat="0"/>
+            <value label="Densiteit longen" value="" keyid="echo_denslongen" repeat="0"/>
+            <value label="Hart situs" value="" keyid="echo_situs" repeat="0"/>
+            <value label="4 Kamerbeeld" value="" keyid="echo_4kamer" repeat="0"/>
+            <value label="AV kleppen" value="" keyid="echo_kleppen" repeat="0"/>
+            <value label="Crux" value="" keyid="echo_crux" repeat="0"/>
+            <value label="Kruising grote vaten" value="" keyid="echo_kruising" repeat="0"/>
+            <value label="3 Vessel view" value="" keyid="echo_3vessel" repeat="0"/>
+            <value label="Buikwand" value="" keyid="echo_buikwand" repeat="0"/>
+            <value label="Maagvulling" value="" keyid="echo_maag" repeat="0"/>
+            <value label="Blaasvulling" value="" keyid="echo_blaas" repeat="0"/>
+            <value label="Galblaas" value="" keyid="echo_galblaas" repeat="0"/>
+            <value label="Tr. gastro-intestinalis" value="" keyid="echo_gastro" repeat="0"/>
+            <value label="Linker nier" value="" keyid="echo_lnier" repeat="0"/>
+            <value label="Rechter nier" value="" keyid="echo_rnier" repeat="0"/>
+            <value label="Linker pyelum" value="" keyid="echo_lpyelum" repeat="0"/>
+            <value label="Rechter pyelum" value="" keyid="echo_rpyelum" repeat="0"/>
+            <value label="Linker pyelum" value="" keyid="echo_lpyelummm" repeat="0"/>
+            <value label="Rechter pyelum" value="" keyid="echo_rpyelummm" repeat="0"/>
+            <value label="Densiteit nieren" value="" keyid="echo_densnieren" repeat="0"/>
+            <value label="Bovenste extremiteiten" value="" keyid="echo_bextremi" repeat="0"/>
+            <value label="Humerus" value="" keyid="echo_hunerus" repeat="0"/>
+            <value label="Ulna" value="" keyid="echo_ulna" repeat="0"/>
+            <value label="Radius" value="" keyid="echo_radius" repeat="0"/>
+            <value label="Stand handen" value="" keyid="echo_handen" repeat="0"/>
+            <value label="Vingers" value="" keyid="echo_vingers" repeat="0"/>
+            <value label="Onderste extremiteiten" value="" keyid="echo_oextremi" repeat="0"/>
+            <value label="Stand voeten" value="" keyid="echo_voeten" repeat="0"/>
+            <value label="Tenen" value="" keyid="echo_tenen" repeat="0"/>
+            <value label="Fibula" value="" keyid="echo_fibula" repeat="0"/>
+            <value label="Tibula" value="" keyid="echo_tibula" repeat="0"/>
+            <value label="Opmerkingen" value="" keyid="echo_opmerk" repeat="0"/>
+            <value label="NT" value="" keyid="mn_ntmm" repeat="0"/>
+            <value label="NT" value="" keyid="mn_ntmom" repeat="0"/>
+            <value label="Neusbeentje" value="" keyid="mn_nb" repeat="0"/>
+            <value label="Neusbeentje" value="" keyid="mn_nbmm" repeat="0"/>
+            <value label="Algehele beoordeling" value="" keyid="seo_beoordeling" repeat="0"/>
+            <value label="Conclusie SEO" value="" keyid="seo_conslusie" repeat="0"/>
+            <value label="Advies SEO" value="" keyid="seo_advies" repeat="0"/>
+            <value label="Uitkomst" value="" keyid="mn_uitkomst" repeat="0"/>
+          </values>
+        </form>
+        <form keyid="echo." label="" uuid="46e75f18-845a-4bca-8160-4df7db1fac82" createstamp="1444223550" updatestamp="1444223550" employeelabel="">
+          <values>
+            <value label="Datum onderzoek" value="1444223550" type="datetime" keyid="mn_datum"/>
+            <value label="Zwangerschapsduur" value="40+0" keyid="amduur"/>
+            <value label="CRL" value="" keyid="mn_crl" repeat="0"/>
+            <value label="DPB" value="" keyid="mn_dpb" repeat="0"/>
+            <value label="HC" value="" keyid="mn_hc" repeat="0"/>
+            <value label="TCD" value="" keyid="mn_tcd" repeat="0"/>
+            <value label="AC" value="" keyid="mn_ac" repeat="0"/>
+            <value label="FL" value="" keyid="mn_fl" repeat="0"/>
+            <value label="EFW" value="" keyid="mn_efw" repeat="0"/>
+            <value label="Chorioniciteit" value="" keyid="mn_chorioniciteit" repeat="0"/>
+            <value label="Ligging kind" value="" keyid="echo_ligging" repeat="0"/>
+            <value label="Hartactie" value="" keyid="echo_hartactie" repeat="0"/>
+            <value label="Dooierzak" value="" keyid="echo_dooierzak" repeat="0"/>
+            <value label="Locatie placenta" value="" keyid="echo_placenta" repeat="0"/>
+            <value label="Navelstrenginsertie" value="" keyid="echo_nsinsertie" repeat="0"/>
+            <value label="Navelstreng vaten" value="" keyid="echo_nsvaten" repeat="0"/>
+            <value label="Vruchtwater" value="" keyid="echo_vruchtwater" repeat="0"/>
+            <value label="Vruchtwater AFI" value="" keyid="echo_vwafi" repeat="0"/>
+            <value label="Vruchtwater grootst gemeten pocket" value="" keyid="echo_vwpocket" repeat="0"/>
+            <value label="Bewegingen" value="" keyid="echo_bewegingen" repeat="0"/>
+            <value label="Geslacht" value="" keyid="echo_geslacht" repeat="0"/>
+            <value label="Vorm schedel" value="" keyid="echo_vorm" repeat="0"/>
+            <value label="Densiteit schedel" value="" keyid="echo_densschedel" repeat="0"/>
+            <value label="Midline" value="" keyid="echo_midline" repeat="0"/>
+            <value label="Cavum sept. pellucidum" value="" keyid="echo_cavum" repeat="0"/>
+            <value label="Cerebellum" value="" keyid="echo_cerebellum" repeat="0"/>
+            <value label="Laterale ventrikels" value="" keyid="echo_ventrikels" repeat="0"/>
+            <value label="Afmeting achterhoorn" value="" keyid="echo_achterhoorn" repeat="0"/>
+            <value label="Wervelkolom" value="" keyid="echo_wervelkolom" repeat="0"/>
+            <value label="Intactheid huid rug" value="" keyid="echo_huidrug" repeat="0"/>
+            <value label="Orbita" value="" keyid="echo_orbita" repeat="0"/>
+            <value label="Aangezicht/profiel" value="" keyid="echo_aangezicht" repeat="0"/>
+            <value label="Bovenlip" value="" keyid="echo_bovenlip" repeat="0"/>
+            <value label="Bovenkaak" value="" keyid="echo_bovenkaak" repeat="0"/>
+            <value label="Vorm thorax" value="" keyid="echo_vormthorax" repeat="0"/>
+            <value label="Diagnose thorax" value="" keyid="echo_diagnthorax" repeat="0"/>
+            <value label="Densiteit longen" value="" keyid="echo_denslongen" repeat="0"/>
+            <value label="Hart situs" value="" keyid="echo_situs" repeat="0"/>
+            <value label="4 Kamerbeeld" value="" keyid="echo_4kamer" repeat="0"/>
+            <value label="AV kleppen" value="" keyid="echo_kleppen" repeat="0"/>
+            <value label="Crux" value="" keyid="echo_crux" repeat="0"/>
+            <value label="Kruising grote vaten" value="" keyid="echo_kruising" repeat="0"/>
+            <value label="3 Vessel view" value="" keyid="echo_3vessel" repeat="0"/>
+            <value label="Buikwand" value="" keyid="echo_buikwand" repeat="0"/>
+            <value label="Maagvulling" value="" keyid="echo_maag" repeat="0"/>
+            <value label="Blaasvulling" value="" keyid="echo_blaas" repeat="0"/>
+            <value label="Galblaas" value="" keyid="echo_galblaas" repeat="0"/>
+            <value label="Tr. gastro-intestinalis" value="" keyid="echo_gastro" repeat="0"/>
+            <value label="Linker nier" value="" keyid="echo_lnier" repeat="0"/>
+            <value label="Rechter nier" value="" keyid="echo_rnier" repeat="0"/>
+            <value label="Linker pyelum" value="" keyid="echo_lpyelum" repeat="0"/>
+            <value label="Rechter pyelum" value="" keyid="echo_rpyelum" repeat="0"/>
+            <value label="Linker pyelum" value="" keyid="echo_lpyelummm" repeat="0"/>
+            <value label="Rechter pyelum" value="" keyid="echo_rpyelummm" repeat="0"/>
+            <value label="Densiteit nieren" value="" keyid="echo_densnieren" repeat="0"/>
+            <value label="Bovenste extremiteiten" value="" keyid="echo_bextremi" repeat="0"/>
+            <value label="Humerus" value="" keyid="echo_hunerus" repeat="0"/>
+            <value label="Ulna" value="" keyid="echo_ulna" repeat="0"/>
+            <value label="Radius" value="" keyid="echo_radius" repeat="0"/>
+            <value label="Stand handen" value="" keyid="echo_handen" repeat="0"/>
+            <value label="Vingers" value="" keyid="echo_vingers" repeat="0"/>
+            <value label="Onderste extremiteiten" value="" keyid="echo_oextremi" repeat="0"/>
+            <value label="Stand voeten" value="" keyid="echo_voeten" repeat="0"/>
+            <value label="Tenen" value="" keyid="echo_tenen" repeat="0"/>
+            <value label="Fibula" value="" keyid="echo_fibula" repeat="0"/>
+            <value label="Tibula" value="" keyid="echo_tibula" repeat="0"/>
+            <value label="Opmerkingen" value="" keyid="echo_opmerk" repeat="0"/>
+            <value label="NT" value="" keyid="mn_ntmm" repeat="0"/>
+            <value label="NT" value="" keyid="mn_ntmom" repeat="0"/>
+            <value label="Neusbeentje" value="" keyid="mn_nb" repeat="0"/>
+            <value label="Neusbeentje" value="" keyid="mn_nbmm" repeat="0"/>
+            <value label="Algehele beoordeling" value="" keyid="seo_beoordeling" repeat="0"/>
+            <value label="Conclusie SEO" value="" keyid="seo_conslusie" repeat="0"/>
+            <value label="Advies SEO" value="" keyid="seo_advies" repeat="0"/>
+            <value label="Uitkomst" value="" keyid="mn_uitkomst" repeat="0"/>
+          </values>
+        </form>
+        <form keyid="echo.termijnbepaling" label="termijnbepaling" uuid="066e68f4-2f4e-466f-903d-b506edaa1340" createstamp="1436178255" updatestamp="1443712580" employeelabel="Joost Martens">
+          <values>
+            <value label="Datum onderzoek" value="1436178255" type="datetime" keyid="mn_datum"/>
+            <value label="Zwangerschapsduur" value="40+0" keyid="amduur"/>
+            <value label="CRL" value="" keyid="mn_crl" repeat="0"/>
+            <value label="DPB" value="" keyid="mn_dpb" repeat="0"/>
+            <value label="HC" value="" keyid="mn_hc" repeat="0"/>
+            <value label="TCD" value="" keyid="mn_tcd" repeat="0"/>
+            <value label="AC" value="" keyid="mn_ac" repeat="0"/>
+            <value label="FL" value="" keyid="mn_fl" repeat="0"/>
+            <value label="EFW" value="" keyid="mn_efw" repeat="0"/>
+            <value label="Chorioniciteit" value="" keyid="mn_chorioniciteit" repeat="0"/>
+            <value label="Ligging kind" value="" keyid="echo_ligging" repeat="0"/>
+            <value label="Hartactie" value="" keyid="echo_hartactie" repeat="0"/>
+            <value label="Dooierzak" value="" keyid="echo_dooierzak" repeat="0"/>
+            <value label="Locatie placenta" value="" keyid="echo_placenta" repeat="0"/>
+            <value label="Navelstrenginsertie" value="" keyid="echo_nsinsertie" repeat="0"/>
+            <value label="Navelstreng vaten" value="" keyid="echo_nsvaten" repeat="0"/>
+            <value label="Vruchtwater" value="" keyid="echo_vruchtwater" repeat="0"/>
+            <value label="Vruchtwater AFI" value="" keyid="echo_vwafi" repeat="0"/>
+            <value label="Vruchtwater grootst gemeten pocket" value="" keyid="echo_vwpocket" repeat="0"/>
+            <value label="Bewegingen" value="" keyid="echo_bewegingen" repeat="0"/>
+            <value label="Geslacht" value="" keyid="echo_geslacht" repeat="0"/>
+            <value label="Vorm schedel" value="" keyid="echo_vorm" repeat="0"/>
+            <value label="Densiteit schedel" value="" keyid="echo_densschedel" repeat="0"/>
+            <value label="Midline" value="" keyid="echo_midline" repeat="0"/>
+            <value label="Cavum sept. pellucidum" value="" keyid="echo_cavum" repeat="0"/>
+            <value label="Cerebellum" value="" keyid="echo_cerebellum" repeat="0"/>
+            <value label="Laterale ventrikels" value="" keyid="echo_ventrikels" repeat="0"/>
+            <value label="Afmeting achterhoorn" value="" keyid="echo_achterhoorn" repeat="0"/>
+            <value label="Wervelkolom" value="" keyid="echo_wervelkolom" repeat="0"/>
+            <value label="Intactheid huid rug" value="" keyid="echo_huidrug" repeat="0"/>
+            <value label="Orbita" value="" keyid="echo_orbita" repeat="0"/>
+            <value label="Aangezicht/profiel" value="" keyid="echo_aangezicht" repeat="0"/>
+            <value label="Bovenlip" value="" keyid="echo_bovenlip" repeat="0"/>
+            <value label="Bovenkaak" value="" keyid="echo_bovenkaak" repeat="0"/>
+            <value label="Vorm thorax" value="" keyid="echo_vormthorax" repeat="0"/>
+            <value label="Diagnose thorax" value="" keyid="echo_diagnthorax" repeat="0"/>
+            <value label="Densiteit longen" value="" keyid="echo_denslongen" repeat="0"/>
+            <value label="Hart situs" value="" keyid="echo_situs" repeat="0"/>
+            <value label="4 Kamerbeeld" value="" keyid="echo_4kamer" repeat="0"/>
+            <value label="AV kleppen" value="" keyid="echo_kleppen" repeat="0"/>
+            <value label="Crux" value="" keyid="echo_crux" repeat="0"/>
+            <value label="Kruising grote vaten" value="" keyid="echo_kruising" repeat="0"/>
+            <value label="3 Vessel view" value="" keyid="echo_3vessel" repeat="0"/>
+            <value label="Buikwand" value="" keyid="echo_buikwand" repeat="0"/>
+            <value label="Maagvulling" value="" keyid="echo_maag" repeat="0"/>
+            <value label="Blaasvulling" value="" keyid="echo_blaas" repeat="0"/>
+            <value label="Galblaas" value="" keyid="echo_galblaas" repeat="0"/>
+            <value label="Tr. gastro-intestinalis" value="" keyid="echo_gastro" repeat="0"/>
+            <value label="Linker nier" value="" keyid="echo_lnier" repeat="0"/>
+            <value label="Rechter nier" value="" keyid="echo_rnier" repeat="0"/>
+            <value label="Linker pyelum" value="" keyid="echo_lpyelum" repeat="0"/>
+            <value label="Rechter pyelum" value="" keyid="echo_rpyelum" repeat="0"/>
+            <value label="Linker pyelum" value="" keyid="echo_lpyelummm" repeat="0"/>
+            <value label="Rechter pyelum" value="" keyid="echo_rpyelummm" repeat="0"/>
+            <value label="Densiteit nieren" value="" keyid="echo_densnieren" repeat="0"/>
+            <value label="Bovenste extremiteiten" value="" keyid="echo_bextremi" repeat="0"/>
+            <value label="Humerus" value="" keyid="echo_hunerus" repeat="0"/>
+            <value label="Ulna" value="" keyid="echo_ulna" repeat="0"/>
+            <value label="Radius" value="" keyid="echo_radius" repeat="0"/>
+            <value label="Stand handen" value="" keyid="echo_handen" repeat="0"/>
+            <value label="Vingers" value="" keyid="echo_vingers" repeat="0"/>
+            <value label="Onderste extremiteiten" value="" keyid="echo_oextremi" repeat="0"/>
+            <value label="Stand voeten" value="" keyid="echo_voeten" repeat="0"/>
+            <value label="Tenen" value="" keyid="echo_tenen" repeat="0"/>
+            <value label="Fibula" value="" keyid="echo_fibula" repeat="0"/>
+            <value label="Tibula" value="" keyid="echo_tibula" repeat="0"/>
+            <value label="Opmerkingen" value="" keyid="echo_opmerk" repeat="0"/>
+            <value label="NT" value="" keyid="mn_ntmm" repeat="0"/>
+            <value label="NT" value="" keyid="mn_ntmom" repeat="0"/>
+            <value label="Neusbeentje" value="" keyid="mn_nb" repeat="0"/>
+            <value label="Neusbeentje" value="" keyid="mn_nbmm" repeat="0"/>
+            <value label="Algehele beoordeling" value="" keyid="seo_beoordeling" repeat="0"/>
+            <value label="Conclusie SEO" value="" keyid="seo_conslusie" repeat="0"/>
+            <value label="Advies SEO" value="" keyid="seo_advies" repeat="0"/>
+            <value label="Uitkomst" value="" keyid="mn_uitkomst" repeat="0"/>
+          </values>
+        </form>
+        <form keyid="echo.termijnbepaling" label="termijnbepaling" uuid="f023c1d4-3899-4d0f-9b32-b6feed00fcc8" createstamp="1435585358" updatestamp="1443712613" employeelabel="Joost Martens">
+          <values>
+            <value label="Datum onderzoek" value="1435585358" type="datetime" keyid="mn_datum"/>
+            <value label="Zwangerschapsduur" value="40+0" keyid="amduur"/>
+            <value label="CRL" value="" keyid="mn_crl" repeat="0"/>
+            <value label="DPB" value="" keyid="mn_dpb" repeat="0"/>
+            <value label="HC" value="" keyid="mn_hc" repeat="0"/>
+            <value label="TCD" value="" keyid="mn_tcd" repeat="0"/>
+            <value label="AC" value="" keyid="mn_ac" repeat="0"/>
+            <value label="FL" value="" keyid="mn_fl" repeat="0"/>
+            <value label="EFW" value="" keyid="mn_efw" repeat="0"/>
+            <value label="Chorioniciteit" value="" keyid="mn_chorioniciteit" repeat="0"/>
+            <value label="Ligging kind" value="" keyid="echo_ligging" repeat="0"/>
+            <value label="Hartactie" value="" keyid="echo_hartactie" repeat="0"/>
+            <value label="Dooierzak" value="" keyid="echo_dooierzak" repeat="0"/>
+            <value label="Locatie placenta" value="" keyid="echo_placenta" repeat="0"/>
+            <value label="Navelstrenginsertie" value="" keyid="echo_nsinsertie" repeat="0"/>
+            <value label="Navelstreng vaten" value="" keyid="echo_nsvaten" repeat="0"/>
+            <value label="Vruchtwater" value="" keyid="echo_vruchtwater" repeat="0"/>
+            <value label="Vruchtwater AFI" value="" keyid="echo_vwafi" repeat="0"/>
+            <value label="Vruchtwater grootst gemeten pocket" value="" keyid="echo_vwpocket" repeat="0"/>
+            <value label="Bewegingen" value="" keyid="echo_bewegingen" repeat="0"/>
+            <value label="Geslacht" value="" keyid="echo_geslacht" repeat="0"/>
+            <value label="Vorm schedel" value="" keyid="echo_vorm" repeat="0"/>
+            <value label="Densiteit schedel" value="" keyid="echo_densschedel" repeat="0"/>
+            <value label="Midline" value="" keyid="echo_midline" repeat="0"/>
+            <value label="Cavum sept. pellucidum" value="" keyid="echo_cavum" repeat="0"/>
+            <value label="Cerebellum" value="" keyid="echo_cerebellum" repeat="0"/>
+            <value label="Laterale ventrikels" value="" keyid="echo_ventrikels" repeat="0"/>
+            <value label="Afmeting achterhoorn" value="" keyid="echo_achterhoorn" repeat="0"/>
+            <value label="Wervelkolom" value="" keyid="echo_wervelkolom" repeat="0"/>
+            <value label="Intactheid huid rug" value="" keyid="echo_huidrug" repeat="0"/>
+            <value label="Orbita" value="" keyid="echo_orbita" repeat="0"/>
+            <value label="Aangezicht/profiel" value="" keyid="echo_aangezicht" repeat="0"/>
+            <value label="Bovenlip" value="" keyid="echo_bovenlip" repeat="0"/>
+            <value label="Bovenkaak" value="" keyid="echo_bovenkaak" repeat="0"/>
+            <value label="Vorm thorax" value="" keyid="echo_vormthorax" repeat="0"/>
+            <value label="Diagnose thorax" value="" keyid="echo_diagnthorax" repeat="0"/>
+            <value label="Densiteit longen" value="" keyid="echo_denslongen" repeat="0"/>
+            <value label="Hart situs" value="" keyid="echo_situs" repeat="0"/>
+            <value label="4 Kamerbeeld" value="" keyid="echo_4kamer" repeat="0"/>
+            <value label="AV kleppen" value="" keyid="echo_kleppen" repeat="0"/>
+            <value label="Crux" value="" keyid="echo_crux" repeat="0"/>
+            <value label="Kruising grote vaten" value="" keyid="echo_kruising" repeat="0"/>
+            <value label="3 Vessel view" value="" keyid="echo_3vessel" repeat="0"/>
+            <value label="Buikwand" value="" keyid="echo_buikwand" repeat="0"/>
+            <value label="Maagvulling" value="" keyid="echo_maag" repeat="0"/>
+            <value label="Blaasvulling" value="" keyid="echo_blaas" repeat="0"/>
+            <value label="Galblaas" value="" keyid="echo_galblaas" repeat="0"/>
+            <value label="Tr. gastro-intestinalis" value="" keyid="echo_gastro" repeat="0"/>
+            <value label="Linker nier" value="" keyid="echo_lnier" repeat="0"/>
+            <value label="Rechter nier" value="" keyid="echo_rnier" repeat="0"/>
+            <value label="Linker pyelum" value="" keyid="echo_lpyelum" repeat="0"/>
+            <value label="Rechter pyelum" value="" keyid="echo_rpyelum" repeat="0"/>
+            <value label="Linker pyelum" value="" keyid="echo_lpyelummm" repeat="0"/>
+            <value label="Rechter pyelum" value="" keyid="echo_rpyelummm" repeat="0"/>
+            <value label="Densiteit nieren" value="" keyid="echo_densnieren" repeat="0"/>
+            <value label="Bovenste extremiteiten" value="" keyid="echo_bextremi" repeat="0"/>
+            <value label="Humerus" value="" keyid="echo_hunerus" repeat="0"/>
+            <value label="Ulna" value="" keyid="echo_ulna" repeat="0"/>
+            <value label="Radius" value="" keyid="echo_radius" repeat="0"/>
+            <value label="Stand handen" value="" keyid="echo_handen" repeat="0"/>
+            <value label="Vingers" value="" keyid="echo_vingers" repeat="0"/>
+            <value label="Onderste extremiteiten" value="" keyid="echo_oextremi" repeat="0"/>
+            <value label="Stand voeten" value="" keyid="echo_voeten" repeat="0"/>
+            <value label="Tenen" value="" keyid="echo_tenen" repeat="0"/>
+            <value label="Fibula" value="" keyid="echo_fibula" repeat="0"/>
+            <value label="Tibula" value="" keyid="echo_tibula" repeat="0"/>
+            <value label="Opmerkingen" value="" keyid="echo_opmerk" repeat="0"/>
+            <value label="NT" value="" keyid="mn_ntmm" repeat="0"/>
+            <value label="NT" value="" keyid="mn_ntmom" repeat="0"/>
+            <value label="Neusbeentje" value="" keyid="mn_nb" repeat="0"/>
+            <value label="Neusbeentje" value="" keyid="mn_nbmm" repeat="0"/>
+            <value label="Algehele beoordeling" value="" keyid="seo_beoordeling" repeat="0"/>
+            <value label="Conclusie SEO" value="" keyid="seo_conslusie" repeat="0"/>
+            <value label="Advies SEO" value="" keyid="seo_advies" repeat="0"/>
+            <value label="Uitkomst" value="" keyid="mn_uitkomst" repeat="0"/>
+          </values>
+        </form>
+        <form keyid="echo.nt meting" label="NT meting" uuid="bdd783b6-2f24-4619-92ec-bc6e31139aee" createstamp="1430223142" updatestamp="1430223152" employeelabel="">
+          <values>
+            <value label="Datum onderzoek" value="1430223142" type="datetime" keyid="mn_datum"/>
+            <value label="Zwangerschapsduur" value="40+0" keyid="amduur"/>
+            <value label="CRL" value="" keyid="mn_crl" repeat="0"/>
+            <value label="DPB" value="" keyid="mn_dpb" repeat="0"/>
+            <value label="HC" value="" keyid="mn_hc" repeat="0"/>
+            <value label="TCD" value="" keyid="mn_tcd" repeat="0"/>
+            <value label="AC" value="" keyid="mn_ac" repeat="0"/>
+            <value label="FL" value="" keyid="mn_fl" repeat="0"/>
+            <value label="EFW" value="" keyid="mn_efw" repeat="0"/>
+            <value label="Chorioniciteit" value="" keyid="mn_chorioniciteit" repeat="0"/>
+            <value label="Ligging kind" value="" keyid="echo_ligging" repeat="0"/>
+            <value label="Hartactie" value="" keyid="echo_hartactie" repeat="0"/>
+            <value label="Dooierzak" value="" keyid="echo_dooierzak" repeat="0"/>
+            <value label="Locatie placenta" value="" keyid="echo_placenta" repeat="0"/>
+            <value label="Navelstrenginsertie" value="" keyid="echo_nsinsertie" repeat="0"/>
+            <value label="Navelstreng vaten" value="" keyid="echo_nsvaten" repeat="0"/>
+            <value label="Vruchtwater" value="" keyid="echo_vruchtwater" repeat="0"/>
+            <value label="Vruchtwater AFI" value="" keyid="echo_vwafi" repeat="0"/>
+            <value label="Vruchtwater grootst gemeten pocket" value="" keyid="echo_vwpocket" repeat="0"/>
+            <value label="Bewegingen" value="" keyid="echo_bewegingen" repeat="0"/>
+            <value label="Geslacht" value="" keyid="echo_geslacht" repeat="0"/>
+            <value label="Vorm schedel" value="" keyid="echo_vorm" repeat="0"/>
+            <value label="Densiteit schedel" value="" keyid="echo_densschedel" repeat="0"/>
+            <value label="Midline" value="" keyid="echo_midline" repeat="0"/>
+            <value label="Cavum sept. pellucidum" value="" keyid="echo_cavum" repeat="0"/>
+            <value label="Cerebellum" value="" keyid="echo_cerebellum" repeat="0"/>
+            <value label="Laterale ventrikels" value="" keyid="echo_ventrikels" repeat="0"/>
+            <value label="Afmeting achterhoorn" value="" keyid="echo_achterhoorn" repeat="0"/>
+            <value label="Wervelkolom" value="" keyid="echo_wervelkolom" repeat="0"/>
+            <value label="Intactheid huid rug" value="" keyid="echo_huidrug" repeat="0"/>
+            <value label="Orbita" value="" keyid="echo_orbita" repeat="0"/>
+            <value label="Aangezicht/profiel" value="" keyid="echo_aangezicht" repeat="0"/>
+            <value label="Bovenlip" value="" keyid="echo_bovenlip" repeat="0"/>
+            <value label="Bovenkaak" value="" keyid="echo_bovenkaak" repeat="0"/>
+            <value label="Vorm thorax" value="" keyid="echo_vormthorax" repeat="0"/>
+            <value label="Diagnose thorax" value="" keyid="echo_diagnthorax" repeat="0"/>
+            <value label="Densiteit longen" value="" keyid="echo_denslongen" repeat="0"/>
+            <value label="Hart situs" value="" keyid="echo_situs" repeat="0"/>
+            <value label="4 Kamerbeeld" value="" keyid="echo_4kamer" repeat="0"/>
+            <value label="AV kleppen" value="" keyid="echo_kleppen" repeat="0"/>
+            <value label="Crux" value="" keyid="echo_crux" repeat="0"/>
+            <value label="Kruising grote vaten" value="" keyid="echo_kruising" repeat="0"/>
+            <value label="3 Vessel view" value="" keyid="echo_3vessel" repeat="0"/>
+            <value label="Buikwand" value="" keyid="echo_buikwand" repeat="0"/>
+            <value label="Maagvulling" value="" keyid="echo_maag" repeat="0"/>
+            <value label="Blaasvulling" value="" keyid="echo_blaas" repeat="0"/>
+            <value label="Galblaas" value="" keyid="echo_galblaas" repeat="0"/>
+            <value label="Tr. gastro-intestinalis" value="" keyid="echo_gastro" repeat="0"/>
+            <value label="Linker nier" value="" keyid="echo_lnier" repeat="0"/>
+            <value label="Rechter nier" value="" keyid="echo_rnier" repeat="0"/>
+            <value label="Linker pyelum" value="" keyid="echo_lpyelum" repeat="0"/>
+            <value label="Rechter pyelum" value="" keyid="echo_rpyelum" repeat="0"/>
+            <value label="Linker pyelum" value="" keyid="echo_lpyelummm" repeat="0"/>
+            <value label="Rechter pyelum" value="" keyid="echo_rpyelummm" repeat="0"/>
+            <value label="Densiteit nieren" value="" keyid="echo_densnieren" repeat="0"/>
+            <value label="Bovenste extremiteiten" value="" keyid="echo_bextremi" repeat="0"/>
+            <value label="Humerus" value="" keyid="echo_hunerus" repeat="0"/>
+            <value label="Ulna" value="" keyid="echo_ulna" repeat="0"/>
+            <value label="Radius" value="" keyid="echo_radius" repeat="0"/>
+            <value label="Stand handen" value="" keyid="echo_handen" repeat="0"/>
+            <value label="Vingers" value="" keyid="echo_vingers" repeat="0"/>
+            <value label="Onderste extremiteiten" value="" keyid="echo_oextremi" repeat="0"/>
+            <value label="Stand voeten" value="" keyid="echo_voeten" repeat="0"/>
+            <value label="Tenen" value="" keyid="echo_tenen" repeat="0"/>
+            <value label="Fibula" value="" keyid="echo_fibula" repeat="0"/>
+            <value label="Tibula" value="" keyid="echo_tibula" repeat="0"/>
+            <value label="Opmerkingen" value="" keyid="echo_opmerk" repeat="0"/>
+            <value label="NT" value="" keyid="mn_ntmm" repeat="0"/>
+            <value label="NT" value="" keyid="mn_ntmom" repeat="0"/>
+            <value label="Neusbeentje" value="" keyid="mn_nb" repeat="0"/>
+            <value label="Neusbeentje" value="" keyid="mn_nbmm" repeat="0"/>
+            <value label="Algehele beoordeling" value="" keyid="seo_beoordeling" repeat="0"/>
+            <value label="Conclusie SEO" value="" keyid="seo_conslusie" repeat="0"/>
+            <value label="Advies SEO" value="" keyid="seo_advies" repeat="0"/>
+            <value label="Uitkomst" value="" keyid="mn_uitkomst" repeat="0"/>
+          </values>
+        </form>
+        <form keyid="echo.bloedverlies" label="bloedverlies" uuid="accd38f8-402e-48ad-a788-9af489552d00" createstamp="1421929298" updatestamp="1443014901" employeelabel="">
+          <values>
+            <value label="Datum onderzoek" value="1422015660" type="datetime" keyid="mn_datum"/>
+            <value label="Zwangerschapsduur" value="40+0" keyid="amduur"/>
+            <value label="CRL" value="" keyid="mn_crl" repeat="0"/>
+            <value label="DPB" value="" keyid="mn_dpb" repeat="0"/>
+            <value label="HC" value="" keyid="mn_hc" repeat="0"/>
+            <value label="TCD" value="" keyid="mn_tcd" repeat="0"/>
+            <value label="AC" value="" keyid="mn_ac" repeat="0"/>
+            <value label="FL" value="" keyid="mn_fl" repeat="0"/>
+            <value label="EFW" value="" keyid="mn_efw" repeat="0"/>
+            <value label="Chorioniciteit" value="" keyid="mn_chorioniciteit" repeat="0"/>
+            <value label="Ligging kind" value="" keyid="echo_ligging" repeat="0"/>
+            <value label="Hartactie" value="" keyid="echo_hartactie" repeat="0"/>
+            <value label="Dooierzak" value="" keyid="echo_dooierzak" repeat="0"/>
+            <value label="Locatie placenta" value="" keyid="echo_placenta" repeat="0"/>
+            <value label="Navelstrenginsertie" value="" keyid="echo_nsinsertie" repeat="0"/>
+            <value label="Navelstreng vaten" value="" keyid="echo_nsvaten" repeat="0"/>
+            <value label="Vruchtwater" value="" keyid="echo_vruchtwater" repeat="0"/>
+            <value label="Vruchtwater AFI" value="" keyid="echo_vwafi" repeat="0"/>
+            <value label="Vruchtwater grootst gemeten pocket" value="" keyid="echo_vwpocket" repeat="0"/>
+            <value label="Bewegingen" value="" keyid="echo_bewegingen" repeat="0"/>
+            <value label="Geslacht" value="" keyid="echo_geslacht" repeat="0"/>
+            <value label="Vorm schedel" value="" keyid="echo_vorm" repeat="0"/>
+            <value label="Densiteit schedel" value="" keyid="echo_densschedel" repeat="0"/>
+            <value label="Midline" value="" keyid="echo_midline" repeat="0"/>
+            <value label="Cavum sept. pellucidum" value="" keyid="echo_cavum" repeat="0"/>
+            <value label="Cerebellum" value="" keyid="echo_cerebellum" repeat="0"/>
+            <value label="Laterale ventrikels" value="" keyid="echo_ventrikels" repeat="0"/>
+            <value label="Afmeting achterhoorn" value="" keyid="echo_achterhoorn" repeat="0"/>
+            <value label="Wervelkolom" value="" keyid="echo_wervelkolom" repeat="0"/>
+            <value label="Intactheid huid rug" value="" keyid="echo_huidrug" repeat="0"/>
+            <value label="Orbita" value="" keyid="echo_orbita" repeat="0"/>
+            <value label="Aangezicht/profiel" value="" keyid="echo_aangezicht" repeat="0"/>
+            <value label="Bovenlip" value="" keyid="echo_bovenlip" repeat="0"/>
+            <value label="Bovenkaak" value="" keyid="echo_bovenkaak" repeat="0"/>
+            <value label="Vorm thorax" value="" keyid="echo_vormthorax" repeat="0"/>
+            <value label="Diagnose thorax" value="" keyid="echo_diagnthorax" repeat="0"/>
+            <value label="Densiteit longen" value="" keyid="echo_denslongen" repeat="0"/>
+            <value label="Hart situs" value="" keyid="echo_situs" repeat="0"/>
+            <value label="4 Kamerbeeld" value="" keyid="echo_4kamer" repeat="0"/>
+            <value label="AV kleppen" value="" keyid="echo_kleppen" repeat="0"/>
+            <value label="Crux" value="" keyid="echo_crux" repeat="0"/>
+            <value label="Kruising grote vaten" value="" keyid="echo_kruising" repeat="0"/>
+            <value label="3 Vessel view" value="" keyid="echo_3vessel" repeat="0"/>
+            <value label="Buikwand" value="" keyid="echo_buikwand" repeat="0"/>
+            <value label="Maagvulling" value="" keyid="echo_maag" repeat="0"/>
+            <value label="Blaasvulling" value="" keyid="echo_blaas" repeat="0"/>
+            <value label="Galblaas" value="" keyid="echo_galblaas" repeat="0"/>
+            <value label="Tr. gastro-intestinalis" value="" keyid="echo_gastro" repeat="0"/>
+            <value label="Linker nier" value="" keyid="echo_lnier" repeat="0"/>
+            <value label="Rechter nier" value="" keyid="echo_rnier" repeat="0"/>
+            <value label="Linker pyelum" value="" keyid="echo_lpyelum" repeat="0"/>
+            <value label="Rechter pyelum" value="" keyid="echo_rpyelum" repeat="0"/>
+            <value label="Linker pyelum" value="" keyid="echo_lpyelummm" repeat="0"/>
+            <value label="Rechter pyelum" value="" keyid="echo_rpyelummm" repeat="0"/>
+            <value label="Densiteit nieren" value="" keyid="echo_densnieren" repeat="0"/>
+            <value label="Bovenste extremiteiten" value="" keyid="echo_bextremi" repeat="0"/>
+            <value label="Humerus" value="" keyid="echo_hunerus" repeat="0"/>
+            <value label="Ulna" value="" keyid="echo_ulna" repeat="0"/>
+            <value label="Radius" value="" keyid="echo_radius" repeat="0"/>
+            <value label="Stand handen" value="" keyid="echo_handen" repeat="0"/>
+            <value label="Vingers" value="" keyid="echo_vingers" repeat="0"/>
+            <value label="Onderste extremiteiten" value="" keyid="echo_oextremi" repeat="0"/>
+            <value label="Stand voeten" value="" keyid="echo_voeten" repeat="0"/>
+            <value label="Tenen" value="" keyid="echo_tenen" repeat="0"/>
+            <value label="Fibula" value="" keyid="echo_fibula" repeat="0"/>
+            <value label="Tibula" value="" keyid="echo_tibula" repeat="0"/>
+            <value label="Opmerkingen" value="" keyid="echo_opmerk" repeat="0"/>
+            <value label="NT" value="" keyid="mn_ntmm" repeat="0"/>
+            <value label="NT" value="" keyid="mn_ntmom" repeat="0"/>
+            <value label="Neusbeentje" value="" keyid="mn_nb" repeat="0"/>
+            <value label="Neusbeentje" value="" keyid="mn_nbmm" repeat="0"/>
+            <value label="Algehele beoordeling" value="" keyid="seo_beoordeling" repeat="0"/>
+            <value label="Conclusie SEO" value="" keyid="seo_conslusie" repeat="0"/>
+            <value label="Advies SEO" value="" keyid="seo_advies" repeat="0"/>
+            <value label="Uitkomst" value="" keyid="mn_uitkomst" repeat="0"/>
+          </values>
+        </form>
+        <form keyid="echo." label="" uuid="80c9f32c-944f-4257-939c-69feb896dc89" createstamp="1421929826" updatestamp="1447408794" employeelabel="">
+          <values>
+            <value label="Datum onderzoek" value="1401622200" type="datetime" keyid="mn_datum"/>
+            <value label="Zwangerschapsduur" value="18+1" keyid="amduur"/>
+            <value label="CRL" value="" keyid="mn_crl" repeat="0"/>
+            <value label="DPB" value="40" keyid="mn_dpb" repeat="0"/>
+            <value label="HC" value="" keyid="mn_hc" repeat="0"/>
+            <value label="TCD" value="" keyid="mn_tcd" repeat="0"/>
+            <value label="AC" value="" keyid="mn_ac" repeat="0"/>
+            <value label="FL" value="" keyid="mn_fl" repeat="0"/>
+            <value label="EFW" value="200" keyid="mn_efw" repeat="0"/>
+            <value label="Chorioniciteit" value="" keyid="mn_chorioniciteit" repeat="0"/>
+            <value label="Ligging kind" value="" keyid="echo_ligging" repeat="0"/>
+            <value label="Hartactie" value="" keyid="echo_hartactie" repeat="0"/>
+            <value label="Dooierzak" value="" keyid="echo_dooierzak" repeat="0"/>
+            <value label="Locatie placenta" value="" keyid="echo_placenta" repeat="0"/>
+            <value label="Navelstrenginsertie" value="" keyid="echo_nsinsertie" repeat="0"/>
+            <value label="Navelstreng vaten" value="" keyid="echo_nsvaten" repeat="0"/>
+            <value label="Vruchtwater" value="" keyid="echo_vruchtwater" repeat="0"/>
+            <value label="Vruchtwater AFI" value="" keyid="echo_vwafi" repeat="0"/>
+            <value label="Vruchtwater grootst gemeten pocket" value="" keyid="echo_vwpocket" repeat="0"/>
+            <value label="Bewegingen" value="" keyid="echo_bewegingen" repeat="0"/>
+            <value label="Geslacht" value="" keyid="echo_geslacht" repeat="0"/>
+            <value label="Vorm schedel" value="" keyid="echo_vorm" repeat="0"/>
+            <value label="Densiteit schedel" value="" keyid="echo_densschedel" repeat="0"/>
+            <value label="Midline" value="" keyid="echo_midline" repeat="0"/>
+            <value label="Cavum sept. pellucidum" value="" keyid="echo_cavum" repeat="0"/>
+            <value label="Cerebellum" value="" keyid="echo_cerebellum" repeat="0"/>
+            <value label="Laterale ventrikels" value="" keyid="echo_ventrikels" repeat="0"/>
+            <value label="Afmeting achterhoorn" value="" keyid="echo_achterhoorn" repeat="0"/>
+            <value label="Wervelkolom" value="" keyid="echo_wervelkolom" repeat="0"/>
+            <value label="Intactheid huid rug" value="" keyid="echo_huidrug" repeat="0"/>
+            <value label="Orbita" value="" keyid="echo_orbita" repeat="0"/>
+            <value label="Aangezicht/profiel" value="" keyid="echo_aangezicht" repeat="0"/>
+            <value label="Bovenlip" value="" keyid="echo_bovenlip" repeat="0"/>
+            <value label="Bovenkaak" value="" keyid="echo_bovenkaak" repeat="0"/>
+            <value label="Vorm thorax" value="" keyid="echo_vormthorax" repeat="0"/>
+            <value label="Diagnose thorax" value="" keyid="echo_diagnthorax" repeat="0"/>
+            <value label="Densiteit longen" value="" keyid="echo_denslongen" repeat="0"/>
+            <value label="Hart situs" value="" keyid="echo_situs" repeat="0"/>
+            <value label="4 Kamerbeeld" value="" keyid="echo_4kamer" repeat="0"/>
+            <value label="AV kleppen" value="" keyid="echo_kleppen" repeat="0"/>
+            <value label="Crux" value="" keyid="echo_crux" repeat="0"/>
+            <value label="Kruising grote vaten" value="" keyid="echo_kruising" repeat="0"/>
+            <value label="3 Vessel view" value="" keyid="echo_3vessel" repeat="0"/>
+            <value label="Buikwand" value="" keyid="echo_buikwand" repeat="0"/>
+            <value label="Maagvulling" value="" keyid="echo_maag" repeat="0"/>
+            <value label="Blaasvulling" value="" keyid="echo_blaas" repeat="0"/>
+            <value label="Galblaas" value="" keyid="echo_galblaas" repeat="0"/>
+            <value label="Tr. gastro-intestinalis" value="" keyid="echo_gastro" repeat="0"/>
+            <value label="Linker nier" value="" keyid="echo_lnier" repeat="0"/>
+            <value label="Rechter nier" value="" keyid="echo_rnier" repeat="0"/>
+            <value label="Linker pyelum" value="" keyid="echo_lpyelum" repeat="0"/>
+            <value label="Rechter pyelum" value="" keyid="echo_rpyelum" repeat="0"/>
+            <value label="Linker pyelum" value="" keyid="echo_lpyelummm" repeat="0"/>
+            <value label="Rechter pyelum" value="" keyid="echo_rpyelummm" repeat="0"/>
+            <value label="Densiteit nieren" value="" keyid="echo_densnieren" repeat="0"/>
+            <value label="Bovenste extremiteiten" value="" keyid="echo_bextremi" repeat="0"/>
+            <value label="Humerus" value="" keyid="echo_hunerus" repeat="0"/>
+            <value label="Ulna" value="" keyid="echo_ulna" repeat="0"/>
+            <value label="Radius" value="" keyid="echo_radius" repeat="0"/>
+            <value label="Stand handen" value="" keyid="echo_handen" repeat="0"/>
+            <value label="Vingers" value="" keyid="echo_vingers" repeat="0"/>
+            <value label="Onderste extremiteiten" value="" keyid="echo_oextremi" repeat="0"/>
+            <value label="Stand voeten" value="" keyid="echo_voeten" repeat="0"/>
+            <value label="Tenen" value="" keyid="echo_tenen" repeat="0"/>
+            <value label="Fibula" value="" keyid="echo_fibula" repeat="0"/>
+            <value label="Tibula" value="" keyid="echo_tibula" repeat="0"/>
+            <value label="Opmerkingen" value="" keyid="echo_opmerk" repeat="0"/>
+            <value label="NT" value="" keyid="mn_ntmm" repeat="0"/>
+            <value label="NT" value="" keyid="mn_ntmom" repeat="0"/>
+            <value label="Neusbeentje" value="" keyid="mn_nb" repeat="0"/>
+            <value label="Neusbeentje" value="" keyid="mn_nbmm" repeat="0"/>
+            <value label="Algehele beoordeling" value="" keyid="seo_beoordeling" repeat="0"/>
+            <value label="Conclusie SEO" value="" keyid="seo_conslusie" repeat="0"/>
+            <value label="Advies SEO" value="" keyid="seo_advies" repeat="0"/>
+            <value label="Uitkomst" value="" keyid="mn_uitkomst" repeat="0"/>
+          </values>
+        </form>
+        <form keyid="counseling" label="Counseling" uuid="0523dc07-68f5-4a29-83ae-20e64a86108c" createstamp="1416408838" updatestamp="" employeelabel="Anonymous">
+          <values>
+            <value label="Screening aangekaart" value="ja" keyid="screening"/>
+            <value label="Counseling gewenst" value="ja" keyid="gewenst"/>
+            <value label="Geboortedatum eiceldonatrice" value="" keyid="donabirth"/>
+            <value label="Eerdere trisomie" value="" keyid="trisomie"/>
+            <value label="Diabetes type I" value="" keyid="diabetes"/>
+            <value label="Combinatietest gewenst" value="" keyid="combitest"/>
+            <value label="Structureel echoscopisch onderzoek gewenst" value="" keyid="seo"/>
+            <value label="Direct invasieve prenatale diagnostiek gewenst" value="" keyid="ipd"/>
+            <value label="Direct geavanceerd ultrageluidonderzoek gewenst" value="" keyid="gug"/>
+            <value label="Indicatie voor prenatale diagnostiek" value="" keyid="direct"/>
+          </values>
+        </form>
+        <form keyid="baring.consult" label="Baringconsult" uuid="0e72cba5-e870-488d-8a4c-c7ebd1e5086f" createstamp="1435143068" updatestamp="1436547603" employeelabel="Joost Martens">
+          <values>
+            <value label="Datum" value="1435143068" type="datetime" keyid="mn_datum"/>
+            <value label="Kontakt" value="" keyid="mn_kontakt"/>
+            <value label="Cortonen" value="" keyid="cortonen"/>
+            <value label="cortritme" value="" keyid="cortritme"/>
+            <value label="VT" value="" keyid="vt"/>
+            <value label="RR" value="" keyid="rr"/>
+            <value label="Bevindingen (kort)" value="" keyid="bevindingen"/>
+            <value label="Portio" value="" keyid="hl7_portio"/>
+            <value label="Ontsluiting" value="" keyid="ontsluiting"/>
+            <value label="Vliezen" value="" keyid="hl7_vliezen"/>
+            <value label="Indaling" value="" keyid="indaling"/>
+            <value label="Aard" value="" keyid="aard"/>
+            <value label="Stand" value="" keyid="prn_liggingkind"/>
+            <value label="Bevindingen" value="Hahahd rfjahahf fjdj" keyid="mn_bevindingen"/>
+          </values>
+        </form>
+        <form keyid="baring" label="Baring" uuid="16ba348f-2467-4b55-8afe-76597c819768" createstamp="1416408838" updatestamp="1447064490" employeelabel="Anonymous">
+          <values>
+            <value label="baring_memo" value="test test test test" keyid="baring_memo"/>
+            <value label="Type bevalling" value="" keyid="spirit_typebevalling"/>
+            <value label="Geplande plaats baring, bij start baring" value="" keyid="prn_gewensteplaatsbaring"/>
+            <value label="Voorgenomen locatie baring" value="Anonymous" keyid="ziekenhuisuuid"/>
+            <value label="Risicostatus voor baring" value="" keyid="spirit_risicobaring"/>
+            <value label="Amniotomie" value="" keyid="amniotomie"/>
+            <value label="Fase amniotomie" value="" keyid="spirit_amniotomiemoment"/>
+            <value label="Partusassistentie gebeld" value="" keyid="partusass_gebeld"/>
+            <value label="Gebroken vliezen" value="" type="datetime" keyid="start_stamp"/>
+            <value label="Tijdstip start actieve fase" value="" type="datetime" keyid="spirit_ontsluitingstamp"/>
+            <value label="Duur actieve ontsluitingsfase" value="3" keyid="ontslduur"/>
+            <value label="Vruchtwater" value="" keyid="spirit_kleurvruchtwater"/>
+            <value label="Pijnbestrijding" value="" keyid="begin_pijnbestrijding"/>
+            <value label="Aankomst partusassistentie" value="" type="datetime" keyid="partusass_aankomst"/>
+            <value label="Bevallingsdatum" value="1414836000" type="datetime" keyid="geboortedatum"/>
+            <value label="Hulp Baring" value="" keyid="hulpbar"/>
+            <value label="Type uitkomst" value="" keyid="spirit_typeuitkomst" repeat="0"/>
+            <value label="Type partus" value="" keyid="spirit_typepartus" repeat="0"/>
+            <value label="Beslismoment sectio caesarea" value="" keyid="besluitsc" repeat="0"/>
+            <value label="Actief meepersen" value="" type="datetime" keyid="verloop_actiefmeepersen" repeat="0"/>
+            <value label="Ligging geboorte" value="" keyid="spirit_ligginggeboorte" repeat="0"/>
+            <value label="Plaats van geboorte kind" value="overig" keyid="spirit_baringslocatie" repeat="0"/>
+            <value label="Plaats van geboorte kind" value="Anonymous" keyid="ziekenhuis" repeat="0"/>
+            <value label="Rol aanpakker kind" value="klinisch verloskundige" keyid="spirit_rolaanpakker" repeat="0"/>
+            <value label="Aanpakker" value=" Martens" keyid="aanpakker" repeat="0"/>
+            <value label="Rol eindverantwoordelijke" value="klinisch verloskundige" keyid="spirit_roleindverantwoordelijke" repeat="0"/>
+            <value label="Eindverantwoordelijke" value=" Martens" keyid="eindverantwoordelijke" repeat="0"/>
+            <value label="Placenta netto" value="" keyid="placentanetto" repeat="0"/>
+            <value label="Placenta bruto" value="" keyid="placentabruto" repeat="0"/>
+            <value label="Episiotomie als interventie baring" value="" keyid="spirit_episiotomie" repeat="0"/>
+            <value label="Episiotomie als interventie baring" value="" keyid="spirit_episiotomietype" repeat="0"/>
+            <value label="Conditie kind" value="" keyid="conditiekind" repeat="0"/>
+            <value label="conditieperineum" keyid="conditieperineum" value="" repeat="0" type="multiselect"/>
+            <value label="Vliezen compleet" value="" keyid="vliezencompleet"/>
+            <value label="Placenta compleet" value="" keyid="placentacompleet"/>
+            <value label="Placenta gewicht" value="" keyid="placenta_gewicht"/>
+            <value label="Tijdstip geboorte placenta" value="" type="datetime" keyid="placenta_stamp"/>
+            <value label="Perineum/v" value="" keyid="perin01"/>
+            <value label="Perineum/v" value="" keyid="perin02"/>
+            <value label="Perineum/v" value="" keyid="perin03"/>
+            <value label="Bloedverlies" value="" keyid="bloedverlies"/>
+            <value label="Bloedverlies" value="" keyid="bloedverliesml"/>
+            <value label="Medicatie na" value="" keyid="spirit_medicatiena"/>
+            <value label="Geboorte placenta" value="" keyid="spirit_geboorteplacenta"/>
+            <value label="Partusassistentie door kraamverzorgende" value="" keyid="spirit_partusasskraamzorg"/>
+            <value label="Bijz. Moeder" value="" keyid="bijzmoeder"/>
+            <value label="Maternale sterfte" value="" keyid="spirit_matsterfte"/>
+            <value label="Start actieve ontsluitingsfase vlgs zorgverlener datum" value="" keyid="spirit_ontsluitingstamp"/>
+            <value label="Aantal vaten" value="" keyid="aantal_vaten"/>
+            <value label="Afname bloed" value="" keyid="afname_bloed"/>
+            <value label="UCB donatie" value="" keyid="ucbdonatie"/>
+            <value label="Hechtingen" value="" keyid="hechtingen"/>
+            <value label="Hechtingen aantal" value="" keyid="hechtingenaantal"/>
+            <value label="Bijstimulatie" value="" keyid="bijstimulatiemedicatie"/>
+            <value label="Indicatie episiotomie" value="" keyid="indicatieepisiotomie"/>
+            <value label="Baar methode" value="" keyid="baringmethode"/>
+            <value label="Placenta bestemming" value="" keyid="placentabestemming"/>
+            <value label="Lactatie remming" value="" keyid="lactatieremming"/>
+          </values>
+        </form>
+        <form keyid="kind" label="Kind" uuid="f750aadd-740d-4177-8489-c90102c2f202" createstamp="1416408838" updatestamp="1447072043" employeelabel=" Brul">
+          <value label="BSN Kind" value="" keyid="bsn"/>
+          <value label="Geboortedatum" value="1414861200" type="datetime" keyid="birthdate"/>
+          <value label="Roepnaam" value="" keyid="firstname"/>
+          <value label="Familienaam" value="anders" keyid="famnaam"/>
+          <value label="Full lastname" value="" keyid="full_lastname"/>
+          <value label="Geslacht" value="jongen" keyid="gender_code"/>
+          <value label="Testes" value="" keyid="testesindaling"/>
+          <value label="Aspect" value="" keyid="okc_aspect"/>
+          <value label="Methode gewichtsbepaling" value="" keyid="methode"/>
+          <value label="Geboortegewicht" value="3300" keyid="birthweight"/>
+          <value label="Geboortelengte" value="" keyid="birthlength"/>
+          <value label="Schedelomtrek" value="" keyid="schedel_omtrek"/>
+          <value label="Overleden" value="Ja" keyid="overleden"/>
+          <value label="Datum Overleden" value="" type="datetime" keyid="datum_overleden"/>
+          <value label="Overleden in lijn" value="" keyid="lijnoverleden"/>
+          <value label="Fase perinatale sterfte" value="" keyid="spirit_faseperinatsterfte"/>
+          <value label="Form. perinat.sterfte" value="" keyid="perinat_sterfte"/>
+          <value label="Congenitale afwijkingen" value="" keyid="spirit_congafw"/>
+          <value label="Chromosomale afwijkingen" value="" keyid="spirit_chromoafw"/>
+          <value label="Overige problematiek" value="" keyid="lvr1_overige_problematiek"/>
+          <value label="Interventies" value="" keyid="spirit_interventies"/>
+          <value label="Apgar 1min" value="" keyid="apgar1"/>
+          <value label="Apgar 5 min" value="" keyid="apgar5"/>
+          <value label="Apgar 10 min" value="" keyid="apgar10"/>
+          <value label="Geboorteplaats" value="" keyid="birthcity"/>
+          <value label="Geboorteland" value="" keyid="birthcountry"/>
+          <value label="Vitamine K" value="" keyid="vitaminek"/>
+          <value label="Opmerking huisartsenbrief" value="" keyid="mn_memo"/>
+        </form>
+        <form keyid="vmis" label="V-Mis" uuid="f750aadd-740d-4177-8489-c90102c2f202" createstamp="1430655407" updatestamp="1430655572" employeelabel="Joost Martens Martens">
+          <values>
+            <value label="Datum" value="1430632800" type="date" keyid="datum"/>
+            <value label="Laatste consult" value="" type="date" keyid="laatste_consult"/>
+            <value label="Rookprofiel vrouw: aantal sigaretten per dag tot 6 maanden voor de zwangerschap" value="20" keyid="vrouw_before"/>
+            <value label="Rookprofiel vrouw: aantal sigaretten per dag tijdens de zwangerschap" value="10" keyid="vrouw_per"/>
+            <value label="Rookprofiel partner: aantal sigaretten per dag" value="20" keyid="man_perday"/>
+            <value label="Motivatieniveau vrouw wel eens gedacht over stoppen" value="Yes" keyid="dancht_over_stoppen"/>
+            <value label="Motivatieniveau vrouw zwangerschap reden om te stoppen" value="No" keyid="zwangerschap"/>
+            <value label="Motivatieniveau partner wel eens gedacht over stoppen" value="No" keyid="man_over_stoppen"/>
+            <value label="Motivatieniveau partner zwangerschap reden om te stoppen" value="No" keyid="man_om"/>
+            <value label="Score 2: Belangrijke reden om te stoppen" value="" keyid="sterk"/>
+            <value label="Nadelen van roken en voordelen van stoppen besproken" value="" keyid="score_n"/>
+            <value label="Stopadvies gegeven" value="" keyid="score_s"/>
+            <value label="Lijkt het je moeilijk om te stoppen?" value="Yes" keyid="lijkt"/>
+            <value label="Is er een stopafspraak?" value="" keyid="stopafspraak_maken"/>
+            <value label="Stopafspraak Ja, vanaf deze datum" value="" type="date" keyid="stopafspraak_datum"/>
+            <value label="Stopafspraak" value="" keyid="stopdatum"/>
+            <value label="Heb je extra ondersteuning nodig bij het stoppen?" value="" keyid="heb"/>
+            <value label="Rookstatus Vrouw" value="" keyid="vrouw"/>
+            <value label="Rookstatus Partner" value="" keyid="man"/>
+          </values>
+        </form>
+        <form keyid="kraambed" label="Kraambed algemeen" uuid="97b458a2-fb40-4ded-a00e-96f7267fe09a" createstamp="1416784644" updatestamp="1416784644">
+          <values>
+            <value label="anticonceptie" value="" keyid="w6ppanticonc"/>
+            <value label="Kraamzorg" value="" keyid="kraamzorg"/>
+            <value label="Soort kraamzorg" value="" keyid="mn_kraamzorg"/>
+            <value label="voeding" value="" keyid="mn_voeding"/>
+          </values>
+        </form>
+        <form keyid="kraambed.consult" label="Kraambedconsult" uuid="c2a72045-394b-4741-a158-f78e17cde491" createstamp="1436547637" updatestamp="1437748248" employeelabel="ankecoenen Coenen">
+          <values>
+            <value label="datum" value="1436547637" type="datetime" keyid="datum"/>
+            <value label="Soort" value="" keyid="srt"/>
+            <value label="plaats" value="" keyid="plaats"/>
+            <value label="probl.moeder" value="" keyid="moeproblemen"/>
+            <value label="Pols" value="" keyid="pols"/>
+            <value label="Temperatuur" value="" keyid="temp"/>
+            <value label="RR" value="" keyid="rr"/>
+            <value label="Hb." value="" keyid="hb"/>
+            <value label="Hechtingen" value="" keyid="hechting"/>
+            <value label="Fundus" value="" keyid="stfund"/>
+            <value label="Ontlasting" value="" keyid="ontlasting"/>
+            <value label="Mictie" value="" keyid="urineren"/>
+            <value label="Vloeien" value="" keyid="vloeien"/>
+            <value label="Borsten" value="" keyid="borsten"/>
+            <value label="Tepels" value="" keyid="tepels"/>
+            <value label="Medicijnen" value="" keyid="medicijnen"/>
+            <value label="Algemeen" value="" keyid="algemeen"/>
+            <value label="opmerkingen" value="Blalalala dififigififififufuuf" keyid="moeopmerkingen"/>
+          </values>
+        </form>
+      </forms>
+    </eoc>
+  </eocs>
+</client>

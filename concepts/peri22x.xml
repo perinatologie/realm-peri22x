@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concepts>
+
+    <concept
+        id="peri22x-vrouw-volledige_achternaam"
+        oid="0.0.0.0.0.0.0.0.0.0"
+        shortName="Volledige achternaam"
+        type="item"
+        dataType="string"
+        lengthMax="64"
+        >
+        <property name="example">Johnson</property>
+        <property name="definition">Officiele volledige achternaam</property>
+        <property name="notes">Kan meerdere namen bevatten</property>
+    </concept>
+
+    <concept
+      id="peri22x-vrouw-geboorteland"
+      shortName="Geboorteland"
+      type="item"
+      dataType="string"
+      lengthMax="64"
+      >
+      <property name="example">Nederland</property>
+
+      <property name="label" language="nl">Geboorteland</property>
+      <property name="label" language="en">Country of birth</property>
+
+      <property name="definition">Geboorteland van de vrouw</property>
+      <property name="notes">We hanteren alleen standaard iso xyz landen</property>
+    </concept>
+
+    <concept
+        id="peri22x-alert_tekst"
+        oid="0.0.0.0.0.0.0.0.0.0"
+        shortName="Alert tekst"
+        type="item"
+        dataType="string"
+        >
+        <property name="example">Niet vergeten! Belangrijk om in de gaten te houden</property>
+        <property name="definition">Een reminder voor belangrijke informatie betreffende client</property>
+        <property name="notes">Kan oneindige informatie ingezet worden</property>
+    </concept>
+
+    <concept
+        id="peri22x-burgelijke_staat"
+        oid="0.0.0.0.0.0.0.0.0.0"
+        shortName="Burgelijke staat"
+        type="item"
+        dataType="code"
+        codelist="burgelijke_staat"
+        >
+        <property name="example">Getrouwd</property>
+        <property name="definition"></property>
+        <property name="notes"></property>
+    </concept>
+    
+</concepts>

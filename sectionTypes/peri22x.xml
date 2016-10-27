@@ -1,0 +1,27 @@
+<sectionTypes>
+    <sectionType
+        id="anamnese"
+        label="Anamnese"
+        label_pl="Anamneses"
+        type="group"
+        >
+        <property name="definition">Verloskundige anamnese</property>
+        <property name="notes">Extra notities</property>
+
+        <field concept="peri22-dataelement-18265" min="0" max="1" listed="true" list-link="true" list-header="Datum" />
+        <field concept="peri22-dataelement-20010" min="0" max="1" listed="true" list-header="G" />
+        <field concept="peri22-dataelement-20153" min="0" max="1" listed="true" list-header="P" />
+    </sectionType>
+    <sectionType
+        id="zwangerschap.consult"
+        label="Zwangerschapsconsult"
+        label_pl="Zwangerschapsconsulten"
+        type="group"
+        >
+        <property name="definition">Zwangerschapsconsult</property>
+        <property name="notes">Consulten tijdens de zwangerschap</property>
+
+        <field concept="peri22-dataelement-80737" min="0" max="1" listed="true" list-link="true" list-header="Datum" />
+        <field concept="peri22-dataelement-80738" min="0" max="1" listed="true" list-header="Am.duur"/>
+    </sectionType>
+</sectionTypes>

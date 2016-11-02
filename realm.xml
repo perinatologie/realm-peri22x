@@ -2,5 +2,6 @@
   <property name="definition" language="en-US">Definition of the peri22x (extended peri22) dataset</property>
   <property name="source">https://github.com/perinatologie/peri22x</property>
   <property name="notes" language="en-US">Includes the full peri22 set, and offers extensions (peri22x) and mappings</property>
-  <include filename="dependencies/peri22.decor.xml" type="decor" comment="The original peri22 set from decor"/>
+  <dependency name="peri22" />
+  <!-- include filename="dependencies/peri22.decor.xml" type="decor" comment="The original peri22 set from decor"/-->
 </realm>

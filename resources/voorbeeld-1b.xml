@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource type="hub/dossier" id="voorbeeld-1b">
+  <sections>
+    <section
+      type="client"
+      label="Client"
+      id="2234-5678-9012-3456"
+      createstamp="123123123"
+      effectiveStamp="123123123">
+      <values>
+        <value
+          value="Maria"
+          concept="peri22-dataelement-10042"
+        />
+        <value
+          value="Pietersen"
+          concept="peri22-dataelement-10043"
+        />
+        <value
+          label="BSN"
+          value="9876543210"
+          keyid="bsn"
+          concept="peri22-dataelement-10030"
+        />
+        <value
+          label="Bloedgroep"
+          value="B"
+          concept="peri22-dataelement-10810"
+        />
+      </values>
+    </section>
+    <section type="intake" id="2234-5678-9012-3457" label="Intake">
+      <values>
+        <value
+          label="Graviditeit"
+          value="1"
+          concept="peri22-dataelement-20010"
+        />
+        <value
+          label="Pariteit"
+          value="0"
+          concept="peri22-dataelement-20153"
+        />
+      </values>
+    </section>
+    
+    <section type="zwangerschap.consult" id="zc2b" effectiveStamp="1231231433">
+      <values>
+        <value
+          value="76"
+          concept="peri22-dataelement-80738"
+        />
+        <value
+          value="102"
+          concept="peri22-dataelement-80741"
+        />
+        <value
+          value="Nieuw ponsplaatje laten maken"
+          concept="peri22-dataelement-80748"
+        />
+      </values>
+    </section>
+  </sections>
+</resource>

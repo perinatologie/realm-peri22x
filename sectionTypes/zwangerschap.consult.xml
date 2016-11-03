@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sectionType
+  id="zwangerschap.consult"
+  label="Consult"
+  >
+  <property name="definition">Zwangerschap consult details</property>
+
+  <field concept="peri22-dataelement-80738" min="0" max="1" note="am duur" />
+  <field concept="peri22-dataelement-80741" min="0" max="1" note="fundus" />
+  <field concept="peri22-dataelement-80748" min="0" max="1" note="Opmerkingen" />
+</sectionType>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sectionType
+  id="echo"
+  label="Echo"
+  >
+  <property name="definition">Echo onderzoek details</property>
+
+  <field concept="peri22-dataelement-80738" min="0" max="1" note="am duur" />
+  <field concept="peri22-dataelement-82311" min="0" max="1" note="crl" />
+  <field concept="peri22-dataelement-82312" min="0" max="1" note="bpd" />
+</sectionType>

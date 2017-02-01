@@ -34,7 +34,7 @@
       </values>
     </section>
     
-    <section type="zwangerschap.consult" id="zc1" effectiveStamp="1231231233">
+    <section type="consult" id="zc1" effectiveStamp="1231231233">
       <values>
         <value
           value="73"
@@ -51,7 +51,7 @@
       </values>
     </section>
     
-    <section type="zwangerschap.consult" id="zc2" effectiveStamp="1231231433">
+    <section type="consult" id="zc2" effectiveStamp="1231231433">
       <values>
         <value
           value="76"

@@ -44,7 +44,7 @@
       </values>
     </section>
     
-    <section type="zwangerschap.consult" id="zc2b" effectiveStamp="1231231433">
+    <section type="consult" id="zc2b" effectiveStamp="1231231433">
       <values>
         <value
           value="76"

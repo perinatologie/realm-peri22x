@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sectionType
+  id="kind"
+  label="Kind"
+  >
+  <property name="definition">Kind</property>
+</sectionType>

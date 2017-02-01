@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sectionType
+  id="kraambed"
+  label="Kraambed"
+  >
+  <property name="definition">Kraambed</property>
+</sectionType>

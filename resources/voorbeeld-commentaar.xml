@@ -26,7 +26,7 @@
       
       Alle stamps zijn zgn. unix timestamps, totaal aantal seconden sinds 1-1-1970 
     -->
-    <section type="client">
+    <section type="client" createStamp="1480599180">
       <values>
         <!--
           Alle `value` elementen voor deze section
@@ -72,7 +72,7 @@
         <value concept="peri22-dataelement-82156" label="Godsdienst" value="160552003" displayValue="Not religious"/>
       </values>
     </section>
-    <section type="intake">
+    <section type="intake" createStamp="1480599210" effectStamp="1470571200">
       <values>
         <value concept="peri22-dataelement-20010" label="Graviditeit" value="3"/>
         <value concept="peri22-dataelement-20153" label="Pariteit" value="2"/>
@@ -99,7 +99,7 @@
         <value concept="peri22-dataelement-82103" label="Drug" value="398705004" displayValue="Cannabis (substance)"/>
       </values>
     </section>
-    <section id="3" type="consult">
+    <section type="consult" createStamp="1480599310" effectStamp="1467374400">
       <values>
         <value concept="peri22-dataelement-80737" label="Datum" value="01-07-2016"/>
         <value concept="peri22-dataelement-80738" label="Zwangerschapsduur" value="36+2"/>
@@ -127,7 +127,7 @@
         <value concept="peri22-dataelement-80615" label="Waarschijnlijkheid IUVD" value="U" displayValue="Onzeker"/>
       </values>
     </section>
-    <section id="5" type="counseling">
+    <section type="counseling">
       <values>
         <value concept="peri22-dataelement-20110" label="Screening aangekaart" value="TRUE"/>
         <value concept="peri22-dataelement-20120" label="Counseling gewenst" value="NASK" displayValue="niet gevraagd"/>
@@ -140,7 +140,7 @@
         <value concept="peri22-dataelement-20490" label="Direct geavanceerd ultrageluidonderzoek gewenst" value="TRUE"/>
       </values>
     </section>
-    <section id="6" type="baring">
+    <section type="baring">
       <values>
         <value concept="peri22-dataelement-20261" label="Voorgenomen locatie baring" value="23" displayValue="Geboortecentrum"/>
         <value concept="peri22-dataelement-20530" label="Risicostatus voor baring" value="1" displayValue="1e lijn (VIL A)"/>
@@ -176,7 +176,7 @@
         <value concept="peri22-dataelement-80803" label="Placenta bestemming" value="FALSE"/>
       </values>
     </section>
-    <section id="7" type="kind">
+    <section type="kind">
       <values>
         <value concept="peri22-dataelement-40010" label="BSN Kind" value=""/>
         <value concept="peri22-dataelement-40050" label="Geboortedatum" value="" displayValue="-"/>
@@ -200,7 +200,7 @@
         <value concept="peri22-dataelement-80761" label="Vitamine K" value="FALSE"/>
       </values>
     </section>
-    <section id="8" type="kraambed">
+    <section type="kraambed">
       <values>
         <value concept="peri22-dataelement-80983" label="Anticonceptie" value=""/>
         <value concept="peri22-dataelement-80642" label="Kraamzorg" value=""/>

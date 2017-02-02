@@ -33,6 +33,7 @@
                   <xs:attribute name="uuid" type="xs:string" use="optional"/>
                   <xs:attribute name="createStamp" type="xs:long" use="optional"/>
                   <xs:attribute name="updateStamp" type="xs:long" use="optional"/>
+                  <xs:attribute name="effectStamp" type="xs:long" use="optional"/>
                 </xs:complexType>
               </xs:element>
             </xs:sequence>

@@ -8,8 +8,10 @@
    automatisch ingevuld obv het concept en value. In onderstaande
    voorbeeld zijn de optionele `label` en `displayValue` attributen wel
    aanwezig ter verduidelijking.
+   
+   Het resource `type` geeft aan welke sections er verwacht kunnen worden.
 -->
-<resource>
+<resource type="hub/dossier">
   <sections>
     <!--
       
@@ -115,7 +117,7 @@
         <value concept="peri22-dataelement-80614" label="IUVD" value="FALSE"/>
       </values>
     </section>
-    <section id="4" type="verwijzing">
+    <section type="verwijzing">
       <values>
         <value concept="peri22-dataelement-82013" label="Datum onderzoek" value="01-06-2016"/>
         <value concept="peri22-dataelement-82015" label="Redensoort" value="1010" displayValue="Epilepsie zonder medicatie"/>

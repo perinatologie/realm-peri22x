@@ -37,6 +37,10 @@ Op de hub worden `resources` uitgewisseld. In de map `resources/` staan hiervan 
 
 In de map `xsd/` staan XSD bestanden tbv het valideren van resource XML bestanden.
 
+Voorbeeld validatie:
+
+    xmllint --schema xsd/resource.xsd resources/voorbeeld-commentaar.xml
+
 ## Online viewer: Realm
 
 Deze bron-bestanden zijn ook via een online viewer te bekijken op de volgende URL:

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22x-geloofsovertuiging" oid="" shortName="geloofsovertuiging" type="item" status="cancelled" dataType="code" codelist="Geloofsovertuiging">
+  <property name="name" language="nl-NL">Geloofsovertuiging</property>
+  <property name="description" language="nl-NL">Geloofsovertuiging</property>
+</concept>

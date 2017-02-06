@@ -19,7 +19,7 @@
                               <xs:attribute name="label" type="xs:string" use="optional"/>
                               <xs:attribute name="value" type="xs:string" use="required"/>
                               <xs:attribute name="displayValue" type="xs:string" use="optional"/>
-                              <xs:attribute name="keyid" type="xs:string" use="optional"/>
+                              <xs:attribute name="keyId" type="xs:string" use="optional"/>
                               <xs:attribute name="concept" type="xs:string" use="optional"/>
                               <xs:attribute name="repeat" type="xs:integer" use="optional"/>
                             </xs:complexType>
@@ -31,8 +31,9 @@
                   <xs:attribute name="type" type="xs:string" use="required"/>
                   <xs:attribute name="label" type="xs:string" use="optional"/>
                   <xs:attribute name="uuid" type="xs:string" use="optional"/>
-                  <xs:attribute name="createstamp" type="xs:int" use="optional"/>
-                  <xs:attribute name="updatestamp" type="xs:int" use="optional"/>
+                  <xs:attribute name="createStamp" type="xs:long" use="optional"/>
+                  <xs:attribute name="updateStamp" type="xs:long" use="optional"/>
+                  <xs:attribute name="effectStamp" type="xs:long" use="optional"/>
                 </xs:complexType>
               </xs:element>
             </xs:sequence>

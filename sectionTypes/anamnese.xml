@@ -5,6 +5,15 @@
   >
   <property name="definition">Verloskundige anamnese, vorige zwangerschap</property>
   
-  <field concept="peri22-dataelement-20010" min="0" max="1" note="graviditeit" />
-  <field concept="peri22-dataelement-20153" min="0" max="1" note="pariteit" />
+  <field concept="peri22-dataelement-82001" min="0" max="1" note="graviditeit" />
+  <field concept="peri22-dataelement-82002" min="0" max="1" note="pariteit" />
+  <field concept="peri22-dataelement-80678" min="0" max="1" note="fetal loss +20wk" />
+  <field concept="peri22-dataelement-80617" min="0" max="1" note="totaal in leven" />
+  <field concept="peri22-dataelement-80702" min="0" max="1" note="geboortedatum" />
+  <field concept="peri22-dataelement-80710" min="0" max="1" note="locatie" />
+  <field concept="peri22-dataelement-10598" min="0" max="1" note="bloedverlies" />
+  <field concept="peri22-dataelement-10604" min="0" max="1" note="gewicht" />
+  <field concept="peri22-dataelement-82128" min="0" max="1" note="naam kind" />
+  <field concept="peri22-dataelement-80712" min="0" max="1" note="geslacht" />
+  <field concept="peri22-dataelement-40020" min="0" max="1" note="uitkomst" />
 </sectionType>

@@ -7,7 +7,28 @@
   
   <field concept="peri22-dataelement-10030" min="0" max="1" note="bsn" />
   <field concept="peri22-dataelement-10040" min="0" max="1" note="geboortedatum" />
-  <field concept="peri22-dataelement-10042" min="0" max="1" note="voornamen" />
+  <field concept="peri22-dataelement-82360" min="0" max="1" note="roepnaam" />
+  <field concept="peri22-dataelement-10042" min="0" max="10" note="voornamen" />
+  <field concept="peri22-dataelement-82359" min="0" max="1" note="initialen" />
+  <field concept="peri22-dataelement-82363" min="0" max="1" note="voorvoegsel"/>
+  <field concept="peri22-dataelement-82361" min="0" max="1" note="familienaam" />
   <field concept="peri22-dataelement-10043" min="0" max="1" note="achternaam" />
   <field concept="peri22-dataelement-10810" min="0" max="1" note="bloedgroep" />
+  <field concept="peri22x-vrouw-geboorteland" min="0" max="1" note="geboorteland" />
+  <field concept="peri22-dataelement-10400" min="0" max="1" note="etniciteit" />
+  <field concept="peri22-dataelement-10401" min="0" max="1" note="spreekt Nederlands" />
+  <field concept="peri22x-alert_tekst" min="0" max="1" note="alert tekst" />
+  <field concept="peri22-dataelement-10300" min="0" max="1" note="adres" />
+  <field concept="peri22-dataelement-10302" min="0" max="1" note="huisnummer" />
+  <field concept="peri22-dataelement-10304" min="0" max="1" note="postcode" />
+  <field concept="peri22-dataelement-10305" min="0" max="1" note="plaats" />
+  <field concept="peri22-dataelement-10307" min="0" max="1" note="land" />
+  <field concept="peri22-dataelement-82022" min="0" max="1" note="huisarts" />
+  <field concept="peri22-dataelement-82023" min="0" max="1" note="apotheker" />
+  <field concept="peri22-dataelement-82024" min="0" max="1" note="specialist" />
+  <field concept="peri22-dataelement-80639" min="0" max="10" note="partner voornaam" />
+  <field concept="peri22-dataelement-80640" min="0" max="1" note="partner voorvoegsel" />
+  <field concept="peri22-dataelement-80641" min="0" max="1" note="partner achternaam" />
+  <field concept="peri22x-burgelijke_staat" min="0" max="1" note="burg.staat" />
+  <field concept="peri22-dataelement-82156" min="0" max="1" note="godsdienst" />
 </sectionType>

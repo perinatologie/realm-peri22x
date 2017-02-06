@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sectionType
   id="intake"
-  label="Intake"
+  note="Intake"
   >
   <property name="definition">Intake details</property>
   
   <field concept="peri22-dataelement-20010" min="0" max="1" note="graviditeit" />
   <field concept="peri22-dataelement-20153" min="0" max="1" note="pariteit" />
+  <field concept="peri22-dataelement-80678" min="0" max="1" note="fetal loss +20wk" />
+  <field concept="peri22-dataelement-80617" min="0" max="1" note="totaal in leven" />
+  <field concept="peri22-dataelement-20290" min="0" max="1" note="start datum dossier" />
+  <field concept="peri22-dataelement-20340" min="0" max="1" note="datum eind dossier" />
+  <field concept="peri22-dataelement-20030" min="0" max="1" note="a terme datum" />
+  <field concept="peri22-dataelement-80669" min="0" max="1" note="zekerheid at" />
+  <field concept="peri22-dataelement-20211" min="0" max="1" note="gewicht" />
+  <field concept="peri22-dataelement-20212" min="0" max="1" note="lengte" />
+  <field concept="peri22-dataelement-80664" min="0" max="1" note="hoofdbehandelaar" />
+  <field concept="peri22-dataelement-10805" min="0" max="1" note="bloed trans" />
+  <field concept="peri22-dataelement-80939" min="0" max="1" note="operaties" />
+  <field concept="peri22-dataelement-10803" min="0" max="1" note="nse" />
+  <field concept="peri22-dataelement-80680" min="0" max="1" note="huis. geweld" />
+  <field concept="peri22-dataelement-80675" min="0" max="1" note="besnijdenis" />
+  <field concept="peri22-dataelement-20305" min="0" max="1" note="concl. risicostatus" />
+  <field concept="peri22-dataelement-82154" min="0" max="1" note="beroep client" />
+  <field concept="peri22-dataelement-82275" min="0" max="1" note="hyp. tensie" />
+  <field concept="peri22-dataelement-20511" min="0" max="1" note="gewenste plaats baring" />
+  <field concept="peri22-dataelement-20261" min="0" max="1" note="afgesproken plaats baring" />
+  <field concept="peri22-dataelement-10800" min="0" max="1" note="allergie" />
+  <field concept="peri22-dataelement-82103" min="0" max="1" note="drug" />
 </sectionType>

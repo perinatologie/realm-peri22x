@@ -6,5 +6,8 @@
   <property name="definition">Client details</property>
   
   <field concept="peri22-dataelement-10030" min="0" max="1" note="bsn" />
+  <field concept="peri22-dataelement-10040" min="0" max="1" note="geboortedatum" />
+  <field concept="peri22-dataelement-10042" min="0" max="1" note="voornamen" />
+  <field concept="peri22-dataelement-10043" min="0" max="1" note="achternaam" />
   <field concept="peri22-dataelement-10810" min="0" max="1" note="bloedgroep" />
 </sectionType>

@@ -9,6 +9,14 @@
       effectiveStamp="123123123">
       <values>
         <value
+          value="392548480"
+          concept="peri22-dataelement-10030"
+        />
+        <value
+          value="03-04-1974"
+          concept="peri22-dataelement-10040"
+        />
+        <value
           value="Marieke"
           concept="peri22-dataelement-10042"
         />

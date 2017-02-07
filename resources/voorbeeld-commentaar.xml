@@ -71,7 +71,7 @@
         <value concept="peri22-dataelement-80640" label="Partner voorvoegsel" value="van der"/>
         <value concept="peri22-dataelement-80641" label="Partner achternaam" value="Kamp"/>
         <value concept="peri22x-burgelijke_staat" label="Burg.staat" value="1" displayValue="Gehuwd"/>
-        <value concept="peri22-dataelement-82156" label="Godsdienst" value="160552003" displayValue="Not religious"/>
+        <value concept="peri22x-geloofsovertuiging" label="Geloofsovertuiging" value="160552003" displayValue="Not religious"/>
       </values>
     </section>
     <section type="intake" createStamp="1480599210" effectStamp="1470571200">

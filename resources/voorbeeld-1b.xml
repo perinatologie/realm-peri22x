@@ -13,14 +13,16 @@
           concept="peri22-dataelement-10042"
         />
         <value
-          value="Pietersen"
-          concept="peri22-dataelement-10043"
+          concept="peri22-dataelement-10030"
+          value="392548480"
         />
         <value
-          label="BSN"
-          value="9876543210"
-          keyid="bsn"
-          concept="peri22-dataelement-10030"
+          concept="peri22-dataelement-10040"
+          value="04-03-1974"
+        />
+        <value
+          concept="peri22-dataelement-10043"
+          value="Pietersen"
         />
         <value
           label="Bloedgroep"

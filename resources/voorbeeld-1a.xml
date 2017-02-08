@@ -5,8 +5,8 @@
       type="client"
       label="Client"
       id="1234-5678-9012-3455"
-      createstamp="123123123"
-      effectiveStamp="123123123">
+      createstamp="1451746230"
+      effectiveStamp="1451746230">
       <values>
         <value
           concept="peri22-dataelement-10030"
@@ -106,15 +106,15 @@
         />
         <value
           concept="peri22-dataelement-10810"
-          value="A"
+          value="112144000"
         />
       </values>
     </section>
-    <section type="intake" id="1234-5678-9012-3456" label="Intake">
+    <section type="intake" id="1234-5678-9012-3456" effectiveStamp="1451746830" label="Intake">
       <values>
         <value
-          value="1"
           concept="peri22-dataelement-20010"
+          value="3"
         />
         <value
           concept="peri22-dataelement-20153"
@@ -213,11 +213,15 @@
       </values>
     </section>
     
-    <section type="consult" id="zc1" effectiveStamp="1231231233" label="Consult">
+    <section type="consult" id="zc1" effectiveStamp="1467384630" label="Consult">
       <values>
         <value
           concept="peri22-dataelement-80737"
           value="01-07-2016"
+        />
+        <value
+          concept="peri22-dataelement-82067"
+          value="12"
         />
 <!--
         <value
@@ -239,7 +243,7 @@
         />
         <value
           concept="peri22-dataelement-80832"
-          value=""
+          value="30/40"
         />
         <value
           concept="peri22-dataelement-20211"
@@ -276,12 +280,16 @@
       </values>
     </section>
     
-    <section type="consult" id="zc2" effectiveStamp="1231231433" label="Consult">
+    <section type="consult" id="zc2" effectiveStamp="1469192430" label="Consult">
       <values>
         <value
           concept="peri22-dataelement-80737"
-          value="14-07-2016"
+          value="22-07-2016"
         />
+        <value
+          concept="peri22-dataelement-82067"
+          value="11"
+        />        
 <!--
         <value
           concept="	peri22-dataelement-80736"
@@ -290,7 +298,7 @@
 -->
         <value
           concept="peri22-dataelement-80738"
-          value="37+1"
+          value="38+2"
         />
         <value
           concept="peri22-dataelement-80810"
@@ -302,11 +310,11 @@
         />
         <value
           concept="peri22-dataelement-80832"
-          value=""
+          value="30/40"
         />
         <value
           concept="peri22-dataelement-20211"
-          value="78"
+          value="83"
         />
         <value
           concept="peri22-dataelement-80746"
@@ -349,27 +357,5 @@
         />
       </values>
     </section>
-    
-    <section type="echo" id="eo1" effectiveStamp="123126543">
-      <values>
-        <value
-          concept="peri22-dataelement-80738"
-          value="20+5"
-        />
-        <value
-          concept="peri22-dataelement-82311"
-          value="44"
-        />
-        <value
-          concept="peri22-dataelement-82312"
-          value="55"
-        />
-        <value
-          concept="peri22-dataelement-80748"
-          value="Geen bijzonderheden"
-        />
-      </values>
-    </section>
-    
   </sections>
 </resource>

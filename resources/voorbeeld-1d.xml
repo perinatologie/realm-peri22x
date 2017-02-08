@@ -4,9 +4,9 @@
     <section
       type="client"
       label="Client"
-      id="1234-5678-9012-3455"
-      createstamp="123123123"
-      effectiveStamp="123123123">
+      id="4234-5678-9012-3458"
+      createstamp="1467730230"
+      effectiveStamp="1467730230">
       <values>
         <value
           concept="peri22-dataelement-10030"
@@ -110,7 +110,7 @@
         />
       </values>
     </section>
-    <section type="intake" id="1234-5678-9012-3456" label="Intake">
+    <section type="intake" id="4234-5678-9012-3458" effectiveStamp="1467730230" label="Intake">
       <values>
         <value
           label="Graviditeit"

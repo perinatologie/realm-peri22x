@@ -5,60 +5,278 @@
       type="client"
       label="Client"
       id="2234-5678-9012-3456"
-      createstamp="123123123"
-      effectiveStamp="123123123">
+      createstamp="1468495230"
+      effectiveStamp="1468495230">
       <values>
-        <value
-          value="Maria"
-          concept="peri22-dataelement-10042"
-        />
         <value
           concept="peri22-dataelement-10030"
           value="392548480"
         />
         <value
           concept="peri22-dataelement-10040"
-          value="04-03-1974"
+          value="03-04-1974"
         />
         <value
-          concept="peri22-dataelement-10043"
+          concept="peri22-dataelement-82360"
+          value="Marieke"
+        />
+        <value
+          concept="peri22-dataelement-10042"
+          value="Maria Hendrika"
+        />
+        <value
+          concept="peri22-dataelement-82359"
+          value="M. H."
+        />
+        <value
+          concept="peri22-dataelement-82363"
+          value="van"
+        />
+        <value
+          concept="peri22-dataelement-82361"
           value="Pietersen"
         />
         <value
-          label="Bloedgroep"
-          value="B"
+          concept="peri22-dataelement-10043"
+          value="Pietersen - de Jong"
+        />
+        <value
+          concept="peri22x-vrouw-geboorteland"
+          value="Nederland"
+        />
+        <value
+          concept="peri22-dataelement-10400"
+          value="12"
+        />
+        <value
+          concept="peri22x-geloofsovertuiging"
+          value="160552003"
+        />
+        <value
+          concept="peri22x-burgelijke_staat"
+          value="1"
+        />
+        <value
+          concept="peri22-dataelement-10401"
+          value="P"
+        />
+        <value 
+          concept="peri22-dataelement-10300"
+          value="Rietveldweg"
+        />
+        <value 
+          concept="peri22-dataelement-10302"
+          value="23E10"
+        />
+        <value
+          concept="peri22-dataelement-10304"
+          value="6708 AA"
+        />
+        <value
+          concept="peri22-dataelement-10305"
+          value="Rotterdam"
+        />
+        <value
+          concept="peri22-dataelement-10307"
+          value="Nederland"
+        />
+        <value
+          concept="peri22-dataelement-82022"
+          value="H. Arts"
+        />
+        <value
+          concept="peri22-dataelement-82023"
+          value="A. Potheker"
+        />
+        <value
+          concept="peri22-dataelement-82024"
+          value="S. Pecialist"
+        />
+        <value
+          concept="peri22-dataelement-80639"
+          value="Carel"
+        />
+        <value
+          concept="peri22-dataelement-80640"
+          value="den"
+        />
+        <value
+          concept="peri22-dataelement-80641"
+          value="Jong"
+        />
+        <value
           concept="peri22-dataelement-10810"
+          value="112144000"
         />
       </values>
     </section>
-    <section type="intake" id="2234-5678-9012-3457" label="Intake">
+    <section type="intake" id="2234-5678-9012-3457" effectiveStamp="1468495830" label="Intake">
       <values>
         <value
-          label="Graviditeit"
-          value="1"
           concept="peri22-dataelement-20010"
+          value="3"
         />
         <value
-          label="Pariteit"
-          value="0"
           concept="peri22-dataelement-20153"
+          value="2"
         />
+        <value
+          concept="peri22-dataelement-80678"
+          value="1"
+        />
+        <value
+          concept="peri22-dataelement-80617"
+          value="2"
+        />
+        <value
+          concept="peri22-dataelement-20290"
+          value="04-01-2016"
+        />
+        <value
+          concept="peri22-dataelement-20340"
+          value="10-08-2016"
+        />
+        <value
+          concept="peri22-dataelement-20030"
+          value="07-08-16"
+        />
+        <value
+          concept="peri22-dataelement-80669"
+          value="FALSE"
+        />
+        <value
+          concept="peri22-dataelement-20211"
+          value="79"
+        />
+        <value
+          concept="peri22-dataelement-20212"
+          value="172"
+        />
+        <value
+          concept="peri22-dataelement-80664"
+          value="Dr. Gerrit"
+        />
+        <value
+          concept="peri22-dataelement-10805"
+          value="FALSE"
+        />
+<!--
+        <value
+          concept="peri22-dataelement-80819"
+          value=""
+        />
+-->
+        <value
+          concept="peri22-dataelement-80939"
+          value="TRUE"
+        />
+        <value
+          concept="peri22-dataelement-10803"
+          value="FALSE"
+        />
+        <value
+          concept="peri22-dataelement-80680"
+          value="FALSE"
+        />
+        <value
+          concept="peri22-dataelement-80675"
+          value="FALSE"
+        />
+        <value
+          concept="peri22-dataelement-20305"
+          value="1"
+        />
+        <value
+          concept="peri22-dataelement-82154"
+          value="Zelfstandig"
+        />
+        <value
+          concept="peri22-dataelement-82275"
+          value="48194001"
+        />
+        <value
+          concept="peri22-dataelement-20511"
+          value="10"
+        />
+        <value
+          concept="peri22-dataelement-20261"
+          value="23"
+        />
+        <value
+          concept="peri22-dataelement-10800"
+          value="300916003"
+        />
+        <value
+          concept="peri22-dataelement-82103"
+          value="398705004"
+        />
+
       </values>
     </section>
     
-    <section type="consult" id="zc2b" effectiveStamp="1231231433">
+    <section type="consult" id="zc2b" effectiveStamp="1468496790" label="Consult">
       <values>
         <value
-          value="76"
+          concept="peri22-dataelement-80737"
+          value="14-07-2016"
+        />
+        <value
+          concept="peri22-dataelement-82067"
+          value="01.046"
+        />
+<!--
+        <value
+          concept="	peri22-dataelement-80736"
+          value="Vivian de Verloskundige"
+        />
+-->
+        <value
           concept="peri22-dataelement-80738"
+          value="37+1"
+        />
+        <value
+          concept="peri22-dataelement-80810"
+          value="1"
+        />
+        <value
+          concept="peri22-dataelement-80747"
+          value="1"
+        />
+        <value
+          concept="peri22-dataelement-80832"
+          value="35/45"
+        />
+        <value
+          concept="peri22-dataelement-20211"
+          value="80"
+        />
+        <value
+          concept="peri22-dataelement-80746"
+          value="289431008"
         />
         <value
           value="102"
           concept="peri22-dataelement-80741"
         />
         <value
-          value="Nieuw ponsplaatje laten maken"
+          concept="peri22-dataelement-10814"
+          value=""
+        />
+        <value
+          concept="peri22-dataelement-80951"
+          value=""
+        />
+        <value
+          concept="peri22-dataelement-80622"
+          value="70028003"
+        />
+        <value
+          concept="peri22-dataelement-80614"
+          value="FALSE"
+        />
+        <value
           concept="peri22-dataelement-80748"
+          value="Nieuw ponsplaatje laten maken"
         />
       </values>
     </section>

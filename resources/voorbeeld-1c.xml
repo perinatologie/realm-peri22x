@@ -171,6 +171,10 @@
           concept="peri22-dataelement-50120"
           value=""
         />
+        <value
+          concept="peri22-dataelement-50010"
+          value="SEO"
+        />
 -->
         <value
           concept="peri22-dataelement-51010"
@@ -192,6 +196,13 @@
           concept="peri22-dataelement-50021"
           value="20+5"
         />
+<!--
+        <value
+          concept="peri22-dataelement-60010"
+          value="A"
+        />
+-->
+
         <value
           concept="peri22-dataelement-82312"
           value="45"
@@ -277,10 +288,6 @@
           value="1"
         />
         <value
-          concept="peri22-dataelement-82242"
-          value="1"
-        />
-        <value
           concept="peri22-dataelement-82245"
           value="1"
         />
@@ -357,7 +364,7 @@
         />
         <value
           concept="peri22-dataelement-60020"
-          value=""
+          value="12"
         />
         <value
           concept="peri22-dataelement-82312"

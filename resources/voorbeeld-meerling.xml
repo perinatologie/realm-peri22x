@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<!--
+   Onderstaande voorbeeld bericht bevat een voorbeeld van een
+   meerling zwangerschap.
+
+   Waar nodig wordt er gebruik gemaakt van 't optionele `repeat` attribuut op
+   de value elementen. Zie bijvoorbeeld de sections van type `echo` en `kind`
+
+   sections en values die niet voor belang zijn voor dit voorbeeld zijn bewust
+   beperkt gehouden. Zie voorbeeld-commentaar.xml voor een meer representatief
+   voorbeeld.
+-->
+<resource type="hub/dossier">
+  <sections>
+    <section type="client" createStamp="1480599180">
+      <values>
+        <value concept="peri22-dataelement-10030" label="BSN" value="392548480"/>
+        <value concept="peri22-dataelement-10040" label="Geboortedatum" value="03-04-1974"/>
+        <value concept="peri22-dataelement-10810" label="Bloedgroep" value="112144000" displayValue="Blood group A (finding)"/>
+        <value concept="peri22-dataelement-82360" label="Roepnaam" value="Theressa"/>
+        <value concept="peri22-dataelement-10042" label="Voornamen" value="Hendrika"/>
+        <value concept="peri22-dataelement-82359" label="Initialen" value="HM"/>
+        <value concept="peri22-dataelement-82363" label="Voorvoegsel" value="de"/>
+        <value concept="peri22-dataelement-82361" label="Familienaam" value="Jong"/>
+      </values>
+    </section>
+    <section type="intake" createStamp="1480599210" effectStamp="1470571200">
+      <values>
+        <value concept="peri22-dataelement-20010" label="Graviditeit" value="3"/>
+        <value concept="peri22-dataelement-20153" label="Pariteit" value="2"/>
+        <value concept="peri22-dataelement-80678" label="Fetal loss +20wk" value="1"/>
+        <value concept="peri22-dataelement-80617" label="Totaal in leven" value="2"/>
+        <value concept="peri22-dataelement-20290" label="Start datum dossier" value="05-01-2016"/>
+        <value concept="peri22-dataelement-20340" label="Datum eind dossier" value="10-08-2016"/>
+        <value concept="peri22-dataelement-20030" label="A terme datum" value="07-08-16"/>
+      </values>
+    </section>
+    <section type="consult" createStamp="1480599310" effectStamp="1467374400">
+      <values>
+        <value concept="peri22-dataelement-80737" label="Datum" value="01-07-2016"/>
+        <value concept="peri22-dataelement-80738" label="Zwangerschapsduur" value="36+2"/>
+        <value concept="peri22-dataelement-80746" label="Leven voelen" value="289431008" displayValue="Fetal movements present (finding)"/>
+        <value concept="peri22-dataelement-80741" label="Fundushoogte (cm)" value="25"/>
+
+        <!-- hier worden de ligging van kind 1 en 2 beide benoemd -->
+        <value concept="peri22-dataelement-80622" label="Ligging" value="70028003" repeat="1" displayValue="Vertex presentation (finding)"/>
+        <value concept="peri22-dataelement-80622" label="Ligging" value="70028003" repeat="2" displayValue="Vertex presentation (finding)"/>
+
+      </values>
+    </section>
+
+    <!-- meerdere echo onderzoeken worden elk in eigen section geplaatst -->
+    <section type="echo">
+      <values>
+        <!-- gegevens over t echo onderzoek zelf of de moeder hebben geen repeat attribuut -->
+        <value concept="peri22-dataelement-80738" label="AM duur" value="10+1"/>
+
+        <!-- bepalingen mbt de foetusen bevatten een repeat attribuut -->
+        <value concept="peri22-dataelement-82311" label="CRL" value="12" repeat="1"/>
+        <value concept="peri22-dataelement-82311" label="CRL" value="14" repeat="2"/>
+      </values>
+    </section>
+
+    <!-- tweede echo -->
+    <section type="echo">
+      <values>
+        <value concept="peri22-dataelement-80738" label="AM duur" value="14+1"/>
+        <value concept="peri22-dataelement-82311" label="CRL" value="36" repeat="1"/>
+        <value concept="peri22-dataelement-82311" label="CRL" value="38" repeat="2"/>
+      </values>
+    </section>
+
+    <section type="baring">
+      <values>
+        <value concept="peri22-dataelement-20261" label="Voorgenomen locatie baring" value="23" displayValue="Geboortecentrum"/>
+        <value concept="peri22-dataelement-20530" label="Risicostatus voor baring" value="1" displayValue="1e lijn (VIL A)"/>
+        <value concept="peri22-dataelement-20600" label="Gebroken vliezen" value="06-08-2016"/>
+        <value concept="peri22-dataelement-30060" label="Pijnbestrijding" value="3" displayValue="systemisch toegediende analgetica opiaten"/>
+
+        <!-- ook hier values per kind obv repeat attribuut -->
+        <value concept="peri22-dataelement-80694" label="Bevallingsdatum" repeat="1" value="1234567888" />
+        <value concept="peri22-dataelement-80694" label="Bevallingsdatum" repeat="2" value="1234567999" />
+        <value concept="peri22-dataelement-20560" label="Hulp Baring"  repeat="1" value="236966000" displayValue="Cervical ripening with Prostaglandin E2 (procedure)"/>
+        <value concept="peri22-dataelement-20560" label="Hulp Baring"  repeat="2" value="408818004" displayValue="Induction of labour by artificial rupture of membranes (procedure)" />
+        <value concept="peri22-dataelement-40020" label="Type uitkomst" value="1" displayValue="partus"/>
+        <value concept="peri22-dataelement-40020" label="Type uitkomst" value="1" displayValue="partus"/>
+      </values>
+    </section>
+    <section type="kind">
+      <values>
+        <!-- deze hele section zal ook mbv repeat attributen herhaald worden -->
+        <value concept="peri22-dataelement-40010" label="BSN Kind" value="123456789" repeat="1"/>
+        <value concept="peri22-dataelement-40010" label="BSN Kind" value="987654321" repeat="1"/>
+        <value concept="peri22-dataelement-82052" label="Roepnaam" value="Miepje" repeat="1"/>
+        <value concept="peri22-dataelement-82052" label="Roepnaam" value="Jantje" repeat="2"/>
+      </values>
+    </section>
+  </sections>
+</resource>

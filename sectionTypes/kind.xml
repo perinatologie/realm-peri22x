@@ -5,6 +5,8 @@
   >
   <property name="definition">Kind</property>
   
+  <field concept="peri22-dataelement-40041" min="0" max="1" note="geslacht (medische observatie)" />
+  <field concept="peri22-dataelement-40025" min="0" max="1" note="rangnummer kind" /> <!--gelijk aan repeat-->
   <field concept="peri22-dataelement-40010" min="0" max="1" note="bsn kind" />
   <field concept="peri22-dataelement-40050" min="0" max="1" note="geboortedatum" />
   <field concept="peri22-dataelement-82052" min="0" max="1" note="roepnaam" />
@@ -16,12 +18,16 @@
   <field concept="peri22-dataelement-40300" min="0" max="1" note="datum overleden" />
   <field concept="peri22-dataelement-40290" min="0" max="1" note="fase perinatale sterfte" />
   <field concept="peri22-dataelement-40080" min="0" max="1" note="congenitale afwijkingen" />
+  <field concept="peri22-dataelement-40090" min="0" max="*" note="specificatie congenitale afwijking" />
   <field concept="peri22-dataelement-40110" min="0" max="1" note="chromosomale afwijkingen" />
+  <field concept="peri22-dataelement-40120" min="0" max="*" note="specificatie chromosomale afwijking" />
   <field concept="peri22-dataelement-82334" min="0" max="1" note="overige problematiek" />
   <field concept="peri22-dataelement-40240" min="0" max="1" note="interventies" />
   <field concept="peri22-dataelement-40070" min="0" max="1" note="apgar 1min" />
   <field concept="peri22-dataelement-40071" min="0" max="1" note="apgar 5 min" />
   <field concept="peri22-dataelement-80757" min="0" max="1" note="apgar 10 min" />
+  <field concept="peri22-dataelement-82119" min="0" max="1" note="kinderarts betrokken?" />
+  <field concept="peri22-dataelement-82121" min="0" max="1" note="type betrokkenheid kinderarts" />
   <field concept="peri22-dataelement-80630" min="0" max="1" note="geboorteplaats" />
   <field concept="peri22-dataelement-80632" min="0" max="1" note="geboorteland" />
   <field concept="peri22-dataelement-80761" min="0" max="1" note="vitamine k" />

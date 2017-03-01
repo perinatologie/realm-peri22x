@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sectionType
+  id="zwangerschap"
+  note="Zwangerschap"
+  >
+  <property name="definition">Zwangerschap</property>
+
+  <field concept="peri22-dataelement-80983" min="0" max="1" note="anticonceptie" />
+  <field concept="peri22-dataelement-80642" min="0" max="1" note="kraamzorg" />
+  <field concept="peri22-dataelement-70030" min="0" max="1" note="voeding" />
+  <field concept="peri22-dataelement-82208" min="0" max="1" note="Pathologie vrouw?" />
+  <field concept="peri22-dataelement-82209" min="0" max="*" note="Pathologie vrouw" />
+  <field concept="peri22-dataelement-20091" min="0" max="1" note="Ovulatie-inductie toegepast?" />
+  <field concept="peri22-dataelement-20095" min="0" max="1" note="Geassisteerde conceptie" />
+  <field concept="peri22-dataelement-20080" min="0" max="1" note="Subfertiliteitsbehandeling?" />
+  <field concept="peri22-dataelement-82160" min="0" max="1" note="Definitieve à terme datum" /> <!-- gelijk aan peri22-dataelement-20030 'a terme datum' -->
+  <field concept="peri22-dataelement-20220" min="0" max="1" note="Hoogste diastolische tensie" />
+  <field concept="peri22-dataelement-82230" min="0" max="*" note="Intra-uteriene behandeling" />
+  <field concept="peri22-dataelement-80625" min="0" max="1" note="Wijze einde zwangerschap" />
+</sectionType>

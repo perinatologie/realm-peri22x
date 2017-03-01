@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sectionType
+  id="anamneseAlgemeen"
+  label="Algemene anamnese"
+  >
+  <property name="definition">Algemene anamnese</property>
+  
+  <field concept="peri22-dataelement-82211" min="0" max="1" note="Gynaecologische aandoening?" />
+  <field concept="peri22-dataelement-80917" min="0" max="*" note="Gynaecologische aandoening" />
+  <field concept="peri22-dataelement-80905" min="0" max="1" note="Auto-immuun aandoening?" />
+  <field concept="peri22-dataelement-82216" min="0" max="1" note="Cardiovasculaire aandoening?" />
+  <field concept="peri22-dataelement-80906" min="0" max="*" note="Cardiovasculaire aandoening" />
+  <field concept="peri22-dataelement-80907" min="0" max="1" note="Urogenitale aandoening?" />
+  <field concept="peri22-dataelement-80910" min="0" max="1" note="Diabetes mellitus?" />
+  <field concept="peri22-dataelement-82218" min="0" max="1" note="Neurologische aandoening?" />
+  <field concept="peri22-dataelement-80912" min="0" max="*" note="Neurologische aandoening" />
+  <field concept="peri22-dataelement-80914" min="0" max="1" note="MDL aandoening?" />
+  <field concept="peri22-dataelement-80916" min="0" max="1" note="Longaandoening?" />
+  <field concept="peri22-dataelement-82213" min="0" max="1" note="Orthopedische afwijking?" />
+  <field concept="peri22-dataelement-80940" min="0" max="1" note="Stollingsprobleem?" />
+  <field concept="peri22-dataelement-82159" min="0" max="1" note="Psychiatrie?" />
+  <field concept="peri22-dataelement-82212" min="0" max="1" note="Overige aandoening?" />
+</sectionType>

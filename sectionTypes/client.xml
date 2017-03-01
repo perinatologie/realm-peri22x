@@ -6,6 +6,7 @@
   <property name="definition">Client details</property>
   
   <field concept="peri22-dataelement-10030" min="0" max="1" note="bsn" />
+  <field concept="peri22-dataelement-10031" min="0" max="1" note="lokale persoonsidentificatie" />
   <field concept="peri22-dataelement-10040" min="0" max="1" note="geboortedatum" />
   <field concept="peri22-dataelement-82360" min="0" max="1" note="roepnaam" />
   <field concept="peri22-dataelement-10042" min="0" max="10" note="voornamen" />
@@ -18,8 +19,9 @@
   <field concept="peri22-dataelement-10400" min="0" max="1" note="etniciteit" />
   <field concept="peri22-dataelement-10401" min="0" max="1" note="spreekt Nederlands" />
   <field concept="peri22x-alert_tekst" min="0" max="1" note="alert tekst" />
-  <field concept="peri22-dataelement-10300" min="0" max="1" note="adres" />
+  <field concept="peri22-dataelement-10301" min="0" max="1" note="straatnaam" />
   <field concept="peri22-dataelement-10302" min="0" max="1" note="huisnummer" />
+  <field concept="peri22-dataelement-10303" min="0" max="1" note="huisnummertoevoeging" />
   <field concept="peri22-dataelement-10304" min="0" max="1" note="postcode" />
   <field concept="peri22-dataelement-10305" min="0" max="1" note="plaats" />
   <field concept="peri22-dataelement-10307" min="0" max="1" note="land" />

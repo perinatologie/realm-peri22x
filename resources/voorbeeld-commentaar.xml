@@ -148,11 +148,13 @@
         <value concept="peri22-dataelement-20530" label="Risicostatus voor baring" value="1" displayValue="1e lijn (VIL A)"/>
         <value concept="peri22-dataelement-20580" label="Amniotomie" value="TRUE"/>
         <value concept="peri22-dataelement-20585" label="Fase amniotomie" value="4" displayValue="als interventie begin baring"/>
-        <value concept="peri22-dataelement-20600" label="Gebroken vliezen" value="06-08-2016"/>
+        <value concept="peri22-dataelement-80619" label="Gebroken vliezen" value="06-08-2016"/>
         <value concept="peri22-dataelement-20590" label="Tijdstip start actieve fase" value="" displayValue="-"/>
         <value concept="peri22-dataelement-10601" label="Duur actieve ontsluitingsfase" value=""/>
-        <value concept="peri22-dataelement-10601" label="Vruchtwater" value="278092006"/>
-        <value concept="peri22-dataelement-30060" label="Pijnbestrijding" value="3" displayValue="systemisch toegediende analgetica opiaten"/>
+        <value concept="peri22-dataelement-80945" label="Vruchtwater" value="278092006"/>
+        <value concept="peri22-dataelement-82090" label="Pijnbestrijding?" value="True"/>
+        <value concept="peri22-dataelement-82092" label="Methode pijnbestrijding" value="231249005" displayValue="Local anesthetic intrathecal block (procedure)" group="1"/>
+        <value concept="peri22-dataelement-82097" label="Periode pijnbestrijding" value="Uitdr" displayValue="tijdens uitdrijving" group="1"/>
         <value concept="peri22-dataelement-80694" label="Bevallingsdatum" value="" displayValue="-"/>
         <value concept="peri22-dataelement-20560" label="Hulp Baring" value="236966000" displayValue="Cervical ripening with Prostaglandin E2 (procedure)"/>
         <value concept="peri22-dataelement-40020" label="Type uitkomst" value="1" displayValue="partus"/>

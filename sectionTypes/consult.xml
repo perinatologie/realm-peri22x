@@ -7,10 +7,11 @@
 
   <field concept="peri22-dataelement-80737" min="0" max="1" note="datum" />
   <field concept="peri22-dataelement-80738" min="0" max="1" note="am duur" />
-  <field concept="peri22-dataelement-80741" min="0" max="1" note="fundus" />
   <field concept="peri22-dataelement-80748" min="0" max="1" note="opmerkingen" />
   <field concept="peri22-dataelement-80810" min="0" max="1" note="roken" />
   <field concept="peri22-dataelement-80747" min="0" max="1" note="alcohol" />
+  <field concept="peri22-dataelement-82102" min="0" max="1" note="drugsgebruik?" />
+  <field concept="peri22-dataelement-80836" min="0" max="1" note="proteïne in urine o.b.v. strips" />
   <field concept="peri22-dataelement-80832" min="0" max="1" note="rr" />
   <field concept="peri22-dataelement-20211" min="0" max="1" note="gewicht" />
   <field concept="peri22-dataelement-80746" min="0" max="1" note="leven voelen" />

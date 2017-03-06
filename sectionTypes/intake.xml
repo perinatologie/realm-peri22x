@@ -7,6 +7,7 @@
   
   <field concept="peri22-dataelement-20010" min="0" max="1" note="graviditeit" />
   <field concept="peri22-dataelement-20153" min="0" max="1" note="pariteit" />
+  <field concept="peri22-dataelement-20150" min="0" max="1" note="pariteit (vóór deze zwangerschap)" /> <!-- gelijk aan 20153 -->
   <field concept="peri22-dataelement-80678" min="0" max="1" note="fetal loss +20wk" />
   <field concept="peri22-dataelement-80617" min="0" max="1" note="totaal in leven" />
   <field concept="peri22-dataelement-20290" min="0" max="1" note="start datum dossier" />
@@ -28,4 +29,9 @@
   <field concept="peri22-dataelement-20261" min="0" max="1" note="afgesproken plaats baring" />
   <field concept="peri22-dataelement-10800" min="0" max="1" note="allergie" />
   <field concept="peri22-dataelement-82103" min="0" max="1" note="drug" />
+  <field concept="peri22-dataelement-20320" min="0" max="1" note="overname van zorginstelling id" />
+  <field concept="peri22-dataelement-20331" min="0" max="*" note="reden van overname (lijst PRN)" />
+  <field concept="peri22-dataelement-82164" min="0" max="1" note="perinatale periode van overname" />
+  <field concept="peri22-dataelement-10023" min="0" max="1" note="zorginstelling LVR-ID" />
+
 </sectionType>

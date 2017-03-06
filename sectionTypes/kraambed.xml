@@ -8,4 +8,6 @@
   <field concept="peri22-dataelement-80983" min="0" max="1" note="anticonceptie" />
   <field concept="peri22-dataelement-80642" min="0" max="1" note="kraamzorg" />
   <field concept="peri22-dataelement-70030" min="0" max="1" note="voeding" />
+  <field concept="peri22-dataelement-82208" min="0" max="1" note="Pathologie vrouw?" />
+  <field concept="peri22-dataelement-82209" min="0" max="*" note="Pathologie vrouw" />
 </sectionType>

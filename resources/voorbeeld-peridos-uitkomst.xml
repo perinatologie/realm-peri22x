@@ -5,7 +5,7 @@
       <values>
         <value concept="peri22-dataelement-10003" label="Identificatie zorgverlener" value="08001234" />
       </values>
-    </sction>
+    </section>
 
     <section type="client" id="1" createStamp="1480599180">
       <values>

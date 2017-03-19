@@ -39,11 +39,13 @@
   <field concept="peri22-dataelement-40170" min="0" max="1" note="rol supervisor" />
   <field concept="peri22-dataelement-40180" min="0" max="1" note="identificatie supervisor" />
   <field concept="peri22-dataelement-30050" min="0" max="1" note="episiotomie als interventie baring" />
+  <field concept="peri22-dataelement-30055" min="0" max="1" note="locatie episiotomie" />
   <field concept="peri22-dataelement-80673" min="0" max="1" note="conditieperineum" />
   <field concept="peri22-dataelement-20631" min="0" max="1" note="placenta compleet" />
   <field concept="peri22-dataelement-80791" min="0" max="1" note="tijdstip geboorte placenta" />
   <field concept="peri22-dataelement-20640" min="0" max="1" note="bloedverlies (ml)" />
-  <field concept="peri22-dataelement-20620" min="0" max="1" note="medicatie na" />
+  <field concept="peri22-dataelement-20620" min="0" max="1" note="medicatie nageboortetijdperk?" />
+  <field concept="peri22-dataelement-20626" min="0" max="*" note="soort medicatie nageboortetijdperk" />
   <field concept="peri22-dataelement-20630" min="0" max="1" note="geboorte placenta" />
   <field concept="peri22-dataelement-20670" min="0" max="1" note="maternale sterfte" />
   <field concept="peri22-dataelement-20590" min="0" max="1" note="start actieve ontsluitingsfase vlgs zorgverlener datum" />

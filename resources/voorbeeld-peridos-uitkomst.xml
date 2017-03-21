@@ -1,11 +1,13 @@
 <?xml version="1.0"?>
 <resource type="hub/dossier">
   <sections>
+    <!--
     <section type="zorgaanbieder" id="0" createStamp="1480599180">
       <values>
         <value concept="peri22-dataelement-10003" label="Identificatie zorgverlener" value="08001234" />
       </values>
     </section>
+    -->
 
     <section type="client" id="1" createStamp="1480599180">
       <values>
@@ -37,6 +39,7 @@
     </section>
 
     <!-- te bepalen: is type `echo` hier meer van toepassing? -->
+    <!--
     <section type="bevindingen" id="8">
       <values>
         <value concept="" label="Algehele beoordeling" value=""/>
@@ -56,5 +59,6 @@
         <value concept="" label="Biometrie" value="" />
       </values>
     </section>
+    -->
   </sections>
 </resource>

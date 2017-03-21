@@ -17,32 +17,27 @@
       <values>
         <value concept="peri22-dataelement-20010" label="Graviditeit" value="3"/>
         <value concept="peri22-dataelement-20020" label="Hoeveelling" value="1"/>
-        <value concept="peri22-dataelement-40050" label="Datum uitkomst (partus e.d.)" value="2017-10-14"/>
         <value concept="peri22-dataelement-20030" label="Vigerende à terme datum" value="2017-10-18"/>
       </values>
     </section>
 
-    <section type="baring" id="7">
+    <section type="echo" id="7">
       <values>
-        <value concept="peri22-dataelement-40010" label="BSN Kind" value=""/>
+        <value concept="peri22-dataelement-50020" label="Datum NT-meting" value="2017-10-14"/>
         <value concept="peri22-dataelement-40025" label="Meerling nummer" value="1" />
-        <value concept="peri22-dataelement-80626" label="Type 'geboorte'" value=""/>
-        <value concept="peri22-dataelement-40050" label="Geboortedatum" value="2017-10-14" />
-        <value concept="peri22-dataelement-40040" label="Geslacht" value=""/>
-        <value concept="peri22-dataelement-40060" label="Geboortegewicht" value=""/>
-        <value concept="peri22-dataelement-40280" label="Overleden" value="FALSE"/>
-        <value concept="peri22-dataelement-40300" label="Datum Overleden" value="" />
+        <value concept="peri22-dataelement-60040" label="NT in mm'" value=""/>
+        <value concept="peri22-dataelement-60050" label="NT in MoM" value="2017-10-14" />
+        <value concept="peri22-dataelement-60020" label="CRL in mm" value=""/>
       </values>
     </section>
 
     <!-- te bepalen: is type `echo` hier meer van toepassing? -->
+    <!--
     <section type="bevindingen" id="8">
       <values>
-      <!--
         <value concept="" label="Algehele beoordeling" value=""/>
         <value concept="" label="Neuraalbuisdefecten" value="" />
         <value concept="" label="Intracraniële afwijkingen'" value=""/>
-      -->
         <value concept="peri22-dataelement-82242" label="Afwijkingen aangezicht" value="" />
         <value concept="peri22-dataelement-82243" label="Afwijkingen nek / huid" value="" />
         <value concept="peri22-dataelement-82244" label="Hartafwijkingen en hartritmestoornissen" value="" />
@@ -51,13 +46,12 @@
         <value concept="peri22-dataelement-82247" label="Buikwanddefecten" value="" />
         <value concept="peri22-dataelement-82248" label="Afwijkingen maag-darm" value="" />
         <value concept="peri22-dataelement-82249" label="Afwijkingen nieren-blaas" value="" />
-      <!--
         <value concept="" label="Afwijkingen skelet en extremiteiten" value="" />
         <value concept="" label="Hydrops foetalis" value="" />
         <value concept="" label="TTTS" value="" />
         <value concept="" label="Biometrie" value="" />
-      -->
       </values>
     </section>
+    -->
   </sections>
 </resource>

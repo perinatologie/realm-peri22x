@@ -25,9 +25,9 @@
       <values>
         <value concept="peri22-dataelement-50020" label="Datum onderzoek" value="2017-10-14"/>
         <value concept="peri22-dataelement-40025" label="Meerling nummer" value="1" />
-        <value concept="peri22-dataelement-60040" label="NT in mm'" value=""/>
-        <value concept="peri22-dataelement-60050" label="NT in MoM" value="2017-10-14" />
-        <value concept="peri22-dataelement-60020" label="CRL in mm" value=""/>
+        <value concept="peri22-dataelement-51010" label="SEO type" value="2017-10-14"/>
+        <value concept="peri22-dataelement-82330" label="Conclusie SEO" value="2017-10-14"/>
+        <value concept="peri22-dataelement-82331" label="Advies SEO" value="2017-10-14"/>
       </values>
     </section>
 
@@ -35,7 +35,6 @@
     <section type="bevindingen" id="8">
       <values>
         <!--
-        <value concept="" label="Algehele beoordeling" value=""/>
         <value concept="" label="Neuraalbuisdefecten" value="" />
         <value concept="" label="Intracraniële afwijkingen'" value=""/>
         -->
@@ -50,9 +49,24 @@
         <!--
         <value concept="" label="Afwijkingen skelet en extremiteiten" value="" />
         <value concept="" label="Hydrops foetalis" value="" />
-        <value concept="" label="TTTS" value="" />
         <value concept="" label="Biometrie" value="" />
         -->
+        <value concept="peri22-dataelement-82253" label="Afwijkend vruchtwatercompartiment" value="" />
+        <value concept="peri22-dataelement-82254" label="Navelstreng afwijkingen" value="" />
+        <value concept="peri22-dataelement-82255" label="Placenta afwijkingen" value="" />
+        <value concept="peri22-dataelement-82239" label="Echodense focus in het hart" value="" />
+        <value concept="peri22-dataelement-82258" label="Plexus choroideus cysten" value="" />
+        <value concept="peri22-dataelement-82259" label="Verdikte nekplooi / nekhuid" value="" />
+        <value concept="peri22-dataelement-82260" label="Echodense darmen" value="" />
+        <value concept="peri22-dataelement-82261" label="Milde ventriculomegalie" value="" />
+        <value concept="peri22-dataelement-82262" label="Pyelectasie" value="" />
+        <value concept="peri22-dataelement-82263" label="Kort femur" value="" />
+        <value concept="peri22-dataelement-82264" label="2 navelstrengvaten" value="" />
+        <value concept="peri22-dataelement-60060" label="HC (Hoofdomtrek) in mm" value="" />
+        <value concept="peri22-dataelement-60070" label="TCD (Cerebellum) in mm" value="" />
+        <value concept="peri22-dataelement-60080" label="AC (Buikomtrek) in mm" value="" />
+        <value concept="peri22-dataelement-60100" label="FL (Femur) lengte in mm" value="" />
+        <value concept="peri22-dataelement-60030" label="BPD in mm" value="" />
       </values>
     </section>
   </sections>

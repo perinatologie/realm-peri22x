@@ -8,9 +8,12 @@
   <field concept="peri22-dataelement-80738" min="0" max="1" note="am duur" />
   <field concept="peri22-dataelement-82311" min="0" max="1" note="crl" />
   <field concept="peri22-dataelement-82312" min="0" max="1" note="bpd" />
-  <field concept="peri22-dataelement-50020" min="0" max="1" note="datum nt-meting" />
+  <field concept="peri22-dataelement-50020" min="0" max="1" note="datum onderzoek" />
   <field concept="peri22-dataelement-40025" min="0" max="1" note="meerling nummer" />
   <field concept="peri22-dataelement-60040" min="0" max="1" note="nt in mm" />
   <field concept="peri22-dataelement-60050" min="0" max="1" note="nt in mom" />
   <field concept="peri22-dataelement-60020" min="0" max="1" note="crl in mm" />
+  <field concept="peri22-dataelement-51010" min="0" max="1" note="seo type" />
+  <field concept="peri22-dataelement-82330" min="0" max="1" note="conclusie seo" />
+  <field concept="peri22-dataelement-82331" min="0" max="1" note="advies seo" />
 </sectionType>

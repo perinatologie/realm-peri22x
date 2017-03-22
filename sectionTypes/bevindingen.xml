@@ -23,4 +23,20 @@
   <field concept="?" min="0" max="1" note="pijnbestrijding?" />
   <field concept="?" min="0" max="*" note="methode pijnbestrijding" />
 -->
+  <field concept="peri22-dataelement-82253" min="0" max="1" note="afwijkend vruchtwatercompartiment" />
+  <field concept="peri22-dataelement-82254" min="0" max="1" note="navelstreng afwijkingen" />
+  <field concept="peri22-dataelement-82255" min="0" max="1" note="placenta afwijkingen" />
+  <field concept="peri22-dataelement-82239" min="0" max="1" note="echodense focus in het hart" />
+  <field concept="peri22-dataelement-82258" min="0" max="1" note="plexus choroideus cysten" />
+  <field concept="peri22-dataelement-82259" min="0" max="1" note="verdikte nekplooi / nekhuid" />
+  <field concept="peri22-dataelement-82260" min="0" max="1" note="echodense darmen" />
+  <field concept="peri22-dataelement-82261" min="0" max="1" note="milde ventriculomegalie" />
+  <field concept="peri22-dataelement-82262" min="0" max="1" note="pyelectasie" />
+  <field concept="peri22-dataelement-82263" min="0" max="1" note="kort femur" />
+  <field concept="peri22-dataelement-82264" min="0" max="1" note="2 navelstrengvaten" />
+  <field concept="peri22-dataelement-60060" min="0" max="1" note="hc (hoofdomtrek) in mm" />
+  <field concept="peri22-dataelement-60070" min="0" max="1" note="tcd (cerebellum) in mm" />
+  <field concept="peri22-dataelement-60080" min="0" max="1" note="ac (buikomtrek) in mm" />
+  <field concept="peri22-dataelement-60100" min="0" max="1" note="fl (femur) lengte in mm" />
+  <field concept="peri22-dataelement-60030" min="0" max="1" note="bpd in mm" />
 </sectionType>

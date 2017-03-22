@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<resource type="hub/dossier">
+  <sections>
+    <section type="zorgverlener" id="0" createStamp="1480599180">
+      <values>
+        <value concept="peri22-dataelement-10003" label="Identificatie zorgverlener" value="08001234" />
+      </values>
+    </section>
+    <section type="client" id="1" createStamp="1480599180">
+      <values>
+        <value concept="peri22-dataelement-10030" label="BSN" value="999999011"/>
+        <value concept="peri22-dataelement-10040" label="Geboortedatum" value="1988-11-25"/>
+        <value concept="peri22-dataelement-10041" label="Postcode" value="0000 AA"/>
+        <value concept="peri22-dataelement-10400" label="Etniciteit" value="12"/>
+        <!--
+        <value concept="?" label="Voorletters" value="0000 AA"/>
+        <value concept="?" label="Voorvoegsel" value="0000 AA"/>
+        -->
+        <value concept="peri22-dataelement-10043" label="Geboorte achternaam" value="de Vries"/>
+      </values>
+    </section>
+    <section type="zwangerschap" id="2" createStamp="1480599210" effectStamp="1470571200">
+      <values>
+        <value concept="peri22-dataelement-20010" label="Graviditeit" value="3"/>
+        <value concept="peri22-dataelement-20030" label="Vigerende à terme datum" value="2017-10-18"/>
+        <value concept="peri22-dataelement-20211" label="Gewicht" value=""/>
+        <value concept="peri22-dataelement-20212" label="Lengte" value=""/>
+        <value concept="peri22-dataelement-25600" label="IVF- of ICSI-zwangerschap" value="1"/>
+        <value concept="peri22-dataelement-25970" label="Eerdere trisomie" value="FALSE"/>
+        <value concept="peri22-dataelement-20180" label="Rookgewoonte" value="FALSE"/>
+        <value concept="peri22-dataelement-20120" label="Counseling gewenst" value="TRUE"/>
+        <value concept="peri22-dataelement-20103" label="Geboortedatum eiceldonatrice (i.v.t.)" value="2016-12-16"/>
+        <value concept="peri22-dataelement-20153" label="Pariteit" value="2"/>
+      </values>
+    </section>
+
+    <section type="counseling" id="9">
+      <values>
+        <value concept="peri22-dataelement-20455" label="Datum counseling" value="2017-10-14"/>
+        <value concept="peri22-dataelement-20460" label="Counseling betreft" value="1" />
+        <value concept="peri22-dataelement-20120" label="Counseling gewenst" value="TRUE" />
+        <!--
+        <value concept="?" label="NIPT gewenst" value=""/>
+        -->
+        <value concept="peri22-dataelement-20495" label="Structureel echoscopisch onderzoek gewenst" value="TRUE" />
+        <value concept="peri22-dataelement-20480" label="Direct invasieve prenatale diagnostiek geïndiceerd" value="TRUE" />
+        <value concept="peri22-dataelement-20490" label="Direct geavanceerd ultrageluidonderzoek geïndiceerd" value="TRUE"/>
+      </values>
+    </section>
+  </sections>
+</resource>

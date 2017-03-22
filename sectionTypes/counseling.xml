@@ -4,7 +4,7 @@
   note="Counseling"
   >
   <property name="definition">Counseling</property>
-
+  <field concept="peri22-dataelement-20455" min="0" max="1" note="datum counseling" />
   <field concept="peri22-dataelement-20110" min="0" max="1" note="screening aangekaart" />
   <field concept="peri22-dataelement-20120" min="0" max="1" note="counseling gewenst" />
   <field concept="peri22-dataelement-20103" min="0" max="1" note="geboortedatum eiceldonatrice" />
@@ -12,6 +12,7 @@
   <field concept="peri22-dataelement-20175" min="0" max="1" note="diabetes type I" />
   <field concept="peri22-dataelement-20485" min="0" max="1" note="combinatietest gewenst" />
   <field concept="peri22-dataelement-20495" min="0" max="1" note="structureel echoscopisch onderzoek gewenst" />
+  <field concept="peri22-dataelement-20460" min="0" max="1" note="counseling betreft" />
   <field concept="peri22-dataelement-20480" min="0" max="1" note="direct invasieve prenatale diagnostiek gewenst" />
   <field concept="peri22-dataelement-20490" min="0" max="1" note="direct geavanceerd ultrageluidonderzoek gewenst" />
 </sectionType>

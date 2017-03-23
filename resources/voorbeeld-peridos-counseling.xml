@@ -12,10 +12,8 @@
         <value concept="peri22-dataelement-10040" label="Geboortedatum" value="1988-11-25"/>
         <value concept="peri22-dataelement-10041" label="Postcode" value="0000 AA"/>
         <value concept="peri22-dataelement-10400" label="Etniciteit" value="12"/>
-        <!--
-        <value concept="?" label="Voorletters" value="0000 AA"/>
-        <value concept="?" label="Voorvoegsel" value="0000 AA"/>
-        -->
+        <value concept="peri22-dataelement-82359" label="Voorletters" value="MH"/>
+        <value concept="peri22-dataelement-82363" label="Voorvoegsel" value="de"/>
         <value concept="peri22-dataelement-10043" label="Geboorte achternaam" value="de Vries"/>
       </values>
     </section>

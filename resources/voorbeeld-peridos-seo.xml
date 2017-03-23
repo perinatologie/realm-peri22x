@@ -34,10 +34,9 @@
     <!-- te bepalen: is type `echo` hier meer van toepassing? -->
     <section type="bevindingen" id="8">
       <values>
-        <!--
-        <value concept="" label="Neuraalbuisdefecten" value="" />
-        <value concept="" label="Intracraniële afwijkingen'" value=""/>
-        -->
+        <value concept="peri22-dataelement-82237" label="Neuraalbuis van de wervelkolom" value="" />
+        <value concept="peri22-dataelement-82240" label="Hersenen neuraalbuisdefect" value="" />
+        <value concept="peri22-dataelement-82241" label="Hersenen overige'" value=""/>
         <value concept="peri22-dataelement-82242" label="Afwijkingen aangezicht" value="" />
         <value concept="peri22-dataelement-82243" label="Afwijkingen nek / huid" value="" />
         <value concept="peri22-dataelement-82244" label="Hartafwijkingen en hartritmestoornissen" value="" />
@@ -46,11 +45,13 @@
         <value concept="peri22-dataelement-82247" label="Buikwanddefecten" value="" />
         <value concept="peri22-dataelement-82248" label="Afwijkingen maag-darm" value="" />
         <value concept="peri22-dataelement-82249" label="Afwijkingen nieren-blaas" value="" />
+        <value concept="peri22-dataelement-82250" label="Extremiteiten" value="" />
+        <value concept="peri22-dataelement-82251" label="Skelet" value="" />
         <!--
-        <value concept="" label="Afwijkingen skelet en extremiteiten" value="" />
         <value concept="" label="Hydrops foetalis" value="" />
-        <value concept="" label="Biometrie" value="" />
         -->
+        <value concept="peri22-dataelement-82252" label="Biometrie" value="" />
+        <value concept="peri22-dataelement-82278" label="Afwijkende groei foetus" value="" />
         <value concept="peri22-dataelement-82253" label="Afwijkend vruchtwatercompartiment" value="" />
         <value concept="peri22-dataelement-82254" label="Navelstreng afwijkingen" value="" />
         <value concept="peri22-dataelement-82255" label="Placenta afwijkingen" value="" />

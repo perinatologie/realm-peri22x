@@ -24,13 +24,17 @@
   <field concept="peri22-dataelement-10303" min="0" max="1" note="huisnummertoevoeging" />
   <field concept="peri22-dataelement-10304" min="0" max="1" note="postcode" />
   <field concept="peri22-dataelement-10305" min="0" max="1" note="plaats" />
+  <field concept="peri22-dataelement-10306" min="0" max="1" note="gemeentenaam" />
   <field concept="peri22-dataelement-10307" min="0" max="1" note="land" />
+  <field concept="peri22-dataelement-10308" min="0" max="1" note="adrestype" />
   <field concept="peri22-dataelement-82022" min="0" max="1" note="huisarts" />
   <field concept="peri22-dataelement-82023" min="0" max="1" note="apotheker" />
   <field concept="peri22-dataelement-82024" min="0" max="1" note="specialist" />
   <field concept="peri22-dataelement-80639" min="0" max="10" note="partner voornaam" />
   <field concept="peri22-dataelement-80640" min="0" max="1" note="partner voorvoegsel" />
   <field concept="peri22-dataelement-80641" min="0" max="1" note="partner achternaam" />
+  <field concept="peri22-dataelement-80636" min="0" max="1" note="partner etniciteit" />
   <field concept="peri22x-burgelijke_staat" min="0" max="1" note="burg.staat" />
-  <field concept="peri22-dataelement-82156" min="0" max="1" note="godsdienst" />
+  <field concept="peri22-dataelement-82156" min="0" max="1" note="geloofsovertuiging" />
+  <field concept="peri22-dataelement-82157" min="0" max="1" note="accepteert bloedtransfusie" />
 </sectionType>

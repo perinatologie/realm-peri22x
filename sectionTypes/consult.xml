@@ -12,12 +12,20 @@
   <field concept="peri22-dataelement-80747" min="0" max="1" note="alcohol" />
   <field concept="peri22-dataelement-82102" min="0" max="1" note="drugsgebruik?" />
   <field concept="peri22-dataelement-80836" min="0" max="1" note="proteïne in urine o.b.v. strips" />
-  <field concept="peri22-dataelement-80832" min="0" max="1" note="rr" />
+  <field concept="peri22-dataelement-80833" min="0" max="1" note="systolische bloeddruk" />
+  <field concept="peri22-dataelement-80834" min="0" max="1" note="diastolische bloeddruk" />
   <field concept="peri22-dataelement-20211" min="0" max="1" note="gewicht" />
   <field concept="peri22-dataelement-80746" min="0" max="1" note="leven voelen" />
+  <field concept="peri22-dataelement-80742" min="0" max="1" note="fundusstand" />
   <field concept="peri22-dataelement-80741" min="0" max="1" note="fundushoogte (cm)" />
+  <field concept="peri22-dataelement-80945" min="0" max="1" note="vruchtwater" />
   <field concept="peri22-dataelement-10814" min="0" max="1" note="hb" />
   <field concept="peri22-dataelement-80951" min="0" max="1" note="mcv" />
+  <field concept="peri22-dataelement-80836" min="0" max="1" note="proteïne obv strips ontdubbelen" />
   <field concept="peri22-dataelement-80622" min="0" max="1" note="ligging" />
+  <field concept="peri22-dataelement-80744" min="0" max="1" note="indaling" />
+  <field concept="peri22-dataelement-82106" min="0" max="1" note="regelmaat hartslag" />
+  <field concept="peri22-dataelement-82107" min="0" max="1" note="frequentie hartslag" />
+  <field concept="peri22-dataelement-80745" min="0" max="1" note="hartactie op basis van" />
   <field concept="peri22-dataelement-80614" min="0" max="1" note="iuvd" />  
 </sectionType>

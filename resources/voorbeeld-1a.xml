@@ -6,7 +6,7 @@
       label="Client"
       id="1234-5678-9012-3455"
       createstamp="1451746230"
-      effectiveStamp="2016-02-01">
+      effectiveStamp="1451746230">
       <values>
         <value
           concept="peri22-dataelement-10031"
@@ -18,7 +18,7 @@
         />
         <value
           concept="peri22-dataelement-10040"
-          value="1974-04-03"
+          value="03-04-1974"
         />
         <value
           concept="peri22-dataelement-82360"
@@ -64,15 +64,15 @@
           concept="peri22-dataelement-10401"
           value="G"
         />
-        <value
+        <value 
           concept="peri22-dataelement-10301"
           value="Rietveldlaan"
         />
-        <value
+        <value 
           concept="peri22-dataelement-10302"
           value="119"
         />
-        <value
+        <value 
           concept="peri22-dataelement-10303"
           value="B"
         />
@@ -160,7 +160,7 @@
         />
       </values>
     </section>
-    <section type="intake" id="1234-5678-9012-3456" effectiveStamp="2016-02-01" label="Intake">
+    <section type="intake" id="1234-5678-9012-3456" effectiveStamp="1451746830" label="Intake">
       <values>
         <value
           concept="peri22-dataelement-20010"
@@ -180,19 +180,19 @@
         />
         <value
           concept="peri22-dataelement-20290"
-          value="2016-01-05"
+          value="05-01-2016"
         />
         <value
           concept="peri22-dataelement-20340"
-          value="2016-08-10"
+          value="10-08-2016"
         />
         <value
           concept="peri22-dataelement-20030"
-          value="2016-08-07"
+          value="07-08-16"
         />
         <value
           concept="peri22-dataelement-20040"
-          value="2016-01-05"
+          value="05-01-16"
         />
         <value
           concept="peri22-dataelement-20050"
@@ -204,7 +204,7 @@
         />
         <value
           concept="peri22-dataelement-82160"
-          value="2016-08-10"
+          value="10-08-16"
         />
         <value
           concept="peri22-dataelement-80669"
@@ -322,7 +322,7 @@
         />
       </values>
     </section>
-    <section type="anamnese" id="4567-5678-9012-3456" effectiveStamp="2016-02-01" label="anamnese">
+    <section type="anamnese" id="4567-5678-9012-3456" effectiveStamp="1451746830" label="anamnese">
       <values>
         <value
             concept="peri22-dataelement-82020"
@@ -474,18 +474,18 @@
           />
       </values>
     </section>
-    <section type="consult" id="zc1" effectiveStamp="2016-07-01" label="Consult">
+    <section type="consult" id="zc1" effectiveStamp="1467384630" label="Consult">
       <values>
         <value
           concept="peri22-dataelement-80737"
-          value="2016-07-01"
+          value="01-07-2016"
         />
         <value
           concept="peri22-dataelement-82067"
           value="11"
         />
         <value
-          concept="peri22-dataelement-80736"
+          concept="	peri22-dataelement-80736"
           value="Vivian de Verloskundige"
         />
         <value
@@ -550,21 +550,21 @@
         />
         <value
           concept="peri22-dataelement-80748"
-          value="Gaat goed. Nog geen kraamzorg besproken. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque congue, neque nec sagittis tempus, odio metus auctor sem, sit amet euismod leo lacus et eros. Aliquam varius suscipit quam nec malesuada. Cras vestibulum lorem non sapien facilisis convallis. Fusce metus mi, varius vitae luctus ac, convallis in dui. Mauris eu arcu tellus. Vivamus tempus faucibus ex ac interdum. Suspendisse mauris neque, maximus lacinia nunc sed, vulputate lobortis ligula. Morbi semper lectus ipsum, nec hendrerit tortor ultricies sed. Sed ante neque, pharetra vitae ex in, congue tincidunt sem. Proin condimentum tellus eget lectus venenatis sollicitudin. Suspendisse scelerisque nisi at lectus rutrum, non eleifend nisl interdum. Donec id magna felis. Suspendisse maximus tincidunt enim, et egestas leo placerat ac. Vestibulum porta mauris ut eros blandit, eu pulvinar tellus tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          value="Gaat goed. Nog geen kraamzorg besproken."
         />
       </values>
     </section>
-
-    <section type="consult" id="zc2" effectiveStamp="2016-07-22" label="Consult">
+    
+    <section type="consult" id="zc2" effectiveStamp="1469192430" label="Consult">
       <values>
         <value
           concept="peri22-dataelement-80737"
-          value="2016-07-22"
+          value="22-07-2016"
         />
         <value
           concept="peri22-dataelement-82067"
           value="11"
-        />
+        />        
 <!--
         <value
           concept="	peri22-dataelement-80736"

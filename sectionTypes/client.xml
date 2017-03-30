@@ -14,6 +14,7 @@
   <field concept="peri22-dataelement-82363" min="0" max="1" note="voorvoegsel"/>
   <field concept="peri22-dataelement-82361" min="0" max="1" note="familienaam" />
   <field concept="peri22-dataelement-10043" min="0" max="1" note="achternaam" />
+  <field concept="peri22x-vrouw-volledige_achternaam" min="0" max="1" note="volledige achternaam" />
   <field concept="peri22-dataelement-10810" min="0" max="1" note="bloedgroep" />
   <field concept="peri22x-vrouw-geboorteland" min="0" max="1" note="geboorteland" />
   <field concept="peri22-dataelement-10400" min="0" max="1" note="etniciteit" />

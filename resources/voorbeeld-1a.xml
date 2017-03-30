@@ -60,11 +60,11 @@
           concept="peri22-dataelement-10401"
           value="G"
         />
-        <value 
+        <value
           concept="peri22-dataelement-10300"
           value="Rietveldlaan"
         />
-        <value 
+        <value
           concept="peri22-dataelement-10302"
           value="23E10"
         />
@@ -212,7 +212,7 @@
         />
       </values>
     </section>
-    
+
     <section type="consult" id="zc1" effectiveStamp="1467384630" label="Consult">
       <values>
         <value
@@ -275,11 +275,11 @@
         />
         <value
           concept="peri22-dataelement-80748"
-          value="Gaat goed. Nog geen kraamzorg besproken."
+          value="Gaat goed. Nog geen kraamzorg besproken. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque congue, neque nec sagittis tempus, odio metus auctor sem, sit amet euismod leo lacus et eros. Aliquam varius suscipit quam nec malesuada. Cras vestibulum lorem non sapien facilisis convallis. Fusce metus mi, varius vitae luctus ac, convallis in dui. Mauris eu arcu tellus. Vivamus tempus faucibus ex ac interdum. Suspendisse mauris neque, maximus lacinia nunc sed, vulputate lobortis ligula. Morbi semper lectus ipsum, nec hendrerit tortor ultricies sed. Sed ante neque, pharetra vitae ex in, congue tincidunt sem. Proin condimentum tellus eget lectus venenatis sollicitudin. Suspendisse scelerisque nisi at lectus rutrum, non eleifend nisl interdum. Donec id magna felis. Suspendisse maximus tincidunt enim, et egestas leo placerat ac. Vestibulum porta mauris ut eros blandit, eu pulvinar tellus tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
         />
       </values>
     </section>
-    
+
     <section type="consult" id="zc2" effectiveStamp="1469192430" label="Consult">
       <values>
         <value
@@ -289,7 +289,7 @@
         <value
           concept="peri22-dataelement-82067"
           value="11"
-        />        
+        />
 <!--
         <value
           concept="	peri22-dataelement-80736"

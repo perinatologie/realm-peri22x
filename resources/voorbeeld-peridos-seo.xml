@@ -24,7 +24,7 @@
     <section type="echo" id="7">
       <values>
         <value concept="peri22-dataelement-50020" label="Datum onderzoek" value="2017-10-14"/>
-        <value concept="peri22-dataelement-40025" label="Meerling nummer" value="1" />
+        <value concept="peri22-dataelement-40028" label="Meerling letter" value="A" repeat="1"/>
         <value concept="peri22-dataelement-51010" label="SEO type" value="1"/>
         <value concept="peri22-dataelement-82330" label="Conclusie SEO" value="1"/>
         <value concept="peri22-dataelement-82331" label="Advies SEO" value="1"/>

@@ -12,10 +12,10 @@
 -->
 <resource type="hub/dossier">
   <sections>
-    <section type="client" createStamp="1480599180">
+    <section type="client" createStamp="2016-05-01">
       <values>
         <value concept="peri22-dataelement-10030" label="BSN" value="392548480"/>
-        <value concept="peri22-dataelement-10040" label="Geboortedatum" value="03-04-1974"/>
+        <value concept="peri22-dataelement-10040" label="Geboortedatum" value="1974-04-03"/>
         <value concept="peri22-dataelement-10810" label="Bloedgroep" value="112144000" displayValue="Blood group A (finding)"/>
         <value concept="peri22-dataelement-82360" label="Roepnaam" value="Theressa"/>
         <value concept="peri22-dataelement-10042" label="Voornamen" value="Hendrika"/>
@@ -24,20 +24,20 @@
         <value concept="peri22-dataelement-82361" label="Familienaam" value="Jong"/>
       </values>
     </section>
-    <section type="intake" createStamp="1480599210" effectStamp="1470571200">
+    <section type="intake" createStamp="2016-05-01" effectStamp="2016-01-05">
       <values>
         <value concept="peri22-dataelement-20010" label="Graviditeit" value="3"/>
         <value concept="peri22-dataelement-20153" label="Pariteit" value="2"/>
         <value concept="peri22-dataelement-80678" label="Fetal loss +20wk" value="1"/>
         <value concept="peri22-dataelement-80617" label="Totaal in leven" value="2"/>
-        <value concept="peri22-dataelement-20290" label="Start datum dossier" value="05-01-2016"/>
-        <value concept="peri22-dataelement-20340" label="Datum eind dossier" value="10-08-2016"/>
-        <value concept="peri22-dataelement-20030" label="A terme datum" value="07-08-16"/>
+        <value concept="peri22-dataelement-20290" label="Start datum dossier" value="2016-01-05"/>
+        <value concept="peri22-dataelement-20340" label="Datum eind dossier" value="2016-08-10"/>
+        <value concept="peri22-dataelement-20030" label="A terme datum" value="2016-08-07"/>
       </values>
     </section>
-    <section type="consult" createStamp="1480599310" effectStamp="1467374400">
+    <section type="consult" createStamp="2016-07-01" effectStamp="2016-07-01">
       <values>
-        <value concept="peri22-dataelement-80737" label="Datum" value="01-07-2016"/>
+        <value concept="peri22-dataelement-80737" label="Datum" value="2016-07-01"/>
         <value concept="peri22-dataelement-80738" label="Zwangerschapsduur" value="36+2"/>
         <value concept="peri22-dataelement-80746" label="Leven voelen" value="289431008" displayValue="Fetal movements present (finding)"/>
         <value concept="peri22-dataelement-80741" label="Fundushoogte (cm)" value="25"/>
@@ -70,11 +70,11 @@
       </values>
     </section>
 
-    <section type="baring">
+    <section type="baring" effectStamp="2016-08-06">
       <values>
         <value concept="peri22-dataelement-20261" label="Voorgenomen locatie baring" value="23" displayValue="Geboortecentrum"/>
         <value concept="peri22-dataelement-20530" label="Risicostatus voor baring" value="1" displayValue="1e lijn (VIL A)"/>
-        <value concept="peri22-dataelement-80619" label="Gebroken vliezen" value="06-08-2016"/>
+        <value concept="peri22-dataelement-80619" label="Gebroken vliezen" value="2016-08-06"/>
 
         <!-- ook hier values per kind obv repeat attribuut -->
         <value concept="peri22-dataelement-82090" label="Pijnbestrijding?" repeat="1" value="True"/>

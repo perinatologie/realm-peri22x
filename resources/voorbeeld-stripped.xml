@@ -4,7 +4,7 @@
     <section id="1" type="client">
       <values>
         <value concept="peri22-dataelement-10030" value="392548480"/>
-        <value concept="peri22-dataelement-10040" value="03-04-1974"/>
+        <value concept="peri22-dataelement-10040" value="1974-04-03"/>
         <value concept="peri22-dataelement-10810" value="112144000"/>
         <value concept="peri22-dataelement-82360" value="Theressa"/>
         <value concept="peri22-dataelement-10042" value="Hendrika"/>
@@ -36,9 +36,9 @@
         <value concept="peri22-dataelement-20153" value="2"/>
         <value concept="peri22-dataelement-80678" value="1"/>
         <value concept="peri22-dataelement-80617" value="2"/>
-        <value concept="peri22-dataelement-20290" value="05-01-2016"/>
-        <value concept="peri22-dataelement-20340" value="10-08-2016"/>
-        <value concept="peri22-dataelement-20030" value="07-08-16"/>
+        <value concept="peri22-dataelement-20290" value="2016-01-05"/>
+        <value concept="peri22-dataelement-20340" value="2016-08-10"/>
+        <value concept="peri22-dataelement-20030" value="2016-08-07"/>
         <value concept="peri22-dataelement-80669" value="TRUE"/>
         <value concept="peri22-dataelement-20211" value="73"/>
         <value concept="peri22-dataelement-20212" value="171"/>
@@ -58,7 +58,7 @@
     </section>
     <section id="3" type="consult">
       <values>
-        <value concept="peri22-dataelement-80737" value="01-07-2016"/>
+        <value concept="peri22-dataelement-80737" value="2016-07-01"/>
         <value concept="peri22-dataelement-80738" value="36+2"/>
         <value concept="peri22-dataelement-80810" value="1"/>
         <value concept="peri22-dataelement-80747" value="1"/>
@@ -71,7 +71,7 @@
     </section>
     <section id="4" type="verwijzing">
       <values>
-        <value concept="peri22-dataelement-82013" value="01-06-2016"/>
+        <value concept="peri22-dataelement-82013" value="2016-06-01"/>
         <value concept="peri22-dataelement-82015" value="1010"/>
         <value concept="peri22-dataelement-10801" value="FALSE"/>
         <value concept="peri22-dataelement-80614" value="FALSE"/>
@@ -82,7 +82,7 @@
       <values>
         <value concept="peri22-dataelement-20110" value="TRUE"/>
         <value concept="peri22-dataelement-20120" value="NASK"/>
-        <value concept="peri22-dataelement-20103" value="01-10-1981"/>
+        <value concept="peri22-dataelement-20103" value="1981-10-01"/>
         <value concept="peri22-dataelement-25970" value="FALSE"/>
         <value concept="peri22-dataelement-20175" value="FALSE"/>
         <value concept="peri22-dataelement-20485" value="TRUE"/>
@@ -97,7 +97,7 @@
         <value concept="peri22-dataelement-20530" value="1"/>
         <value concept="peri22-dataelement-20580" value="TRUE"/>
         <value concept="peri22-dataelement-20585" value="4"/>
-        <value concept="peri22-dataelement-20600" value="06-08-2016"/>
+        <value concept="peri22-dataelement-20600" value="2016-08-06"/>
         <value concept="peri22-dataelement-10601" value="278092006"/>
         <value concept="peri22-dataelement-30060" value="3"/>
         <value concept="peri22-dataelement-20560" value="236966000"/>

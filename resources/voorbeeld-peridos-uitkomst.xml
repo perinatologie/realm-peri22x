@@ -6,7 +6,7 @@
         <value concept="peri22-dataelement-10003" label="Identificatie zorgverlener" value="08001234" />
       </values>
     </section>
-    <section type="client" id="1" createStamp="1480599180">
+    <section type="client" id="1" createStamp="2016-08-07">
       <values>
         <value concept="peri22-dataelement-10030" label="BSN" value="999999011"/>
         <value concept="peri22-dataelement-10040" label="Geboortedatum" value="1988-11-25"/>

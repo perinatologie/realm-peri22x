@@ -2,39 +2,39 @@
 <!--
    Onderstaande voorbeeld bericht bevat een representatief goed gevuld
    dossier.
-   
+
    Bij aanlevering zijn voor de `value` elementen slechts het `concept`
    en `value` attribuut vereist. Het `label` en `displayValue` worden
    automatisch ingevuld obv het concept en value. In onderstaande
    voorbeeld zijn de optionele `label` en `displayValue` attributen wel
    aanwezig ter verduidelijking.
-   
+
    Het resource `type` geeft aan welke sections er verwacht kunnen worden.
 -->
 <resource type="hub/dossier">
   <sections>
     <!--
-      
+
       Alle values bevinden zich in een section.
-      
+
       Attributen:
-      
+
       * type: Verplicht, bepaalt welke values (obv concept) er in deze section verwacht worden
       * uuid: Optioneel, uuid van section verwijzing in bron-systeem tbv o.a. ontdubbelen
       * createStamp: Optioneel, wanneer is dit record aangemaakt
       * updateStamp: Optioneel, wanneer is dit record voor het laatst gewijzigd
       * effectStamp: Optioneel, op welke datum heeft deze section betrekking. Bij
            section van type "consult" is dit bv de consult-datum.
-      
-      Alle stamps zijn zgn. unix timestamps, totaal aantal seconden sinds 1-1-1970 
+
+      Alle stamps zijn zgn. unix timestamps, totaal aantal seconden sinds 1-1-1970
     -->
-    <section type="client" id="1" createStamp="1480599180">
+    <section type="client" id="1" createStamp="2016-12-01">
       <values>
         <!--
           Alle `value` elementen voor deze section
-          
+
           Attributen:
-          
+
           * concept: Verplicht, unieke identifier voor het concept, gedocumenteerd in de een van
             de realm datasets, en via viewer beschikbaar op o.a. https://dataset.perinatologie.nl
           * value: Verplicht, de code (igv concept type codelist) of directe waarde.
@@ -47,7 +47,7 @@
           Datum values worden tbv sorteren in reverse-notatie ingevuld als
           als YYYYMMDD igv tijd worden hier HHMM aan toegevoegd.
         -->
-        <value concept="peri22-dataelement-10040" label="Geboortedatum" value="03-04-1974"/>
+        <value concept="peri22-dataelement-10040" label="Geboortedatum" value="1974-04-03"/>
         <value concept="peri22-dataelement-10810" label="Bloedgroep" value="112144000" displayValue="Blood group A (finding)"/>
         <value concept="peri22-dataelement-82360" label="Roepnaam" value="Theressa"/>
         <value concept="peri22-dataelement-10042" label="Voornamen" value="Hendrika"/>
@@ -74,15 +74,15 @@
         <value concept="peri22x-geloofsovertuiging" label="Geloofsovertuiging" value="160552003" displayValue="Not religious"/>
       </values>
     </section>
-    <section type="intake" id="2" createStamp="1480599210" effectStamp="1470571200">
+    <section type="intake" id="2" createStamp="2016-01-05" effectStamp="2016-01-05">
       <values>
         <value concept="peri22-dataelement-20010" label="Graviditeit" value="3"/>
         <value concept="peri22-dataelement-20153" label="Pariteit" value="2"/>
         <value concept="peri22-dataelement-80678" label="Fetal loss +20wk" value="1"/>
         <value concept="peri22-dataelement-80617" label="Totaal in leven" value="2"/>
-        <value concept="peri22-dataelement-20290" label="Start datum dossier" value="05-01-2016"/>
-        <value concept="peri22-dataelement-20340" label="Datum eind dossier" value="10-08-2016"/>
-        <value concept="peri22-dataelement-20030" label="A terme datum" value="07-08-16"/>
+        <value concept="peri22-dataelement-20290" label="Start datum dossier" value="2016-01-05"/>
+        <value concept="peri22-dataelement-20340" label="Datum eind dossier" value="2016-08-10"/>
+        <value concept="peri22-dataelement-20030" label="A terme datum" value="2016-08-07"/>
         <value concept="peri22-dataelement-80669" label="Zekerheid AT" value="TRUE"/>
         <value concept="peri22-dataelement-20211" label="Gewicht" value="73"/>
         <value concept="peri22-dataelement-20212" label="Lengte" value="171"/>
@@ -101,9 +101,9 @@
         <value concept="peri22-dataelement-82103" label="Drug" value="398705004" displayValue="Cannabis (substance)"/>
       </values>
     </section>
-    <section type="consult" id="3" createStamp="1480599310" effectStamp="1467374400">
+    <section type="consult" id="3" createStamp="2016-07-01" effectStamp="2016-07-01">
       <values>
-        <value concept="peri22-dataelement-80737" label="Datum" value="01-07-2016"/>
+        <value concept="peri22-dataelement-80737" label="Datum" value="2016-07-01"/>
         <value concept="peri22-dataelement-80738" label="Zwangerschapsduur" value="36+2"/>
         <value concept="peri22-dataelement-80810" label="Roken" value="1" displayValue="niet gerookt"/>
         <value concept="peri22-dataelement-80747" label="Alcohol" value="1" displayValue="geen"/>
@@ -117,9 +117,9 @@
         <value concept="peri22-dataelement-80614" label="IUVD" value="FALSE"/>
       </values>
     </section>
-    <section type="verwijzing" id="4">
+    <section type="verwijzing" id="4" effectStamp="2016-06-01">
       <values>
-        <value concept="peri22-dataelement-82013" label="Datum onderzoek" value="01-06-2016"/>
+        <value concept="peri22-dataelement-82013" label="Datum onderzoek" value="2016-06-01"/>
         <value concept="peri22-dataelement-82015" label="Redensoort" value="1010" displayValue="Epilepsie zonder medicatie"/>
         <value concept="peri22-dataelement-20633" label="Bloedverlies" value=""/>
         <value concept="peri22-dataelement-10801" label="Medicatie" value="FALSE"/>
@@ -133,7 +133,7 @@
       <values>
         <value concept="peri22-dataelement-20110" label="Screening aangekaart" value="TRUE"/>
         <value concept="peri22-dataelement-20120" label="Counseling gewenst" value="NASK" displayValue="niet gevraagd"/>
-        <value concept="peri22-dataelement-20103" label="Geboortedatum eiceldonatrice" value="01-10-1981"/>
+        <value concept="peri22-dataelement-20103" label="Geboortedatum eiceldonatrice" value="1981-10-01"/>
         <value concept="peri22-dataelement-25970" label="Eerdere trisomie" value="FALSE"/>
         <value concept="peri22-dataelement-20175" label="Diabetes type I" value="FALSE"/>
         <value concept="peri22-dataelement-20485" label="Combinatietest gewenst" value="TRUE"/>
@@ -148,7 +148,7 @@
         <value concept="peri22-dataelement-20530" label="Risicostatus voor baring" value="1" displayValue="1e lijn (VIL A)"/>
         <value concept="peri22-dataelement-20580" label="Amniotomie" value="TRUE"/>
         <value concept="peri22-dataelement-20585" label="Fase amniotomie" value="4" displayValue="als interventie begin baring"/>
-        <value concept="peri22-dataelement-80619" label="Gebroken vliezen" value="06-08-2016"/>
+        <value concept="peri22-dataelement-80619" label="Gebroken vliezen" value="2016-08-06"/>
         <value concept="peri22-dataelement-20590" label="Tijdstip start actieve fase" value="" displayValue="-"/>
         <value concept="peri22-dataelement-10601" label="Duur actieve ontsluitingsfase" value=""/>
         <value concept="peri22-dataelement-80945" label="Vruchtwater" value="278092006"/>

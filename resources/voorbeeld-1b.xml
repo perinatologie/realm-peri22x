@@ -5,8 +5,8 @@
       type="client"
       label="Client"
       id="2234-5678-9012-3456"
-      createstamp="1468495230"
-      effectiveStamp="1468495230">
+      createstamp="2016-07-14"
+      effectiveStamp="2016-07-14">
       <values>
         <value
           concept="peri22-dataelement-10030"
@@ -14,7 +14,7 @@
         />
         <value
           concept="peri22-dataelement-10040"
-          value="03-04-1974"
+          value="1974-04-03"
         />
         <value
           concept="peri22-dataelement-82360"
@@ -60,11 +60,11 @@
           concept="peri22-dataelement-10401"
           value="P"
         />
-        <value 
+        <value
           concept="peri22-dataelement-10300"
           value="Rietveldweg"
         />
-        <value 
+        <value
           concept="peri22-dataelement-10302"
           value="23E10"
         />
@@ -110,7 +110,7 @@
         />
       </values>
     </section>
-    <section type="intake" id="2234-5678-9012-3457" effectiveStamp="1468495830" label="Intake">
+    <section type="intake" id="2234-5678-9012-3457" effectiveStamp="2016-07-14" label="Intake">
       <values>
         <value
           concept="peri22-dataelement-20010"
@@ -130,15 +130,15 @@
         />
         <value
           concept="peri22-dataelement-20290"
-          value="04-01-2016"
+          value="2016-01-04"
         />
         <value
           concept="peri22-dataelement-20340"
-          value="10-08-2016"
+          value="2016-08-10"
         />
         <value
           concept="peri22-dataelement-20030"
-          value="07-08-16"
+          value="2016-08-08"
         />
         <value
           concept="peri22-dataelement-80669"
@@ -213,12 +213,12 @@
 
       </values>
     </section>
-    
-    <section type="consult" id="zc2b" effectiveStamp="1468496790" label="Consult">
+
+    <section type="consult" id="zc2b" effectiveStamp="2016-07-14" label="Consult">
       <values>
         <value
           concept="peri22-dataelement-80737"
-          value="14-07-2016"
+          value="2016-07-14"
         />
         <value
           concept="peri22-dataelement-82067"

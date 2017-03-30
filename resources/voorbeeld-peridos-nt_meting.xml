@@ -6,14 +6,14 @@
         <value concept="peri22-dataelement-10003" label="Identificatie zorgverlener" value="08001234" />
       </values>
     </section>
-    <section type="client" id="1" createStamp="1480599180">
+    <section type="client" id="1" createStamp="2016-08-07">
       <values>
         <value concept="peri22-dataelement-10030" label="BSN" value="999999011"/>
         <value concept="peri22-dataelement-10040" label="Geboortedatum" value="1988-11-25"/>
         <value concept="peri22-dataelement-10041" label="Postcode" value="0000 AA"/>
       </values>
     </section>
-    <section type="zwangerschap" id="2" createStamp="1480599210" effectStamp="1470571200">
+    <section type="zwangerschap" id="2" createStamp="2016-08-07" effectStamp="2016-08-07">
       <values>
         <value concept="peri22-dataelement-20010" label="Graviditeit" value="3"/>
         <value concept="peri22-dataelement-20020" label="Hoeveelling" value="1"/>

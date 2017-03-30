@@ -9,6 +9,10 @@
       effectiveStamp="1451746230">
       <values>
         <value
+          concept="peri22-dataelement-10031"
+          value="4312945"
+        />
+        <value
           concept="peri22-dataelement-10030"
           value="392548480"
         />
@@ -60,13 +64,17 @@
           concept="peri22-dataelement-10401"
           value="G"
         />
-        <value
-          concept="peri22-dataelement-10300"
+        <value 
+          concept="peri22-dataelement-10301"
           value="Rietveldlaan"
         />
         <value
           concept="peri22-dataelement-10302"
-          value="23E10"
+          value="119"
+        />
+        <value 
+          concept="peri22-dataelement-10303"
+          value="B"
         />
         <value
           concept="peri22-dataelement-10304"
@@ -77,20 +85,62 @@
           value="Rotterdam"
         />
         <value
+          concept="peri22-dataelement-10306"
+          value="IJsselmonde"
+        />
+        <value
           concept="peri22-dataelement-10307"
           value="Nederland"
         />
+        <!--
         <value
-          concept="peri22-dataelement-82022"
+          concept="peri22-dataelement-10308"
+          value="Thuis"
+        />
+        -->
+        <value
+          concept="peri22-dataelement-82027"
+          value="123456789"
+        />
+        <value
+          concept="peri22-dataelement-82028"
+          value="01234567"
+        />
+        <value
+          concept="peri22-dataelement-82029"
           value="H. Arts"
         />
         <value
-          concept="peri22-dataelement-82023"
+          concept="peri22-dataelement-82030"
+          value="12345678"
+        />
+        <value
+          concept="peri22-dataelement-82031"
           value="A. Potheker"
         />
         <value
-          concept="peri22-dataelement-82024"
+          concept="peri22-dataelement-82039"
+          value="345678901"
+        />
+        <value
+          concept="peri22-dataelement-82032"
+          value="87654321"
+        />
+        <value
+          concept="peri22-dataelement-82033"
           value="S. Pecialist"
+        />
+        <value
+          concept="peri22-dataelement-82038"
+          value="Gynaecoloog"
+        />
+        <value
+          concept="peri22-dataelement-82036"
+          value="09876543"
+        />
+        <value
+          concept="peri22-dataelement-82037"
+          value="Het is mij een zorginstelling"
         />
         <value
           concept="peri22-dataelement-80639"
@@ -105,8 +155,8 @@
           value="Jong"
         />
         <value
-          concept="peri22-dataelement-10810"
-          value="112144000"
+          concept="peri22-dataelement-80636"
+          value="12"
         />
       </values>
     </section>
@@ -139,6 +189,26 @@
         <value
           concept="peri22-dataelement-20030"
           value="07-08-16"
+        />
+        <value
+          concept="peri22-dataelement-20040"
+          value="05-01-16"
+        />
+        <value
+          concept="peri22-dataelement-20050"
+          value="1"
+        />
+        <value
+          concept="peri22-dataelement-20055"
+          value="TRUE"
+        />
+        <value
+          concept="peri22-dataelement-82160"
+          value="10-08-16"
+        />
+        <value
+          concept="peri22-dataelement-80669"
+          value="TRUE"
         />
         <value
           concept="peri22-dataelement-80669"
@@ -179,6 +249,38 @@
           value="FALSE"
         />
         <value
+          concept="peri22-dataelement-80686"
+          value="FALSE"
+        />
+        <value
+          concept="peri22-dataelement-80675"
+          value="FALSE"
+        />
+        <value
+          concept="peri22-dataelement-80676"
+          value="130621000119105"
+        />
+        <value
+          concept="peri22-dataelement-10808"
+          value="30"
+        />
+        <value
+          concept="peri22-dataelement-10809"
+          value="40"
+        />
+        <value
+          concept="peri22-dataelement-10810"
+          value="112144000"
+        />
+        <value
+          concept="peri22-dataelement-10811"
+          value="165747007"
+        />
+        <value
+          concept="peri22-dataelement-10816"
+          value="21721000146106"
+        />
+        <value
           concept="peri22-dataelement-80675"
           value="FALSE"
         />
@@ -189,6 +291,14 @@
         <value
           concept="peri22-dataelement-82154"
           value="Ondernemer"
+        />
+        <value
+          concept="peri22-dataelement-82155"
+          value="10"
+        />
+        <value
+          concept="peri22-dataelement-82157"
+          value="TRUE"
         />
         <value
           concept="peri22-dataelement-82275"
@@ -212,7 +322,158 @@
         />
       </values>
     </section>
-
+    <section type="anamnese" id="4567-5678-9012-3456" effectiveStamp="1451746830" label="anamnese">
+      <values>
+        <value
+            concept="peri22-dataelement-82020"
+            value="FALSE"
+          />
+          <value
+            concept="peri22-dataelement-80905"
+            value="TRUE"
+          />
+          <value
+            concept="peri22-dataelement-82220"
+            value="396332003"
+          />
+          <value
+            concept="peri22-dataelement-82216"
+            value="TRUE"
+          />
+          <value
+            concept="peri22-dataelement-80906"
+            value="38341003"
+          />
+          <value
+            concept="peri22-dataelement-80907"
+            value="TRUE"
+          />
+          <value
+            concept="peri22-dataelement-82267"
+            value="61373006"
+          />
+          <value
+            concept="peri22-dataelement-80908"
+            value="TRUE"
+          />
+          <value
+            concept="peri22-dataelement-82221"
+            value="OTH"
+          />
+          <value
+            concept="peri22-dataelement-82217"
+            value="TRUE"
+          />
+          <value
+            concept="peri22-dataelement-80909"
+            value="40930008"
+          />
+          <value
+            concept="peri22-dataelement-80910"
+            value="FALSE"
+          />
+          <value
+            concept="peri22-dataelement-82218"
+            value="TRUE"
+          />
+          <value
+            concept="peri22-dataelement-80912"
+            value="84757009"
+          />
+          <value
+            concept="peri22-dataelement-80913"
+            value="TRUE"
+          />
+          <value
+            concept="peri22-dataelement-82210"
+            value="15628003"
+          />
+          <value
+            concept="peri22-dataelement-80914"
+            value="TRUE"
+          />
+          <value
+            concept="peri22-dataelement-82219"
+            value="328383001"
+          />
+          <value
+            concept="peri22-dataelement-80915"
+            value="TRUE"
+          />
+          <value
+            concept="peri22-dataelement-82222"
+            value="80141007"
+          />
+          <value
+            concept="peri22-dataelement-80916"
+            value="TRUE"
+          />
+          <value
+            concept="peri22-dataelement-82266"
+            value="195967001"
+          />
+          <value
+            concept="peri22-dataelement-82211"
+            value="TRUE"
+          />
+          <value
+            concept="peri22-dataelement-80917"
+            value="37849005"
+          />
+          <value
+            concept="peri22-dataelement-82213"
+            value="TRUE"
+          />
+          <value
+            concept="peri22-dataelement-80918"
+            value="48334007"
+          />
+          <value
+            concept="peri22-dataelement-10805"
+            value="FALSE"
+          />
+          <value
+            concept="peri22-dataelement-82231"
+            value="FALSE"
+          />
+          <value
+            concept="peri22-dataelement-80939"
+            value="TRUE"
+          />
+          <value
+            concept="peri22-dataelement-80818"
+            value="12745006"
+          />
+          <value
+            concept="peri22-dataelement-80940"
+            value="TRUE"
+          />
+          <value
+            concept="peri22-dataelement-80817"
+            value="90935002"
+          />
+          <value
+            concept="peri22-dataelement-82159"
+            value="TRUE"
+          />
+          <value
+            concept="peri22-dataelement-82332"
+            value="In de war"
+          />
+          <value
+            concept="peri22-dataelement-82212"
+            value="TRUE"
+          />
+          <value
+            concept="peri22-dataelement-80919"
+            value="Aandoenlijk"
+          />
+          <value
+            concept="peri22-dataelement-82158"
+            value="Het zit niet mee"
+          />
+      </values>
+    </section>
     <section type="consult" id="zc1" effectiveStamp="1467384630" label="Consult">
       <values>
         <value
@@ -221,14 +482,12 @@
         />
         <value
           concept="peri22-dataelement-82067"
-          value="12"
+          value="11"
         />
-<!--
         <value
           concept="	peri22-dataelement-80736"
           value="Vivian de Verloskundige"
         />
--->
         <value
           concept="peri22-dataelement-80738"
           value="35+2"
@@ -242,8 +501,12 @@
           value="1"
         />
         <value
-          concept="peri22-dataelement-80832"
-          value="30/40"
+          concept="peri22-dataelement-80833"
+          value="30"
+        />
+        <value
+          concept="peri22-dataelement-80834"
+          value="40"
         />
         <value
           concept="peri22-dataelement-20211"
@@ -253,10 +516,21 @@
           concept="peri22-dataelement-80746"
           value="289431008"
         />
+        <!--
         <value
-          value="100"
-          concept="peri22-dataelement-80741"
+          concept="peri22-dataelement-80740"
+          value="-"
         />
+        -->
+        <value
+          concept="peri22-dataelement-80741"
+          value="100"
+        />
+        <value
+          concept="peri22-dataelement-80945"
+          value="278092006"
+        />
+        <!--
         <value
           concept="peri22-dataelement-10814"
           value=""
@@ -265,6 +539,7 @@
           concept="peri22-dataelement-80951"
           value=""
         />
+        -->
         <value
           concept="peri22-dataelement-80622"
           value="70028003"
@@ -309,8 +584,12 @@
           value="1"
         />
         <value
-          concept="peri22-dataelement-80832"
-          value="30/40"
+          concept="peri22-dataelement-80833"
+          value="35"
+        />
+        <value
+          concept="peri22-dataelement-80834"
+          value="45"
         />
         <value
           concept="peri22-dataelement-20211"
@@ -321,8 +600,12 @@
           value="289431008"
         />
         <value
-          value="100"
+          concept="peri22-dataelement-80742"
+          value="21881000146104"
+        />
+        <value
           concept="peri22-dataelement-80741"
+          value="100"
         />
 <!--        <value
           concept="peri22-dataelement-80740"

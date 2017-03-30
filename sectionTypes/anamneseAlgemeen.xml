@@ -4,20 +4,41 @@
   label="Algemene anamnese"
   >
   <property name="definition">Algemene anamnese</property>
-  
-  <field concept="peri22-dataelement-82211" min="0" max="1" note="Gynaecologische aandoening?" />
-  <field concept="peri22-dataelement-80917" min="0" max="*" note="Gynaecologische aandoening" />
-  <field concept="peri22-dataelement-80905" min="0" max="1" note="Auto-immuun aandoening?" />
-  <field concept="peri22-dataelement-82216" min="0" max="1" note="Cardiovasculaire aandoening?" />
-  <field concept="peri22-dataelement-80906" min="0" max="*" note="Cardiovasculaire aandoening" />
-  <field concept="peri22-dataelement-80907" min="0" max="1" note="Urogenitale aandoening?" />
-  <field concept="peri22-dataelement-80910" min="0" max="1" note="Diabetes mellitus?" />
-  <field concept="peri22-dataelement-82218" min="0" max="1" note="Neurologische aandoening?" />
-  <field concept="peri22-dataelement-80912" min="0" max="*" note="Neurologische aandoening" />
-  <field concept="peri22-dataelement-80914" min="0" max="1" note="MDL aandoening?" />
-  <field concept="peri22-dataelement-80916" min="0" max="1" note="Longaandoening?" />
-  <field concept="peri22-dataelement-82213" min="0" max="1" note="Orthopedische afwijking?" />
-  <field concept="peri22-dataelement-80940" min="0" max="1" note="Stollingsprobleem?" />
-  <field concept="peri22-dataelement-82159" min="0" max="1" note="Psychiatrie?" />
-  <field concept="peri22-dataelement-82212" min="0" max="1" note="Overige aandoening?" />
+  <field concept="peri22-dataelement-82020" min="0" max="1" note="onder behandeling (geweest)?" />
+  <field concept="peri22-dataelement-80905" min="0" max="1" note="auto-immuun aandoening?" />
+  <field concept="peri22-dataelement-82220" min="0" max="1" note="auto-immuun aandoening" />
+  <field concept="peri22-dataelement-82216" min="0" max="1" note="cardiovasculaire aandoening?" />
+  <field concept="peri22-dataelement-80906" min="0" max="1" note="cardiovasculaire aandoening" />
+  <field concept="peri22-dataelement-80907" min="0" max="1" note="urogenitale aandoening?" />
+  <field concept="peri22-dataelement-82267" min="0" max="1" note="urogenitale aandoening" />
+  <field concept="peri22-dataelement-80908" min="0" max="1" note="oncologische aandoening?" />
+  <field concept="peri22-dataelement-82221" min="0" max="1" note="oncologische aandoening" />
+  <field concept="peri22-dataelement-82217" min="0" max="1" note="schildklier aandoening?" />
+  <field concept="peri22-dataelement-80909" min="0" max="1" note="schildklier aandoening" />
+  <field concept="peri22-dataelement-80910" min="0" max="1" note="diabetes mellitus?" />
+  <field concept="peri22-dataelement-82218" min="0" max="1" note="neurologische aandoening?" />
+  <field concept="peri22-dataelement-80912" min="0" max="*" note="neurologische aandoening" />
+  <field concept="peri22-dataelement-80913" min="0" max="1" note="infectieziekte?" />
+  <field concept="peri22-dataelement-82210" min="0" max="*" note="infectieziekte" />
+  <field concept="peri22-dataelement-80914" min="0" max="1" note="mdl aandoening?" />
+  <field concept="peri22-dataelement-82219" min="0" max="1" note="mdl aandoening" />
+  <field concept="peri22-dataelement-80915" min="0" max="1" note="anemie?" />
+  <field concept="peri22-dataelement-82222" min="0" max="1" note="anemie" />
+  <field concept="peri22-dataelement-80916" min="0" max="1" note="longaandoening?" />
+  <field concept="peri22-dataelement-82266" min="0" max="1" note="longaandoening" />
+  <field concept="peri22-dataelement-82211" min="0" max="1" note="gynaecologische aandoening?" />
+  <field concept="peri22-dataelement-80917" min="0" max="*" note="gynaecologische aandoening" />
+  <field concept="peri22-dataelement-82213" min="0" max="1" note="orthopedische afwijking?" />
+  <field concept="peri22-dataelement-80918" min="0" max="1" note="orthopedische afwijking" />
+  <field concept="peri22-dataelement-10805" min="0" max="1" note="bloedtransfusie?" />
+  <field concept="peri22-dataelement-82231" min="0" max="1" note="transfusiereactie?" />
+  <field concept="peri22-dataelement-80939" min="0" max="1" note="operatie?" />
+  <field concept="peri22-dataelement-80818" min="0" max="1" note="type operatie" />
+  <field concept="peri22-dataelement-80940" min="0" max="1" note="stollingsprobleem?" />
+  <field concept="peri22-dataelement-80817" min="0" max="1" note="type stollingsprobleem" />
+  <field concept="peri22-dataelement-82159" min="0" max="1" note="psychiatrie?" />
+  <field concept="peri22-dataelement-82332" min="0" max="1" note="psychiatrie" />
+  <field concept="peri22-dataelement-82212" min="0" max="1" note="overige aandoening?" />
+  <field concept="peri22-dataelement-80919" min="0" max="1" note="overige aandoening" />
+  <field concept="peri22-dataelement-82158" min="0" max="1" note="toelichting algemene anamnese" />
 </sectionType>

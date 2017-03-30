@@ -243,8 +243,12 @@
           value="1"
         />
         <value
-          concept="peri22-dataelement-80832"
-          value="35/45"
+          concept="peri22-dataelement-80833"
+          value="35"
+        />
+        <value
+          concept="peri22-dataelement-80834"
+          value="45"
         />
         <value
           concept="peri22-dataelement-20211"

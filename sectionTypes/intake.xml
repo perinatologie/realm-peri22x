@@ -18,6 +18,14 @@
   <field concept="peri22-dataelement-20212" min="0" max="1" note="lengte" />
   <field concept="peri22-dataelement-80664" min="0" max="1" note="hoofdbehandelaar" />
   <field concept="peri22-dataelement-10805" min="0" max="1" note="bloed trans" />
+  <field concept="peri22-dataelement-80686" min="0" max="1" note="consanguïniteit" />
+  <field concept="peri22-dataelement-80675" min="0" max="1" note="vrouwelijke genitale verminking" />
+  <field concept="peri22-dataelement-80676" min="0" max="1" note="type vrouwelijke genitale verminking" />
+  <field concept="peri22-dataelement-10808" min="0" max="1" note="actuele bloeddruk systolisch" />
+  <field concept="peri22-dataelement-10809" min="0" max="1" note="actuele bloeddruk diastolisch" />
+  <field concept="peri22-dataelement-10810" min="0" max="1" note="bloedgroep" />
+  <field concept="peri22-dataelement-10811" min="0" max="1" note="rhesus d factor vrouw" />
+  <field concept="peri22-dataelement-10816" min="0" max="1" note="rhesus c factor" />
   <field concept="peri22-dataelement-80939" min="0" max="1" note="operaties" />
   <field concept="peri22-dataelement-10803" min="0" max="1" note="nse" />
   <field concept="peri22-dataelement-80680" min="0" max="1" note="huis. geweld" />
@@ -33,5 +41,5 @@
   <field concept="peri22-dataelement-20331" min="0" max="*" note="reden van overname (lijst PRN)" />
   <field concept="peri22-dataelement-82164" min="0" max="1" note="perinatale periode van overname" />
   <field concept="peri22-dataelement-10023" min="0" max="1" note="zorginstelling LVR-ID" />
-
+  
 </sectionType>

@@ -41,4 +41,24 @@
   <field concept="peri22-dataelement-82212" min="0" max="1" note="overige aandoening?" />
   <field concept="peri22-dataelement-80919" min="0" max="1" note="overige aandoening" />
   <field concept="peri22-dataelement-82158" min="0" max="1" note="toelichting algemene anamnese" />
+  
+  <field concept="peri22-dataelement-80681" min="0" max="1" note="psychosociale problematiek?" />
+  <field concept="peri22-dataelement-10803" min="0" max="1" note="negatieve seksuele ervaringen?" />
+  <field concept="peri22-dataelement-80680" min="0" max="1" note="huiselijk geweld?" />
+  <field concept="peri22-dataelement-82333" min="0" max="1" note="toelichting psychosociale anamnese" />
+  
+  <field concept="peri22-dataelement-10800" min="0" max="1" note="relevante allergieën (acute fase)" />
+  <field concept="peri22-dataelement-10801" min="0" max="1" note="actueel medicatiegebruik? " />
+  <field concept="peri22-dataelement-10802" min="0" max="1" note="soort actuele medicatie" />
+  <field concept="peri22-dataelement-80751" min="0" max="1" note="begindatum" />
+  <field concept="peri22-dataelement-80752" min="0" max="1" note="einddatum" />
+  <field concept="peri22-dataelement-80750" min="0" max="1" note="dosering medicatie" />
+  <field concept="peri22-dataelement-80753" min="0" max="1" note="bijzonderheden" />
+  
+  <field concept="peri22-dataelement-80729" min="0" max="1" note="aandoening details" />
+  <field concept="peri22-dataelement-80730" min="0" max="1" note="type verwantschap" />
+  
+  <field concept="peri22-dataelement-80937" min="0" max="1" note="indicatie invasieve prenatale diagnostiek?" />
+  <field concept="peri22-dataelement-80938" min="0" max="1" note="indicatie guo?" />
+  <field concept="peri22-dataelement-82339" min="0" max="1" note="indicatie nipt?" />
 </sectionType>

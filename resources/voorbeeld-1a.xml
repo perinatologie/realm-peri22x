@@ -41,7 +41,7 @@
           value="Pietersen"
         />
         <value
-          concept="peri22x-vrouw-volledige_achternaam"
+          concept="peri22-dataelement-10043"
           value="Pietersen - de Jong"
         />
         <value
@@ -322,7 +322,7 @@
         />
       </values>
     </section>
-    <section type="anamnese" id="4567-5678-9012-3456" effectiveStamp="2016-02-01" label="anamnese">
+    <section type="anamneseAlgemeen" id="4567-5678-9012-3456" effectiveStamp="2016-02-01" label="Anamnese">
       <values>
         <value
             concept="peri22-dataelement-82020"
@@ -458,7 +458,7 @@
           />
           <value
             concept="peri22-dataelement-82332"
-            value="In de war"
+            value="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque congue, neque nec sagittis tempus, odio metus auctor sem, sit amet euismod leo lacus et eros."
           />
           <value
             concept="peri22-dataelement-82212"
@@ -470,8 +470,324 @@
           />
           <value
             concept="peri22-dataelement-82158"
-            value="Het zit niet mee"
+            value="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque congue, neque nec sagittis tempus, odio metus auctor sem, sit amet euismod leo lacus et eros."
           />
+          <value
+            concept="peri22-dataelement-80681"
+            value="TRUE"
+          />
+          <value
+            concept="peri22-dataelement-10803"
+            value="FALSE"
+          />
+          <value
+            concept="peri22-dataelement-80680"
+            value="FALSE"
+          />
+          <value
+            concept="peri22-dataelement-82333"
+            value="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque congue, neque nec sagittis tempus, odio metus auctor sem, sit amet euismod leo lacus et eros."
+          />
+          <value
+            concept="peri22-dataelement-10800"
+            value="300916003"
+          />
+          <value
+            concept="peri22-dataelement-10801"
+            value="TRUE"
+          />
+          <value
+            concept="peri22-dataelement-10802"
+            value="Paracetamol"
+          />
+          <value
+            concept="peri22-dataelement-80751"
+            value="2016-01-01"
+          />
+          <value
+            concept="peri22-dataelement-80752"
+            value=""
+          />
+          <value
+            concept="peri22-dataelement-80750"
+            value=""
+          />
+          <value
+            concept="peri22-dataelement-80753"
+            value="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque congue, neque nec sagittis tempus, odio metus auctor sem, sit amet euismod leo lacus et eros."
+          />
+          <value
+            concept="peri22-dataelement-80729"
+            value="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque congue, neque nec sagittis tempus, odio metus auctor sem, sit amet euismod leo lacus et eros."
+          />
+          <!--
+          <value
+            concept="peri22-dataelement-80730"
+            value=""
+          />
+          -->
+          <value
+            concept="peri22-dataelement-80937"
+            value="TRUE"
+          />
+          <value
+            concept="peri22-dataelement-80938"
+            value="TRUE"
+          />
+          <value
+            concept="peri22-dataelement-82339"
+            value="TRUE"
+          />
+      </values>
+    </section>
+    <section type="anamnese" id="oa1" effectiveStamp="2016-02-01" label="Obstetrische anamnese">
+      <values>
+        <value
+            concept="peri22-dataelement-10590"
+            value="20140012"
+        />
+        <value
+            concept="peri22-dataelement-80623"
+            value="1"
+        />
+        <value
+            concept="peri22-dataelement-82001"
+            value="2"
+        />
+        <value
+            concept="peri22-dataelement-82002"
+            value="1"
+        />
+        <value
+            concept="peri22-dataelement-82040"
+            value="2014-11-23"
+        />
+        <value
+            concept="peri22-dataelement-82041"
+            value="39+4"
+        />
+        <value
+            concept="peri22-dataelement-82214"
+            value="FALSE"
+        />
+        <value
+            concept="peri22-dataelement-82004"
+            value="2014-11-26"
+        />
+        <value
+            concept="peri22-dataelement-82005"
+            value="TRUE"
+        />
+        <value
+            concept="peri22-dataelement-82337"
+            value="2014-11-26"
+        />
+        <value
+            concept="peri22-dataelement-82315"
+            value="2014-04-12"
+        />
+        <value
+            concept="peri22-dataelement-82316"
+            value="8+6"
+        />
+        <value
+            concept="peri22-dataelement-82317"
+            value="OTH"
+        />
+        <value
+            concept="peri22-dataelement-82318"
+            value="FALSE"
+        />
+        <value
+            concept="peri22-dataelement-82319"
+            value="FALSE"
+        />
+        <value
+            concept="peri22-dataelement-82320"
+            value="FALSE"
+        />
+        <value
+            concept="peri22-dataelement-82321"
+            value="301775005"
+        />
+        <value
+            concept="peri22-dataelement-82322"
+            value="FALSE"
+        />
+        <value
+            concept="peri22-dataelement-82323"
+            value="48194001"
+        />
+        <value
+            concept="peri22-dataelement-82324"
+            value="FALSE"
+        />
+        <value
+            concept="peri22-dataelement-82325"
+            value="FALSE"
+        />
+        <value
+            concept="peri22-dataelement-82326"
+            value="199616008"
+        />
+        <value
+            concept="peri22-dataelement-82327"
+            value="FALSE"
+        />
+        <value
+            concept="peri22-dataelement-82328"
+            value="FALSE"
+        />
+        <value
+            concept="peri22-dataelement-82329"
+            value="FALSE"
+        />
+        <value
+            concept="peri22-dataelement-80708"
+            value="1"
+        />
+        <value
+            concept="peri22-dataelement-80837"
+            value="236960006"
+        />
+        <value
+            concept="peri22-dataelement-80838"
+            value="3"
+        />
+        <value
+            concept="peri22-dataelement-82336"
+            value="0"
+        />
+        <value
+            concept="peri22-dataelement-10598"
+            value="10"
+        />
+        <value
+            concept="peri22-dataelement-10601"
+            value="2"
+        />
+        <value
+            concept="peri22-dataelement-10602"
+            value="32"
+        />
+        <value
+            concept="peri22-dataelement-80674"
+            value="289854007"
+        />
+         <value
+            concept="peri22-dataelement-80710"
+            value="169813005"
+        />
+        <value
+            concept="peri22-dataelement-82113"
+            value="4567"
+        />
+        <value
+            concept="peri22-dataelement-82043"
+            value="45678901"
+        />
+        <value
+            concept="peri22-dataelement-82044"
+            value="Medisch centrum"
+        />
+        <value
+            concept="peri22-dataelement-82352"
+            value="Carel"
+        />
+        <value
+            concept="peri22-dataelement-82128"
+            value="Carel"
+        />
+        <!--
+        <value
+            concept="peri22-dataelement-82351"
+            value="de"
+        />
+        -->
+        <value
+            concept="peri22-dataelement-82129"
+            value="Jong"
+        />
+        <value
+            concept="peri22-dataelement-80712"
+            value="1"
+        />
+        <value
+            concept="peri22-dataelement-80702"
+            value="2014-11-23"
+        />
+        <value
+            concept="peri22-dataelement-80705"
+            value="FALSE"
+        />
+        <value
+            concept="peri22-dataelement-80706"
+            value=""
+        />
+        <value
+            concept="peri22-dataelement-80989"
+            value="TRUE"
+        />
+        <value
+            concept="peri22-dataelement-80990"
+            value="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque congue, neque nec sagittis tempus, odio metus auctor sem, sit amet euismod leo lacus et eros."
+        />
+        <value
+            concept="peri22-dataelement-80624"
+            value="48782003"
+        />
+        <value
+            concept="peri22-dataelement-82341"
+            value="39+4"
+        />
+        <value
+            concept="peri22-dataelement-10604"
+            value="3655"
+        />
+        <value
+            concept="peri22-dataelement-10605"
+            value="3"
+        />
+        <value
+            concept="peri22-dataelement-10606"
+            value="9"
+        />
+        <value
+            concept="peri22-dataelement-10607"
+            value="61586001"
+        />
+        <value
+            concept="peri22-dataelement-82046"
+            value="2"
+        />
+        <value
+            concept="peri22-dataelement-82047"
+            value="312850006:24609004=399031001"
+        />
+        <value
+            concept="peri22-dataelement-82215"
+            value="32189006"
+        />
+        <value
+            concept="peri22-dataelement-80997"
+            value="FALSE"
+        />
+        <value
+            concept="peri22-dataelement-81000"
+            value="88425004"
+        />
+        <value
+            concept="peri22-dataelement-81002"
+            value="FALSE"
+        />
+        <value
+            concept="peri22-dataelement-81004"
+            value="41040004"
+        />
+        <value
+            concept="peri22-dataelement-80717"
+            value="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque congue, neque nec sagittis tempus, odio metus auctor sem, sit amet euismod leo lacus et eros."
+        />
       </values>
     </section>
     <section type="consult" id="zc1" effectiveStamp="2016-07-01" label="Consult">

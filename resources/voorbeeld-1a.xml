@@ -5,8 +5,8 @@
       type="client"
       label="Client"
       id="1234-5678-9012-3455"
-      createstamp="1451746230"
-      effectiveStamp="2016-02-01">
+      createstamp="2016-02-01"
+      effectStamp="2016-02-01">
       <values>
         <value
           concept="peri22-dataelement-10031"
@@ -160,7 +160,7 @@
         />
       </values>
     </section>
-    <section type="intake" id="1234-5678-9012-3456" effectiveStamp="2016-02-01" label="Intake">
+    <section type="intake" id="1234-5678-9012-3456" effectStamp="2016-02-01" label="Intake">
       <values>
         <value
           concept="peri22-dataelement-20010"
@@ -322,7 +322,7 @@
         />
       </values>
     </section>
-    <section type="anamnese" id="4567-5678-9012-3456" effectiveStamp="2016-02-01" label="anamnese">
+    <section type="anamnese" id="4567-5678-9012-3456" effectStamp="2016-02-01" label="anamnese">
       <values>
         <value
             concept="peri22-dataelement-82020"
@@ -474,7 +474,7 @@
           />
       </values>
     </section>
-    <section type="consult" id="zc1" effectiveStamp="2016-07-01" label="Consult">
+    <section type="consult" id="zc1" effectStamp="2016-07-01" label="Consult">
       <values>
         <value
           concept="peri22-dataelement-80737"
@@ -554,8 +554,8 @@
         />
       </values>
     </section>
-    
-    <section type="consult" id="zc2" effectiveStamp="2016-07-22" label="Consult">
+
+    <section type="consult" id="zc2" effectStamp="2016-07-22" label="Consult">
       <values>
         <value
           concept="peri22-dataelement-80737"
@@ -564,7 +564,7 @@
         <value
           concept="peri22-dataelement-82067"
           value="11"
-        />        
+        />
 <!--
         <value
           concept="	peri22-dataelement-80736"

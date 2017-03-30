@@ -6,7 +6,7 @@
       label="Client"
       id="4234-5678-9012-3458"
       createstamp="2016-07-05"
-      effectiveStamp="2016-07-05">
+      effectStamp="2016-07-05">
       <values>
         <value
           concept="peri22-dataelement-10030"
@@ -110,7 +110,7 @@
         />
       </values>
     </section>
-    <section type="intake" id="4234-5678-9012-3458" effectiveStamp="2016-07-05" label="Intake">
+    <section type="intake" id="4234-5678-9012-3458" effectStamp="2016-07-05" label="Intake">
       <values>
         <value
           label="Graviditeit"
@@ -208,7 +208,7 @@
       </values>
     </section>
 
-    <section type="consult" id="zc1" effectiveStamp="2016-07-05" label="Consult">
+    <section type="consult" id="zc1" effectStamp="2016-07-05" label="Consult">
       <values>
         <value
           concept="peri22-dataelement-80737"
@@ -271,7 +271,7 @@
       </values>
     </section>
 
-    <section type="consult" id="zc2" effectiveStamp="2016-07-05" label="Consult">
+    <section type="consult" id="zc2" effectStamp="2016-07-05" label="Consult">
       <values>
         <value
           concept="peri22-dataelement-80737"
@@ -345,7 +345,7 @@
       </values>
     </section>
 
-    <section type="echo" id="eo1" effectiveStamp="123126543">
+    <section type="echo" id="eo1" effectStamp="123126543">
       <values>
         <value
           concept="peri22-dataelement-80738"

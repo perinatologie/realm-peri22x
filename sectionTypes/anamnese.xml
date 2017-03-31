@@ -74,9 +74,5 @@
   
   <field concept="peri22-dataelement-80678" min="0" max="1" note="fetal loss +20wk" />
   <field concept="peri22-dataelement-80617" min="0" max="1" note="totaal in leven" />
-  <field concept="peri22-dataelement-80702" min="0" max="1" note="geboortedatum" />
-  <field concept="peri22-dataelement-80710" min="0" max="1" note="locatie" />
-  <field concept="peri22-dataelement-10604" min="0" max="1" note="gewicht" />
-  <field concept="peri22-dataelement-80712" min="0" max="1" note="geslacht" />
   <field concept="peri22-dataelement-40020" min="0" max="1" note="uitkomst" />
 </sectionType>

@@ -882,18 +882,6 @@
     <section type="verwijzing" id="verw1" effectStamp="2016-08-22" label="Verwijzing">
       <values>
         <value
-          concept="peri22-dataelement-20280"
-          value="12345678"
-        />
-        <value
-          concept="peri22-dataelement-20290"
-          value="2016-08-22"
-        />
-        <value
-          concept="peri22-dataelement-20340"
-          value="2016-08-23"
-        />
-        <value
           concept="peri22-dataelement-82013"
           value="2016-08-22"
         />
@@ -912,6 +900,86 @@
         <value
           concept="peri22-dataelement-82016"
           value="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque congue, neque nec sagittis tempus, odio metus auctor sem, sit amet euismod leo lacus et eros."
+        />
+        
+        <value
+          concept="peri22-dataelement-20312"
+          value="2016-08-22"
+        />
+        <!--
+        <value
+          concept="peri22-dataelement-20314"
+          value=""
+        />
+        <value
+          concept="peri22-dataelement-20311"
+          value=2016-08-22"
+        />
+        -->
+        <value
+          concept="peri22-dataelement-20320"
+          value="09876543"
+        />
+        <value
+          concept="peri22-dataelement-82164"
+          value="2"
+        />
+        <value
+          concept="peri22-dataelement-20331"
+          value="1000"
+        />
+        
+        <value
+          concept="peri22-dataelement-20360"
+          value="TRUE"
+        />
+        <value
+          concept="peri22-dataelement-20362"
+          value="2016-08-22"
+        />
+        <value
+          concept="peri22-dataelement-20366"
+          value="01.046"
+        />
+        <value
+          concept="peri22-dataelement-20369"
+          value="2"
+        />
+        <value
+          concept="peri22-dataelement-20368"
+          value="09876543"
+        />
+        <value
+          concept="peri22-dataelement-20367"
+          value="2"
+        />
+        <value
+          concept="peri22-dataelement-20633"
+          value="200"
+        />
+        <value
+          concept="peri22-dataelement-80614"
+          value="TRUE"
+        />
+        <value
+          concept="peri22-dataelement-80615"
+          value="U"
+        />
+        <value
+          concept="peri22-dataelement-20371"
+          value="1000"
+        />
+        <value
+          concept="peri22-dataelement-20372"
+          value="38341003"
+        />
+        <value
+          concept="peri22-dataelement-20373"
+          value="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque congue, neque nec sagittis tempus, odio metus auctor sem, sit amet euismod leo lacus et eros."
+        />
+        <value
+          concept="peri22-dataelement-20390"
+          value="FALSE"
         />
       </values>
     </section>

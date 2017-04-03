@@ -5,20 +5,58 @@
   >
   <property name="definition">Echo onderzoek details</property>
 
+  <field concept="peri22-dataelement-50010" min="0" max="1" note="onderzoek identificatie" />
   <field concept="peri22-dataelement-50020" min="0" max="1" note="datum onderzoek" />
-  <field concept="peri22-dataelement-50021" min="0" max="1" note="am duur" />
-  <field concept="peri22-dataelement-40028" min="0" max="1" note="foetus letter" />
-  <field concept="peri22-dataelement-82311" min="0" max="1" note="crl" />
-  <field concept="peri22-dataelement-82312" min="0" max="1" note="bpd" />
-  <field concept="peri22-dataelement-60040" min="0" max="1" note="nt in mm" />
-  <field concept="peri22-dataelement-60050" min="0" max="1" note="nt in mom" />
-  <field concept="peri22-dataelement-60080" min="0" max="1" note="ac in mm" />
-  <field concept="peri22-dataelement-60060" min="0" max="1" note="hc in mm" />
-  <field concept="peri22-dataelement-60030" min="0" max="1" note="bpd in mm" />
-  <field concept="peri22-dataelement-60100" min="0" max="1" note="fl in mm" />
-  <field concept="peri22-dataelement-60070" min="0" max="1" note="tcd (cerebellum) in mm" />
-  <field concept="peri22-dataelement-60020" min="0" max="1" note="crl in mm" />
-  <field concept="peri22-dataelement-51010" min="0" max="1" note="seo type" />
+  <field concept="peri22-dataelement-80754" min="0" max="1" note="naam uitvoerder onderzoek" />
+  <field concept="peri22-dataelement-82068" min="0" max="1" note="zorgverlenertype" />
+  <field concept="peri22-dataelement-50021" min="0" max="1" note="zwangerschapsduur op datum onderzoek" />
+
+  <field concept="peri22-dataelement-50100" min="0" max="1" note="onderzoektype 'jonge zwangerschapsecho'" />
+  <field concept="peri22-dataelement-50110" min="0" max="1" note="onderzoektype 'nt-meting'" />
+  <field concept="peri22-dataelement-50120" min="0" max="1" note="onderzoektype 'seo'" />
+  <field concept="peri22-dataelement-50130" min="0" max="1" note="onderzoektype 'guo'" />
+  <field concept="peri22-dataelement-50140" min="0" max="1" note="onderzoektype 'Kansbepaling combinatietest'" />
+
+  <field concept="peri22-dataelement-51010" min="0" max="1" note="seo-type" />
   <field concept="peri22-dataelement-82330" min="0" max="1" note="conclusie seo" />
   <field concept="peri22-dataelement-82331" min="0" max="1" note="advies seo" />
+  <field concept="peri22-dataelement-51020" min="0" max="1" note="conclusie a terme datum" />
+  <field concept="peri22-dataelement-20470" min="0" max="1" note="indicatie prenatale diagnostiek obv screening" />
+
+  <field concept="peri22-dataelement-60005" min="0" max="1" note="foetus identificatie" />
+  <field concept="peri22-dataelement-60010" min="0" max="1" note="foetus volgletter" />
+  
+  <field concept="peri22-dataelement-60020" min="0" max="1" note="crl in mm" />
+  <field concept="peri22-dataelement-60030" min="0" max="1" note="bpd in mm" />
+  <field concept="peri22-dataelement-60031" min="0" max="1" note="bpd percentiel" />
+  <field concept="peri22-dataelement-60040" min="0" max="1" note="nt in mm" />
+  <field concept="peri22-dataelement-60050" min="0" max="1" note="nt in mom" />
+  <field concept="peri22-dataelement-60060" min="0" max="1" note="hc in mm" />
+  <field concept="peri22-dataelement-60061" min="0" max="1" note="hc percentiel" />
+  <field concept="peri22-dataelement-60070" min="0" max="1" note="tcd (cerebellum) in mm" />
+  <field concept="peri22-dataelement-60080" min="0" max="1" note="ac in mm" />
+  <field concept="peri22-dataelement-60081" min="0" max="1" note="ac precentiel" />
+  <field concept="peri22-dataelement-60100" min="0" max="1" note="fl in mm" />
+  <field concept="peri22-dataelement-60101" min="0" max="1" note="fl percentiel" />
+  <field concept="peri22-dataelement-82340" min="0" max="1" note="efw" />
+  <field concept="peri22-dataelement-60102" min="0" max="1" note="echoparameters bpd, hc, ac, fl" />
+  <field concept="peri22-dataelement-80943" min="0" max="1" note="hartactie aanwezig?" />
+  <field concept="peri22-dataelement-81007" min="0" max="1" note="regelmaat hartslag" />
+  <field concept="peri22-dataelement-81008" min="0" max="1" note="frequentie hartslag" />
+  <field concept="peri22-dataelement-80944" min="0" max="1" note="ligging" />
+  <field concept="peri22-dataelement-80985" min="0" max="1" note="beweging" />
+  <field concept="peri22-dataelement-80945" min="0" max="1" note="vruchtwater" />
+  <field concept="peri22-dataelement-80946" min="0" max="1" note="placentalokalisatie" />
+  <field concept="peri22-dataelement-82071" min="0" max="1" note="ostium" />
+  <field concept="peri22-dataelement-82072" min="0" max="1" note="over sectio litteken?" />
+  <field concept="peri22-dataelement-82287" min="0" max="1" note="placenta afwijking?" />
+  <field concept="peri22-dataelement-82288" min="0" max="1" note="placenta afwijking" />
+  <field concept="peri22-dataelement-82073" min="0" max="1" note="cervixlengte" />
+  <field concept="peri22-dataelement-80947" min="0" max="1" note="navelstreng vaten" />
+  <field concept="peri22-dataelement-80948" min="0" max="1" note="Opmerkingen" />
+  
+  <field concept="peri22-dataelement-82311" min="0" max="1" note="crl" />
+  <field concept="peri22-dataelement-82312" min="0" max="1" note="bpd" />
+  
+  <field concept="peri22-dataelement-40028" min="0" max="1" note="foetus letter" />
 </sectionType>

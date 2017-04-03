@@ -53,7 +53,7 @@
   <field concept="peri22-dataelement-82288" min="0" max="1" note="placenta afwijking" />
   <field concept="peri22-dataelement-82073" min="0" max="1" note="cervixlengte" />
   <field concept="peri22-dataelement-80947" min="0" max="1" note="navelstreng vaten" />
-  <field concept="peri22-dataelement-80948" min="0" max="1" note="Opmerkingen" />
+  <field concept="peri22-dataelement-80948" min="0" max="1" note="opmerkingen" />
   
   <field concept="peri22-dataelement-60200" min="0" max="1" note="algehele beoordeling" />
   <field concept="peri22-dataelement-82237" min="0" max="1" note="neuraalbuis van de wervelkolom" />

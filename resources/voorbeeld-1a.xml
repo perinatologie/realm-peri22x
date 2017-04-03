@@ -187,6 +187,14 @@
           value="2016-08-10"
         />
         <value
+          concept="peri22-dataelement-20355"
+          value="2"
+        />
+        <value
+          concept="peri22-dataelement-20305"
+          value="1"
+        />
+        <value
           concept="peri22-dataelement-20030"
           value="2016-08-07"
         />
@@ -867,6 +875,43 @@
         <value
           concept="peri22-dataelement-80748"
           value="Gaat goed. Nog geen kraamzorg besproken. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque congue, neque nec sagittis tempus, odio metus auctor sem, sit amet euismod leo lacus et eros. Aliquam varius suscipit quam nec malesuada. Cras vestibulum lorem non sapien facilisis convallis. Fusce metus mi, varius vitae luctus ac, convallis in dui. Mauris eu arcu tellus. Vivamus tempus faucibus ex ac interdum. Suspendisse mauris neque, maximus lacinia nunc sed, vulputate lobortis ligula. Morbi semper lectus ipsum, nec hendrerit tortor ultricies sed. Sed ante neque, pharetra vitae ex in, congue tincidunt sem. Proin condimentum tellus eget lectus venenatis sollicitudin. Suspendisse scelerisque nisi at lectus rutrum, non eleifend nisl interdum. Donec id magna felis. Suspendisse maximus tincidunt enim, et egestas leo placerat ac. Vestibulum porta mauris ut eros blandit, eu pulvinar tellus tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        />
+      </values>
+    </section>
+
+    <section type="verwijzing" id="verw1" effectStamp="2016-08-22" label="Verwijzing">
+      <values>
+        <value
+          concept="peri22-dataelement-20280"
+          value="12345678"
+        />
+        <value
+          concept="peri22-dataelement-20290"
+          value="2016-08-22"
+        />
+        <value
+          concept="peri22-dataelement-20340"
+          value="2016-08-23"
+        />
+        <value
+          concept="peri22-dataelement-82013"
+          value="2016-08-22"
+        />
+        <value
+          concept="peri22-dataelement-82017"
+          value="02"
+        />
+        <value
+          concept="peri22-dataelement-82018"
+          value="09876543"
+        />
+        <value
+          concept="peri22-dataelement-82015"
+          value="1000"
+        />
+        <value
+          concept="peri22-dataelement-82016"
+          value="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque congue, neque nec sagittis tempus, odio metus auctor sem, sit amet euismod leo lacus et eros."
         />
       </values>
     </section>

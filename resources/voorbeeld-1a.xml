@@ -1092,6 +1092,186 @@
           concept="peri22-dataelement-50021"
           value="89"
         />
+        
+        <value
+          concept="peri22-dataelement-80952"
+          value="112144000"
+        />
+        <value
+          concept="peri22-dataelement-80953"
+          value="165747007"
+        />
+        <value
+          concept="peri22-dataelement-80954"
+          value="21731000146108"
+        />
+        <value
+          concept="peri22-dataelement-80955"
+          value="441742003:363713009=373068000,363714003=47758006"
+        />
+        <value
+          concept="peri22-dataelement-80956"
+          value="165816005"
+        />
+        <!--
+        <value
+          concept="peri22-dataelement-80957"
+          value=""
+        />
+        -->
+        <value
+          concept="peri22-dataelement-10812"
+          value="FALSE"
+        />
+        <value
+          concept="peri22-dataelement-10813"
+          value="8376005"
+        />
+        
+        <value
+          concept="peri22-dataelement-82228"
+          value="FALSE"
+        />
+        <value
+          concept="peri22-dataelement-82229"
+          value="289448000"
+        />
+        
+        <value
+          concept="peri22-dataelement-10814"
+          value=""
+        />
+        
+        <value
+          concept="peri22-dataelement-80951"
+          value=""
+        />
+        <!--
+        <value
+          concept="peri22-dataelement-80992"
+          value=""
+        />
+        -->
+        <value
+          concept="peri22-dataelement-80993"
+          value=""
+        />
+        <value
+          concept="peri22-dataelement-80994"
+          value=""
+        />
+        <value
+          concept="peri22-dataelement-80995"
+          value=""
+        />
+        <value
+          concept="peri22-dataelement-80996"
+          value=""
+        />
+        
+        <value
+          concept="peri22-dataelement-82074"
+          value="2016-06-26 14:24:34"
+        />
+        <value
+          concept="peri22-dataelement-80961"
+          value=""
+        />
+        <value
+          concept="peri22-dataelement-82075"
+          value="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque congue, neque nec sagittis tempus, odio metus auctor sem, sit amet euismod leo lacus et eros."
+        />
+        
+        <value
+          concept="peri22-dataelement-80962"
+          value=""
+        />
+        <value
+          concept="peri22-dataelement-80964"
+          value=""
+        />
+        <value
+          concept="peri22-dataelement-80965"
+          value=""
+        />
+        
+        <value
+          concept="peri22-dataelement-80967"
+          value=""
+        />
+        <value
+          concept="peri22-dataelement-80968"
+          value=""
+        />
+        <value
+          concept="peri22-dataelement-80969"
+          value=""
+        />
+        <value
+          concept="peri22-dataelement-80970"
+          value=""
+        />
+        <!--
+        <value
+          concept="peri22-dataelement-80971"
+          value=""
+        />
+        <value
+          concept="peri22-dataelement-80972"
+          value=""
+        />
+        <value
+          concept="peri22-dataelement-80973"
+          value=""
+        />
+        <value
+          concept="peri22-dataelement-80974"
+          value=""
+        />
+        <value
+          concept="peri22-dataelement-80975"
+          value=""
+        />
+        <value
+          concept="peri22-dataelement-80976"
+          value=""
+        />
+        -->
+        <value
+          concept="peri22-dataelement-40451"
+          value="165746003"
+        />
+        
+        <!--
+        <value
+          concept="peri22-dataelement-82077"
+          value="165746003"
+        />
+        <value
+          concept="peri22-dataelement-82080"
+          value="165746003"
+        />
+        -->
+        <value
+          concept="peri22-dataelement-82082"
+          value=""
+        />
+        <value
+          concept="peri22-dataelement-20243"
+          value=""
+        />
+        <value
+          concept="peri22-dataelement-80977"
+          value="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque congue, neque nec sagittis tempus, odio metus auctor sem, sit amet euismod leo lacus et eros."
+        />
+        <value
+          concept="peri22-dataelement-20242"
+          value=""
+        />
+        <value
+          concept="peri22-dataelement-80978"
+          value="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque congue, neque nec sagittis tempus, odio metus auctor sem, sit amet euismod leo lacus et eros."
+        />
       </values>
     </section>
   </sections>

@@ -1272,6 +1272,31 @@
           concept="peri22-dataelement-80978"
           value="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque congue, neque nec sagittis tempus, odio metus auctor sem, sit amet euismod leo lacus et eros."
         />
+        
+        <value
+          concept="peri22-dataelement-20612"
+          value="278056007"
+        />
+        <value
+          concept="peri22-dataelement-20613"
+          value="289764007"
+        />
+        <value
+          concept="peri22-dataelement-20614"
+          value="46914009"
+        />
+        <value
+          concept="peri22-dataelement-20615"
+          value="289377000"
+        />
+        <value
+          concept="peri22-dataelement-80616"
+          value="70028003"
+        />
+        <value
+          concept="peri22-dataelement-80618"
+          value="1"
+        />
       </values>
     </section>
   </sections>

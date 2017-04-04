@@ -814,7 +814,7 @@
         />
         <value
           concept="peri22-dataelement-80738"
-          value="35+2"
+          value="247"
         />
         <value
           concept="peri22-dataelement-80810"
@@ -994,15 +994,13 @@
           concept="peri22-dataelement-82067"
           value="11"
         />
-<!--
         <value
           concept="	peri22-dataelement-80736"
           value="Willy de Waarnemer"
         />
--->
         <value
           concept="peri22-dataelement-80738"
-          value="38+2"
+          value="268"
         />
         <value
           concept="peri22-dataelement-80810"
@@ -1036,17 +1034,17 @@
           concept="peri22-dataelement-80741"
           value="100"
         />
-<!--
+        <!--
         <value
           concept="peri22-dataelement-80740"
           value="-"
         />
--->
+        -->
         <value
           concept="peri22-dataelement-80836"
           value="HHHPOS"
         />
-<!--
+        <!--
         <value
           concept="peri22-dataelement-82077"
           value=""
@@ -1059,7 +1057,7 @@
           concept="peri22-dataelement-80745"
           value=""
         />
--->
+        -->
         <value
           concept="peri22-dataelement-80614"
           value="FALSE"
@@ -1067,6 +1065,32 @@
         <value
           concept="peri22-dataelement-80748"
           value="Vragen mbt SEO besproken"
+        />
+      </values>
+    </section>
+    <section type="onderzoek" id="onderzoek1" effectStamp="2016-08-22" label="Onderzoek">
+      <values>
+        <!--
+        <value
+          concept="peri22-dataelement-50010"
+          value="SEO"
+        />
+        -->
+        <value
+          concept="peri22-dataelement-50020"
+          value="2016-04-12"
+        />
+        <value
+          concept="peri22-dataelement-80754"
+          value="Ab Lab"
+        />
+        <value
+          concept="peri22-dataelement-82068"
+          value="UNK"
+        />
+        <value
+          concept="peri22-dataelement-50021"
+          value="89"
         />
       </values>
     </section>

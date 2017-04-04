@@ -56,8 +56,8 @@
         <value concept="peri22-dataelement-80738" label="AM duur" value="10+1"/>
 
         <!-- bepalingen mbt de foetusen bevatten een repeat attribuut -->
-        <value concept="peri22-dataelement-82311" label="CRL" value="12" repeat="1"/>
-        <value concept="peri22-dataelement-82311" label="CRL" value="14" repeat="2"/>
+        <value concept="peri22-dataelement-60020" label="CRL" value="12" repeat="1"/>
+        <value concept="peri22-dataelement-60020" label="CRL" value="14" repeat="2"/>
       </values>
     </section>
 
@@ -65,8 +65,8 @@
     <section type="echo">
       <values>
         <value concept="peri22-dataelement-80738" label="AM duur" value="14+1"/>
-        <value concept="peri22-dataelement-82311" label="CRL" value="36" repeat="1"/>
-        <value concept="peri22-dataelement-82311" label="CRL" value="38" repeat="2"/>
+        <value concept="peri22-dataelement-60020" label="CRL" value="36" repeat="1"/>
+        <value concept="peri22-dataelement-60020" label="CRL" value="38" repeat="2"/>
       </values>
     </section>
 

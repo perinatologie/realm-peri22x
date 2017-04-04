@@ -6,7 +6,7 @@
   <property name="definition">Echo onderzoek details</property>
 
   <field concept="peri22-dataelement-50010" min="0" max="1" note="onderzoek identificatie" />
-  <field concept="peri22-dataelement-50020" min="0" max="1" note="datum onderzoek" />
+  <field concept="peri22-dataelement-50020" min="0" max="1" note="datum onderzoek" />  
   <field concept="peri22-dataelement-80754" min="0" max="1" note="naam uitvoerder onderzoek" />
   <field concept="peri22-dataelement-82068" min="0" max="1" note="zorgverlenertype" />
   <field concept="peri22-dataelement-50021" min="0" max="1" note="zwangerschapsduur op datum onderzoek" />
@@ -29,6 +29,7 @@
   <field concept="peri22-dataelement-60020" min="0" max="1" note="crl in mm" />
   <field concept="peri22-dataelement-60030" min="0" max="1" note="bpd in mm" />
   <field concept="peri22-dataelement-60031" min="0" max="1" note="bpd percentiel" />
+
   <field concept="peri22-dataelement-60040" min="0" max="1" note="nt in mm" />
   <field concept="peri22-dataelement-60050" min="0" max="1" note="nt in mom" />
   <field concept="peri22-dataelement-60060" min="0" max="1" note="hc in mm" />

@@ -61,4 +61,9 @@
   <field concept="peri22-dataelement-80937" min="0" max="1" note="indicatie invasieve prenatale diagnostiek?" />
   <field concept="peri22-dataelement-80938" min="0" max="1" note="indicatie guo?" />
   <field concept="peri22-dataelement-82339" min="0" max="1" note="indicatie nipt?" />
+  
+  <field concept="peri22-dataelement-80639" min="0" max="10" note="partner voornaam" />
+  <field concept="peri22-dataelement-80640" min="0" max="1" note="partner voorvoegsel" />
+  <field concept="peri22-dataelement-80641" min="0" max="1" note="partner achternaam" />
+  <field concept="peri22-dataelement-80636" min="0" max="1" note="partner etniciteit" />
 </sectionType>

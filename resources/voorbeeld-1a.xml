@@ -998,6 +998,44 @@
         />
       </values>
     </section>
+    <section type="counseling" id="counseling" effectStamp="2016-07-01" label="Counseling">
+      <values>
+        <value
+          concept="peri22-dataelement-20120"
+          value="1"
+        />
+        <value
+          concept="peri22-dataelement-82088"
+          value="aan"
+        />
+        
+        <value
+          concept="peri22-dataelement-20455"
+          value="2016-08-23"
+        />
+        <value
+          concept="peri22-dataelement-20480"
+          value="FALSE"
+        />
+        <value
+          concept="peri22-dataelement-20485"
+          value="FALSE"
+        />
+        
+        <value
+          concept="peri22-dataelement-82163"
+          value="2016-08-23"
+        />
+        <value
+          concept="peri22-dataelement-20490"
+          value="FALSE"
+        />
+        <value
+          concept="peri22-dataelement-20495"
+          value="FALSE"
+        />
+      </values>
+    </section>
 
     <section type="verwijzing" id="verw1" effectStamp="2016-08-22" label="Verwijzing">
       <values>
@@ -1416,6 +1454,83 @@
         <value
           concept="peri22-dataelement-80618"
           value="1"
+        />
+      </values>
+    </section>
+    
+    <section type="baring" id="baring" effectStamp="2016-11-23" label="Baring">
+      <values>
+        <value
+          concept="peri22-dataelement-20500"
+          value="123456"
+        />
+        
+        <value
+          concept="peri22-dataelement-82338"
+          value="FALSE"
+        />
+        <value
+          concept="peri22-dataelement-82290"
+          value="FALSE"
+        />
+        <value
+          concept="peri22-dataelement-82292"
+          value="FALSE"
+        />
+        <value
+          concept="peri22-dataelement-82293"
+          value="FALSE"
+        />
+        <value
+          concept="peri22-dataelement-82294"
+          value="FALSE"
+        />
+        <value
+          concept="peri22-dataelement-82296"
+          value="FALSE"
+        />
+        <value
+          concept="peri22-dataelement-82295"
+          value="FALSE"
+        />
+        
+        <value
+          concept="peri22-dataelement-20505"
+          value="1"
+        />
+        <value
+          concept="peri22-dataelement-20530"
+          value="1"
+        />
+        <value
+          concept="peri22-dataelement-20550"
+          value="1"
+        />
+        
+        <value
+          concept="peri22-dataelement-20560"
+          value="236960006"
+        />
+        <value
+          concept="peri22-dataelement-20570"
+          value="4"
+        />
+        
+        <value
+          concept="peri22-dataelement-20590"
+          value="2016-11-23 13:24:36"
+        />
+        <value
+          concept="peri22-dataelement-20616"
+          value="FALSE"
+        />
+        <value
+          concept="peri22-dataelement-20620"
+          value="TRUE"
+        />
+        <value
+          concept="peri22-dataelement-20626"
+          value="H01BB02"
         />
       </values>
     </section>

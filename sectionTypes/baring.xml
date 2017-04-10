@@ -5,13 +5,37 @@
   >
   <property name="definition">Baring</property>
   
-  <field concept="peri22-dataelement-20261" min="0" max="1" note="voorgenomen locatie baring" />
+  <field concept="peri22-dataelement-20500" min="0" max="1" note="partusnummer" />
+  
+  <field concept="peri22-dataelement-82338" min="0" max="1" note="pprom?" />
+  <field concept="peri22-dataelement-82290" min="0" max="1" note="prom?" />
+  <field concept="peri22-dataelement-82292" min="0" max="1" note="koorts?" />
+  <field concept="peri22-dataelement-82293" min="0" max="1" note="niet vorderende ontsluiting?" />
+  <field concept="peri22-dataelement-82294" min="0" max="1" note="niet vorderende uitdrijving?" />
+  <field concept="peri22-dataelement-82296" min="0" max="1" note="verdenking foetale nood?" />
+  <field concept="peri22-dataelement-82295" min="0" max="1" note="vastzittende placenta?" />
+  
+  <field concept="peri22-dataelement-20505" min="0" max="1" note="aantal geboren kinderen" />
   <field concept="peri22-dataelement-20530" min="0" max="1" note="risicostatus voor baring" />
+  <field concept="peri22-dataelement-20550" min="0" max="1" note="wijze waarop de baring begon" />
+  
+  <field concept="peri22-dataelement-20560" min="0" max="*" note="interventie begin baring" />
+  <field concept="peri22-dataelement-20570" min="0" max="*" note="indicatie interventie begin baring" />
+  
+  <field concept="peri22-dataelement-20590" min="0" max="1" note="tijdstip begin actieve fase" />
+  <field concept="peri22-dataelement-20616" min="0" max="1" note="bijstimulatie toegediend?" />
+  
+  <field concept="peri22-dataelement-20620" min="0" max="1" note="medicatie nageboortetijdperk?" />
+  <field concept="peri22-dataelement-20626" min="0" max="*" note="soort medicatie nageboortetijdperk" />
+  
+  
+  
+  
+  <field concept="peri22-dataelement-20261" min="0" max="1" note="voorgenomen locatie baring" />
   <field concept="peri22-dataelement-20580" min="0" max="1" note="amniotomie" />
   <field concept="peri22-dataelement-20585" min="0" max="1" note="fase amniotomie" />
   <field concept="peri22-dataelement-20600" min="0" max="*" note="tijdstip breken vliezen (deprecated)" />
   <field concept="peri22-dataelement-80619" min="0" max="*" note="tijdstip breken vliezen" />
-  <field concept="peri22-dataelement-20590" min="0" max="1" note="tijdstip start actieve fase" />
   <field concept="peri22-dataelement-10601" min="0" max="1" note="duur actieve ontsluitingsfase" />
   <field concept="peri22-dataelement-80945" min="0" max="1" note="vruchtwater" />
   <field concept="peri22-dataelement-30060" min="0" max="1" note="pijnbestrijding (deprecated)" />
@@ -20,9 +44,7 @@
   <field concept="peri22-dataelement-82095" min="0" max="*" note="overig middel pijnbestrijding" />
   <field concept="peri22-dataelement-82097" min="0" max="*" note="periode pijnbestrijding" />
   <field concept="peri22-dataelement-80694" min="0" max="1" note="bevallingsdatum" />
-  <field concept="peri22-dataelement-20550" min="0" max="1" note="wijze waarop de baring begon" />
-  <field concept="peri22-dataelement-20560" min="0" max="*" note="interventie begin baring" />
-  <field concept="peri22-dataelement-20570" min="0" max="*" note="indicatie interventie begin baring" />
+  
   <field concept="peri22-dataelement-40020" min="0" max="1" note="type uitkomst" />
   <field concept="peri22-dataelement-80626" min="0" max="1" note="type partus" />
   <field concept="peri22-dataelement-40190" min="0" max="*" note="vaginale kunstverlossing" />
@@ -44,16 +66,12 @@
   <field concept="peri22-dataelement-20631" min="0" max="1" note="placenta compleet" />
   <field concept="peri22-dataelement-80791" min="0" max="1" note="tijdstip geboorte placenta" />
   <field concept="peri22-dataelement-20640" min="0" max="1" note="bloedverlies (ml)" />
-  <field concept="peri22-dataelement-20620" min="0" max="1" note="medicatie nageboortetijdperk?" />
-  <field concept="peri22-dataelement-20626" min="0" max="*" note="soort medicatie nageboortetijdperk" />
+  
   <field concept="peri22-dataelement-20630" min="0" max="1" note="geboorte placenta" />
   <field concept="peri22-dataelement-20670" min="0" max="1" note="maternale sterfte" />
   <field concept="peri22-dataelement-20590" min="0" max="1" note="start actieve ontsluitingsfase vlgs zorgverlener datum" />
-  <field concept="peri22-dataelement-20616" min="0" max="1" note="bijstimulatie" />
   <field concept="peri22-dataelement-80794" min="0" max="1" note="indicatie episiotomie" />
   <field concept="peri22-dataelement-80803" min="0" max="1" note="placenta bestemming" />
-  <field concept="peri22-dataelement-20500" min="0" max="1" note="partusnummer" />
-  <field concept="peri22-dataelement-20505" min="0" max="1" note="aantal geboren kinderen" />
   <field concept="peri22-dataelement-40005" min="0" max="1" note="ziekenhuisnummer (LVR-id)" />
   <field concept="peri22-dataelement-20610" min="0" max="1" note="kleur en consistentie vruchtwater" />
 </sectionType>

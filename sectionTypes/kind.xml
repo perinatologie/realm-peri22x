@@ -5,30 +5,149 @@
   >
   <property name="definition">Kind</property>
   
-  <field concept="peri22-dataelement-40041" min="0" max="1" note="geslacht (medische observatie)" />
-  <field concept="peri22-dataelement-40025" min="0" max="1" note="rangnummer kind" /> <!--gelijk aan repeat-->
+  <field concept="peri22-dataelement-40003" min="0" max="1" note="werkelijk plaats baring (type locatie)" />
+  <field concept="peri22-dataelement-40005" min="0" max="1" note="ziekenhuisnummer (lvr-id)" />
+  <field concept="peri22-dataelement-82116" min="0" max="1" note="zorginstelling agb-id" />
+  <field concept="peri22-dataelement-82117" min="0" max="1" note="naam zorginstelling" />
+  <field concept="peri22-dataelement-80629" min="0" max="1" note="postcode" />
+  <field concept="peri22-dataelement-80630" min="0" max="1" note="geboorteplaats" />
+  <field concept="peri22-dataelement-80631" min="0" max="1" note="gemeentenaam" />
+  <field concept="peri22-dataelement-80632" min="0" max="1" note="geboorteland" />
+  
   <field concept="peri22-dataelement-40010" min="0" max="1" note="bsn kind" />
-  <field concept="peri22-dataelement-40050" min="0" max="1" note="geboortedatum" />
+  <field concept="peri22-dataelement-40011" min="0" max="1" note="lokale identificatie kind" />
+  <field concept="peri22-dataelement-40015" min="0" max="1" note="identificatie kind prn formaat" />
+  
   <field concept="peri22-dataelement-82052" min="0" max="1" note="roepnaam" />
-  <field concept="peri22-dataelement-82055" min="0" max="1" note="volledige achternaam" />
-  <field concept="peri22-dataelement-40060" min="0" max="1" note="geboortegewicht" />
-  <field concept="peri22-dataelement-80759" min="0" max="1" note="geboortelengte" />
-  <field concept="peri22-dataelement-80760" min="0" max="1" note="schedelomtrek" />
-  <field concept="peri22-dataelement-40280" min="0" max="1" note="overleden" />
-  <field concept="peri22-dataelement-40300" min="0" max="1" note="datum overleden" />
+  <field concept="peri22-dataelement-82054" min="0" max="1" note="voorvoegsel" />
+  <field concept="peri22-dataelement-82055" min="0" max="1" note="achternaam" />
+  <field concept="peri22-dataelement-40034" min="0" max="1" note="postcode" />
+  <field concept="peri22-dataelement-40040" min="0" max="1" note="geslacht (administratief)" />
+  <field concept="peri22-dataelement-40041" min="0" max="1" note="geslacht (medische observatie)" />
+  <field concept="peri22-dataelement-40050" min="0" max="1" note="geboortedatum" />
+  <field concept="peri22-dataelement-82087" min="0" max="1" note="meerlingindicatie" />
+  <field concept="peri22-dataelement-40025" min="0" max="1" note="rangnummer kind" /> <!--gelijk aan repeat-->
+  <field concept="peri22-dataelement-40280" min="0" max="1" note="perinatale sterfte" />
   <field concept="peri22-dataelement-40290" min="0" max="1" note="fase perinatale sterfte" />
+  <field concept="peri22-dataelement-40300" min="0" max="1" note="datum/tijd vaststelling perinatale sterfte" />
+  <field concept="peri22-dataelement-40027" min="0" max="1" note="foetus identificatie (zoals ante partum gehanteerd) " />
+  <field concept="peri22-dataelement-40028" min="0" max="1" note="foetus volgletter (zoals ante partum gehanteerd)" />
+  
+  <field concept="peri22-dataelement-20580" min="0" max="1" note="amniotomie?" />
+  <field concept="peri22-dataelement-20585" min="0" max="1" note="fase amniotomie" />
+  <field concept="peri22-dataelement-80619" min="0" max="*" note="tijdstip breken vliezen" />
+  <field concept="peri22-dataelement-20610" min="0" max="1" note="kleur en consistentie vruchtwater" />
+  <field concept="peri22-dataelement-30030" min="0" max="1" note="tijdstip actief meepersen" />
+  <field concept="peri22-dataelement-30050" min="0" max="1" note="episiotomie?" />
+  <field concept="peri22-dataelement-80794" min="0" max="1" note="indicatie episiotomie" />
+  <field concept="peri22-dataelement-30055" min="0" max="1" note="locatie episiotomie" />
+  <field concept="peri22-dataelement-82089" min="0" max="1" note="ruggeprik gewenst, niet gekregen?" />
+  <field concept="peri22-dataelement-82090" min="0" max="1" note="pijnbestrijding?" />
+  <field concept="peri22-dataelement-82092" min="0" max="*" note="methode pijnbestrijding" />
+  <field concept="peri22-dataelement-82095" min="0" max="*" note="overig middel pijnbestrijding" />
+  <field concept="peri22-dataelement-82096" min="0" max="*" note="toediening middel pijnbestrijding" />
+  <field concept="peri22-dataelement-82097" min="0" max="*" note="periode pijnbestrijding" />
+  <field concept="peri22-dataelement-82098" min="0" max="*" note="reden pijnbestrijding" />
+  <field concept="peri22-dataelement-80827" min="0" max="*" note="sedatie?" />
+  <field concept="peri22-dataelement-82100" min="0" max="*" note="sedatie periode" />
+  <field concept="peri22-dataelement-82101" min="0" max="*" note="sedatie reden" />
+  
+  <field concept="peri22-dataelement-80626" min="0" max="1" note="type partus" />
+  <field concept="peri22-dataelement-20062" min="0" max="1" note="zwangerschapsduur" />
+  <field concept="peri22-dataelement-40070" min="0" max="1" note="apgar 1 min." />
+  <field concept="peri22-dataelement-40071" min="0" max="1" note="apgar 5 min." />
+  <field concept="peri22-dataelement-80757" min="0" max="1" note="apgar 10 min." />
+  <field concept="peri22-dataelement-40140" min="0" max="1" note="ligging bij geboorte" />
+  <field concept="peri22-dataelement-82058" min="0" max="1" note="aanpakker naam zorgverlener" />
+  <field concept="peri22-dataelement-40150" min="0" max="1" note="rol aanpakker kind" />
+  <field concept="peri22-dataelement-40160" min="0" max="1" note="identificatie aanpakker kind" />
+  <field concept="peri22-dataelement-82059" min="0" max="1" note="supervisor naam zorgverlener" />
+  <field concept="peri22-dataelement-40170" min="0" max="1" note="rol supervisor" />
+  <field concept="peri22-dataelement-40180" min="0" max="1" note="identificatie supervisor" />
+  <field concept="peri22-dataelement-40190" min="0" max="*" note="vaginale kunstverlossing" />
+  <field concept="peri22-dataelement-40200" min="0" max="*" note="succes vaginale kunstverlossing?" />
+  <field concept="peri22-dataelement-40210" min="0" max="*" note="indicatie vaginale kunstverlossing" />
+  <field concept="peri22-dataelement-40225" min="0" max="1" note="beslismoment sectio caesarea" />
+  <field concept="peri22-dataelement-40230" min="0" max="1" note="indicatie sectio caesarea" />
+  <field concept="peri22-dataelement-40240" min="0" max="1" note="overige interventies" />
+  
+  <field concept="peri22-dataelement-82206" min="0" max="1" note="afwijkende bevindingen kind?" />
+  <field concept="peri22-dataelement-82169" min="0" max="1" note="zieke indruk?" />
+  <field concept="peri22-dataelement-82170" min="0" max="1" note="bewustzijn" />
+  <field concept="peri22-dataelement-82171" min="0" max="1" note="respiratie" />
+  <field concept="peri22-dataelement-82173" min="0" max="1" note="dysmorfie" />
+  <field concept="peri22-dataelement-80769" min="0" max="1" note="bijzonderheden huid" />
+  <field concept="peri22-dataelement-80768" min="0" max="1" note="fontanel" />
+  <field concept="peri22-dataelement-80771" min="0" max="1" note="schedel" />
+  <field concept="peri22-dataelement-80772" min="0" max="1" note="ogen" />
+  <field concept="peri22-dataelement-80773" min="0" max="1" note="oren" />
+  <field concept="peri22-dataelement-80774" min="0" max="1" note="neus" />
+  <field concept="peri22-dataelement-80775" min="0" max="1" note="mond" />
+  <field concept="peri22-dataelement-80776" min="0" max="1" note="kin - standafwijking?" />
+  <field concept="peri22-dataelement-80777" min="0" max="1" note="bijzonderheden hals" />
+  <field concept="peri22-dataelement-80784" min="0" max="1" note="inspectie thorax" />
+  <field concept="peri22-dataelement-82177" min="0" max="1" note="claviculae fractuur" />
+  <field concept="peri22-dataelement-82178" min="0" max="1" note="overige afwijkingen ribben/sternum" />
+  <field concept="peri22-dataelement-82179" min="0" max="1" note="mamma" />
+  <field concept="peri22-dataelement-80786" min="0" max="1" note="hart" />
+  <field concept="peri22-dataelement-82180" min="0" max="1" note="longen" />
+  <field concept="peri22-dataelement-82181" min="0" max="1" note="inspectie" />
+  <field concept="peri22-dataelement-82182" min="0" max="1" note="buikwand" />
+  <field concept="peri22-dataelement-82183" min="0" max="1" note="lever - vergroot?" />
+  <field concept="peri22-dataelement-82184" min="0" max="1" note="milt palpabel?" />
+  <field concept="peri22-dataelement-82225" min="0" max="1" note="darmen - afwijkende peristaltiek?" />
+  <field concept="peri22-dataelement-82185" min="0" max="1" note="toelichting darmen - afwijkende peristaltiek" />
+  <field concept="peri22-dataelement-82186" min="0" max="1" note="anus - atresie/fistel?" />
+  <field concept="peri22-dataelement-82187" min="0" max="1" note="andere palpabele weerstanden?" />
+  <field concept="peri22-dataelement-82188" min="0" max="1" note="toelichting palpabele weerstanden" />
+  <field concept="peri22-dataelement-82189" min="0" max="1" note="inspectie / palpatie" />
+  <field concept="peri22-dataelement-82190" min="0" max="1" note="overige bevindingen" />
+  <field concept="peri22-dataelement-82191" min="0" max="1" note="proportie - afwijkend?" />
+  <field concept="peri22-dataelement-82192" min="0" max="1" note="vorm - afwijkend?" />
+  <field concept="peri22-dataelement-82226" min="0" max="1" note="toelichting afwijkende vorm" />
+  <field concept="peri22-dataelement-82193" min="0" max="1" note="heupen - asymmetrisch / asymmetrische plooien?" />
+  <field concept="peri22-dataelement-82194" min="0" max="1" note="beweeglijkheid" />
+  <field concept="peri22-dataelement-82195" min="0" max="1" note="handen" />
+  <field concept="peri22-dataelement-82196" min="0" max="1" note="voeten" />
+  <field concept="peri22-dataelement-80762" min="0" max="1" note="niet ingedaalde testes" />
+  <field concept="peri22-dataelement-82198" min="0" max="1" note="penis" />
+  <field concept="peri22-dataelement-82199" min="0" max="1" note="vrouwlijk" />
+  <field concept="peri22-dataelement-82200" min="0" max="1" note="geslacht niet conclusief" />
+  <field concept="peri22-dataelement-82202" min="0" max="1" note="tonus" />
+  <field concept="peri22-dataelement-82203" min="0" max="1" note="beweeglijkheid - asymmetrisch?" />
+  <field concept="peri22-dataelement-82204" min="0" max="1" note="reflexen - moro - asymmetrisch?" />
+  <field concept="peri22-dataelement-40060" min="0" max="1" note="geboortegewicht" />
+  <field concept="peri22-dataelement-80670" min="0" max="1" note="percentiel van het geboortegewicht" />
+  <field concept="peri22-dataelement-80759" min="0" max="1" note="geboortelengte" />
+  <field concept="peri22-dataelement-80787" min="0" max="1" note="percentiel lengte" />
+  <field concept="peri22-dataelement-80760" min="0" max="1" note="schedelomtrek" />
+  <field concept="peri22-dataelement-82205" min="0" max="1" note="percentiel schedelomtrek" />
+  <field concept="peri22-dataelement-80788" min="0" max="1" note="bijzonderheden lichamelijk onderzoek kind" />
   <field concept="peri22-dataelement-40080" min="0" max="1" note="congenitale afwijkingen" />
   <field concept="peri22-dataelement-40090" min="0" max="*" note="specificatie congenitale afwijking" />
+  <field concept="peri22-dataelement-40100" min="0" max="1" note="waarschijnlijkheid congenitale afwijking" />
   <field concept="peri22-dataelement-40110" min="0" max="1" note="chromosomale afwijkingen" />
   <field concept="peri22-dataelement-40120" min="0" max="*" note="specificatie chromosomale afwijking" />
-  <field concept="peri22-dataelement-82334" min="0" max="1" note="overige problematiek" />
-  <field concept="peri22-dataelement-40240" min="0" max="1" note="interventies" />
-  <field concept="peri22-dataelement-40070" min="0" max="1" note="apgar 1min" />
-  <field concept="peri22-dataelement-40071" min="0" max="1" note="apgar 5 min" />
-  <field concept="peri22-dataelement-80757" min="0" max="1" note="apgar 10 min" />
+  <field concept="peri22-dataelement-40130" min="0" max="1" note="waarschijnlijkheid chromosomale afwijkingen" />
+  <field concept="peri22-dataelement-82334" min="0" max="1" note="problematiek kind?" />
+  <field concept="peri22-dataelement-80789" min="0" max="1" note="problematiek kind" />
+  <field concept="peri22-dataelement-80793" min="0" max="1" note="navelstreng vaten" />
+  <field concept="peri22-dataelement-80761" min="0" max="1" note="vitamine k?" />
   <field concept="peri22-dataelement-82119" min="0" max="1" note="kinderarts betrokken?" />
+  <field concept="peri22-dataelement-82122" min="0" max="1" note="datum betrokkenheid kinderarts" />
+  <field concept="peri22-dataelement-82123" min="0" max="1" note="reden betrokkenheid kinderarts" />
   <field concept="peri22-dataelement-82121" min="0" max="1" note="type betrokkenheid kinderarts" />
-  <field concept="peri22-dataelement-80630" min="0" max="1" note="geboorteplaats" />
-  <field concept="peri22-dataelement-80632" min="0" max="1" note="geboorteland" />
-  <field concept="peri22-dataelement-80761" min="0" max="1" note="vitamine k" />
+  <field concept="peri22-dataelement-82335" min="0" max="1" note="zorginstelling lvr-id" />
+  <field concept="peri22-dataelement-80790" min="0" max="1" note="bijzonderheden kind" />
+  <field concept="peri22-dataelement-80980" min="0" max="1" note="opmerkingen baring" />
+  
+  <field concept="peri22-dataelement-82133" min="0" max="1" note="straatnaam" />
+  <field concept="peri22-dataelement-82134" min="0" max="1" note="huisnummer" />
+  <field concept="peri22-dataelement-82135" min="0" max="1" note="huisletter/huisnummertoevoeging" />
+  <field concept="peri22-dataelement-82136" min="0" max="1" note="postcode" />
+  <field concept="peri22-dataelement-82137" min="0" max="1" note="plaatsnaam" />
+  <field concept="peri22-dataelement-82138" min="0" max="1" note="land" />
+  <field concept="peri22-dataelement-82139" min="0" max="1" note="adrestype" />
+  <field concept="peri22-dataelement-82141" min="0" max="1" note="geldigheidsperiode begin" />
+  <field concept="peri22-dataelement-82142" min="0" max="1" note="geldigheidsperiode einde" />
 </sectionType>

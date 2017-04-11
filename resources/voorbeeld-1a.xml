@@ -2171,6 +2171,31 @@
         />
         
         <value
+          concept="peri22-dataelement-23010"
+          value="2016-11-23"
+        />
+        <value
+          concept="peri22-dataelement-23020"
+          value="1234"
+        />
+        <value
+          concept="peri22-dataelement-23030"
+          value="01.000"
+        />
+        <value
+          concept="peri22-dataelement-23040"
+          value="B. Afnemer"
+        />
+        <value
+          concept="peri22-dataelement-23050"
+          value=""
+        />
+        <value
+          concept="peri22-dataelement-23070"
+          value="Lab Aan mijn Laars"
+        />
+        
+        <value
           concept="peri22-dataelement-82134"
           value="23"
         />

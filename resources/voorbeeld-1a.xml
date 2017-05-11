@@ -2231,5 +2231,56 @@
         />
       </values>
     </section>
+    <section type="kraambed" id="kb" effectStamp="2016-11-27" label="Kraambed">
+      <values>
+        <value
+          concept="peri22-dataelement-82298"
+          value="2016-11-27"
+        />
+        <value
+          concept="peri22-dataelement-82208"
+          value="TRUE"
+        />
+        <value
+          concept="peri22-dataelement-82209"
+          value="6150"
+        />
+        <value
+          concept="peri22-dataelement-80843"
+          value="TRUE"
+        />
+        <value
+          concept="peri22-dataelement-82084"
+          value="Markt Kraam"
+        />
+        <value
+          concept="peri22-dataelement-82085"
+          value="088-34567876"
+        />
+        <!--
+        <value
+          concept="peri22-dataelement-82124"
+          value=""
+        />
+        -->
+        <value
+          concept="peri22-dataelement-80982"
+          value="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque congue, neque nec sagittis tempus, odio metus auctor sem, sit amet euismod leo lacus et eros."
+        />
+        <value
+          concept="peri22-dataelement-70011"
+          value="2016-11-23"
+        />
+        <value
+          concept="peri22-dataelement-70030"
+          value="1"
+        />
+        <value
+          concept="peri22-dataelement-82118"
+          value="TRUE"
+        />
+        
+      </values>
+    </section>
   </sections>
 </resource>

@@ -5,9 +5,22 @@
   >
   <property name="definition">Kraambed</property>
 
+  <field concept="peri22-dataelement-82298" min="0" max="1" note="datum" />
+  <field concept="peri22-dataelement-82208" min="0" max="1" note="pathologie vrouw?" />
+  <field concept="peri22-dataelement-82209" min="0" max="*" note="pathologie vrouw" />
+  <field concept="peri22-dataelement-80843" min="0" max="1" note="kraamzorg?" />
+  <field concept="peri22-dataelement-82084" min="0" max="1" note="naam kraamzorginstelling" />
+  <field concept="peri22-dataelement-82085" min="0" max="1" note="telefoonnummer kraamzorginstelling" />
+  <field concept="peri22-dataelement-82124" min="0" max="1" note="bloedverlies kraambed" />
+  <field concept="peri22-dataelement-80982" min="0" max="1" note="opmerkingen kraambed" />
+  <field concept="peri22-dataelement-70011" min="0" max="1" note="voeding kind (datum)" />
+  <field concept="peri22-dataelement-70030" min="0" max="1" note="substantie voeding" />
+  <field concept="peri22-dataelement-82118" min="0" max="1" note="betrokkenheid andere zorgverlener?" />
+  <field concept="peri22-dataelement-40250" min="0" max="1" note="type betrokkenheid" />
+  <field concept="peri22-dataelement-40260" min="0" max="1" note="datum betrokkenheid" />
+  <field concept="peri22-dataelement-40261" min="0" max="1" note="zorgverlenertype" />
+  <field concept="peri22-dataelement-80765" min="0" max="1" note="reden betrokkenheid" />
+  
   <field concept="peri22-dataelement-80983" min="0" max="1" note="anticonceptie" />
   <field concept="peri22-dataelement-80642" min="0" max="1" note="kraamzorg" />
-  <field concept="peri22-dataelement-70030" min="0" max="1" note="voeding" />
-  <field concept="peri22-dataelement-82208" min="0" max="1" note="Pathologie vrouw?" />
-  <field concept="peri22-dataelement-82209" min="0" max="*" note="Pathologie vrouw" />
 </sectionType>

@@ -1,10 +1,10 @@
 peri22x
 =======
 
-Deze repository bevat de bron-bestanden van de `peri22x` dataset.
+Deze repository bevat de bron-bestanden van de `peri22x` dataset en de meest recente publicatie hiervan (in `dist/peri22x.xml`).
 
 Online viewer: [https://dataset.perinatologie.nl/peri22x](https://dataset.perinatologie.nl/peri22x)
-    
+
 `peri22x` is een initiatief van [perinatologie.nl](http://www.perinatologie.nl): Het platform voor samenwerking in de geboortezorg waarin verschillende software leveranciers vertegenwoordigd zijn.
 
 ## Wat is peri22x ?
@@ -31,7 +31,7 @@ Het bestandsformaat voor uitwisseling bestaat uit een of meerdere `section` elem
 
 ### 4. Voorbeeld resources en forms
 
-Op de hub worden `resources` uitgewisseld. In de map `resources/` staan hiervan enkele voorbeeld bestanden tbv referentie en testen. In de map `forms/` staan enkele voorbeeld bestanden van de voorloper van resources, `forms`. 
+Op de hub worden `resources` uitgewisseld. In de map `resources/` staan hiervan enkele voorbeeld bestanden tbv referentie en testen. In de map `forms/` staan enkele voorbeeld bestanden van de voorloper van resources, `forms`.
 
 ### 5. XSD bestanden voor resources
 
@@ -65,6 +65,12 @@ Maar, deze is eenvoudig te downloaden door het script `get-dependencies.sh` uit 
 
 Dit script maakt een nieuwe map `dependencies/` aan,
 en plaatst hierin het bestand `peri22.decor.xml`. Dit bestand wordt gedownload vanaf decor.nictiz.nl
+
+## Publiceren
+
+Een nieuwe publicatie is te genereren mbv onderstaande commando:
+
+    realm realm:build -r peri22x > dist/peri22x.xml
 
 ## Licentie
 

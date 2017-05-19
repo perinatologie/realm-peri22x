@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<resource>
+<resource type="hub/dossier">
   <sections>
     <section id="1" type="client">
       <values>

@@ -106,7 +106,8 @@
         <value concept="peri22-dataelement-80738" label="Zwangerschapsduur" value="36+2"/>
         <value concept="peri22-dataelement-80810" label="Roken" value="1" displayValue="niet gerookt"/>
         <value concept="peri22-dataelement-80747" label="Alcohol" value="1" displayValue="geen"/>
-        <value concept="peri22-dataelement-80832" label="RR" value=""/>
+        <value concept="peri22-dataelement-80833" label="Systolische bloeddruk" value="120"/>
+        <value concept="peri22-dataelement-80834" label="Diastolische bloeddruk" value="80"/>
         <value concept="peri22-dataelement-20211" label="Gewicht" value="78"/>
         <value concept="peri22-dataelement-80746" label="Leven voelen" value="289431008" displayValue="Fetal movements present (finding)"/>
         <value concept="peri22-dataelement-80741" label="Fundushoogte (cm)" value="25"/>

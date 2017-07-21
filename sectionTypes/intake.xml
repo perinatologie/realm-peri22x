@@ -72,7 +72,6 @@
   <field concept="peri22-dataelement-80672" min="0" max="1" note="bevalplan" />
   
   
-  <field concept="peri22-dataelement-20511" min="0" max="1" note="gewenste plaats baring" />
   <field concept="peri22-dataelement-10800" min="0" max="1" note="allergie" />
   <field concept="peri22-dataelement-82103" min="0" max="1" note="drug" />
   <field concept="peri22-dataelement-20320" min="0" max="1" note="overname van zorginstelling id" />

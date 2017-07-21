@@ -96,7 +96,7 @@
         <value concept="peri22-dataelement-82154" label="Beroep client" value="Ondernemer"/>
         <value concept="peri22-dataelement-20261" label="Voorgenomen plaats baring" value="169813005" displayValue="Home birth (finding)"/>
         <value concept="peri22-dataelement-10800" label="Allergie" value="300916003" displayValue="Latex allergy (disorder)"/>
-        <value concept="peri22-dataelement-82103" label="Drug" value="398705004" displayValue="Cannabis (substance)"/>
+        <value concept="peri22-dataelement-82102" label="Drugsgebruik" value="TRUE" />
       </values>
     </section>
     <section type="consult" id="3" createStamp="2016-07-01" effectStamp="2016-07-01">

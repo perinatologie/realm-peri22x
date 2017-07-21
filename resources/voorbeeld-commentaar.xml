@@ -95,7 +95,6 @@
         <value concept="peri22-dataelement-20305" label="Concl. Risicostatus" value="1" displayValue="1e lijn (VIL A)"/>
         <value concept="peri22-dataelement-82154" label="Beroep client" value="Ondernemer"/>
         <value concept="peri22-dataelement-82275" label="Hyp. Tensie" value="48194001" displayValue="Pregnancy-induced hypertension (disorder)"/>
-        <value concept="peri22-dataelement-20511" label="Gewenste plaats baring" value="10" displayValue="thuis"/>
         <value concept="peri22-dataelement-20261" label="afgesproken plaats baring" value="23" displayValue="Geboortecentrum"/>
         <value concept="peri22-dataelement-10800" label="Allergie" value="300916003" displayValue="Latex allergy (disorder)"/>
         <value concept="peri22-dataelement-82103" label="Drug" value="398705004" displayValue="Cannabis (substance)"/>

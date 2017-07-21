@@ -42,7 +42,7 @@
         />
         <value
           concept="peri22x-vrouw-geboorteland"
-          value="Nederland"
+          value="NLD"
         />
         <value
           concept="peri22-dataelement-10400"
@@ -191,24 +191,16 @@
           value="Zelfstandig"
         />
         <value
-          concept="peri22-dataelement-82275"
-          value="48194001"
-        />
-        <value
-          concept="peri22-dataelement-20511"
-          value="10"
-        />
-        <value
           concept="peri22-dataelement-20261"
           value="23"
         />
         <value
           concept="peri22-dataelement-10800"
-          value="300916003"
+          value="160244002"
         />
         <value
-          concept="peri22-dataelement-82103"
-          value="398705004"
+          concept="peri22-dataelement-82102"
+          value="FALSE"
         />
 
       </values>
@@ -232,7 +224,7 @@
 -->
         <value
           concept="peri22-dataelement-80738"
-          value="37+1"
+          value="260"
         />
         <value
           concept="peri22-dataelement-80810"

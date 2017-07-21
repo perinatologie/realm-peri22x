@@ -42,7 +42,7 @@
         />
         <value
           concept="peri22x-vrouw-geboorteland"
-          value="Nederland"
+          value="NLD"
         />
         <value
           concept="peri22-dataelement-10400"
@@ -154,12 +154,8 @@
           value="Ondernemer"
         />
         <value
-          concept="peri22-dataelement-82275"
-          value="48194001"
-        />
-        <value
           concept="peri22-dataelement-10800"
-          value="300916003"
+          value="160244002"
         />
       </values>
     </section>
@@ -210,7 +206,7 @@
           value=""
         />
         -->
-        
+
         <value
           concept="peri22-dataelement-51010"
           value="1"
@@ -231,7 +227,7 @@
           concept="peri22-dataelement-20470"
           value="31"
         />
-        
+
         <value
           concept="peri22-dataelement-60005"
           value="1"
@@ -359,7 +355,7 @@
           concept="peri22-dataelement-80948"
           value="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque congue, neque nec sagittis tempus, odio metus auctor sem, sit amet euismod leo lacus et eros."
         />
-        
+
         <value
           concept="peri22-dataelement-60200"
           value="1"
@@ -442,7 +438,7 @@
           concept="peri22-dataelement-82257"
           value="1"
         />
-        
+
         <value
           concept="peri22-dataelement-82239"
           value="1"
@@ -475,7 +471,7 @@
           concept="peri22-dataelement-82264"
           value="1"
         />
-        
+
         <value
           concept="peri22-dataelement-61010"
           value="2016-06-12"
@@ -516,7 +512,7 @@
           concept="peri22-dataelement-61110"
           value=""
         />
-        
+
         <value
           concept="peri22-dataelement-82300"
           value="145"
@@ -557,7 +553,7 @@
           concept="peri22-dataelement-82308"
           value="12"
         />
-        
+
         <value
           concept="peri22-dataelement-61220"
           value=""
@@ -586,7 +582,7 @@
           concept="peri22-dataelement-61280"
           value="2016-06-12"
         />
-        
+
         <value
           concept="peri22-dataelement-82309"
           value=""
@@ -603,7 +599,7 @@
           concept="peri22-dataelement-82312"
           value="45"
         />
-        
+
         <value
           concept="peri22-dataelement-82227"
           value="303720006"

@@ -8,9 +8,8 @@
   <field concept="peri22-dataelement-80737" min="0" max="1" note="datum" />
   <field concept="peri22-dataelement-80738" min="0" max="1" note="am duur" />
   <field concept="peri22-dataelement-80748" min="0" max="1" note="opmerkingen" />
-  <field concept="peri22-dataelement-80810" min="0" max="1" note="roken" />
-  <field concept="peri22-dataelement-80747" min="0" max="1" note="alcohol" />
-  <field concept="peri22-dataelement-82102" min="0" max="1" note="drugsgebruik?" />
+  <field concept="peri22-dataelement-82067" min="0" max="1" note="zorgverlener type" />
+  <field concept="peri22-dataelement-80736" min="0" max="1" note="zorgverlener naam" />
   <field concept="peri22-dataelement-80836" min="0" max="1" note="proteïne in urine o.b.v. strips" />
   <field concept="peri22-dataelement-80833" min="0" max="1" note="systolische bloeddruk" />
   <field concept="peri22-dataelement-80834" min="0" max="1" note="diastolische bloeddruk" />
@@ -27,5 +26,5 @@
   <field concept="peri22-dataelement-82106" min="0" max="1" note="regelmaat hartslag" />
   <field concept="peri22-dataelement-82107" min="0" max="1" note="frequentie hartslag" />
   <field concept="peri22-dataelement-80745" min="0" max="1" note="hartactie op basis van" />
-  <field concept="peri22-dataelement-80614" min="0" max="1" note="iuvd" />  
+  <field concept="peri22-dataelement-80614" min="0" max="1" note="iuvd" />
 </sectionType>

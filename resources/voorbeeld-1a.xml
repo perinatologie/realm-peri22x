@@ -16,7 +16,7 @@
           concept="peri22-dataelement-10030"
           value="392548480"
         />
-        
+
         <value
           concept="peri22-dataelement-82360"
           value="Marieke"
@@ -45,16 +45,16 @@
           concept="peri22x-vrouw-volledige_achternaam"
           value="van Pietersen - de Jong"
         />
-        
+
         <value
           concept="peri22-dataelement-10040"
           value="1974-04-03"
         />
         <value
           concept="peri22x-vrouw-geboorteland"
-          value="Nederland"
+          value="NLD"
         />
-        
+
         <value
           concept="peri22-dataelement-10400"
           value="12"
@@ -83,7 +83,7 @@
           concept="peri22-dataelement-82157"
           value="TRUE"
         />
-        
+
         <value
           concept="peri22-dataelement-10301"
           value="Rietveldlaan"
@@ -175,7 +175,7 @@
           concept="peri22-dataelement-80664"
           value="Gerrie de Gyn"
         />
-        
+
         <value
           concept="peri22-dataelement-20290"
           value="2016-05-01"
@@ -192,7 +192,7 @@
           concept="peri22-dataelement-20305"
           value="1"
         />
-        
+
         <value
           concept="peri22-dataelement-20010"
           value="3"
@@ -213,7 +213,7 @@
           concept="peri22-dataelement-80678"
           value="1"
         />
-        
+
         <value
           concept="peri22-dataelement-20030"
           value="2016-08-07"
@@ -238,7 +238,7 @@
           concept="peri22-dataelement-80669"
           value="TRUE"
         />
-        
+
         <value
           concept="peri22-dataelement-80819"
           value="1"
@@ -303,7 +303,7 @@
           concept="peri22-dataelement-20220"
           value=""
         />
-        
+
         <value
           concept="peri22-dataelement-20211"
           value="73"
@@ -316,7 +316,7 @@
           concept="peri22-dataelement-10805"
           value="FALSE"
         />
-        
+
         <value
           concept="peri22-dataelement-82167"
           value="TRUE"
@@ -327,7 +327,7 @@
         />
         <value
           concept="peri22-dataelement-20261"
-          value="23"
+          value="169813005"
         />
         <value
           concept="peri22-dataelement-82153"
@@ -360,11 +360,6 @@
         <value
           concept="peri22-dataelement-80672"
           value=""
-        />
-        
-        <value
-          concept="peri22-dataelement-80939"
-          value="TRUE"
         />
         <value
           concept="peri22-dataelement-10803"
@@ -415,17 +410,8 @@
           value="1"
         />
         <value
-          concept="peri22-dataelement-82275"
-          value="48194001"
-        />
-        <value
-          concept="peri22-dataelement-20511"
-          value="10"
-        />
-        
-        <value
           concept="peri22-dataelement-10800"
-          value="300916003"
+          value="OTH"
         />
         <value
           concept="peri22-dataelement-82103"
@@ -600,10 +586,6 @@
             value="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque congue, neque nec sagittis tempus, odio metus auctor sem, sit amet euismod leo lacus et eros."
           />
           <value
-            concept="peri22-dataelement-10800"
-            value="300916003"
-          />
-          <value
             concept="peri22-dataelement-10801"
             value="TRUE"
           />
@@ -649,7 +631,7 @@
             concept="peri22-dataelement-82339"
             value="TRUE"
           />
-          
+
           <value
           concept="peri22-dataelement-80639"
           value="Karel"
@@ -1008,7 +990,7 @@
           concept="peri22-dataelement-82088"
           value="aan"
         />
-        
+
         <value
           concept="peri22-dataelement-20455"
           value="2016-08-23"
@@ -1021,7 +1003,7 @@
           concept="peri22-dataelement-20485"
           value="FALSE"
         />
-        
+
         <value
           concept="peri22-dataelement-82163"
           value="2016-08-23"
@@ -1059,7 +1041,7 @@
           concept="peri22-dataelement-82016"
           value="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque congue, neque nec sagittis tempus, odio metus auctor sem, sit amet euismod leo lacus et eros."
         />
-        
+
         <value
           concept="peri22-dataelement-20312"
           value="2016-08-22"
@@ -1086,7 +1068,7 @@
           concept="peri22-dataelement-20331"
           value="1000"
         />
-        
+
         <value
           concept="peri22-dataelement-20360"
           value="TRUE"
@@ -1153,7 +1135,7 @@
           value="11"
         />
         <value
-          concept="	peri22-dataelement-80736"
+          concept="peri22-dataelement-80736"
           value="Willy de Waarnemer"
         />
         <value
@@ -1250,7 +1232,7 @@
           concept="peri22-dataelement-50021"
           value="89"
         />
-        
+
         <value
           concept="peri22-dataelement-80952"
           value="112144000"
@@ -1285,7 +1267,7 @@
           concept="peri22-dataelement-10813"
           value="8376005"
         />
-        
+
         <value
           concept="peri22-dataelement-82228"
           value="FALSE"
@@ -1294,12 +1276,12 @@
           concept="peri22-dataelement-82229"
           value="289448000"
         />
-        
+
         <value
           concept="peri22-dataelement-10814"
           value=""
         />
-        
+
         <value
           concept="peri22-dataelement-80951"
           value=""
@@ -1326,7 +1308,7 @@
           concept="peri22-dataelement-80996"
           value=""
         />
-        
+
         <value
           concept="peri22-dataelement-82074"
           value="2016-06-26 14:24:34"
@@ -1339,7 +1321,7 @@
           concept="peri22-dataelement-82075"
           value="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque congue, neque nec sagittis tempus, odio metus auctor sem, sit amet euismod leo lacus et eros."
         />
-        
+
         <value
           concept="peri22-dataelement-80962"
           value=""
@@ -1352,7 +1334,7 @@
           concept="peri22-dataelement-80965"
           value=""
         />
-        
+
         <value
           concept="peri22-dataelement-80967"
           value=""
@@ -1399,7 +1381,7 @@
           concept="peri22-dataelement-40451"
           value="165746003"
         />
-        
+
         <!--
         <value
           concept="peri22-dataelement-82077"
@@ -1430,7 +1412,7 @@
           concept="peri22-dataelement-80978"
           value="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque congue, neque nec sagittis tempus, odio metus auctor sem, sit amet euismod leo lacus et eros."
         />
-        
+
         <value
           concept="peri22-dataelement-20612"
           value="278056007"
@@ -1457,14 +1439,14 @@
         />
       </values>
     </section>
-    
+
     <section type="baring" id="baring" effectStamp="2016-11-23" label="Baring">
       <values>
         <value
           concept="peri22-dataelement-20500"
           value="123456"
         />
-        
+
         <value
           concept="peri22-dataelement-82338"
           value="FALSE"
@@ -1493,7 +1475,7 @@
           concept="peri22-dataelement-82295"
           value="FALSE"
         />
-        
+
         <value
           concept="peri22-dataelement-20505"
           value="1"
@@ -1506,7 +1488,7 @@
           concept="peri22-dataelement-20550"
           value="1"
         />
-        
+
         <value
           concept="peri22-dataelement-20560"
           value="236960006"
@@ -1515,7 +1497,7 @@
           concept="peri22-dataelement-20570"
           value="4"
         />
-        
+
         <value
           concept="peri22-dataelement-20590"
           value="2016-11-23 13:24:36"
@@ -1532,7 +1514,7 @@
           concept="peri22-dataelement-20626"
           value="H01BB02"
         />
-        
+
         <value
           concept="peri22-dataelement-20630"
           value="0"
@@ -1557,7 +1539,7 @@
           concept="peri22-dataelement-80981"
           value="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque congue, neque nec sagittis tempus, odio metus auctor sem, sit amet euismod leo lacus et eros."
         />
-        
+
         <value
           concept="peri22-dataelement-80792"
           value="249181009"
@@ -1588,7 +1570,7 @@
           concept="peri22-dataelement-82126"
           value="249221003"
         />
-        
+
         <value
           concept="peri22-dataelement-80831"
           value="FALSE"
@@ -1601,7 +1583,7 @@
           concept="peri22-dataelement-82130"
           value=""
         />
-        
+
         <value
           concept="peri22-dataelement-82131"
           value="TRUE"
@@ -1614,7 +1596,7 @@
           concept="peri22-dataelement-82132"
           value="32"
         />
-        
+
         <value
           concept="peri22-dataelement-82057"
           value="1"
@@ -1659,7 +1641,7 @@
           concept="peri22-dataelement-80632"
           value="Nederland"
         />
-        
+
         <value
           concept="peri22-dataelement-40010"
           value="999999992"
@@ -1728,7 +1710,7 @@
           concept="peri22-dataelement-40028"
           value="A"
         />
-        
+
         <value
           concept="peri22-dataelement-20580"
           value="FALSE"
@@ -1805,7 +1787,7 @@
           value=""
         />
         -->
-        
+
         <value
           concept="peri22-dataelement-80626"
           value="48782003"
@@ -1878,7 +1860,7 @@
           concept="peri22-dataelement-40240"
           value="32189006"
         />
-        
+
         <value
           concept="peri22-dataelement-82206"
           value="TRUE"
@@ -2169,7 +2151,7 @@
           concept="peri22-dataelement-80980"
           value="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque congue, neque nec sagittis tempus, odio metus auctor sem, sit amet euismod leo lacus et eros."
         />
-        
+
         <value
           concept="peri22-dataelement-23010"
           value="2016-11-23"
@@ -2194,7 +2176,7 @@
           concept="peri22-dataelement-23070"
           value="Lab Aan mijn Laars"
         />
-        
+
         <value
           concept="peri22-dataelement-82134"
           value="23"
@@ -2279,7 +2261,7 @@
           concept="peri22-dataelement-82118"
           value="TRUE"
         />
-        
+
       </values>
     </section>
   </sections>

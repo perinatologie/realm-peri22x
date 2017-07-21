@@ -143,7 +143,6 @@
     </section>
     <section type="baring" id="6">
       <values>
-        <value concept="peri22-dataelement-20261" label="Voorgenomen locatie baring" value="23" displayValue="Geboortecentrum"/>
         <value concept="peri22-dataelement-20530" label="Risicostatus voor baring" value="1" displayValue="1e lijn (VIL A)"/>
         <value concept="peri22-dataelement-20580" label="Amniotomie" value="TRUE"/>
         <value concept="peri22-dataelement-20585" label="Fase amniotomie" value="4" displayValue="als interventie begin baring"/>

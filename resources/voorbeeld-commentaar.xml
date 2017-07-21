@@ -128,7 +128,7 @@
         <value concept="peri22-dataelement-10809" label="Diastolische bloeddruk" value="81"/>
 
         <value concept="peri22-dataelement-82435" label="Vermoeden IUVD" value="FALSE"/>
-        <value concept="peri22-dataelement-80615" label="Waarschijnlijkheid IUVD" value="U" displayValue="Onzeker"/>
+        <value concept="peri22-dataelement-82436" label="Vermoeden IUVD obv" value="711490008" displayValue="Doppler"/>
       </values>
     </section>
     <section type="counseling" id="5">

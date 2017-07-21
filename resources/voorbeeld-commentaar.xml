@@ -53,7 +53,7 @@
         <value concept="peri22-dataelement-10042" label="Voornamen" value="Hendrika"/>
         <value concept="peri22-dataelement-82359" label="Initialen" value="HM"/>
         <value concept="peri22-dataelement-82363" label="Voorvoegsel" value="de"/>
-        <value concept="peri22-dataelement-82361" label="Familienaam" value="Jong"/>
+        <value concept="peri22-dataelement-10043" label="Achternaam" value="Jong"/>
         <value concept="peri22x-vrouw-volledige_achternaam" label="Volledige achternaam" value="van der Kamp - de Jong"/>
         <value concept="peri22x-vrouw-geboorteland" label="Geboorteland" value="NLD"/>
         <value concept="peri22-dataelement-10400" label="Etniciteit" value="12" displayValue="Kaukasisch"/>

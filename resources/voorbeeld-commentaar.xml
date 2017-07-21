@@ -124,6 +124,9 @@
         <value concept="peri22-dataelement-20633" label="Bloedverlies" value=""/>
         <value concept="peri22-dataelement-10801" label="Medicatie" value="FALSE"/>
         <value concept="peri22-dataelement-10807" label="Actuele RR" value=""/>
+        <value concept="peri22-dataelement-10808" label="Systolische bloeddruk" value="121"/>
+        <value concept="peri22-dataelement-10809" label="Diastolische bloeddruk" value="81"/>
+
         <value concept="peri22-dataelement-10804" label="MRSA besmetting aangetoond" value=""/>
         <value concept="peri22-dataelement-80614" label="Vermoeden IUVD" value="FALSE"/>
         <value concept="peri22-dataelement-80615" label="Waarschijnlijkheid IUVD" value="U" displayValue="Onzeker"/>

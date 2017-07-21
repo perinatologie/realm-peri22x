@@ -127,7 +127,7 @@
         <value concept="peri22-dataelement-10808" label="Systolische bloeddruk" value="121"/>
         <value concept="peri22-dataelement-10809" label="Diastolische bloeddruk" value="81"/>
 
-        <value concept="peri22-dataelement-80614" label="Vermoeden IUVD" value="FALSE"/>
+        <value concept="peri22-dataelement-82435" label="Vermoeden IUVD" value="FALSE"/>
         <value concept="peri22-dataelement-80615" label="Waarschijnlijkheid IUVD" value="U" displayValue="Onzeker"/>
       </values>
     </section>

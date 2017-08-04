@@ -938,42 +938,81 @@
           concept="peri22-dataelement-20211"
           value="78"
         />
+
+        <!-- 80746: leven voelen -->
         <value
           concept="peri22-dataelement-80746"
           value="289431008"
         />
-        <!--
+
+        <!-- 80740: oedeem (missing codelist!)
         <value
           concept="peri22-dataelement-80740"
-          value="-"
+          value="+"
         />
         -->
+
+        <!-- 80741: fundushoogte (quantity) -->
         <value
           concept="peri22-dataelement-80741"
           value="100"
         />
+
+
+        <!-- 80945: vruchtwater -->
         <value
           concept="peri22-dataelement-80945"
           value="278092006"
         />
-        <!--
+
+        <!-- 10814: hb -->
         <value
           concept="peri22-dataelement-10814"
-          value=""
+          value="8,9"
         />
+
+        <!-- 80951: mcv -->
         <value
           concept="peri22-dataelement-80951"
-          value=""
+          value="81"
         />
-        -->
+
+        <!-- 82077: ketonen -->
+        <value
+          concept="peri22-dataelement-82077"
+          value="29791000146105"
+        />
+
+        <!-- 80744: indaling -->
+        <value
+          concept="peri22-dataelement-80744"
+          value="163532003"
+        />
+
+        <!-- 80622: ligging -->
         <value
           concept="peri22-dataelement-80622"
           value="70028003"
         />
+
+        <!-- 82107: Frequentie hartslag -->
         <value
-          concept="peri22-dataelement-80614"
-          value="FALSE"
+          concept="peri22-dataelement-82107"
+          value="278084002"
         />
+        <!-- 82106: Regelmaat hartslag -->
+        <value
+          concept="peri22-dataelement-82106"
+          value="289443009"
+        />
+        <!-- 80745: harttonen_methode -->
+        <value
+          concept="peri22-dataelement-80745"
+          value="408845003"
+        />
+
+
+        <!-- 80748: opmerkingen -->
         <value
           concept="peri22-dataelement-80748"
           value="Gaat goed. Nog geen kraamzorg besproken. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque congue, neque nec sagittis tempus, odio metus auctor sem, sit amet euismod leo lacus et eros. Aliquam varius suscipit quam nec malesuada. Cras vestibulum lorem non sapien facilisis convallis. Fusce metus mi, varius vitae luctus ac, convallis in dui. Mauris eu arcu tellus. Vivamus tempus faucibus ex ac interdum. Suspendisse mauris neque, maximus lacinia nunc sed, vulputate lobortis ligula. Morbi semper lectus ipsum, nec hendrerit tortor ultricies sed. Sed ante neque, pharetra vitae ex in, congue tincidunt sem. Proin condimentum tellus eget lectus venenatis sollicitudin. Suspendisse scelerisque nisi at lectus rutrum, non eleifend nisl interdum. Donec id magna felis. Suspendisse maximus tincidunt enim, et egestas leo placerat ac. Vestibulum porta mauris ut eros blandit, eu pulvinar tellus tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
@@ -1174,30 +1213,18 @@
           concept="peri22-dataelement-80741"
           value="100"
         />
-        <!--
-        <value
-          concept="peri22-dataelement-80740"
-          value="-"
-        />
-        -->
+
         <value
           concept="peri22-dataelement-80836"
           value="HHHPOS"
         />
-        <!--
+
         <value
           concept="peri22-dataelement-82077"
-          value=""
+          value="29811000146106"
         />
-        <value
-          concept="peri22-dataelement-80744"
-          value=""
-        />
-        <value
-          concept="peri22-dataelement-80745"
-          value=""
-        />
-        -->
+
+
         <value
           concept="peri22-dataelement-80614"
           value="FALSE"
@@ -1210,12 +1237,6 @@
     </section>
     <section type="onderzoek" id="onderzoek1" effectStamp="2016-08-22" label="Onderzoek">
       <values>
-        <!--
-        <value
-          concept="peri22-dataelement-50010"
-          value="SEO"
-        />
-        -->
         <value
           concept="peri22-dataelement-50020"
           value="2016-04-12"
@@ -1241,6 +1262,7 @@
           concept="peri22-dataelement-80953"
           value="165747007"
         />
+        <!-- 80954: rhc pos/neg -->
         <value
           concept="peri22-dataelement-80954"
           value="21731000146108"
@@ -1279,12 +1301,12 @@
 
         <value
           concept="peri22-dataelement-10814"
-          value=""
+          value="8,5"
         />
 
         <value
           concept="peri22-dataelement-80951"
-          value=""
+          value="87"
         />
         <!--
         <value

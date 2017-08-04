@@ -607,14 +607,9 @@
       </values>
     </section>
 
+<!--
     <section type="echo" id="eo2" effectStamp="2016-12-06">
       <values>
-<!--
-        <value
-          concept="peri22-dataelement-50120"
-          value=""
-        />
--->
         <value
           concept="peri22-dataelement-51010"
           value="1"
@@ -683,12 +678,6 @@
           concept="peri22-dataelement-82254"
           value="1"
         />
-<!--
-        <value
-          concept="peri22-dataelement-80947"
-          value="3"
-        />
--->
         <value
           concept="peri22-dataelement-82253"
           value="1"
@@ -697,12 +686,6 @@
           concept="peri22-dataelement-80945"
           value="278092006"
         />
-<!--
-        <value
-          concept="peri22-dataelement-80985"
-          value=""
-        />
--->
         <value
           concept="peri22-dataelement-82241"
           value="1"
@@ -773,6 +756,7 @@
         />
       </values>
     </section>
+-->
 
   </sections>
 </resource>

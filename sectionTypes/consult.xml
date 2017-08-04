@@ -26,5 +26,4 @@
   <field concept="peri22-dataelement-82106" min="0" max="1" note="regelmaat hartslag" />
   <field concept="peri22-dataelement-82107" min="0" max="1" note="frequentie hartslag" />
   <field concept="peri22-dataelement-80745" min="0" max="1" note="hartactie op basis van" />
-  <field concept="peri22-dataelement-80614" min="0" max="1" note="iuvd" />
 </sectionType>

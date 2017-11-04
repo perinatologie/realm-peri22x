@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22x-echo-dicom_images" oid="" status="final" shortName="DICOM images" type="item" dataType="string">
+  <property name="name" language="nl-NL">DICOM beelden</property>
+  <property name="description" language="nl-NL">Beelden gemaakt tijdens echo onderzoek</property>
+</concept>

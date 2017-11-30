@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22x-echo-diagnose" oid="" status="final" shortName="Diagnose" type="item" dataType="string">
+  <property name="name" language="nl-NL">Diagnose Echo</property>
+  <property name="description" language="nl-NL">Diagnose gemaakt na echografie</property>
+</concept>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22x-echo-conclusie" oid="" status="final" shortName="Conclusie" type="item" dataType="string">
+  <property name="name" language="nl-NL">Conclusie Echo</property>
+  <property name="description" language="nl-NL">Conclusie gemaakt na echografie</property>
+</concept>

@@ -1,61 +1,28 @@
 <codelist id="burgelijke_staat">
-  <property name="definition">Lijst van burgelijke staten</property>
-  <property name="oid"></property>
+  <property name="definition" language="nl-NL">Lijst van burgelijke staten</property>
 
-  <item
-    code="1"
-    codeSystem=""
-    displayName="Gehuwd"
-    level="0"
-    type="L"
-  />
-  <item
-    code="2"
-    codeSystem=""
-    displayName="Samenwonend"
-    level="0"
-    type="L"
-  />
-  <item
-    code="3"
-    codeSystem=""
-    displayName="Alleenstaand"
-    level="0"
-    type="L"
-  />
-  <item
-    code="4"
-    codeSystem=""
-    displayName="Gescheiden"
-    level="0"
-    type="L"
-  />
-  <item
-    code="5"
-    codeSystem=""
-    displayName="L.A.T"
-    level="0"
-    type="L"
-  />
-  <item
-    code="6"
-    codeSystem=""
-    displayName="Overig"
-    level="0"
-    type="L"
-  />
-  <item
-    code="UNK"
-    codeSystem="2.16.840.1.113883.5.1008"
-    displayName="Unknown"
-    level="0"
-    type="L"
-  />
-  <item
-    code="NI"
-    codeSystem="2.16.840.1.113883.5.1008"
-    displayName="No information"
-    level="0"
-    type="L"
-  />
+  <item code="1" codeSystem="" displayName="Gehuwd" level="0" type="L">
+    <property name="name" language="nl-NL">Gehuwd</property>
+  </item>
+  <item code="2" codeSystem="" displayName="Samenwonend" level="0" type="L">
+    <property name="name" language="nl-NL">Samenwonend</property>
+  </item>
+  <item code="3" codeSystem="" displayName="Alleenstaand" level="0" type="L">
+    <property name="name" language="nl-NL">Alleenstaand</property>
+  </item>
+  <item code="4" codeSystem="" displayName="Gescheiden" level="0" type="L">
+    <property name="name" language="nl-NL">Gescheiden</property>
+  </item>
+  <item code="5" codeSystem="" displayName="L.A.T" level="0" type="L">
+    <property name="name" language="nl-NL">L.A.T</property>
+  </item>
+  <item code="6" codeSystem="" displayName="Overig" level="0" type="L">
+    <property name="name" language="nl-NL">Overig</property>
+  </item>
+  <item code="UNK" codeSystem="2.16.840.1.113883.5.1008" displayName="Unknown" level="0" type="L">
+    <property name="name" language="nl-NL">Onbekend</property>
+  </item>
+  <item code="NI" codeSystem="2.16.840.1.113883.5.1008" displayName="No information" level="0" type="L">
+    <property name="name" language="nl-NL">Geen informatie</property>
+  </item>
 </codelist>

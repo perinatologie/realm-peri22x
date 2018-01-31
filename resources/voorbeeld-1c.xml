@@ -5,8 +5,8 @@
       type="client"
       label="Client"
       id="3234-5678-9012-3457"
-      createstamp="2016-12-06"
-      effectStamp="2016-12-06">
+      createstamp="2016-07-12"
+      effectStamp="2016-07-12">
       <values>
         <value
           concept="peri22-dataelement-10030"
@@ -98,7 +98,7 @@
         />
       </values>
     </section>
-    <section type="intake" id="3234-5678-9012-3458" effectStamp="2016-12-06" label="Intake">
+    <section type="intake" id="3234-5678-9012-3458" effectStamp="2016-07-12" label="Intake">
       <values>
         <value
           label="Graviditeit"
@@ -160,7 +160,7 @@
       </values>
     </section>
 
-    <section type="echo" id="eo1" effectStamp="2016-12-06">
+    <section type="echo" id="eo1" effectStamp="2016-07-12">
       <values>
         <!--
         <value

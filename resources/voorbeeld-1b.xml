@@ -33,12 +33,12 @@
           value="van"
         />
         <value
-          concept="peri22-dataelement-82361"
+          concept="peri22-dataelement-10043"
           value="Pietersen"
         />
         <value
           concept="peri22x-vrouw-volledige_achternaam"
-          value="Pietersen - de Jong"
+          value="van Pietersen - de Jong"
         />
         <value
           concept="peri22x-vrouw-geboorteland"
@@ -48,10 +48,12 @@
           concept="peri22-dataelement-10400"
           value="12"
         />
+<!--
         <value
           concept="peri22x-geloofsovertuiging"
           value="160552003"
         />
+-->
         <value
           concept="peri22x-burgelijke_staat"
           value="1"

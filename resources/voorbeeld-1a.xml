@@ -166,6 +166,14 @@
     <section type="intake" id="1234-5678-9012-3456" effectStamp="2016-02-01" label="Intake">
       <values>
         <value
+          concept="peri22-dataelement-80736"
+          value="Vera de Vroede"
+        />
+        <value
+          concept="peri22-dataelement-82067"
+          value="11"
+        />
+        <value
           concept="peri22-dataelement-80627"
           value="12345678"
         />
@@ -173,7 +181,6 @@
           concept="peri22-dataelement-80664"
           value="Gerrie de Gyn"
         />
-
         <value
           concept="peri22-dataelement-20290"
           value="2016-05-01"
@@ -189,6 +196,39 @@
         <value
           concept="peri22-dataelement-20305"
           value="1"
+        />
+
+        <value
+          concept="peri22-dataelement-18010"
+          value="1234567"
+        />
+        <value
+          concept="peri22-dataelement-18020"
+          value="SUBCON"
+        />
+        <value
+          concept="peri22-dataelement-18030"
+          value="Zwaan de Zwangere"
+        />
+        <value
+          concept="peri22-dataelement-18040"
+          value="GRDCON"
+        />
+        <value
+          concept="peri22-dataelement-18050"
+          value="Fer de Vertegenwoordiger"
+        />
+        <value
+          concept="peri22-dataelement-18070"
+          value="INFCON"
+        />
+        <value
+          concept="peri22-dataelement-18110"
+          value="1234567"
+        />
+        <value
+          concept="peri22-dataelement-18120"
+          value="1234"
         />
 
         <value
@@ -239,7 +279,7 @@
 
         <value
           concept="peri22-dataelement-80819"
-          value="1"
+          value="Geen"
         />
         <value
           concept="peri22-dataelement-20020"
@@ -410,6 +450,10 @@
         <value
           concept="peri22-dataelement-10800"
           value="OTH"
+        />
+        <value
+          concept="peri22-dataelement-82102"
+          value="TRUE"
         />
         <value
           concept="peri22-dataelement-82103"

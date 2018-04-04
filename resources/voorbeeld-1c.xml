@@ -103,6 +103,14 @@
     <section type="intake" id="3234-5678-9012-3458" effectStamp="2016-07-12" label="Intake">
       <values>
         <value
+          concept="peri22-dataelement-80736"
+          value="Ellie Ultra"
+        />
+        <value
+          concept="peri22-dataelement-82067"
+          value="NI"
+        />
+        <value
           label="Graviditeit"
           value="1"
           concept="peri22-dataelement-20010"
@@ -142,6 +150,10 @@
         <value
           concept="peri22-dataelement-20212"
           value="171"
+        />
+        <value
+          concept="peri22-dataelement-80664"
+          value="Gerrie de Gyn"
         />
         <value
           concept="peri22-dataelement-80675"

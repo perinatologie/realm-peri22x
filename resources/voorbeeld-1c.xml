@@ -176,12 +176,10 @@
 
     <section type="echo" id="eo1" effectStamp="2016-07-12">
       <values>
-        <!--
         <value
           concept="peri22-dataelement-50010"
-          value="SEO"
+          value="1234567"
         />
-        -->
         <value
           concept="peri22-dataelement-50020"
           value="2016-06-12"
@@ -198,7 +196,8 @@
           concept="peri22-dataelement-50021"
           value="145"
         />
-        <!--
+        
+        <!-- NICTIZ DID NOT YET ISSUE A CODELIST
         <value
           concept="peri22-dataelement-50100"
           value=""
@@ -268,10 +267,6 @@
           value="12"
         />
         <value
-          concept="peri22-dataelement-60050"
-          value="12"
-        />
-        <value
           concept="peri22-dataelement-60060"
           value="168"
         />
@@ -311,21 +306,19 @@
           concept="peri22-dataelement-80943"
           value="TRUE"
         />
-        <!--
         <value
           concept="peri22-dataelement-81007"
-          value="TRUE"
+          value="289443009"
         />
         <value
           concept="peri22-dataelement-81008"
-          value="TRUE"
+          value="278084002"
         />
-        -->
         <value
           concept="peri22-dataelement-80944"
           value="70028003"
         />
-        <!--
+        <!-- NICTIZ DID NOT YET ISSUE A CODELIST
         <value
           concept="peri22-dataelement-80985"
           value=""
@@ -339,7 +332,7 @@
           concept="peri22-dataelement-80946"
           value="7371000146105"
         />
-        <!--
+        <!-- NICTIZ DID NOT YET ISSUE A CODELIST
         <value
           concept="peri22-dataelement-82071"
           value=""
@@ -426,12 +419,6 @@
           concept="peri22-dataelement-82251"
           value="1"
         />
-        <!--
-        <value
-          concept="peri22-dataelement-82252"
-          value="1"
-        />
-        -->
         <value
           concept="peri22-dataelement-82253"
           value="1"
@@ -618,7 +605,15 @@
           concept="peri22-dataelement-82227"
           value="303720006"
         />
-      </values>
+        <value
+            concept="peri22x-echo-conclusie"
+            value="Er is geen conclusie"
+          />
+        <value
+            concept="peri22x-echo-diagnose"
+            value="Er is geen diagnose gesteld"
+          />
+        </values>
     </section>
 
 <!--

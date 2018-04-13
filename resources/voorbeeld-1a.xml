@@ -1379,6 +1379,10 @@
     <section type="onderzoek" id="onderzoek1" effectStamp="2016-08-22" label="Onderzoek">
       <values>
         <value
+          concept="peri22-dataelement-50010"
+          value="1234567"
+        />
+        <value
           concept="peri22-dataelement-50020"
           value="2016-04-12"
         />
@@ -1393,6 +1397,31 @@
         <value
           concept="peri22-dataelement-50021"
           value="89"
+        />
+
+        <value
+          concept="peri22-dataelement-82228"
+          value="FALSE"
+        />
+        <value
+          concept="peri22-dataelement-82229"
+          value="289448000"
+        />
+        <value
+          concept="peri22-dataelement-10814"
+          value="8,5"
+        />
+        <value
+          concept="peri22-dataelement-40051"
+          value="165746003"
+        />
+        <value
+          concept="peri22-dataelement-20242"
+          value="0,3"
+        />
+        <value
+          concept="peri22-dataelement-80978"
+          value="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque congue, neque nec sagittis tempus, odio metus auctor sem, sit amet euismod leo lacus et eros."
         />
 
         <value
@@ -1416,7 +1445,7 @@
           concept="peri22-dataelement-80956"
           value="165816005"
         />
-        <!--
+        <!-- NICTIZ DID NOT YET ISSUE A CODELIST
         <value
           concept="peri22-dataelement-80957"
           value=""
@@ -1432,24 +1461,10 @@
         />
 
         <value
-          concept="peri22-dataelement-82228"
-          value="FALSE"
-        />
-        <value
-          concept="peri22-dataelement-82229"
-          value="289448000"
-        />
-
-        <value
-          concept="peri22-dataelement-10814"
-          value="8,5"
-        />
-
-        <value
           concept="peri22-dataelement-80951"
           value="87"
         />
-        <!--
+        <!-- NICTIZ DID NOT YET ISSUE A CODELIST
         <value
           concept="peri22-dataelement-80992"
           value=""
@@ -1457,19 +1472,19 @@
         -->
         <value
           concept="peri22-dataelement-80993"
-          value=""
+          value="450"
         />
         <value
           concept="peri22-dataelement-80994"
-          value=""
+          value="60"
         />
         <value
           concept="peri22-dataelement-80995"
-          value=""
+          value="75"
         />
         <value
           concept="peri22-dataelement-80996"
-          value=""
+          value="7"
         />
 
         <value
@@ -1478,43 +1493,43 @@
         />
         <value
           concept="peri22-dataelement-80961"
-          value=""
+          value="7"
         />
         <value
           concept="peri22-dataelement-82075"
-          value="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque congue, neque nec sagittis tempus, odio metus auctor sem, sit amet euismod leo lacus et eros."
+          value="Glucose niet nuchter"
         />
 
         <value
           concept="peri22-dataelement-80962"
-          value=""
+          value="0,9"
         />
         <value
           concept="peri22-dataelement-80964"
-          value=""
+          value="15"
         />
         <value
           concept="peri22-dataelement-80965"
-          value=""
+          value="2"
         />
 
         <value
           concept="peri22-dataelement-80967"
-          value=""
+          value="6"
         />
         <value
           concept="peri22-dataelement-80968"
-          value=""
+          value="0,8"
         />
         <value
           concept="peri22-dataelement-80969"
-          value=""
+          value="4"
         />
         <value
           concept="peri22-dataelement-80970"
-          value=""
+          value="0,8"
         />
-        <!--
+        <!-- NICTIZ DID NOT YET ISSUE A CODELIST
         <value
           concept="peri22-dataelement-80971"
           value=""
@@ -1539,40 +1554,28 @@
           concept="peri22-dataelement-80976"
           value=""
         />
-        -->
-        <value
-          concept="peri22-dataelement-40451"
-          value="165746003"
-        />
+        -->        
 
-        <!--
         <value
           concept="peri22-dataelement-82077"
-          value="165746003"
+          value="29781000146108"
         />
+        <!-- NICTIZ DID NOT YET ISSUE A CODELIST
         <value
           concept="peri22-dataelement-82080"
-          value="165746003"
+          value=""
         />
         -->
         <value
           concept="peri22-dataelement-82082"
-          value=""
+          value="2"
         />
         <value
           concept="peri22-dataelement-20243"
-          value=""
+          value="0,4"
         />
         <value
           concept="peri22-dataelement-80977"
-          value="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque congue, neque nec sagittis tempus, odio metus auctor sem, sit amet euismod leo lacus et eros."
-        />
-        <value
-          concept="peri22-dataelement-20242"
-          value=""
-        />
-        <value
-          concept="peri22-dataelement-80978"
           value="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque congue, neque nec sagittis tempus, odio metus auctor sem, sit amet euismod leo lacus et eros."
         />
 
@@ -1581,8 +1584,12 @@
           value="278056007"
         />
         <value
+          concept="peri22-dataelement-82372"
+          value="289783000"
+        />
+        <value
           concept="peri22-dataelement-20613"
-          value="289764007"
+          value="74522004"
         />
         <value
           concept="peri22-dataelement-20614"

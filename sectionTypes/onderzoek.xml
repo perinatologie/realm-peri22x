@@ -10,7 +10,16 @@
   <field concept="peri22-dataelement-80754" min="0" max="1" note="naam uitvoerder onderzoek" />
   <field concept="peri22-dataelement-82068" min="0" max="1" note="zorgverlenertype" />
   <field concept="peri22-dataelement-50021" min="0" max="1" note="zwangerschapsduur op datum onderzoek" />
+
+  <field concept="peri22-dataelement-82228" min="0" max="1" note="nipt?" />
+  <field concept="peri22-dataelement-82229" min="0" max="1" note="nipt uitslag" />
   
+  <field concept="peri22-dataelement-10814" min="0" max="1" note="hb" />
+  
+  <field concept="peri22-dataelement-20242" min="0" max="1" note="eiwit/creatinineratio" />
+  
+  <field concept="peri22-dataelement-80978" min="0" max="1" note="vaginakweek" />
+
   <field concept="peri22-dataelement-80952" min="0" max="1" note="bloedgroep vrouw" />
   <field concept="peri22-dataelement-80953" min="0" max="1" note="rhesus d factor vrouw" />
   <field concept="peri22-dataelement-80954" min="0" max="1" note="rhesus c factor" />
@@ -19,11 +28,6 @@
   <field concept="peri22-dataelement-80957" min="0" max="1" note="lues" />
   <field concept="peri22-dataelement-10812" min="0" max="1" note="irregulaire antistoffen?" />
   <field concept="peri22-dataelement-10813" min="0" max="1" note="welke irregulaire antistoffen vrouw aanwezig" />
-  
-  <field concept="peri22-dataelement-82228" min="0" max="1" note="nipt?" />
-  <field concept="peri22-dataelement-82229" min="0" max="1" note="nipt uitslag" />
-  
-  <field concept="peri22-dataelement-10814" min="0" max="1" note="hb" />
   
   <field concept="peri22-dataelement-80951" min="0" max="1" note="mcv" />
   <field concept="peri22-dataelement-80992" min="0" max="1" note="hb-pathie" />
@@ -59,10 +63,6 @@
   <field concept="peri22-dataelement-20243" min="0" max="1" note="proteïne in urine" />
   
   <field concept="peri22-dataelement-80977" min="0" max="1" note="urinekweek" />
-  
-  <field concept="peri22-dataelement-20242" min="0" max="1" note="eiwit/creatinineratio" />
-  
-  <field concept="peri22-dataelement-80978" min="0" max="1" note="vaginakweek" />
   
   <field concept="peri22-dataelement-20612" min="0" max="1" note="portio" />
   <field concept="peri22-dataelement-20613" min="0" max="1" note="ontsluiting" />

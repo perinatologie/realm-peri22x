@@ -31,7 +31,6 @@
   <field concept="peri22-dataelement-60031" min="0" max="1" note="bpd percentiel" />
 
   <field concept="peri22-dataelement-60040" min="0" max="1" note="nt in mm" />
-  <field concept="peri22-dataelement-60050" min="0" max="1" note="nt in mom" />
   <field concept="peri22-dataelement-60060" min="0" max="1" note="hc in mm" />
   <field concept="peri22-dataelement-60061" min="0" max="1" note="hc percentiel" />
   <field concept="peri22-dataelement-60070" min="0" max="1" note="tcd (cerebellum) in mm" />
@@ -70,7 +69,6 @@
   <field concept="peri22-dataelement-82249" min="0" max="1" note="nieren-blaas" />
   <field concept="peri22-dataelement-82250" min="0" max="1" note="extremiteiten" />
   <field concept="peri22-dataelement-82251" min="0" max="1" note="skelet" />
-  <field concept="peri22-dataelement-82252" min="0" max="1" note="biometrie" />
   <field concept="peri22-dataelement-82253" min="0" max="1" note="vruchtwatercompartiment" />
   <field concept="peri22-dataelement-82254" min="0" max="1" note="navelstreng" />
   <field concept="peri22-dataelement-82255" min="0" max="1" note="placenta afwijkingen" />

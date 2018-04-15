@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resource type="hub/dossier" id="voorbeeld-1b">
+  <source
+    id="zh-1"
+    displayName="Ziekenhuis Regionaal"
+    logoUrl="https://upr.io/Xp5Ygp.png"
+    appId="mosos"
+    appLogoUrl="https://upr.io/Xp5JgA.png"
+  />
   <sections>
     <section
       type="client"

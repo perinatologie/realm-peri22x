@@ -6,9 +6,11 @@
   <property name="definition">Kind</property>
   
   <field concept="peri22-dataelement-40003" min="0" max="1" note="werkelijk plaats baring (type locatie)" />
+
   <field concept="peri22-dataelement-40005" min="0" max="1" note="ziekenhuisnummer (lvr-id)" />
   <field concept="peri22-dataelement-82116" min="0" max="1" note="zorginstelling agb-id" />
   <field concept="peri22-dataelement-82117" min="0" max="1" note="naam zorginstelling" />
+  
   <field concept="peri22-dataelement-80629" min="0" max="1" note="postcode" />
   <field concept="peri22-dataelement-80630" min="0" max="1" note="geboorteplaats" />
   <field concept="peri22-dataelement-80631" min="0" max="1" note="gemeentenaam" />

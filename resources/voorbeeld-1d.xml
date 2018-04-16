@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resource type="hub/dossier" id="voorbeeld-1d">
+  <source
+    id="kz-1"
+    displayName="Kraamzorg het nieuwe wonder"
+    logoUrl="https://upr.io/jAgYYd.jpg"
+    appId="atermes"
+    appLogoUrl="https://upr.io/OdXmrp.png"
+  />
   <sections>
     <section
       type="client"
@@ -48,7 +55,7 @@
           concept="peri22-dataelement-10400"
           value="12"
         />
-<!--        
+<!--
         <value
           concept="peri22x-geloofsovertuiging"
           value="160552003"

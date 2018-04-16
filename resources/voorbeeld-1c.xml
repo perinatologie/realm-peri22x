@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resource type="hub/dossier" id="voorbeeld-1c">
+  <source
+    id="ec-1"
+    displayName="Echo centrum de Regio"
+    logoUrl="https://upr.io/VdVElP.jpg"
+    appId="astraia"
+    appLogoUrl="https://upr.io/jP6jkP.png"
+  />
   <sections>
     <section
       type="client"
@@ -196,7 +203,7 @@
           concept="peri22-dataelement-50021"
           value="145"
         />
-        
+
         <!-- NICTIZ DID NOT YET ISSUE A CODELIST
         <value
           concept="peri22-dataelement-50100"

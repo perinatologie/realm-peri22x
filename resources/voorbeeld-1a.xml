@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resource type="hub/dossier" id="voorbeeld-1a">
+  <source
+    id="vk-1"
+    displayName="Verloskundigenpraktijk de Ooievaar"
+    logoUrl="https://upr.io/jP6ZkP.png"
+    appId="onatal"
+    appLogoUrl="http://www.onatal.nl/d/meta/tier1/templates/linkorb/linkorbpub2012/images/logo_onatal.png"
+  />
   <sections>
     <section
       type="client"
@@ -1554,7 +1561,7 @@
           concept="peri22-dataelement-80976"
           value=""
         />
-        -->        
+        -->
 
         <value
           concept="peri22-dataelement-82077"

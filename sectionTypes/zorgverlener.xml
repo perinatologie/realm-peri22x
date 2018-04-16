@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sectionType
   id="zorgverlener"
-  note="Zorgverlener"
+  label="Zorgverlener"
   >
   <property name="definition">Zorgverlener</property>
 
   <field concept="peri22-dataelement-10003" min="0" max="1" note="identificatie zorgverlener" />
-  
+
 </sectionType>

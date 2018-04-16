@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sectionType
   id="consult"
-  note="Consult"
+  label="Consult"
   >
   <property name="definition">Zwangerschap consult details</property>
 

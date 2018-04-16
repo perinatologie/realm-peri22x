@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sectionType
   id="kraambed"
-  note="Kraambed"
+  label="Kraambed"
   >
   <property name="definition">Kraambed</property>
 
@@ -20,7 +20,7 @@
   <field concept="peri22-dataelement-40260" min="0" max="1" note="datum betrokkenheid" />
   <field concept="peri22-dataelement-40261" min="0" max="1" note="zorgverlenertype" />
   <field concept="peri22-dataelement-80765" min="0" max="1" note="reden betrokkenheid" />
-  
+
   <field concept="peri22-dataelement-80983" min="0" max="1" note="anticonceptie" />
   <field concept="peri22-dataelement-80642" min="0" max="1" note="kraamzorg" />
 </sectionType>

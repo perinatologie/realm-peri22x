@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sectionType
   id="intake"
-  note="Intake"
+  label="Intake"
   >
   <property name="definition">Intake</property>
-  
+
   <field concept="peri22-dataelement-80627" min="0" max="1" note="identificatie van de zwangerschap" />
   <field concept="peri22-dataelement-80664" min="0" max="1" note="casemanager naam" />
-  
+
   <field concept="peri22-dataelement-20290" min="0" max="1" note="start datum dossier" />
   <field concept="peri22-dataelement-20340" min="0" max="1" note="datum eind dossier" />
   <field concept="peri22-dataelement-20355" min="0" max="1" note="eindverantwoordelijk in welke perinatale periode?" />
   <field concept="peri22-dataelement-20305" min="0" max="1" note="conclusie risicostatus na intake" />
-  
+
   <field concept="peri22-dataelement-20010" min="0" max="1" note="graviditeit" />
   <field concept="peri22-dataelement-20150" min="0" max="1" note="pariteit (vóór deze zwangerschap)" /> <!-- gelijk aan 20153 -->
   <field concept="peri22-dataelement-20153" min="0" max="1" note="pariteit" />
   <field concept="peri22-dataelement-80617" min="0" max="1" note="aantal levende kinderen" />
   <field concept="peri22-dataelement-80678" min="0" max="1" note="fetal loss" />
-  
+
   <field concept="peri22-dataelement-20030" min="0" max="1" note="a terme datum" />
   <field concept="peri22-dataelement-20040" min="0" max="1" note="datum bepaling a terme datum" />
   <field concept="peri22-dataelement-20050" min="0" max="1" note="a terme datum o.b.v." />
   <field concept="peri22-dataelement-20055" min="0" max="1" note="actuele a terme datum" />
   <field concept="peri22-dataelement-80669" min="0" max="1" note="zeker?" />
   <field concept="peri22-dataelement-82160" min="0" max="1" note="definitieve a terme datum" />
-  
+
   <field concept="peri22-dataelement-80819" min="0" max="1" note="foliumzuur gebruik" />
   <field concept="peri22-dataelement-20020" min="0" max="1" note="hoeveelling" />
   <field concept="peri22-dataelement-20025" min="0" max="1" note="actuele aantal foetus" />
@@ -42,7 +42,7 @@
   <field concept="peri22-dataelement-20170" min="0" max="1" note="trisomie in de anamnese?" />
   <field concept="peri22-dataelement-20210" min="0" max="1" note="gewicht voor de zwangerschap" />
   <field concept="peri22-dataelement-20220" min="0" max="1" note="hoogste diastolische tensie" />
-  
+
   <field concept="peri22-dataelement-20211" min="0" max="1" note="gewicht" />
   <field concept="peri22-dataelement-20212" min="0" max="1" note="lengte" />
   <field concept="peri22-dataelement-80686" min="0" max="1" note="consanguïniteit" />
@@ -59,7 +59,7 @@
   <field concept="peri22-dataelement-80675" min="0" max="1" note="besnijdenis" />
   <field concept="peri22-dataelement-20305" min="0" max="1" note="concl. risicostatus" />
   <field concept="peri22-dataelement-82275" min="0" max="1" note="hyp. tensie" />
-  
+
   <field concept="peri22-dataelement-82167" min="0" max="1" note="herleidbare gegevens in onderzoeksdatabank?" />
   <field concept="peri22-dataelement-82152" min="0" max="1" note="risicostatus van de zwangerschap" />
   <field concept="peri22-dataelement-20261" min="0" max="1" note="voorgenomen plaats baring tijdens zwangerschap (type locatie)" />
@@ -70,13 +70,13 @@
   <field concept="peri22-dataelement-20270" min="0" max="1" note="kraamzorg aangevraagd" />
   <field concept="peri22-dataelement-80642" min="0" max="1" note="kraamzorginstelling" />
   <field concept="peri22-dataelement-80672" min="0" max="1" note="bevalplan" />
-  
-  
+
+
   <field concept="peri22-dataelement-10800" min="0" max="1" note="allergie" />
   <field concept="peri22-dataelement-82102" min="0" max="1" note="drug" />
   <field concept="peri22-dataelement-20320" min="0" max="1" note="overname van zorginstelling id" />
   <field concept="peri22-dataelement-20331" min="0" max="*" note="reden van overname (lijst PRN)" />
   <field concept="peri22-dataelement-82164" min="0" max="1" note="perinatale periode van overname" />
   <field concept="peri22-dataelement-10023" min="0" max="1" note="zorginstelling LVR-ID" />
-  
+
 </sectionType>

@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sectionType
   id="kind"
-  note="Kind"
+  label="Kind"
   >
   <property name="definition">Kind</property>
-  
+
   <field concept="peri22-dataelement-40003" min="0" max="1" note="werkelijk plaats baring (type locatie)" />
 
   <field concept="peri22-dataelement-40005" min="0" max="1" note="ziekenhuisnummer (lvr-id)" />
   <field concept="peri22-dataelement-82116" min="0" max="1" note="zorginstelling agb-id" />
   <field concept="peri22-dataelement-82117" min="0" max="1" note="naam zorginstelling" />
-  
+
   <field concept="peri22-dataelement-80629" min="0" max="1" note="postcode" />
   <field concept="peri22-dataelement-80630" min="0" max="1" note="geboorteplaats" />
   <field concept="peri22-dataelement-80631" min="0" max="1" note="gemeentenaam" />
   <field concept="peri22-dataelement-80632" min="0" max="1" note="geboorteland" />
-  
+
   <field concept="peri22-dataelement-40010" min="0" max="1" note="bsn kind" />
   <field concept="peri22-dataelement-40011" min="0" max="1" note="lokale identificatie kind" />
   <field concept="peri22-dataelement-40015" min="0" max="1" note="identificatie kind prn formaat" />
-  
+
   <field concept="peri22-dataelement-82052" min="0" max="1" note="roepnaam" />
   <field concept="peri22-dataelement-82054" min="0" max="1" note="voorvoegsel" />
   <field concept="peri22-dataelement-82055" min="0" max="1" note="achternaam" />
@@ -34,7 +34,7 @@
   <field concept="peri22-dataelement-40300" min="0" max="1" note="datum/tijd vaststelling perinatale sterfte" />
   <field concept="peri22-dataelement-40027" min="0" max="1" note="foetus identificatie (zoals ante partum gehanteerd) " />
   <field concept="peri22-dataelement-40028" min="0" max="1" note="foetus volgletter (zoals ante partum gehanteerd)" />
-  
+
   <field concept="peri22-dataelement-20580" min="0" max="1" note="amniotomie?" />
   <field concept="peri22-dataelement-20585" min="0" max="1" note="fase amniotomie" />
   <field concept="peri22-dataelement-80619" min="0" max="*" note="tijdstip breken vliezen" />
@@ -53,7 +53,7 @@
   <field concept="peri22-dataelement-80827" min="0" max="*" note="sedatie?" />
   <field concept="peri22-dataelement-82100" min="0" max="*" note="sedatie periode" />
   <field concept="peri22-dataelement-82101" min="0" max="*" note="sedatie reden" />
-  
+
   <field concept="peri22-dataelement-80626" min="0" max="1" note="type partus" />
   <field concept="peri22-dataelement-20062" min="0" max="1" note="zwangerschapsduur" />
   <field concept="peri22-dataelement-40070" min="0" max="1" note="apgar 1 min." />
@@ -72,7 +72,7 @@
   <field concept="peri22-dataelement-40225" min="0" max="1" note="beslismoment sectio caesarea" />
   <field concept="peri22-dataelement-40230" min="0" max="1" note="indicatie sectio caesarea" />
   <field concept="peri22-dataelement-40240" min="0" max="1" note="overige interventies" />
-  
+
   <field concept="peri22-dataelement-82206" min="0" max="1" note="afwijkende bevindingen kind?" />
   <field concept="peri22-dataelement-82169" min="0" max="1" note="zieke indruk?" />
   <field concept="peri22-dataelement-82170" min="0" max="1" note="bewustzijn" />
@@ -142,14 +142,14 @@
   <field concept="peri22-dataelement-82335" min="0" max="1" note="zorginstelling lvr-id" />
   <field concept="peri22-dataelement-80790" min="0" max="1" note="bijzonderheden kind" />
   <field concept="peri22-dataelement-80980" min="0" max="1" note="opmerkingen baring" />
-  
+
   <field concept="peri22-dataelement-23010" min="0" max="1" note="datum afname neonataal bloed" />
   <field concept="peri22-dataelement-23020" min="0" max="1" note="afnemer identificatie" />
   <field concept="peri22-dataelement-23030" min="0" max="1" note="rol afnemer" />
   <field concept="peri22-dataelement-23040" min="0" max="1" note="naam afnemer" />
   <field concept="peri22-dataelement-23050" min="0" max="1" note="zorgaanbieder afnemer " />
   <field concept="peri22-dataelement-23070" min="0" max="1" note="uitvoerend lab" />
-  
+
   <field concept="peri22-dataelement-82133" min="0" max="1" note="straatnaam" />
   <field concept="peri22-dataelement-82134" min="0" max="1" note="huisnummer" />
   <field concept="peri22-dataelement-82135" min="0" max="1" note="huisletter/huisnummertoevoeging" />

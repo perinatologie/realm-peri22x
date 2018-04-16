@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sectionType
   id="onderzoek"
-  note="Onderzoek"
+  label="Onderzoek"
   >
   <property name="definition">Onderzoek</property>
-  
+
   <field concept="peri22-dataelement-50010" min="0" max="1" note="onderzoek identificatie" />
   <field concept="peri22-dataelement-50020" min="0" max="1" note="datum onderzoek" />
   <field concept="peri22-dataelement-80754" min="0" max="1" note="naam uitvoerder onderzoek" />
@@ -13,11 +13,11 @@
 
   <field concept="peri22-dataelement-82228" min="0" max="1" note="nipt?" />
   <field concept="peri22-dataelement-82229" min="0" max="1" note="nipt uitslag" />
-  
+
   <field concept="peri22-dataelement-10814" min="0" max="1" note="hb" />
-  
+
   <field concept="peri22-dataelement-20242" min="0" max="1" note="eiwit/creatinineratio" />
-  
+
   <field concept="peri22-dataelement-80978" min="0" max="1" note="vaginakweek" />
 
   <field concept="peri22-dataelement-80952" min="0" max="1" note="bloedgroep vrouw" />
@@ -28,22 +28,22 @@
   <field concept="peri22-dataelement-80957" min="0" max="1" note="lues" />
   <field concept="peri22-dataelement-10812" min="0" max="1" note="irregulaire antistoffen?" />
   <field concept="peri22-dataelement-10813" min="0" max="1" note="welke irregulaire antistoffen vrouw aanwezig" />
-  
+
   <field concept="peri22-dataelement-80951" min="0" max="1" note="mcv" />
   <field concept="peri22-dataelement-80992" min="0" max="1" note="hb-pathie" />
   <field concept="peri22-dataelement-80993" min="0" max="1" note="vit. b12" />
   <field concept="peri22-dataelement-80994" min="0" max="1" note="actief-b12" />
   <field concept="peri22-dataelement-80995" min="0" max="1" note="ferritine" />
   <field concept="peri22-dataelement-80996" min="0" max="1" note="foliumzuur" />
-  
+
   <field concept="peri22-dataelement-82074" min="0" max="1" note="tijd onderzoek glucose" />
   <field concept="peri22-dataelement-80961" min="0" max="1" note="glucose" />
   <field concept="peri22-dataelement-82075" min="0" max="1" note="Toelichting" />
-  
+
   <field concept="peri22-dataelement-80962" min="0" max="1" note="tsh receptor antistoffen" />
   <field concept="peri22-dataelement-80964" min="0" max="1" note="vrij t4" />
   <field concept="peri22-dataelement-80965" min="0" max="1" note="tsh" />
-  
+
   <field concept="peri22-dataelement-80967" min="0" max="1" note="toxoplasmose igg" />
   <field concept="peri22-dataelement-80968" min="0" max="1" note="toxoplasmose igm" />
   <field concept="peri22-dataelement-80969" min="0" max="1" note="rubella igg" />
@@ -54,16 +54,16 @@
   <field concept="peri22-dataelement-80974" min="0" max="1" note="herpes igm" />
   <field concept="peri22-dataelement-80975" min="0" max="1" note="parvovirus igg" />
   <field concept="peri22-dataelement-80976" min="0" max="1" note="parvovirus igm" />
-  
+
   <field concept="peri22-dataelement-40051" min="0" max="1" note="rhesus d factor foetus" />
-  
+
   <field concept="peri22-dataelement-82077" min="0" max="1" note="ketonen" />
   <field concept="peri22-dataelement-82080" min="0" max="1" note="nitriet" />
   <field concept="peri22-dataelement-82082" min="0" max="1" note="aantal g proteïne, 24 uurs" />
   <field concept="peri22-dataelement-20243" min="0" max="1" note="proteïne in urine" />
-  
+
   <field concept="peri22-dataelement-80977" min="0" max="1" note="urinekweek" />
-  
+
   <field concept="peri22-dataelement-20612" min="0" max="1" note="portio" />
   <field concept="peri22-dataelement-20613" min="0" max="1" note="ontsluiting" />
   <field concept="peri22-dataelement-20614" min="0" max="1" note="vliezen" />

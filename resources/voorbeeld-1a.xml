@@ -1616,6 +1616,62 @@
           concept="peri22-dataelement-20500"
           value="123456"
         />
+        <value
+          concept="peri22-dataelement-20505"
+          value="1"
+        />
+        <value
+          concept="peri22-dataelement-20530"
+          value="1"
+        />
+        <value
+          concept="peri22-dataelement-20550"
+          value="1"
+        />
+        <value
+          concept="peri22-dataelement-20590"
+          value="2016-11-23 13:24:36"
+        />
+        <value
+          concept="peri22-dataelement-20616"
+          value="FALSE"
+        />
+        <value
+          concept="peri22-dataelement-80792"
+          value="249181009"
+        />
+        <value
+          concept="peri22-dataelement-20640"
+          value="250"
+        />
+        <value
+          concept="peri22-dataelement-80673"
+          value="289854007"
+        />
+        <value
+          concept="peri22-dataelement-82125"
+          value="FALSE"
+        />
+        <value
+          concept="peri22-dataelement-80797"
+          value="29701000146104"
+        />
+        <value
+          concept="peri22-dataelement-82127"
+          value="FALSE"
+        />
+        <value
+          concept="peri22-dataelement-82126"
+          value="249221003"
+        />
+         <value
+          concept="peri22-dataelement-82057"
+          value="1"
+        />
+        <value
+          concept="peri22-dataelement-20660"
+          value="2016-11-23"
+        />
 
         <value
           concept="peri22-dataelement-82338"
@@ -1647,19 +1703,6 @@
         />
 
         <value
-          concept="peri22-dataelement-20505"
-          value="1"
-        />
-        <value
-          concept="peri22-dataelement-20530"
-          value="1"
-        />
-        <value
-          concept="peri22-dataelement-20550"
-          value="1"
-        />
-
-        <value
           concept="peri22-dataelement-20560"
           value="236960006"
         />
@@ -1668,14 +1711,6 @@
           value="4"
         />
 
-        <value
-          concept="peri22-dataelement-20590"
-          value="2016-11-23 13:24:36"
-        />
-        <value
-          concept="peri22-dataelement-20616"
-          value="FALSE"
-        />
         <value
           concept="peri22-dataelement-20620"
           value="TRUE"
@@ -1711,47 +1746,16 @@
         />
 
         <value
-          concept="peri22-dataelement-80792"
-          value="249181009"
-        />
-        <value
-          concept="peri22-dataelement-20640"
-          value="250"
-        />
-        <value
-          concept="peri22-dataelement-80673"
-          value="289854007"
-        />
-        <value
-          concept="peri22-dataelement-82125"
-          value="FALSE"
-        />
-        <!--
-        <value
-          concept="peri22-dataelement-80797"
-          value=""
-        />
-        -->
-        <value
-          concept="peri22-dataelement-82127"
-          value="FALSE"
-        />
-        <value
-          concept="peri22-dataelement-82126"
-          value="249221003"
-        />
-
-        <value
           concept="peri22-dataelement-80831"
           value="FALSE"
         />
         <value
           concept="peri22-dataelement-80801"
-          value=""
+          value="2016-11-23"
         />
         <value
           concept="peri22-dataelement-82130"
-          value=""
+          value="98765"
         />
 
         <value
@@ -1766,17 +1770,9 @@
           concept="peri22-dataelement-82132"
           value="32"
         />
-
-        <value
-          concept="peri22-dataelement-82057"
-          value="1"
-        />
-        <value
-          concept="peri22-dataelement-20660"
-          value="2016-11-23"
-        />
       </values>
     </section>
+
     <section type="kind" id="kind1" effectStamp="2016-11-23" label="Kind">
       <values>
         <value

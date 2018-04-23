@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sectionType
+  id="document"
+  label="Document"
+  >
+  <property name="definition">Document</property>
+
+  <field concept="peri22x-document-naam" min="0" max="1" note="Naam" />
+  <field concept="peri22x-document-link" min="0" max="1" note="Link" />
+
+</sectionType>

@@ -215,6 +215,19 @@
       </values>
     </section>
 
+    <section type="document" id="zd1b" effectStamp="2016-07-15" label="Document">
+        <values>
+          <value
+            concept="peri22x-document-naam"
+            value="Opname brief"
+          />
+          <value
+            concept="peri22x-document-link"
+            value="https://upr.io/GAm2MP.pdf"
+          />
+        </values>
+    </section>
+
     <section type="consult" id="zc2b" effectStamp="2016-07-14" label="Consult">
       <values>
         <value
@@ -285,5 +298,6 @@
         />
       </values>
     </section>
+
   </sections>
 </resource>

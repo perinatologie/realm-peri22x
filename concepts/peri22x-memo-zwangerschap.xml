@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22x-memo-zwangerschap" oid="" status="final" shortName="Zwangerschap memo" type="item" dataType="string">
+  <property name="name" language="nl-NL">Zwangerschap memo</property>
+  <property name="description" language="nl-NL">Memo over de zwangerschap</property>
+</concept>

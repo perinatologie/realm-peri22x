@@ -79,4 +79,10 @@
   <field concept="peri22-dataelement-82164" min="0" max="1" note="perinatale periode van overname" />
   <field concept="peri22-dataelement-10023" min="0" max="1" note="zorginstelling LVR-ID" />
 
+  <field concept="peri22x-memo-intake" min="0" max="1" note="intake memo" />
+  <field concept="peri22x-memo-anamnese" min="0" max="1" note="anamnese memo" />
+  <field concept="peri22x-memo-zwangerschap" min="0" max="1" note="zwangerschap memo" />
+  <field concept="peri22x-memo-mdo" min="0" max="1" note="mdo memo" />
+  <field concept="peri22x-memo-atermelijst" min="0" max="1" note="atermelijst memo" />
+
 </sectionType>

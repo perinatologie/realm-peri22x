@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22x-memo-anamnese" oid="" status="final" shortName="Anamnese memo" type="item" dataType="string">
+  <property name="name" language="nl-NL">Anamnese memo</property>
+  <property name="description" language="nl-NL">Memo over de anamnese</property>
+</concept>

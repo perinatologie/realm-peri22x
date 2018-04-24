@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22x-memo-mdo" oid="" status="final" shortName="MDO memo" type="item" dataType="string">
+  <property name="name" language="nl-NL">MDO memo</property>
+  <property name="description" language="nl-NL">Memo multidisciplinair overleg</property>
+</concept>

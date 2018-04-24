@@ -168,6 +168,10 @@
           concept="peri22-dataelement-82037"
           value="Het is mij een zorginstelling"
         />
+        <value
+          concept="peri22x-memo-client"
+          value="Dit is een voorbeeld &lt;i&gt;client&lt;/i&gt; memo"
+        />
       </values>
     </section>
     <section type="intake" id="1234-5678-9012-3456" effectStamp="2016-02-01" label="Intake">
@@ -465,6 +469,27 @@
         <value
           concept="peri22-dataelement-82103"
           value="398705004"
+        />
+
+        <value
+          concept="peri22x-memo-intake"
+          value="Dit is een voorbeeld &lt;i&gt;intake&lt;/i&gt; memo"
+        />
+        <value
+          concept="peri22x-memo-zwangerschap"
+          value="Dit is een voorbeeld &lt;i&gt;zwangerschap&lt;/i&gt; memo"
+        />
+        <value
+          concept="peri22x-memo-anamnese"
+          value="Dit is een voorbeeld &lt;i&gt;anamnese&lt;/i&gt; memo"
+        />
+        <value
+          concept="peri22x-memo-mdo"
+          value="Dit is een voorbeeld &lt;i&gt;mdo&lt;/i&gt; memo"
+        />
+        <value
+          concept="peri22x-memo-atermelijst"
+          value="Dit is een voorbeeld &lt;i&gt;atermelijst&lt;/i&gt; memo"
         />
       </values>
     </section>

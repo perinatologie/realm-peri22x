@@ -16,13 +16,13 @@
   <item code="5" codeSystem="" displayName="L.A.T" level="0" type="L">
     <property name="name" language="nl-NL">L.A.T</property>
   </item>
-  <item code="6" codeSystem="" displayName="Overig" level="0" type="L">
+  <item code="7" codeSystem="" displayName="Geregistreerd partnerschap" level="0" type="L">
+    <property name="name" language="nl-NL">Geregistreerd partnerschap</property>
+  </item>
+  <item code="OTH" codeSystem="" displayName="Overig" level="0" type="L">
     <property name="name" language="nl-NL">Overig</property>
   </item>
   <item code="UNK" codeSystem="2.16.840.1.113883.5.1008" displayName="Unknown" level="0" type="L">
     <property name="name" language="nl-NL">Onbekend</property>
-  </item>
-  <item code="NI" codeSystem="2.16.840.1.113883.5.1008" displayName="No information" level="0" type="L">
-    <property name="name" language="nl-NL">Geen informatie</property>
   </item>
 </codelist>

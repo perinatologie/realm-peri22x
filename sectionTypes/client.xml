@@ -12,19 +12,18 @@
   <field concept="peri22-dataelement-10042" min="0" max="10" note="voornamen" />
   <field concept="peri22-dataelement-82359" min="0" max="1" note="initialen" />
   <field concept="peri22-dataelement-82363" min="0" max="1" note="voorvoegsel"/>
-  <field concept="peri22-dataelement-82361" min="0" max="1" note="familienaam" />
   <field concept="peri22-dataelement-10043" min="0" max="1" note="achternaam" />
   <field concept="peri22x-vrouw-volledige_achternaam" min="0" max="1" note="volledige achternaam" />
 
   <field concept="peri22-dataelement-10040" min="0" max="1" note="geboortedatum" />
   <field concept="peri22x-vrouw-geboorteland" min="0" max="1" note="geboorteland" />
+  <field concept="peri22x-burgelijke_staat" min="0" max="1" note="burg.staat" />
   <field concept="peri22-dataelement-10400" min="0" max="1" note="etniciteit" />
   <field concept="peri22-dataelement-10401" min="0" max="1" note="spreekt Nederlands" />
-  <field concept="peri22-dataelement-82155" min="0" max="1" note="opleidingsniveau" />
+  <field concept="peri22-dataelement-82371" min="0" max="1" note="communicatietaal" />
   <field concept="peri22-dataelement-82154" min="0" max="1" note="beroep client" />
-  <field concept="peri22x-burgelijke_staat" min="0" max="1" note="burg.staat" />
-  <field concept="peri22-dataelement-82156" min="0" max="1" note="geloofsovertuiging" />
-  <field concept="peri22-dataelement-82157" min="0" max="1" note="accepteert bloedtransfusie" />
+  <field concept="peri22-dataelement-82155" min="0" max="1" note="opleidingsniveau" />
+  <field concept="peri22x-memo-client" min="0" max="1" note="client memo" />
 
   <field concept="peri22-dataelement-10301" min="0" max="1" note="straatnaam" />
   <field concept="peri22-dataelement-10302" min="0" max="1" note="huisnummer" />
@@ -35,20 +34,23 @@
   <field concept="peri22-dataelement-10307" min="0" max="1" note="land" />
   <field concept="peri22-dataelement-10308" min="0" max="1" note="adrestype" />
 
+  <field concept="peri22-dataelement-80639" min="0" max="1" note="voornamen partner" />
+  <field concept="peri22-dataelement-80640" min="0" max="1" note="voorvoegsel partner" />
+  <field concept="peri22-dataelement-80641" min="0" max="1" note="achternaam partner" />
+  <field concept="peri22-dataelement-80636" min="0" max="1" note="ethniciteit partner" />
+  
   <field concept="peri22-dataelement-82027" min="0" max="1" note="zorgverlener uzi-nummer" />
   <field concept="peri22-dataelement-82028" min="0" max="1" note="zorgverlener agb-id" />
   <field concept="peri22-dataelement-82029" min="0" max="1" note="naam zorgverlener" />
+
   <field concept="peri22-dataelement-82030" min="0" max="1" note="zorginstelling agb-id" />
   <field concept="peri22-dataelement-82031" min="0" max="1" note="naam zorginstelling" />
+
   <field concept="peri22-dataelement-82039" min="0" max="1" note="zorgverlener uzi-nummer" />
   <field concept="peri22-dataelement-82032" min="0" max="1" note="zorgverlener agb-id" />
   <field concept="peri22-dataelement-82033" min="0" max="1" note="naam zorgverlener" />
   <field concept="peri22-dataelement-82038" min="0" max="1" note="type specialist" />
   <field concept="peri22-dataelement-82036" min="0" max="1" note="zorginstelling agb-id" />
   <field concept="peri22-dataelement-82037" min="0" max="1" note="naam zorginstelling" />
-
-  <field concept="peri22-dataelement-10810" min="0" max="1" note="bloedgroep" />
-  <field concept="peri22x-alert_tekst" min="0" max="1" note="alert tekst" />
-  <field concept="peri22x-memo-client" min="0" max="1" note="client memo" />
 
 </sectionType>

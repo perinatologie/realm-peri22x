@@ -5,7 +5,7 @@
   >
   <property name="definition">Document</property>
 
-  <field concept="peri22x-document-naam" min="0" max="1" note="Naam" />
-  <field concept="peri22x-document-link" min="0" max="1" note="Link" />
+  <field concept="peri22x-document-naam" note="Naam" />
+  <field concept="peri22x-document-link" note="Link" />
 
 </sectionType>

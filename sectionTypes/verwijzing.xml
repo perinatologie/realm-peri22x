@@ -5,35 +5,35 @@
   >
   <property name="definition">Verwijzing</property>
 
-  <field concept="peri22-dataelement-82013" min="0" max="1" note="datum verwijzing" />
-  <field concept="peri22-dataelement-82017" min="0" max="1" note="verwijzing naar zorginstelling (specialisme)" />
-  <field concept="peri22-dataelement-82018" min="0" max="1" note="verwijzing naar zorginstelling (id)" />
-  <field concept="peri22-dataelement-82015" min="0" max="1" note="reden verwijzing" />
-  <field concept="peri22-dataelement-82016" min="0" max="1" note="toelichting reden verwijzing" />
+  <field concept="peri22-dataelement-82013" note="datum verwijzing" />
+  <field concept="peri22-dataelement-82017" note="verwijzing naar zorginstelling (specialisme)" />
+  <field concept="peri22-dataelement-82018" note="verwijzing naar zorginstelling (id)" />
+  <field concept="peri22-dataelement-82015" note="reden verwijzing" />
+  <field concept="peri22-dataelement-82016" note="toelichting reden verwijzing" />
 
-  <field concept="peri22-dataelement-20312" min="0" max="1" note="datum begin zorgverlening" />
-  <field concept="peri22-dataelement-20314" min="0" max="1" note="zorgverzoek gedaan door" />
-  <field concept="peri22-dataelement-20311" min="0" max="1" note="overname van zorginstelling (echelon)" />
-  <field concept="peri22-dataelement-20320" min="0" max="1" note="overname van zorginstelling (id)" />
-  <field concept="peri22-dataelement-82164" min="0" max="1" note="perinatale periode van overname" />
-  <field concept="peri22-dataelement-20331" min="0" max="1" note="reden van overname (lijst prn)" />
+  <field concept="peri22-dataelement-20312" note="datum begin zorgverlening" />
+  <field concept="peri22-dataelement-20314" note="zorgverzoek gedaan door" />
+  <field concept="peri22-dataelement-20311" note="overname van zorginstelling (echelon)" />
+  <field concept="peri22-dataelement-20320" note="overname van zorginstelling (id)" />
+  <field concept="peri22-dataelement-82164" note="perinatale periode van overname" />
+  <field concept="peri22-dataelement-20331" note="reden van overname (lijst prn)" />
 
-  <field concept="peri22-dataelement-20360" min="0" max="1" note="is er sprake van 'overdracht aan'?" />
-  <field concept="peri22-dataelement-20362" min="0" max="1" note="datum van overdracht" />
-  <field concept="peri22-dataelement-20366" min="0" max="1" note="overdracht aan zorginstelling (specialisme)" />
-  <field concept="peri22-dataelement-20369" min="0" max="1" note="overdracht aan zorginstelling (echelon)" />
-  <field concept="peri22-dataelement-20368" min="0" max="1" note="overdracht aan zorginstelling (id)" />
-  <field concept="peri22-dataelement-20367" min="0" max="1" note="perinatale periode van overdracht" />
-  <field concept="peri22-dataelement-20633" min="0" max="1" note="hoeveelheid bloedverlies tot acute overdracht" />
-  <field concept="peri22-dataelement-80614" min="0" max="1" note="intra-uteriene vruchtdood?" />
-  <field concept="peri22-dataelement-80615" min="0" max="1" note="waarschijnlijkheid intra-uteriene vruchtdood" />
-  <field concept="peri22-dataelement-20371" min="0" max="1" note="reden 'overdracht aan' (lijst prn)" />
-  <field concept="peri22-dataelement-20372" min="0" max="1" note="categorie reden (acute overdracht)" />
-  <field concept="peri22-dataelement-20373" min="0" max="1" note="toelichting reden" />
-  <field concept="peri22-dataelement-20390" min="0" max="1" note="is er sprake van consult?" />
+  <field concept="peri22-dataelement-20360" note="is er sprake van 'overdracht aan'?" />
+  <field concept="peri22-dataelement-20362" note="datum van overdracht" />
+  <field concept="peri22-dataelement-20366" note="overdracht aan zorginstelling (specialisme)" />
+  <field concept="peri22-dataelement-20369" note="overdracht aan zorginstelling (echelon)" />
+  <field concept="peri22-dataelement-20368" note="overdracht aan zorginstelling (id)" />
+  <field concept="peri22-dataelement-20367" note="perinatale periode van overdracht" />
+  <field concept="peri22-dataelement-20633" note="hoeveelheid bloedverlies tot acute overdracht" />
+  <field concept="peri22-dataelement-80614" note="intra-uteriene vruchtdood?" />
+  <field concept="peri22-dataelement-80615" note="waarschijnlijkheid intra-uteriene vruchtdood" />
+  <field concept="peri22-dataelement-20371" note="reden 'overdracht aan' (lijst prn)" />
+  <field concept="peri22-dataelement-20372" note="categorie reden (acute overdracht)" />
+  <field concept="peri22-dataelement-20373" note="toelichting reden" />
+  <field concept="peri22-dataelement-20390" note="is er sprake van consult?" />
 
-  <field concept="peri22-dataelement-10801" min="0" max="1" note="medicatie" />
-  <field concept="peri22-dataelement-10808" min="0" max="1" note="actuele rr systolisch" />
-  <field concept="peri22-dataelement-10809" min="0" max="1" note="actuele rr diastolisch" />
-  <field concept="peri22-dataelement-20070" min="0" max="1" note="LVR1 administratienummer" />
+  <field concept="peri22-dataelement-10801" note="medicatie" />
+  <field concept="peri22-dataelement-10808" note="actuele rr systolisch" />
+  <field concept="peri22-dataelement-10809" note="actuele rr diastolisch" />
+  <field concept="peri22-dataelement-20070" note="LVR1 administratienummer" />
 </sectionType>

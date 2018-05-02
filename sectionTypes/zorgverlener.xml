@@ -5,6 +5,6 @@
   >
   <property name="definition">Zorgverlener</property>
 
-  <field concept="peri22-dataelement-10003" min="0" max="1" note="identificatie zorgverlener" />
+  <field concept="peri22-dataelement-10003" note="identificatie zorgverlener" />
 
 </sectionType>

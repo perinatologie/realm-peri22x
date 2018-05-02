@@ -4,39 +4,39 @@
   note="Bevindingen"
   >
   <property name="definition">Bevindingen</property>
-<!--  
-  <field concept="?" min="0" max="1" note="algehele beoordeling" />
-  <field concept="?" min="0" max="1" note="neuraalbuisdefecten" />
-  <field concept="?" min="0" max="1" note="intracraniële afwijkingen" />
--->
-  <field concept="peri22-dataelement-82242" min="0" max="1" note="afwijkingen aangezicht" />
-  <field concept="peri22-dataelement-82243" min="0" max="1" note="afwijkingen nek / huid" />
-  <field concept="peri22-dataelement-82244" min="0" max="1" note="hartafwijkingen en hartritmestoornissen" />
-  <field concept="peri22-dataelement-82245" min="0" max="1" note="longafwijkingen" />
-  <field concept="peri22-dataelement-82246" min="0" max="*" note="hernia diafragmatica" />
-  <field concept="peri22-dataelement-82247" min="0" max="*" note="buikwanddefecten" />
-  <field concept="peri22-dataelement-82248" min="0" max="1" note="afwijkingen maag-darm" />
-  <field concept="peri22-dataelement-82249" min="0" max="1" note="afwijkingen nieren-blaas" />
 <!--
-  <field concept="?" min="0" max="1" note="afwijkingen skelet en extremiteiten" />
-  <field concept="?" min="0" max="1" note="pijnbestrijding (deprecated)" />
-  <field concept="?" min="0" max="1" note="pijnbestrijding?" />
+  <field concept="?" note="algehele beoordeling" />
+  <field concept="?" note="neuraalbuisdefecten" />
+  <field concept="?" note="intracraniële afwijkingen" />
+-->
+  <field concept="peri22-dataelement-82242" note="afwijkingen aangezicht" />
+  <field concept="peri22-dataelement-82243" note="afwijkingen nek / huid" />
+  <field concept="peri22-dataelement-82244" note="hartafwijkingen en hartritmestoornissen" />
+  <field concept="peri22-dataelement-82245" note="longafwijkingen" />
+  <field concept="peri22-dataelement-82246" max="*" note="hernia diafragmatica" />
+  <field concept="peri22-dataelement-82247" max="*" note="buikwanddefecten" />
+  <field concept="peri22-dataelement-82248" note="afwijkingen maag-darm" />
+  <field concept="peri22-dataelement-82249" note="afwijkingen nieren-blaas" />
+<!--
+  <field concept="?" note="afwijkingen skelet en extremiteiten" />
+  <field concept="?" note="pijnbestrijding (deprecated)" />
+  <field concept="?" note="pijnbestrijding?" />
   <field concept="?" min="0" max="*" note="methode pijnbestrijding" />
 -->
-  <field concept="peri22-dataelement-82253" min="0" max="1" note="afwijkend vruchtwatercompartiment" />
-  <field concept="peri22-dataelement-82254" min="0" max="1" note="navelstreng afwijkingen" />
-  <field concept="peri22-dataelement-82255" min="0" max="1" note="placenta afwijkingen" />
-  <field concept="peri22-dataelement-82239" min="0" max="1" note="echodense focus in het hart" />
-  <field concept="peri22-dataelement-82258" min="0" max="1" note="plexus choroideus cysten" />
-  <field concept="peri22-dataelement-82259" min="0" max="1" note="verdikte nekplooi / nekhuid" />
-  <field concept="peri22-dataelement-82260" min="0" max="1" note="echodense darmen" />
-  <field concept="peri22-dataelement-82261" min="0" max="1" note="milde ventriculomegalie" />
-  <field concept="peri22-dataelement-82262" min="0" max="1" note="pyelectasie" />
-  <field concept="peri22-dataelement-82263" min="0" max="1" note="kort femur" />
-  <field concept="peri22-dataelement-82264" min="0" max="1" note="2 navelstrengvaten" />
-  <field concept="peri22-dataelement-60060" min="0" max="1" note="hc (hoofdomtrek) in mm" />
-  <field concept="peri22-dataelement-60070" min="0" max="1" note="tcd (cerebellum) in mm" />
-  <field concept="peri22-dataelement-60080" min="0" max="1" note="ac (buikomtrek) in mm" />
-  <field concept="peri22-dataelement-60100" min="0" max="1" note="fl (femur) lengte in mm" />
-  <field concept="peri22-dataelement-60030" min="0" max="1" note="bpd in mm" />
+  <field concept="peri22-dataelement-82253" note="afwijkend vruchtwatercompartiment" />
+  <field concept="peri22-dataelement-82254" note="navelstreng afwijkingen" />
+  <field concept="peri22-dataelement-82255" note="placenta afwijkingen" />
+  <field concept="peri22-dataelement-82239" note="echodense focus in het hart" />
+  <field concept="peri22-dataelement-82258" note="plexus choroideus cysten" />
+  <field concept="peri22-dataelement-82259" note="verdikte nekplooi / nekhuid" />
+  <field concept="peri22-dataelement-82260" note="echodense darmen" />
+  <field concept="peri22-dataelement-82261" note="milde ventriculomegalie" />
+  <field concept="peri22-dataelement-82262" note="pyelectasie" />
+  <field concept="peri22-dataelement-82263" note="kort femur" />
+  <field concept="peri22-dataelement-82264" note="2 navelstrengvaten" />
+  <field concept="peri22-dataelement-60060" note="hc (hoofdomtrek) in mm" />
+  <field concept="peri22-dataelement-60070" note="tcd (cerebellum) in mm" />
+  <field concept="peri22-dataelement-60080" note="ac (buikomtrek) in mm" />
+  <field concept="peri22-dataelement-60100" note="fl (femur) lengte in mm" />
+  <field concept="peri22-dataelement-60030" note="bpd in mm" />
 </sectionType>

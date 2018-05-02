@@ -4,75 +4,75 @@
   label="Anamnese"
   >
   <property name="definition">Verloskundige anamnese, vorige zwangerschap</property>
-  
-  <field concept="peri22-dataelement-10590" min="0" max="1" note="identificatie van de zwangerschap" />
-  <field concept="peri22-dataelement-80623" min="0" max="1" note="wijze einde zwangerschap" />
-  <field concept="peri22-dataelement-82001" min="0" max="1" note="graviditeit" />
-  <field concept="peri22-dataelement-82002" min="0" max="1" note="pariteit voor deze zwangerschap" />
-  <field concept="peri22-dataelement-82040" min="0" max="1" note="datum einde zwangerschap" />
-  <field concept="peri22-dataelement-82041" min="0" max="1" note="zwangerschapsduur einde zwangerschap" />
-  <field concept="peri22-dataelement-82214" min="0" max="1" note="irregulaire antistoffen" />
-  <field concept="peri22-dataelement-82004" min="0" max="1" note="a terme datum" />
-  <field concept="peri22-dataelement-82005" min="0" max="1" note="actuele a terme datum" />
-  <field concept="peri22-dataelement-82337" min="0" max="1" note="definitieve a terme datum" />
-  
-  <field concept="peri22-dataelement-82315" min="0" max="1" note="datum" />
-  <field concept="peri22-dataelement-82316" min="0" max="1" note="zwangerschapsduur" />
-  <field concept="peri22-dataelement-82317" min="0" max="1" note="gynaecologische aandoening" />
-  <field concept="peri22-dataelement-82318" min="0" max="1" note="bloedverlies?" />
-  <field concept="peri22-dataelement-82319" min="0" max="1" note="partiële mola?" />
-  <field concept="peri22-dataelement-82320" min="0" max="1" note="cervixinsufficiëntie?" />
-  <field concept="peri22-dataelement-82321" min="0" max="1" note="infectie" />
-  <field concept="peri22-dataelement-82322" min="0" max="1" note="hyperemesis gravidarum?" />
-  <field concept="peri22-dataelement-82323" min="0" max="1" note="hypertensieve aandoening" />
-  <field concept="peri22-dataelement-82324" min="0" max="1" note="zwangerschapscholestase?" />
-  <field concept="peri22-dataelement-82325" min="0" max="1" note="diabetes gravidarum met insuline?" />
-  <field concept="peri22-dataelement-82326" min="0" max="1" note="afwijkende groei foetus" />
-  <field concept="peri22-dataelement-82327" min="0" max="1" note="dreigende partus immaturus?" />
-  <field concept="peri22-dataelement-82328" min="0" max="1" note="dreigende partus prematurus?" />
-  <field concept="peri22-dataelement-82329" min="0" max="1" note="abruptio placentae?" />
-  
-  <field concept="peri22-dataelement-80708" min="0" max="1" note="wijze waarop de baring begon" />
-  <field concept="peri22-dataelement-80837" min="0" max="1" note="interventie begin baring" />
-  <field concept="peri22-dataelement-80838" min="0" max="1" note="indicatie interventie begin baring" />
-  <field concept="peri22-dataelement-82336" min="0" max="1" note="geboorte placenta" />
-  <field concept="peri22-dataelement-10598" min="0" max="1" note="hoeveelheid bloedverlies" />
-  <field concept="peri22-dataelement-10601" min="0" max="1" note="duur actieve ontsluitingsfase (ontsluitingsduur)" />
-  <field concept="peri22-dataelement-10602" min="0" max="1" note="duur uitdrijving vanaf actief meepersen" />
-  <field concept="peri22-dataelement-80674" min="0" max="1" note="conditie perineum postpartum" />
-  
-  <field concept="peri22-dataelement-80710" min="0" max="1" note="werkelijke plaats baring (type locatie)" />
-  <field concept="peri22-dataelement-82113" min="0" max="1" note="ziekenhuisnummer (lvr-id)" />
-  <field concept="peri22-dataelement-82043" min="0" max="1" note="zorginstelling agb-id" />
-  <field concept="peri22-dataelement-82044" min="0" max="1" note="naam zorginstelling" />
-  <field concept="peri22-dataelement-82352" min="0" max="1" note="roepnaam" />
-  <field concept="peri22-dataelement-82128" min="0" max="1" note="voornamen" />
+
+  <field concept="peri22-dataelement-10590" note="identificatie van de zwangerschap" />
+  <field concept="peri22-dataelement-80623" note="wijze einde zwangerschap" />
+  <field concept="peri22-dataelement-82001" note="graviditeit" />
+  <field concept="peri22-dataelement-82002" note="pariteit voor deze zwangerschap" />
+  <field concept="peri22-dataelement-82040" note="datum einde zwangerschap" />
+  <field concept="peri22-dataelement-82041" note="zwangerschapsduur einde zwangerschap" />
+  <field concept="peri22-dataelement-82214" note="irregulaire antistoffen" />
+  <field concept="peri22-dataelement-82004" note="a terme datum" />
+  <field concept="peri22-dataelement-82005" note="actuele a terme datum" />
+  <field concept="peri22-dataelement-82337" note="definitieve a terme datum" />
+
+  <field concept="peri22-dataelement-82315" note="datum" />
+  <field concept="peri22-dataelement-82316" note="zwangerschapsduur" />
+  <field concept="peri22-dataelement-82317" note="gynaecologische aandoening" />
+  <field concept="peri22-dataelement-82318" note="bloedverlies?" />
+  <field concept="peri22-dataelement-82319" note="partiële mola?" />
+  <field concept="peri22-dataelement-82320" note="cervixinsufficiëntie?" />
+  <field concept="peri22-dataelement-82321" note="infectie" />
+  <field concept="peri22-dataelement-82322" note="hyperemesis gravidarum?" />
+  <field concept="peri22-dataelement-82323" note="hypertensieve aandoening" />
+  <field concept="peri22-dataelement-82324" note="zwangerschapscholestase?" />
+  <field concept="peri22-dataelement-82325" note="diabetes gravidarum met insuline?" />
+  <field concept="peri22-dataelement-82326" note="afwijkende groei foetus" />
+  <field concept="peri22-dataelement-82327" note="dreigende partus immaturus?" />
+  <field concept="peri22-dataelement-82328" note="dreigende partus prematurus?" />
+  <field concept="peri22-dataelement-82329" note="abruptio placentae?" />
+
+  <field concept="peri22-dataelement-80708" note="wijze waarop de baring begon" />
+  <field concept="peri22-dataelement-80837" note="interventie begin baring" />
+  <field concept="peri22-dataelement-80838" note="indicatie interventie begin baring" />
+  <field concept="peri22-dataelement-82336" note="geboorte placenta" />
+  <field concept="peri22-dataelement-10598" note="hoeveelheid bloedverlies" />
+  <field concept="peri22-dataelement-10601" note="duur actieve ontsluitingsfase (ontsluitingsduur)" />
+  <field concept="peri22-dataelement-10602" note="duur uitdrijving vanaf actief meepersen" />
+  <field concept="peri22-dataelement-80674" note="conditie perineum postpartum" />
+
+  <field concept="peri22-dataelement-80710" note="werkelijke plaats baring (type locatie)" />
+  <field concept="peri22-dataelement-82113" note="ziekenhuisnummer (lvr-id)" />
+  <field concept="peri22-dataelement-82043" note="zorginstelling agb-id" />
+  <field concept="peri22-dataelement-82044" note="naam zorginstelling" />
+  <field concept="peri22-dataelement-82352" note="roepnaam" />
+  <field concept="peri22-dataelement-82128" note="voornamen" />
   <!--
-  <field concept="peri22-dataelement-82351" min="0" max="1" note="voorvoegsel" />
+  <field concept="peri22-dataelement-82351" note="voorvoegsel" />
   -->
-  <field concept="peri22-dataelement-82129" min="0" max="1" note="achternaam" />
-  <field concept="peri22-dataelement-80712" min="0" max="1" note="geslacht (medische observatie)" />
-  <field concept="peri22-dataelement-80702" min="0" max="1" note="geboortedatum" />
-  <field concept="peri22-dataelement-80705" min="0" max="1" note="perinatale sterfte?" />
-  <field concept="peri22-dataelement-80706" min="0" max="1" note="fase perinatale sterfte" />
-  <field concept="peri22-dataelement-80989" min="0" max="1" note="kind in leven?" />
-  <field concept="peri22-dataelement-80990" min="0" max="1" note="toelichting overlijden kind" />
-  <field concept="peri22-dataelement-80624" min="0" max="1" note="type partus" />
-  <field concept="peri22-dataelement-82341" min="0" max="1" note="zwangerschapsduur" />
-  <field concept="peri22-dataelement-10604" min="0" max="1" note="geboortegewicht" />
-  <field concept="peri22-dataelement-10605" min="0" max="1" note="percentiel van het geboortegewicht" />
-  <field concept="peri22-dataelement-10606" min="0" max="1" note="apgarscore na 5 min." />
-  <field concept="peri22-dataelement-10607" min="0" max="1" note="vaginale kunstverlossing" />
-  <field concept="peri22-dataelement-82046" min="0" max="1" note="beslismoment sectio caesarea" />
-  <field concept="peri22-dataelement-82047" min="0" max="1" note="indicatie sectio caesarea" />
-  <field concept="peri22-dataelement-82215" min="0" max="1" note="overige interventies" />
-  <field concept="peri22-dataelement-80997" min="0" max="1" note="congenitale afwijkingen?" />
-  <field concept="peri22-dataelement-81000" min="0" max="1" note="specificatie congenitale afwijking" />
-  <field concept="peri22-dataelement-81002" min="0" max="1" note="chromosomale afwijkingen?" />
-  <field concept="peri22-dataelement-81004" min="0" max="1" note="specificatie chromosomale afwijking" />
-  <field concept="peri22-dataelement-80717" min="0" max="1" note="bijzonderheden kind" />
-  
-  <field concept="peri22-dataelement-80678" min="0" max="1" note="fetal loss +20wk" />
-  <field concept="peri22-dataelement-80617" min="0" max="1" note="totaal in leven" />
-  <field concept="peri22-dataelement-40020" min="0" max="1" note="uitkomst" />
+  <field concept="peri22-dataelement-82129" note="achternaam" />
+  <field concept="peri22-dataelement-80712" note="geslacht (medische observatie)" />
+  <field concept="peri22-dataelement-80702" note="geboortedatum" />
+  <field concept="peri22-dataelement-80705" note="perinatale sterfte?" />
+  <field concept="peri22-dataelement-80706" note="fase perinatale sterfte" />
+  <field concept="peri22-dataelement-80989" note="kind in leven?" />
+  <field concept="peri22-dataelement-80990" note="toelichting overlijden kind" />
+  <field concept="peri22-dataelement-80624" note="type partus" />
+  <field concept="peri22-dataelement-82341" note="zwangerschapsduur" />
+  <field concept="peri22-dataelement-10604" note="geboortegewicht" />
+  <field concept="peri22-dataelement-10605" note="percentiel van het geboortegewicht" />
+  <field concept="peri22-dataelement-10606" note="apgarscore na 5 min." />
+  <field concept="peri22-dataelement-10607" note="vaginale kunstverlossing" />
+  <field concept="peri22-dataelement-82046" note="beslismoment sectio caesarea" />
+  <field concept="peri22-dataelement-82047" note="indicatie sectio caesarea" />
+  <field concept="peri22-dataelement-82215" note="overige interventies" />
+  <field concept="peri22-dataelement-80997" note="congenitale afwijkingen?" />
+  <field concept="peri22-dataelement-81000" note="specificatie congenitale afwijking" />
+  <field concept="peri22-dataelement-81002" note="chromosomale afwijkingen?" />
+  <field concept="peri22-dataelement-81004" note="specificatie chromosomale afwijking" />
+  <field concept="peri22-dataelement-80717" note="bijzonderheden kind" />
+
+  <field concept="peri22-dataelement-80678" note="fetal loss +20wk" />
+  <field concept="peri22-dataelement-80617" note="totaal in leven" />
+  <field concept="peri22-dataelement-40020" note="uitkomst" />
 </sectionType>

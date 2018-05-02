@@ -5,52 +5,52 @@
   >
   <property name="definition">Client details</property>
 
-  <field concept="peri22-dataelement-10030" min="0" max="1" note="bsn" />
-  <field concept="peri22-dataelement-10031" min="0" max="1" note="lokale persoonsidentificatie" />
+  <field concept="peri22-dataelement-10030" note="bsn" />
+  <field concept="peri22-dataelement-10031" note="lokale persoonsidentificatie" />
 
-  <field concept="peri22-dataelement-82360" min="0" max="1" note="roepnaam" />
-  <field concept="peri22-dataelement-10042" min="0" max="10" note="voornamen" />
-  <field concept="peri22-dataelement-82359" min="0" max="1" note="initialen" />
-  <field concept="peri22-dataelement-82363" min="0" max="1" note="voorvoegsel"/>
-  <field concept="peri22-dataelement-10043" min="0" max="1" note="achternaam" />
-  <field concept="peri22x-vrouw-volledige_achternaam" min="0" max="1" note="volledige achternaam" />
+  <field concept="peri22-dataelement-82360" note="roepnaam" />
+  <field concept="peri22-dataelement-10042" max="*" note="voornamen" />
+  <field concept="peri22-dataelement-82359" note="initialen" />
+  <field concept="peri22-dataelement-82363" note="voorvoegsel"/>
+  <field concept="peri22-dataelement-10043" note="achternaam" />
+  <field concept="peri22x-vrouw-volledige_achternaam" note="volledige achternaam" />
 
-  <field concept="peri22-dataelement-10040" min="0" max="1" note="geboortedatum" />
-  <field concept="peri22x-vrouw-geboorteland" min="0" max="1" note="geboorteland" />
-  <field concept="peri22x-burgelijke_staat" min="0" max="1" note="burg.staat" />
-  <field concept="peri22-dataelement-10400" min="0" max="1" note="etniciteit" />
-  <field concept="peri22-dataelement-10401" min="0" max="1" note="spreekt Nederlands" />
-  <field concept="peri22-dataelement-82371" min="0" max="1" note="communicatietaal" />
-  <field concept="peri22-dataelement-82154" min="0" max="1" note="beroep client" />
-  <field concept="peri22-dataelement-82155" min="0" max="1" note="opleidingsniveau" />
-  <field concept="peri22x-memo-client" min="0" max="1" note="client memo" />
+  <field concept="peri22-dataelement-10040" note="geboortedatum" />
+  <field concept="peri22x-vrouw-geboorteland" note="geboorteland" />
+  <field concept="peri22x-burgelijke_staat" note="burg.staat" />
+  <field concept="peri22-dataelement-10400" note="etniciteit" />
+  <field concept="peri22-dataelement-10401" note="spreekt Nederlands" />
+  <field concept="peri22-dataelement-82371" note="communicatietaal" />
+  <field concept="peri22-dataelement-82154" note="beroep client" />
+  <field concept="peri22-dataelement-82155" note="opleidingsniveau" />
+  <field concept="peri22x-memo-client" note="client memo" />
 
-  <field concept="peri22-dataelement-10301" min="0" max="1" note="straatnaam" />
-  <field concept="peri22-dataelement-10302" min="0" max="1" note="huisnummer" />
-  <field concept="peri22-dataelement-10303" min="0" max="1" note="huisnummertoevoeging" />
-  <field concept="peri22-dataelement-10304" min="0" max="1" note="postcode" />
-  <field concept="peri22-dataelement-10305" min="0" max="1" note="plaats" />
-  <field concept="peri22-dataelement-10306" min="0" max="1" note="gemeentenaam" />
-  <field concept="peri22-dataelement-10307" min="0" max="1" note="land" />
-  <field concept="peri22-dataelement-10308" min="0" max="1" note="adrestype" />
+  <field concept="peri22-dataelement-10301" note="straatnaam" />
+  <field concept="peri22-dataelement-10302" note="huisnummer" />
+  <field concept="peri22-dataelement-10303" note="huisnummertoevoeging" />
+  <field concept="peri22-dataelement-10304" note="postcode" />
+  <field concept="peri22-dataelement-10305" note="plaats" />
+  <field concept="peri22-dataelement-10306" note="gemeentenaam" />
+  <field concept="peri22-dataelement-10307" note="land" />
+  <field concept="peri22-dataelement-10308" note="adrestype" />
 
-  <field concept="peri22-dataelement-80639" min="0" max="1" note="voornamen partner" />
-  <field concept="peri22-dataelement-80640" min="0" max="1" note="voorvoegsel partner" />
-  <field concept="peri22-dataelement-80641" min="0" max="1" note="achternaam partner" />
-  <field concept="peri22-dataelement-80636" min="0" max="1" note="ethniciteit partner" />
-  
-  <field concept="peri22-dataelement-82027" min="0" max="1" note="zorgverlener uzi-nummer" />
-  <field concept="peri22-dataelement-82028" min="0" max="1" note="zorgverlener agb-id" />
-  <field concept="peri22-dataelement-82029" min="0" max="1" note="naam zorgverlener" />
+  <field concept="peri22-dataelement-80639" note="voornamen partner" />
+  <field concept="peri22-dataelement-80640" note="voorvoegsel partner" />
+  <field concept="peri22-dataelement-80641" note="achternaam partner" />
+  <field concept="peri22-dataelement-80636" note="ethniciteit partner" />
 
-  <field concept="peri22-dataelement-82030" min="0" max="1" note="zorginstelling agb-id" />
-  <field concept="peri22-dataelement-82031" min="0" max="1" note="naam zorginstelling" />
+  <field concept="peri22-dataelement-82027" note="zorgverlener uzi-nummer" />
+  <field concept="peri22-dataelement-82028" note="zorgverlener agb-id" />
+  <field concept="peri22-dataelement-82029" note="naam zorgverlener" />
 
-  <field concept="peri22-dataelement-82039" min="0" max="1" note="zorgverlener uzi-nummer" />
-  <field concept="peri22-dataelement-82032" min="0" max="1" note="zorgverlener agb-id" />
-  <field concept="peri22-dataelement-82033" min="0" max="1" note="naam zorgverlener" />
-  <field concept="peri22-dataelement-82038" min="0" max="1" note="type specialist" />
-  <field concept="peri22-dataelement-82036" min="0" max="1" note="zorginstelling agb-id" />
-  <field concept="peri22-dataelement-82037" min="0" max="1" note="naam zorginstelling" />
+  <field concept="peri22-dataelement-82030" note="zorginstelling agb-id" />
+  <field concept="peri22-dataelement-82031" note="naam zorginstelling" />
+
+  <field concept="peri22-dataelement-82039" note="zorgverlener uzi-nummer" />
+  <field concept="peri22-dataelement-82032" note="zorgverlener agb-id" />
+  <field concept="peri22-dataelement-82033" note="naam zorgverlener" />
+  <field concept="peri22-dataelement-82038" note="type specialist" />
+  <field concept="peri22-dataelement-82036" note="zorginstelling agb-id" />
+  <field concept="peri22-dataelement-82037" note="naam zorginstelling" />
 
 </sectionType>

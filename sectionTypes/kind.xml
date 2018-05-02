@@ -16,19 +16,19 @@
   <field concept="peri22-dataelement-80631" note="gemeentenaam" />
   <field concept="peri22-dataelement-80632" note="geboorteland" />
 
-  <field concept="peri22-dataelement-40010" repeat="true" note="bsn kind" />
-  <field concept="peri22-dataelement-40011" repeat="true" note="lokale identificatie kind" />
-  <field concept="peri22-dataelement-40015" repeat="true" note="identificatie kind prn formaat" />
+  <field concept="peri22-dataelement-40010" repeatable="true" note="bsn kind" />
+  <field concept="peri22-dataelement-40011" repeatable="true" note="lokale identificatie kind" />
+  <field concept="peri22-dataelement-40015" repeatable="true" note="identificatie kind prn formaat" />
 
-  <field concept="peri22-dataelement-82052" repeat="true" note="roepnaam" />
-  <field concept="peri22-dataelement-82054" repeat="true" note="voorvoegsel" />
-  <field concept="peri22-dataelement-82055" repeat="true" note="achternaam" />
-  <field concept="peri22-dataelement-40034" repeat="true" note="postcode" />
-  <field concept="peri22-dataelement-40040" repeat="true" note="geslacht (administratief)" />
-  <field concept="peri22-dataelement-40041" repeat="true" note="geslacht (medische observatie)" />
-  <field concept="peri22-dataelement-40050" repeat="true" note="geboortedatum" />
-  <field concept="peri22-dataelement-82087" repeat="true" note="meerlingindicatie" />
-  <field concept="peri22-dataelement-40025" repeat="true" note="rangnummer kind" /> <!--gelijk aan repeat-->
+  <field concept="peri22-dataelement-82052" repeatable="true" note="roepnaam" />
+  <field concept="peri22-dataelement-82054" repeatable="true" note="voorvoegsel" />
+  <field concept="peri22-dataelement-82055" repeatable="true" note="achternaam" />
+  <field concept="peri22-dataelement-40034" repeatable="true" note="postcode" />
+  <field concept="peri22-dataelement-40040" repeatable="true" note="geslacht (administratief)" />
+  <field concept="peri22-dataelement-40041" repeatable="true" note="geslacht (medische observatie)" />
+  <field concept="peri22-dataelement-40050" repeatable="true" note="geboortedatum" />
+  <field concept="peri22-dataelement-82087" repeatable="true" note="meerlingindicatie" />
+  <field concept="peri22-dataelement-40025" repeatable="true" note="rangnummer kind" /> <!--gelijk aan repeatable-->
   <field concept="peri22-dataelement-40280" note="perinatale sterfte" />
   <field concept="peri22-dataelement-40290" note="fase perinatale sterfte" />
   <field concept="peri22-dataelement-40300" note="datum/tijd vaststelling perinatale sterfte" />

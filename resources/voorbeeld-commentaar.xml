@@ -153,8 +153,15 @@
         <value concept="peri22-dataelement-10601" label="Duur actieve ontsluitingsfase" value=""/>
         <value concept="peri22-dataelement-80945" label="Vruchtwater" value="278092006"/>
         <value concept="peri22-dataelement-82090" label="Pijnbestrijding?" value="True"/>
+
+        <!-- voorbeeld groep 1 methode+periode -->
         <value concept="peri22-dataelement-82092" label="Methode pijnbestrijding" value="231249005" displayValue="Local anesthetic intrathecal block (procedure)"/>
         <value concept="peri22-dataelement-82097" label="Periode pijnbestrijding" value="Uitdr" displayValue="tijdens uitdrijving"/>
+        
+        <!-- voorbeeld groep 2 methode+periode -->
+        <value concept="peri22-dataelement-82092" label="Methode pijnbestrijding" value="231249005" displayValue="Local anesthetic intrathecal block (procedure)"/>
+        <value concept="peri22-dataelement-82097" label="Periode pijnbestrijding" value="Uitdr" displayValue="tijdens uitdrijving"/>
+       
         <value concept="peri22-dataelement-80694" label="Bevallingsdatum" value="" displayValue="-"/>
         <value concept="peri22-dataelement-20560" label="Hulp Baring" value="236966000" displayValue="Cervical ripening with Prostaglandin E2 (procedure)"/>
         <value concept="peri22-dataelement-40020" label="Type uitkomst" value="1" displayValue="partus"/>

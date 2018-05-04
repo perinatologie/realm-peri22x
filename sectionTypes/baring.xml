@@ -5,63 +5,63 @@
   >
   <property name="definition">Baring</property>
 
-  <field concept="peri22-dataelement-20500" min="0" max="1" note="partusnummer" />
+  <field concept="peri22-dataelement-20500" note="partusnummer" />
 
-  <field concept="peri22-dataelement-82338" min="0" max="1" note="pprom?" />
-  <field concept="peri22-dataelement-82290" min="0" max="1" note="prom?" />
-  <field concept="peri22-dataelement-82292" min="0" max="1" note="koorts?" />
-  <field concept="peri22-dataelement-82293" min="0" max="1" note="niet vorderende ontsluiting?" />
-  <field concept="peri22-dataelement-82294" min="0" max="1" note="niet vorderende uitdrijving?" />
-  <field concept="peri22-dataelement-82296" min="0" max="1" note="verdenking foetale nood?" />
-  <field concept="peri22-dataelement-82295" min="0" max="1" note="vastzittende placenta?" />
+  <field concept="peri22-dataelement-82338" note="pprom?" />
+  <field concept="peri22-dataelement-82290" note="prom?" />
+  <field concept="peri22-dataelement-82292" note="koorts?" />
+  <field concept="peri22-dataelement-82293" note="niet vorderende ontsluiting?" />
+  <field concept="peri22-dataelement-82294" note="niet vorderende uitdrijving?" />
+  <field concept="peri22-dataelement-82296" note="verdenking foetale nood?" />
+  <field concept="peri22-dataelement-82295" note="vastzittende placenta?" />
 
-  <field concept="peri22-dataelement-20505" min="0" max="1" note="aantal geboren kinderen" />
-  <field concept="peri22-dataelement-20530" min="0" max="1" note="risicostatus voor baring" />
-  <field concept="peri22-dataelement-20550" min="0" max="1" note="wijze waarop de baring begon" />
+  <field concept="peri22-dataelement-20505" note="aantal geboren kinderen" />
+  <field concept="peri22-dataelement-20530" note="risicostatus voor baring" />
+  <field concept="peri22-dataelement-20550" note="wijze waarop de baring begon" />
 
-  <field concept="peri22-dataelement-20560" min="0" max="*" note="interventie begin baring" />
-  <field concept="peri22-dataelement-20570" min="0" max="*" note="indicatie interventie begin baring" />
+  <field concept="peri22-dataelement-20560" max="*" note="interventie begin baring" />
+  <field concept="peri22-dataelement-20570" max="*" note="indicatie interventie begin baring" />
 
-  <field concept="peri22-dataelement-20590" min="0" max="1" note="tijdstip begin actieve fase" />
-  <field concept="peri22-dataelement-20616" min="0" max="1" note="bijstimulatie toegediend?" />
+  <field concept="peri22-dataelement-20590" note="tijdstip begin actieve fase" />
+  <field concept="peri22-dataelement-20616" note="bijstimulatie toegediend?" />
 
-  <field concept="peri22-dataelement-20620" min="0" max="1" note="medicatie nageboortetijdperk?" />
-  <field concept="peri22-dataelement-20626" min="0" max="*" note="soort medicatie nageboortetijdperk" />
+  <field concept="peri22-dataelement-20620" note="medicatie nageboortetijdperk?" />
+  <field concept="peri22-dataelement-20626" max="*" note="soort medicatie nageboortetijdperk" />
 
-  <field concept="peri22-dataelement-20630" min="0" max="1" note="geboorte placenta" />
-  <field concept="peri22-dataelement-82224" min="0" max="1" note="natasten" />
-  <field concept="peri22-dataelement-20631" min="0" max="1" note="placenta compleet" />
-  <field concept="peri22-dataelement-80791" min="0" max="1" note="datum/tijd geboorte placenta" />
-  <field concept="peri22-dataelement-80803" min="0" max="1" note="placenta naar pa" />
-  <field concept="peri22-dataelement-80981" min="0" max="1" note="bijzonderheden placenta" />
+  <field concept="peri22-dataelement-20630" note="geboorte placenta" />
+  <field concept="peri22-dataelement-82224" note="natasten" />
+  <field concept="peri22-dataelement-20631" note="placenta compleet" />
+  <field concept="peri22-dataelement-80791" note="datum/tijd geboorte placenta" />
+  <field concept="peri22-dataelement-80803" note="placenta naar pa" />
+  <field concept="peri22-dataelement-80981" note="bijzonderheden placenta" />
 
-  <field concept="peri22-dataelement-80792" min="0" max="1" note="compleetheid vliezen" />
-  <field concept="peri22-dataelement-20640" min="0" max="1" note="hoeveelheid bloedverlies (ml)" />
-  <field concept="peri22-dataelement-80673" min="0" max="1" note="conditie perineum postpartum" />
-  <field concept="peri22-dataelement-82125" min="0" max="1" note="hechten?" />
-  <field concept="peri22-dataelement-80797" min="0" max="1" note="manier van hechten" />
-  <field concept="peri22-dataelement-82127" min="0" max="1" note="overig trauma?" />
-  <field concept="peri22-dataelement-82126" min="0" max="1" note="overig trauma" />
+  <field concept="peri22-dataelement-80792" note="compleetheid vliezen" />
+  <field concept="peri22-dataelement-20640" note="hoeveelheid bloedverlies (ml)" />
+  <field concept="peri22-dataelement-80673" note="conditie perineum postpartum" />
+  <field concept="peri22-dataelement-82125" note="hechten?" />
+  <field concept="peri22-dataelement-80797" note="manier van hechten" />
+  <field concept="peri22-dataelement-82127" note="overig trauma?" />
+  <field concept="peri22-dataelement-82126" note="overig trauma" />
 
-  <field concept="peri22-dataelement-80831" min="0" max="1" note="rhesus d immunisatie?" />
-  <field concept="peri22-dataelement-80801" min="0" max="1" note="datum immunisatie" />
-  <field concept="peri22-dataelement-82130" min="0" max="1" note="chargenummer" />
+  <field concept="peri22-dataelement-80831" note="rhesus d immunisatie?" />
+  <field concept="peri22-dataelement-80801" note="datum immunisatie" />
+  <field concept="peri22-dataelement-82130" note="chargenummer" />
 
-  <field concept="peri22-dataelement-82131" min="0" max="1" note="partusassistentie?" />
-  <field concept="peri22-dataelement-20650" min="0" max="1" note="partusstadium assistentie gearriveerd" />
-  <field concept="peri22-dataelement-82132" min="0" max="1" note="rol partusassistent" />
+  <field concept="peri22-dataelement-82131" note="partusassistentie?" />
+  <field concept="peri22-dataelement-20650" note="partusstadium assistentie gearriveerd" />
+  <field concept="peri22-dataelement-82132" note="rol partusassistent" />
 
-  <field concept="peri22-dataelement-82057" min="0" max="1" note="risicostatus uiteindelijk" />
-  <field concept="peri22-dataelement-20660" min="0" max="1" note="ontslagdatum post partum" />
+  <field concept="peri22-dataelement-82057" note="risicostatus uiteindelijk" />
+  <field concept="peri22-dataelement-20660" note="ontslagdatum post partum" />
 
 
   <!--staat niet bij gedeelte baring in peri22-->
-  <field concept="peri22-dataelement-20600" min="0" max="*" note="tijdstip breken vliezen (deprecated)" />
-  <field concept="peri22-dataelement-10601" min="0" max="1" note="duur actieve ontsluitingsfase" />
-  <field concept="peri22-dataelement-80945" min="0" max="1" note="vruchtwater" />
-  <field concept="peri22-dataelement-30060" min="0" max="1" note="pijnbestrijding (deprecated)" />
-  <field concept="peri22-dataelement-80694" min="0" max="1" note="bevallingsdatum" />
-  <field concept="peri22-dataelement-40020" min="0" max="1" note="type uitkomst" />
-  <field concept="peri22-dataelement-82153" min="0" max="1" note="echelon eindverantwoordelijke" />
-  <field concept="peri22-dataelement-20670" min="0" max="1" note="maternale sterfte" />
+  <field concept="peri22-dataelement-20600" max="*" note="tijdstip breken vliezen (deprecated)" />
+  <field concept="peri22-dataelement-10601" note="duur actieve ontsluitingsfase" />
+  <field concept="peri22-dataelement-80945" note="vruchtwater" />
+  <field concept="peri22-dataelement-30060" note="pijnbestrijding (deprecated)" />
+  <field concept="peri22-dataelement-80694" note="bevallingsdatum" />
+  <field concept="peri22-dataelement-40020" note="type uitkomst" />
+  <field concept="peri22-dataelement-82153" note="echelon eindverantwoordelijke" />
+  <field concept="peri22-dataelement-20670" note="maternale sterfte" />
 </sectionType>

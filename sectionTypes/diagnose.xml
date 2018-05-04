@@ -5,10 +5,10 @@
   >
   <property name="definition">Diagnose, gebaseerd op peri22-dataelement-82268</property>
 
-  <field concept="peri22-dataelement-82270" min="0" max="1" note="Bloedverlies?" />
-  <field concept="peri22-dataelement-82273" min="0" max="1" note="Infectie" />
-  <field concept="peri22-dataelement-82274" min="0" max="1" note="Hyperemesis gravidarum?" />
-  <field concept="peri22-dataelement-82275" min="0" max="1" note="Hypertensieve aandoening" />
-  <field concept="peri22-dataelement-82277" min="0" max="1" note="Diabetes gravidarum met insuline?" />
-  <field concept="peri22-dataelement-82289" min="0" max="1" note="Abruptio placentae?" />
+  <field concept="peri22-dataelement-82270" note="Bloedverlies?" />
+  <field concept="peri22-dataelement-82273" note="Infectie" />
+  <field concept="peri22-dataelement-82274" note="Hyperemesis gravidarum?" />
+  <field concept="peri22-dataelement-82275" note="Hypertensieve aandoening" />
+  <field concept="peri22-dataelement-82277" note="Diabetes gravidarum met insuline?" />
+  <field concept="peri22-dataelement-82289" note="Abruptio placentae?" />
 </sectionType>

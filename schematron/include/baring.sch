@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sch:pattern xmlns:sch="http://purl.oclc.org/dsdl/schematron" id="baring">
+   <sch:let name="baring-ids"
+            value="('peri22-dataelement-20500', 'peri22-dataelement-82338', 'peri22-dataelement-82290', 'peri22-dataelement-82292', 'peri22-dataelement-82293', 'peri22-dataelement-82294', 'peri22-dataelement-82296', 'peri22-dataelement-82295', 'peri22-dataelement-20505', 'peri22-dataelement-20530', 'peri22-dataelement-20550', 'peri22-dataelement-20560', 'peri22-dataelement-20570', 'peri22-dataelement-20590', 'peri22-dataelement-20616', 'peri22-dataelement-20620', 'peri22-dataelement-20626', 'peri22-dataelement-20630', 'peri22-dataelement-82224', 'peri22-dataelement-20631', 'peri22-dataelement-80791', 'peri22-dataelement-80803', 'peri22-dataelement-80981', 'peri22-dataelement-80792', 'peri22-dataelement-20640', 'peri22-dataelement-80673', 'peri22-dataelement-82125', 'peri22-dataelement-80797', 'peri22-dataelement-82127', 'peri22-dataelement-82126', 'peri22-dataelement-80831', 'peri22-dataelement-80801', 'peri22-dataelement-82130', 'peri22-dataelement-82131', 'peri22-dataelement-20650', 'peri22-dataelement-82132', 'peri22-dataelement-82057', 'peri22-dataelement-20660', 'peri22-dataelement-20600', 'peri22-dataelement-10601', 'peri22-dataelement-80945', 'peri22-dataelement-30060', 'peri22-dataelement-80694', 'peri22-dataelement-40020', 'peri22-dataelement-82153', 'peri22-dataelement-20670')"/>
+   <sch:rule context="section[@type='baring']//value">
+      <sch:assert test="@concept=$baring-ids" role="error">Id <sch:value-of select="@concept"/> (<sch:value-of select="@label/string()"/>) is niet toegestaan in section baring.</sch:assert>
+   </sch:rule>
+</sch:pattern>

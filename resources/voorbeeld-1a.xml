@@ -1056,12 +1056,6 @@
           value="81"
         />
 
-        <!-- 82077: ketonen -->
-        <value
-          concept="peri22-dataelement-82077"
-          value="29791000146105"
-        />
-
         <!-- 80744: indaling -->
         <value
           concept="peri22-dataelement-80744"
@@ -1385,12 +1379,6 @@
           concept="peri22-dataelement-80836"
           value="HHHPOS"
         />
-
-        <value
-          concept="peri22-dataelement-82077"
-          value="29811000146106"
-        />
-
 
         <value
           concept="peri22-dataelement-80614"

@@ -4,26 +4,64 @@
   label="Consult"
   >
   <property name="definition">Zwangerschap consult details</property>
-
   <field concept="peri22-dataelement-80737" note="datum" />
-  <field concept="peri22-dataelement-80738" note="am duur" />
-  <field concept="peri22-dataelement-80748" note="opmerkingen" />
-  <field concept="peri22-dataelement-82067" note="zorgverlener type" />
   <field concept="peri22-dataelement-80736" note="zorgverlener naam" />
+  <field concept="peri22-dataelement-82067" note="zorgverlener type" />
+  <field concept="peri22-dataelement-80738" note="am duur" />
+  <field concept="peri22-dataelement-80810" note="rookgedrag" />
+  <field concept="peri22-dataelement-80747" note="alcoholgebruik" />
+  <field concept="peri22-dataelement-82102" note="drugsgebruik" />
+  <field concept="peri22-dataelement-82103" note="soort drugs" />
+  <field concept="peri22-dataelement-80746" note="Leven voelen" />
+  <!--
+  <field concept="peri22-dataelement-80740" note="oedeem" /> NICTIZ DID NOT YET ISSUE A CODELIST
+  -->
+  <field concept="peri22-dataelement-80833" note="bloeddruk systolisch" />
+  <field concept="peri22-dataelement-80834" note="bloeddruk diastolisch" />
+
+  <field concept="peri22-dataelement-20211" note="gewicht gemeten" />
   <field concept="peri22-dataelement-80836" note="proteïne in urine o.b.v. strips" />
-  <field concept="peri22-dataelement-80833" note="systolische bloeddruk" />
-  <field concept="peri22-dataelement-80834" note="diastolische bloeddruk" />
-  <field concept="peri22-dataelement-20211" note="gewicht" />
-  <field concept="peri22-dataelement-80746" note="leven voelen" />
-  <field concept="peri22-dataelement-80742" note="fundusstand" />
   <field concept="peri22-dataelement-80741" note="fundushoogte (cm)" />
+  <field concept="peri22-dataelement-80742" note="fundusstand" />
+  <field concept="peri22-dataelement-80622" note="ligging" />
+  <field concept="peri22-dataelement-80744" note="indaling" />
+  <field concept="peri22-dataelement-82107" note="frequentie hartslag" />
+  <field concept="peri22-dataelement-82106" note="regelmaat hartslag" />
+  <field concept="peri22-dataelement-80745" note="hartactie op basis van" />
+
+  <field concept="peri22-dataelement-80748" note="opmerkingen" />
+  
+  <field concept="peri22-dataelement-82272" note="datum" />
+  <field concept="peri22-dataelement-82285" note="am duur" />
+  <field concept="peri22-dataelement-82269" note="gynaecologische aandoening" />
+  <field concept="peri22-dataelement-82270" note="bloedverlies?" />
+  <field concept="peri22-dataelement-82286" note="partiele mola?" />
+  <field concept="peri22-dataelement-82271" note="cervixinsufficientie?" />
+  <field concept="peri22-dataelement-82273" note="infectie" />
+  <field concept="peri22-dataelement-82274" note="hyperemesis gravidarum?" />
+
+  <field concept="peri22-dataelement-82275" note="hypertensieve aandoening" />
+  <field concept="peri22-dataelement-82276" note="zwangerschapscholestase?" />
+  <field concept="peri22-dataelement-82277" note="diabetes gravidarum met insuline?" />
+  <field concept="peri22-dataelement-82278" note="afwijkende groei foetus" />
+  <field concept="peri22-dataelement-82279" note="dreigende partus immaturus?" />
+  <field concept="peri22-dataelement-82280" note="dreigende partus prematurus?" />
+  <field concept="peri22-dataelement-82289" note="abruptio placentae?" />
+
+  <field concept="peri22-dataelement-82230" note="intrauteriene behandeling" />
+  <field concept="peri22-dataelement-82232" note="antenatale betrokkenheid kinderarts?" />
+  <!--
+  <field concept="peri22-dataelement-82233" note="reden antenatale betrokkenheid kinderarts" /> NICTIZ DID NOT YET ISSUE A CODELIST
+  -->
+  <field concept="peri22-dataelement-20670" note="maternale sterfte?" />
+  <field concept="peri22-dataelement-20680" note="datum maternale sterfte" />
+  <field concept="peri22-dataelement-80625" note="wijze einde zwangerschap" />
+  <field concept="peri22-dataelement-20540" note="datum einde zwangerschap" />
+
+  <field concept="peri22-dataelement-80897" note="bijlage" />
+
+  <!-- In Onatal staan deze bij consult -->
   <field concept="peri22-dataelement-80945" note="vruchtwater" />
   <field concept="peri22-dataelement-10814" note="hb" />
   <field concept="peri22-dataelement-80951" note="mcv" />
-  <field concept="peri22-dataelement-80836" note="proteïne obv strips ontdubbelen" />
-  <field concept="peri22-dataelement-80622" note="ligging" />
-  <field concept="peri22-dataelement-80744" note="indaling" />
-  <field concept="peri22-dataelement-82106" note="regelmaat hartslag" />
-  <field concept="peri22-dataelement-82107" note="frequentie hartslag" />
-  <field concept="peri22-dataelement-80745" note="hartactie op basis van" />
 </sectionType>

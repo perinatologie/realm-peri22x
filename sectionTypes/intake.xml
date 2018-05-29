@@ -16,8 +16,15 @@
   <field concept="peri22-dataelement-20153" note="pariteit" />
   <field concept="peri22-dataelement-80617" note="aantal levende kinderen" />
   <field concept="peri22-dataelement-80678" note="fetal loss" />
+  <field concept="peri22-dataelement-82157" note="accepteert bloedtransfusie?" />
 
+  <!--
   <field concept="peri22-dataelement-10810" note="bloedgroep" />
+  <field concept="peri22-dataelement-10811" note="rhesus D factor vrouw" />
+  <field concept="peri22-dataelement-10816" note="rhesus c factor" />
+  <field concept="peri22-dataelement-10808" note="actuele bloeddruk systolisch" />
+  <field concept="peri22-dataelement-10809" note="actuele bloeddruk diastolisch" />
+  -->
 
   <field concept="peri22-dataelement-20030" note="a terme datum" />
   <field concept="peri22-dataelement-20040" note="datum bepaling a terme datum" />
@@ -43,21 +50,14 @@
   <field concept="peri22-dataelement-20210" note="gewicht voor de zwangerschap" />
   <field concept="peri22-dataelement-20220" note="hoogste diastolische tensie" />
 
-  <field concept="peri22-dataelement-20211" note="gewicht" />
   <field concept="peri22-dataelement-20212" note="lengte" />
   <field concept="peri22-dataelement-80686" note="consanguïniteit" />
   <field concept="peri22-dataelement-80675" note="vrouwelijke genitale verminking" />
   <field concept="peri22-dataelement-80676" note="type vrouwelijke genitale verminking" />
-  <field concept="peri22-dataelement-10808" note="actuele bloeddruk systolisch" />
-  <field concept="peri22-dataelement-10809" note="actuele bloeddruk diastolisch" />
-  <field concept="peri22-dataelement-10810" note="bloedgroep" />
-  <field concept="peri22-dataelement-10811" note="rhesus d factor vrouw" />
-  <field concept="peri22-dataelement-10816" note="rhesus c factor" />
   <field concept="peri22-dataelement-80939" note="operaties" />
   <field concept="peri22-dataelement-10803" note="nse" />
   <field concept="peri22-dataelement-80680" note="huis. geweld" />
   <field concept="peri22-dataelement-80675" note="besnijdenis" />
-  <field concept="peri22-dataelement-20305" note="concl. risicostatus" />
   <field concept="peri22-dataelement-82275" note="hyp. tensie" />
 
   <field concept="peri22-dataelement-82167" note="herleidbare gegevens in onderzoeksdatabank?" />
@@ -70,7 +70,6 @@
   <field concept="peri22-dataelement-20270" note="kraamzorg aangevraagd" />
   <field concept="peri22-dataelement-80642" note="kraamzorginstelling" />
   <field concept="peri22-dataelement-80672" note="bevalplan" />
-
 
   <field concept="peri22-dataelement-10800" note="allergie" />
   <field concept="peri22-dataelement-82102" note="drug" />

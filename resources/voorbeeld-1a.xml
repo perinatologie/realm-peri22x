@@ -85,11 +85,6 @@
         />
 -->
         <value
-          concept="peri22-dataelement-82157"
-          value="TRUE"
-        />
-
-        <value
           concept="peri22-dataelement-10301"
           value="Rietveldlaan"
         />
@@ -207,6 +202,10 @@
         <value
           concept="peri22-dataelement-20305"
           value="1"
+        />
+        <value
+          concept="peri22-dataelement-82157"
+          value="TRUE"
         />
 
         <value
@@ -351,11 +350,6 @@
         <value
           concept="peri22-dataelement-20220"
           value=""
-        />
-
-        <value
-          concept="peri22-dataelement-20211"
-          value="73"
         />
         <value
           concept="peri22-dataelement-20212"

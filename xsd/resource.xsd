@@ -3,13 +3,26 @@
   <xs:element name="resource">
     <xs:complexType>
       <xs:sequence>
-        <xs:element name="sections">
+        <xs:element name="source" minOccurs="0" maxOccurs="1">
+          <xs:complexType>
+            <xs:simpleContent>
+              <xs:extension base="xs:string">
+                <xs:attribute name="id" type="xs:string" use="optional"/>
+                <xs:attribute name="displayName" type="xs:string" use="optional"/>
+                <xs:attribute name="logoUrl" type="xs:string" use="optional"/>
+                <xs:attribute name="appId" type="xs:string" use="optional"/>
+                <xs:attribute name="appLogoUrl" type="xs:string" use="optional"/>
+              </xs:extension>
+            </xs:simpleContent>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="sections" minOccurs="1" maxOccurs="1">
           <xs:complexType>
             <xs:sequence>
               <xs:element name="section" maxOccurs="unbounded">
                 <xs:complexType>
                   <xs:sequence>
-                    <xs:element name="values">
+                    <xs:element name="values" minOccurs="1" maxOccurs="1">
                       <xs:complexType>
                         <xs:sequence>
                           <xs:element name="value" maxOccurs="unbounded">
@@ -63,6 +76,7 @@
         </xs:choice>
       </xs:sequence>
       <xs:attribute name="type" type="xs:string" use="required"/>
+      <xs:attribute name="id" type="xs:string" use="optional"/>
     </xs:complexType>
   </xs:element>
 </xs:schema>

@@ -12,7 +12,7 @@
       type="client"
       label="Client"
       id="1234-5678-9012-3455"
-      createstamp="2016-02-01"
+      createStamp="2016-02-01"
       effectStamp="2016-02-01">
       <values>
         <value
@@ -487,7 +487,7 @@
         />
       </values>
     </section>
-    <section type="anamneseAlgemeen" id="4567-5678-9012-3456" effectiveStamp="2016-02-01" label="Anamnese">
+    <section type="anamneseAlgemeen" id="4567-5678-9012-3456" effectStamp="2016-02-01" label="Anamnese">
       <values>
         <value
             concept="peri22-dataelement-82020"
@@ -718,7 +718,7 @@
         />
       </values>
     </section>
-    <section type="anamnese" id="oa1" effectiveStamp="2016-02-01" label="Obstetrische anamnese">
+    <section type="anamnese" id="oa1" effectStamp="2016-02-01" label="Obstetrische anamnese">
       <values>
         <value
             concept="peri22-dataelement-10590"

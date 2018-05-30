@@ -12,7 +12,7 @@
       type="client"
       label="Client"
       id="2234-5678-9012-3456"
-      createstamp="2016-07-14"
+      createStamp="2016-07-14"
       effectStamp="2016-07-14">
       <values>
         <value

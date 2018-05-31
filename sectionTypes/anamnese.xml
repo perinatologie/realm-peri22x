@@ -12,6 +12,7 @@
   <field concept="peri22-dataelement-82040" note="datum einde zwangerschap" />
   <field concept="peri22-dataelement-82041" note="zwangerschapsduur einde zwangerschap" />
   <field concept="peri22-dataelement-82214" note="irregulaire antistoffen" />
+
   <field concept="peri22-dataelement-82004" note="a terme datum" />
   <field concept="peri22-dataelement-82005" note="actuele a terme datum" />
   <field concept="peri22-dataelement-82337" note="definitieve a terme datum" />
@@ -57,6 +58,7 @@
   <field concept="peri22-dataelement-80706" note="fase perinatale sterfte" />
   <field concept="peri22-dataelement-80989" note="kind in leven?" />
   <field concept="peri22-dataelement-80990" note="toelichting overlijden kind" />
+
   <field concept="peri22-dataelement-80624" note="type partus" />
   <field concept="peri22-dataelement-82341" note="zwangerschapsduur" />
   <field concept="peri22-dataelement-10604" note="geboortegewicht" />
@@ -71,8 +73,4 @@
   <field concept="peri22-dataelement-81002" note="chromosomale afwijkingen?" />
   <field concept="peri22-dataelement-81004" note="specificatie chromosomale afwijking" />
   <field concept="peri22-dataelement-80717" note="bijzonderheden kind" />
-
-  <field concept="peri22-dataelement-80678" note="fetal loss +20wk" />
-  <field concept="peri22-dataelement-80617" note="totaal in leven" />
-  <field concept="peri22-dataelement-40020" note="uitkomst" />
 </sectionType>

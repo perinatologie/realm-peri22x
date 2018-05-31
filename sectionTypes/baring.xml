@@ -13,48 +13,41 @@
   <field concept="peri22-dataelement-20616" note="bijstimulatie toegediend?" />
   <field concept="peri22-dataelement-80792" note="compleetheid vliezen" />
   <field concept="peri22-dataelement-20640" note="hoeveelheid bloedverlies (ml)" />
-
   <field concept="peri22-dataelement-80673" note="conditie perineum postpartum" />
   <field concept="peri22-dataelement-82125" note="hechten?" />
   <field concept="peri22-dataelement-80797" note="manier van hechten" />
   <field concept="peri22-dataelement-82127" note="overig trauma?" />
   <field concept="peri22-dataelement-82126" note="overig trauma" />
-  <field concept="peri22-dataelement-82131" note="partusassistentie?" />
   <field concept="peri22-dataelement-82057" note="risicostatus uiteindelijk" />
   <field concept="peri22-dataelement-20660" note="ontslagdatum post partum" />
 
   <field concept="peri22-dataelement-82338" note="pprom?" />
   <field concept="peri22-dataelement-82290" note="prom?" />
   <field concept="peri22-dataelement-82292" note="koorts?" />
-  <field concept="peri22-dataelement-82293" note="niet vorderende ontsluiting?" />
-  
+  <field concept="peri22-dataelement-82293" note="niet vorderende ontsluiting?" />  
   <field concept="peri22-dataelement-82294" note="niet vorderende uitdrijving?" />
   <field concept="peri22-dataelement-82296" note="verdenking foetale nood?" />
   <field concept="peri22-dataelement-82295" note="vastzittende placenta?" />
 
-  <field concept="peri22-dataelement-20560" max="*" note="interventie begin baring" />
-  
+  <field concept="peri22-dataelement-20560" max="*" note="interventie begin baring" />  
   <field concept="peri22-dataelement-20570" max="*" note="indicatie interventie begin baring" />
 
-  <field concept="peri22-dataelement-20620" note="medicatie nageboortetijdperk?" />
-  
+  <field concept="peri22-dataelement-20620" note="medicatie nageboortetijdperk?" />  
   <field concept="peri22-dataelement-20626" max="*" note="soort medicatie nageboortetijdperk" />
 
   <field concept="peri22-dataelement-20630" note="geboorte placenta" />
   <field concept="peri22-dataelement-82224" note="natasten" />
-  <field concept="peri22-dataelement-20631" note="placenta compleet" />
-  
+  <field concept="peri22-dataelement-20631" note="placenta compleet" />  
   <field concept="peri22-dataelement-80791" note="datum/tijd geboorte placenta" />
   <field concept="peri22-dataelement-80803" note="placenta naar pa" />
   <field concept="peri22-dataelement-80981" note="bijzonderheden placenta" />
 
   <field concept="peri22-dataelement-80831" note="rhesus d immunisatie?" />
   <field concept="peri22-dataelement-80801" note="datum immunisatie" />
-  
   <field concept="peri22-dataelement-82130" note="chargenummer" />
 
+  <field concept="peri22-dataelement-82131" note="partusassistentie?" />
   <field concept="peri22-dataelement-20650" note="partusstadium assistentie gearriveerd" />
-  
   <field concept="peri22-dataelement-82132" note="rol partusassistent" />
 
   <!--staat niet bij gedeelte baring in peri22-->

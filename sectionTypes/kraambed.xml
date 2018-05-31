@@ -4,7 +4,6 @@
   label="Kraambed"
   >
   <property name="definition">Kraambed</property>
-
   <field concept="peri22-dataelement-82298" note="datum" />
   <field concept="peri22-dataelement-82208" note="pathologie vrouw?" />
   <field concept="peri22-dataelement-82209" max="*" note="pathologie vrouw" />
@@ -13,6 +12,7 @@
   <field concept="peri22-dataelement-82085" note="telefoonnummer kraamzorginstelling" />
   <field concept="peri22-dataelement-82124" note="bloedverlies kraambed" />
   <field concept="peri22-dataelement-80982" note="opmerkingen kraambed" />
+
   <field concept="peri22-dataelement-70011" note="voeding kind (datum)" />
   <field concept="peri22-dataelement-70030" note="substantie voeding" />
   <field concept="peri22-dataelement-82118" note="betrokkenheid andere zorgverlener?" />
@@ -21,6 +21,21 @@
   <field concept="peri22-dataelement-40261" note="zorgverlenertype" />
   <field concept="peri22-dataelement-80765" note="reden betrokkenheid" />
 
+  <field concept="peri22-dataelement-80846" note="datum controle" />
+  <field concept="peri22-dataelement-80847" note="naam zorgverlener" />
+  <field concept="peri22-dataelement-82086" note="zorgverlenertype" />
+  <field concept="peri22-dataelement-80851" note="substantie voeding kind" />
+  <field concept="peri22-dataelement-80865" note="bijzonderheden kind kraamperiode" />
   <field concept="peri22-dataelement-80983" note="anticonceptie" />
-  <field concept="peri22-dataelement-80642" note="kraamzorg" />
+  <field concept="peri22-dataelement-80856" note="type anticonceptie" />
+  <field concept="peri22-dataelement-80857" note="vloeien" />
+  <field concept="peri22-dataelement-80858" note="menstruatie" />
+  <field concept="peri22-dataelement-80986" note="incontinentie" />
+  <field concept="peri22-dataelement-80859" note="incontinentie" />
+  <field concept="peri22-dataelement-80860" note="episiotomieruptuur" />
+  <field concept="peri22-dataelement-80984" note="sectiowond" />
+  <field concept="peri22-dataelement-80853" note="bloeddruk systolisch" />
+  <field concept="peri22-dataelement-80854" note="bloeddruk diastolisch" />
+  <field concept="peri22-dataelement-80855" note="hb" />
+  <field concept="peri22-dataelement-80863" note="bijzonderheden" />  
 </sectionType>

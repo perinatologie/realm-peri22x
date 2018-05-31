@@ -11,29 +11,45 @@
   <field concept="peri22-dataelement-82116" note="zorginstelling agb-id" />
   <field concept="peri22-dataelement-82117" note="naam zorginstelling" />
 
-  <field concept="peri22-dataelement-80629" note="postcode" />
-  <field concept="peri22-dataelement-80630" note="geboorteplaats" />
-  <field concept="peri22-dataelement-80631" note="gemeentenaam" />
-  <field concept="peri22-dataelement-80632" note="geboorteland" />
-
   <field concept="peri22-dataelement-40010" repeatable="true" note="bsn kind" />
   <field concept="peri22-dataelement-40011" repeatable="true" note="lokale identificatie kind" />
   <field concept="peri22-dataelement-40015" repeatable="true" note="identificatie kind prn formaat" />
 
+  <field concept="peri22-dataelement-82353" repeatable="true" note="voornamen" />
+  <field concept="peri22-dataelement-82354" repeatable="true" note="initialen" />
   <field concept="peri22-dataelement-82052" repeatable="true" note="roepnaam" />
   <field concept="peri22-dataelement-82054" repeatable="true" note="voorvoegsel" />
   <field concept="peri22-dataelement-82055" repeatable="true" note="achternaam" />
+
+  <field concept="peri22-dataelement-82366" repeatable="true" note="soort telefoonnummer" />
+  <field concept="peri22-dataelement-82367" repeatable="true" note="telefoonnummer" />
+
+  <field concept="peri22-dataelement-82133" note="straatnaam" />
+  <field concept="peri22-dataelement-82134" note="huisnummer" />
+  <field concept="peri22-dataelement-82135" note="huisletter/huisnummertoevoeging" />
+  <field concept="peri22-dataelement-82136" note="postcode" />
+  <field concept="peri22-dataelement-82137" note="plaatsnaam" />
+  <field concept="peri22-dataelement-82138" note="land" />
+  <field concept="peri22-dataelement-82139" note="adrestype" />
+
   <field concept="peri22-dataelement-40034" repeatable="true" note="postcode" />
   <field concept="peri22-dataelement-40040" repeatable="true" note="geslacht (administratief)" />
   <field concept="peri22-dataelement-40041" repeatable="true" note="geslacht (medische observatie)" />
   <field concept="peri22-dataelement-40050" repeatable="true" note="geboortedatum" />
   <field concept="peri22-dataelement-82087" repeatable="true" note="meerlingindicatie" />
   <field concept="peri22-dataelement-40025" repeatable="true" note="rangnummer kind" /> <!--gelijk aan repeatable-->
+  <field concept="peri22-dataelement-40027" note="foetus identificatie (zoals ante partum gehanteerd) " />
+  <field concept="peri22-dataelement-40028" note="foetus volgletter (zoals ante partum gehanteerd)" />
+
+  <field concept="peri22-dataelement-80629" note="postcode" />
+  <field concept="peri22-dataelement-80630" note="geboorteplaats" />
+  <field concept="peri22-dataelement-80631" note="gemeentenaam" />
+  <field concept="peri22-dataelement-80632" note="geboorteland" />
+
   <field concept="peri22-dataelement-40280" note="perinatale sterfte" />
   <field concept="peri22-dataelement-40290" note="fase perinatale sterfte" />
   <field concept="peri22-dataelement-40300" note="datum/tijd vaststelling perinatale sterfte" />
-  <field concept="peri22-dataelement-40027" note="foetus identificatie (zoals ante partum gehanteerd) " />
-  <field concept="peri22-dataelement-40028" note="foetus volgletter (zoals ante partum gehanteerd)" />
+  
 
   <field concept="peri22-dataelement-20580" note="amniotomie?" />
   <field concept="peri22-dataelement-20585" note="fase amniotomie" />
@@ -62,25 +78,42 @@
   <field concept="peri22-dataelement-40071" note="apgar 5 min." />
   <field concept="peri22-dataelement-80757" note="apgar 10 min." />
   <field concept="peri22-dataelement-40140" note="ligging bij geboorte" />
+  <field concept="peri22-dataelement-40240" note="overige interventies" />
+
   <field concept="peri22-dataelement-82058" note="aanpakker naam zorgverlener" />
   <field concept="peri22-dataelement-40150" note="rol aanpakker kind" />
   <field concept="peri22-dataelement-40160" note="identificatie aanpakker kind" />
+
   <field concept="peri22-dataelement-82059" note="supervisor naam zorgverlener" />
   <field concept="peri22-dataelement-40170" note="rol supervisor" />
   <field concept="peri22-dataelement-40180" note="identificatie supervisor" />
+
   <field concept="peri22-dataelement-40190" max="*" note="vaginale kunstverlossing" />
   <field concept="peri22-dataelement-40200" max="*" note="succes vaginale kunstverlossing?" />
   <field concept="peri22-dataelement-40210" max="*" note="indicatie vaginale kunstverlossing" />
+
   <field concept="peri22-dataelement-40225" note="beslismoment sectio caesarea" />
   <field concept="peri22-dataelement-40230" note="indicatie sectio caesarea" />
-  <field concept="peri22-dataelement-40240" note="overige interventies" />
 
   <field concept="peri22-dataelement-82206" note="afwijkende bevindingen kind?" />
+  <field concept="peri22-dataelement-40060" note="geboortegewicht" />
+  <field concept="peri22-dataelement-80670" note="percentiel van het geboortegewicht" />
+  <field concept="peri22-dataelement-80759" note="geboortelengte" />
+  <field concept="peri22-dataelement-80760" note="schedelomtrek" />
+  <field concept="peri22-dataelement-80788" note="bijzonderheden lichamelijk onderzoek kind" />
+  <field concept="peri22-dataelement-82334" note="problematiek kind?" />
+  <field concept="peri22-dataelement-80789" note="problematiek kind" />
+  <field concept="peri22-dataelement-80793" note="navelstreng vaten" />
+  <field concept="peri22-dataelement-80761" note="vitamine k?" />
+  <field concept="peri22-dataelement-80790" note="bijzonderheden kind" />
+  <field concept="peri22-dataelement-80980" note="opmerkingen baring" />
+
   <field concept="peri22-dataelement-82169" note="zieke indruk?" />
   <field concept="peri22-dataelement-82170" note="bewustzijn" />
   <field concept="peri22-dataelement-82171" note="respiratie" />
   <field concept="peri22-dataelement-82173" note="dysmorfie" />
   <field concept="peri22-dataelement-80769" note="bijzonderheden huid" />
+
   <field concept="peri22-dataelement-80768" note="fontanel" />
   <field concept="peri22-dataelement-80771" note="schedel" />
   <field concept="peri22-dataelement-80772" note="ogen" />
@@ -89,12 +122,14 @@
   <field concept="peri22-dataelement-80775" note="mond" />
   <field concept="peri22-dataelement-80776" note="kin - standafwijking?" />
   <field concept="peri22-dataelement-80777" note="bijzonderheden hals" />
+
   <field concept="peri22-dataelement-80784" note="inspectie thorax" />
   <field concept="peri22-dataelement-82177" note="claviculae fractuur" />
   <field concept="peri22-dataelement-82178" note="overige afwijkingen ribben/sternum" />
   <field concept="peri22-dataelement-82179" note="mamma" />
   <field concept="peri22-dataelement-80786" note="hart" />
   <field concept="peri22-dataelement-82180" note="longen" />
+
   <field concept="peri22-dataelement-82181" note="inspectie" />
   <field concept="peri22-dataelement-82182" note="buikwand" />
   <field concept="peri22-dataelement-82183" note="lever - vergroot?" />
@@ -104,8 +139,10 @@
   <field concept="peri22-dataelement-82186" note="anus - atresie/fistel?" />
   <field concept="peri22-dataelement-82187" note="andere palpabele weerstanden?" />
   <field concept="peri22-dataelement-82188" note="toelichting palpabele weerstanden" />
+
   <field concept="peri22-dataelement-82189" note="inspectie / palpatie" />
   <field concept="peri22-dataelement-82190" note="overige bevindingen" />
+
   <field concept="peri22-dataelement-82191" note="proportie - afwijkend?" />
   <field concept="peri22-dataelement-82192" note="vorm - afwijkend?" />
   <field concept="peri22-dataelement-82226" note="toelichting afwijkende vorm" />
@@ -113,37 +150,32 @@
   <field concept="peri22-dataelement-82194" note="beweeglijkheid" />
   <field concept="peri22-dataelement-82195" note="handen" />
   <field concept="peri22-dataelement-82196" note="voeten" />
+
   <field concept="peri22-dataelement-80762" note="niet ingedaalde testes" />
   <field concept="peri22-dataelement-82198" note="penis" />
   <field concept="peri22-dataelement-82199" note="vrouwlijk" />
   <field concept="peri22-dataelement-82200" note="geslacht niet conclusief" />
+
   <field concept="peri22-dataelement-82202" note="tonus" />
   <field concept="peri22-dataelement-82203" note="beweeglijkheid - asymmetrisch?" />
   <field concept="peri22-dataelement-82204" note="reflexen - moro - asymmetrisch?" />
-  <field concept="peri22-dataelement-40060" note="geboortegewicht" />
-  <field concept="peri22-dataelement-80670" note="percentiel van het geboortegewicht" />
-  <field concept="peri22-dataelement-80759" note="geboortelengte" />
-  <field concept="peri22-dataelement-80787" note="percentiel lengte" />
-  <field concept="peri22-dataelement-80760" note="schedelomtrek" />
-  <field concept="peri22-dataelement-82205" note="percentiel schedelomtrek" />
-  <field concept="peri22-dataelement-80788" note="bijzonderheden lichamelijk onderzoek kind" />
+  
   <field concept="peri22-dataelement-40080" note="congenitale afwijkingen" />
   <field concept="peri22-dataelement-40090" max="*" note="specificatie congenitale afwijking" />
   <field concept="peri22-dataelement-40100" note="waarschijnlijkheid congenitale afwijking" />
   <field concept="peri22-dataelement-40110" note="chromosomale afwijkingen" />
   <field concept="peri22-dataelement-40120" max="*" note="specificatie chromosomale afwijking" />
   <field concept="peri22-dataelement-40130" note="waarschijnlijkheid chromosomale afwijkingen" />
-  <field concept="peri22-dataelement-82334" note="problematiek kind?" />
-  <field concept="peri22-dataelement-80789" note="problematiek kind" />
-  <field concept="peri22-dataelement-80793" note="navelstreng vaten" />
-  <field concept="peri22-dataelement-80761" note="vitamine k?" />
+
+  <field concept="peri22-dataelement-82368" note="hepatitis b immunisatie" />
+  <field concept="peri22-dataelement-82370" note="hepatitis b vaccinatie" />
+  
   <field concept="peri22-dataelement-82119" note="kinderarts betrokken?" />
   <field concept="peri22-dataelement-82122" note="datum betrokkenheid kinderarts" />
   <field concept="peri22-dataelement-82123" note="reden betrokkenheid kinderarts" />
   <field concept="peri22-dataelement-82121" note="type betrokkenheid kinderarts" />
   <field concept="peri22-dataelement-82335" note="zorginstelling lvr-id" />
-  <field concept="peri22-dataelement-80790" note="bijzonderheden kind" />
-  <field concept="peri22-dataelement-80980" note="opmerkingen baring" />
+  
 
   <field concept="peri22-dataelement-23010" note="datum afname neonataal bloed" />
   <field concept="peri22-dataelement-23020" note="afnemer identificatie" />
@@ -151,14 +183,4 @@
   <field concept="peri22-dataelement-23040" note="naam afnemer" />
   <field concept="peri22-dataelement-23050" note="zorgaanbieder afnemer " />
   <field concept="peri22-dataelement-23070" note="uitvoerend lab" />
-
-  <field concept="peri22-dataelement-82133" note="straatnaam" />
-  <field concept="peri22-dataelement-82134" note="huisnummer" />
-  <field concept="peri22-dataelement-82135" note="huisletter/huisnummertoevoeging" />
-  <field concept="peri22-dataelement-82136" note="postcode" />
-  <field concept="peri22-dataelement-82137" note="plaatsnaam" />
-  <field concept="peri22-dataelement-82138" note="land" />
-  <field concept="peri22-dataelement-82139" note="adrestype" />
-  <field concept="peri22-dataelement-82141" note="geldigheidsperiode begin" />
-  <field concept="peri22-dataelement-82142" note="geldigheidsperiode einde" />
 </sectionType>

@@ -7,16 +7,17 @@
 
   <field concept="peri22-dataelement-50010" note="onderzoek identificatie" />
   <field concept="peri22-dataelement-50020" note="datum onderzoek" />
+  <field concept="peri22-dataelement-50021" note="zwangerschapsduur op datum onderzoek" />
   <field concept="peri22-dataelement-80754" note="naam uitvoerder onderzoek" />
   <field concept="peri22-dataelement-82068" note="zorgverlenertype" />
-  <field concept="peri22-dataelement-50021" note="zwangerschapsduur op datum onderzoek" />
 
+  <!-- NICTIZ DID NOT YET ISSUE A CODELIST
   <field concept="peri22-dataelement-50100" note="onderzoektype 'jonge zwangerschapsecho'" />
   <field concept="peri22-dataelement-50110" note="onderzoektype 'nt-meting'" />
   <field concept="peri22-dataelement-50120" note="onderzoektype 'seo'" />
   <field concept="peri22-dataelement-50130" note="onderzoektype 'guo'" />
   <field concept="peri22-dataelement-50140" note="onderzoektype 'Kansbepaling combinatietest'" />
-
+  -->
   <field concept="peri22-dataelement-51010" note="seo-type" />
   <field concept="peri22-dataelement-82330" note="conclusie seo" />
   <field concept="peri22-dataelement-82331" note="advies seo" />
@@ -29,7 +30,6 @@
   <field concept="peri22-dataelement-60020" note="crl in mm" />
   <field concept="peri22-dataelement-60030" note="bpd in mm" />
   <field concept="peri22-dataelement-60031" note="bpd percentiel" />
-
   <field concept="peri22-dataelement-60040" note="nt in mm" />
   <field concept="peri22-dataelement-60060" note="hc in mm" />
   <field concept="peri22-dataelement-60061" note="hc percentiel" />
@@ -54,8 +54,7 @@
   <field concept="peri22-dataelement-82073" note="cervixlengte" />
   <field concept="peri22-dataelement-80947" note="navelstreng vaten" />
   <field concept="peri22-dataelement-80948" note="opmerkingen" />
-
-  <field concept="peri22-dataelement-60200" note="algehele beoordeling" />
+  
   <field concept="peri22-dataelement-82237" note="neuraalbuis van de wervelkolom" />
   <field concept="peri22-dataelement-82240" note="hersenen neuraalbuisdefect" />
   <field concept="peri22-dataelement-82241" note="hersenen overige" />
@@ -74,7 +73,6 @@
   <field concept="peri22-dataelement-82255" note="placenta afwijkingen" />
   <field concept="peri22-dataelement-82256" note="wervelkolom neuraalbuisdefect" />
   <field concept="peri22-dataelement-82257" note="wervelkolom overige" />
-
   <field concept="peri22-dataelement-82239" note="echodense focus in het hart" />
   <field concept="peri22-dataelement-82258" note="plexus choroideus cysten" />
   <field concept="peri22-dataelement-82259" note="verdikte nekplooi / nekhuid" />
@@ -94,7 +92,6 @@
   <field concept="peri22-dataelement-61080" note="combinatietest kans op trisomie 21" />
   <field concept="peri22-dataelement-61100" note="combinatietest kans op trisomie 18" />
   <field concept="peri22-dataelement-61110" note="combinatietest kans op trisomie 13" />
-
   <field concept="peri22-dataelement-82300" note="zwangerschapsduur" />
   <field concept="peri22-dataelement-82301" note="actuele aantal foetus" />
   <field concept="peri22-dataelement-82302" note="chorioniciteit" />
@@ -105,7 +102,6 @@
   <field concept="peri22-dataelement-82307" note="trisomie in de anamnese?" />
   <field concept="peri22-dataelement-61200" note="gehanteerde rookgewoonte?" />
   <field concept="peri22-dataelement-82308" note="etniciteit" />
-
   <field concept="peri22-dataelement-61220" note="gehanteerde papp-a concentratie in miu/l" />
   <field concept="peri22-dataelement-61230" note="gehanteerde papp-a in mom" />
   <field concept="peri22-dataelement-61240" note="gehanteerde vrij β-hcg concentratie in ng/ml" />
@@ -113,13 +109,13 @@
   <field concept="peri22-dataelement-61260" note="gehanteerde corrected papp-a" />
   <field concept="peri22-dataelement-61270" note="gehanteerde corrected vrij β-hcg" />
   <field concept="peri22-dataelement-61280" note="gehanteerde datum nt-meting" />
-
   <field concept="peri22-dataelement-82309" note="nt in mm" />
   <field concept="peri22-dataelement-82310" note="nt in mom" />
   <field concept="peri22-dataelement-82311" note="crl" />
   <field concept="peri22-dataelement-82312" note="bpd" />
   <field concept="peri22-dataelement-82227" note="invasieve prenatale diagnostiek" />
 
+  <field concept="peri22-dataelement-60200" note="algehele beoordeling" />
   <field concept="peri22x-echo-conclusie" note="conclusie gemaakt na echografie" />
   <field concept="peri22x-echo-diagnose" note="diagnose gemaakt na echografie" />
 </sectionType>

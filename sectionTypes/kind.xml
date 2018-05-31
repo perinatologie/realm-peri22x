@@ -61,10 +61,12 @@
   <field concept="peri22-dataelement-30055" note="locatie episiotomie" />
   <field concept="peri22-dataelement-82089" note="ruggeprik gewenst, niet gekregen?" />
   <field concept="peri22-dataelement-82090" note="pijnbestrijding?" />
-  <field concept="peri22-dataelement-82092" max="*" note="methode pijnbestrijding" />
+
+  <field concept="peri22-dataelement-82092" group="pijnbestrijding" note="methode pijnbestrijding" />
+  <field concept="peri22-dataelement-82097" group="pijnbestrijding" note="periode pijnbestrijding" />
+
   <field concept="peri22-dataelement-82095" max="*" note="overig middel pijnbestrijding" />
   <field concept="peri22-dataelement-82096" max="*" note="toediening middel pijnbestrijding" />
-  <field concept="peri22-dataelement-82097" max="*" note="periode pijnbestrijding" />
   <field concept="peri22-dataelement-82098" max="*" note="reden pijnbestrijding" />
   <field concept="peri22-dataelement-80827" max="*" note="sedatie?" />
   <field concept="peri22-dataelement-82100" max="*" note="sedatie periode" />

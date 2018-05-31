@@ -12,7 +12,7 @@
 -->
 <resource type="hub/dossier">
   <sections>
-    <section type="client" createStamp="2016-05-01">
+    <section type="client" createStamp="2016-05-01" id="s1">
       <values>
         <value concept="peri22-dataelement-10030" label="BSN" value="392548480"/>
         <value concept="peri22-dataelement-10040" label="Geboortedatum" value="1974-04-03"/>
@@ -24,7 +24,7 @@
         <value concept="peri22-dataelement-82361" label="Familienaam" value="Jong"/>
       </values>
     </section>
-    <section type="intake" createStamp="2016-05-01" effectStamp="2016-01-05">
+    <section type="intake" createStamp="2016-05-01" effectStamp="2016-01-05" id="s2">
       <values>
         <value concept="peri22-dataelement-20010" label="Graviditeit" value="3"/>
         <value concept="peri22-dataelement-20153" label="Pariteit" value="2"/>
@@ -35,7 +35,7 @@
         <value concept="peri22-dataelement-20030" label="A terme datum" value="2016-08-07"/>
       </values>
     </section>
-    <section type="consult" createStamp="2016-07-01" effectStamp="2016-07-01">
+    <section type="consult" createStamp="2016-07-01" effectStamp="2016-07-01" id="s3">
       <values>
         <value concept="peri22-dataelement-80737" label="Datum" value="2016-07-01"/>
         <value concept="peri22-dataelement-80738" label="Zwangerschapsduur" value="36+2"/>
@@ -50,7 +50,7 @@
     </section>
 
     <!-- meerdere echo onderzoeken worden elk in eigen section geplaatst -->
-    <section type="echo">
+    <section type="echo" id="s4">
       <values>
         <!-- gegevens over t echo onderzoek zelf of de moeder hebben geen repeat attribuut -->
         <value concept="peri22-dataelement-80738" label="AM duur" value="10+1"/>
@@ -62,7 +62,7 @@
     </section>
 
     <!-- tweede echo -->
-    <section type="echo">
+    <section type="echo" id="s5">
       <values>
         <value concept="peri22-dataelement-80738" label="AM duur" value="14+1"/>
         <value concept="peri22-dataelement-60020" label="CRL" value="36" repeat="1"/>
@@ -70,7 +70,7 @@
       </values>
     </section>
 
-    <section type="baring" effectStamp="2016-08-06">
+    <section type="baring" effectStamp="2016-08-06" id="s6">
       <values>
         <value concept="peri22-dataelement-20261" label="Voorgenomen locatie baring" value="23" displayValue="Geboortecentrum"/>
         <value concept="peri22-dataelement-20530" label="Risicostatus voor baring" value="1" displayValue="1e lijn (VIL A)"/>
@@ -93,7 +93,7 @@
         <value concept="peri22-dataelement-40020" label="Type uitkomst" value="1" displayValue="partus"/>
       </values>
     </section>
-    <section type="kind">
+    <section type="kind" id="s7">
       <values>
         <!-- deze hele section zal ook mbv repeat attributen herhaald worden -->
         <value concept="peri22-dataelement-40010" label="BSN Kind" value="123456789" repeat="1"/>

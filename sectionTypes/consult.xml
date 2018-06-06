@@ -63,4 +63,8 @@
   <field concept="peri22-dataelement-80945" note="vruchtwater" />
   <field concept="peri22-dataelement-10814" note="hb" />
   <field concept="peri22-dataelement-80951" note="mcv" />
+
+  <field concept="peri22x-memo-zwangerschap" note="zwangerschap memo" />
+  <field concept="peri22x-memo-mdo" note="mdo memo" />
+  <field concept="peri22x-memo-atermelijst" note="atermelijst memo" />
 </sectionType>

@@ -6,5 +6,6 @@
   <property name="definition">Zorgverlener</property>
 
   <field concept="peri22-dataelement-10003" note="identificatie zorgverlener" />
+  <field concept="peri22-dataelement-10023" note="zorginstelling LVR-ID" />
 
 </sectionType>

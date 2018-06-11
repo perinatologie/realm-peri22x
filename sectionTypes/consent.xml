@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sectionType
+  id="consent"
+  label="Consent"
+  >
+  <property name="definition">Consent</property>
+  <field concept="peri22-dataelement-18010" note="autorisatieprofiel" />
+  <field concept="peri22-dataelement-18020" note="auteur autorisatieprofiel" />
+  <field concept="peri22-dataelement-18030" note="patiënt als auteur" />
+  <field concept="peri22-dataelement-18040" note="vertegenwoordiger als auteur" />
+  <field concept="peri22-dataelement-18050" note="vertegenwoordiger" />
+  <field concept="peri22-dataelement-18070" note="toestemming betreft" />
+
+  <field concept="peri22-dataelement-18110" note="HL7: ontvangende partij" />
+  <field concept="peri22-dataelement-18120" note="ontvangende organisatie" />
+
+  <field concept="peri22-dataelement-18160" note="record type" />
+</sectionType>

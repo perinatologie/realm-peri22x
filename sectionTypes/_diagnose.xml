@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sectionType
+  id="diagnose"
+  label="Diagnose"
+  >
+  <property name="definition">Diagnose, gebaseerd op peri22-dataelement-82268</property>
+  <!--consult-->
+  <field concept="peri22-dataelement-82270" note="Bloedverlies?" />
+  <field concept="peri22-dataelement-82273" note="Infectie" />
+  <field concept="peri22-dataelement-82274" note="Hyperemesis gravidarum?" />
+  <field concept="peri22-dataelement-82275" note="Hypertensieve aandoening" />
+  <field concept="peri22-dataelement-82277" note="Diabetes gravidarum met insuline?" />
+  <field concept="peri22-dataelement-82289" note="Abruptio placentae?" />
+</sectionType>

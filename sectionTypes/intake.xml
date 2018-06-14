@@ -53,7 +53,7 @@
   <field concept="peri22-dataelement-20130" note="amnioniciteit" />
   <field concept="peri22-dataelement-20140" note="chorioniciteit" />
 
-  <field concept="peri22-dataelement-80689" note="datum bepaling" />
+  <field concept="peri22-dataelement-80689" note="datum bepaling bmi" />
   <field concept="peri22-dataelement-20210" note="gewicht voor de zwangerschap" />
   <field concept="peri22-dataelement-20212" note="lengte" />
   <field concept="peri22-dataelement-10806" note="bmi vrouw" />
@@ -111,10 +111,12 @@
   <field concept="peri22-dataelement-80750" note="dosering medicatie" />
   <field concept="peri22-dataelement-80753" note="bijzonderheden" />
 
+  <!--In consult
   <field concept="peri22-dataelement-80810" note="rookgedrag" />
   <field concept="peri22-dataelement-80747" note="alcoholgebruik" />
   <field concept="peri22-dataelement-82102" note="drug" />
   <field concept="peri22-dataelement-82103" note="soort drug" />
+  -->
 
   <field concept="peri22-dataelement-82152" note="risicostatus van de zwangerschap" />
   <field concept="peri22-dataelement-20261" note="voorgenomen plaats baring tijdens zwangerschap (type locatie)" />

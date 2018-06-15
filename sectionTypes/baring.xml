@@ -50,6 +50,8 @@
   <field concept="peri22-dataelement-20650" note="partusstadium assistentie gearriveerd" />
   <field concept="peri22-dataelement-82132" note="rol partusassistent" />
 
+  <field concept="peri22x-baring_memo" note="baring memo" />
+
   <!--staat niet bij gedeelte baring in peri22-->
   <field concept="peri22-dataelement-20600" max="*" note="tijdstip breken vliezen (deprecated)" />
   <field concept="peri22-dataelement-10601" note="duur actieve ontsluitingsfase" />

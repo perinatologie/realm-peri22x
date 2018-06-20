@@ -15,13 +15,11 @@
   <field concept="peri22x-vrouw-volledige_achternaam" note="volledige achternaam" />
   <field concept="peri22-dataelement-10040" note="geboortedatum" />
   <field concept="peri22x-vrouw-geboorteland" note="geboorteland" />
-  <field concept="peri22x-burgelijke_staat" note="burg.staat" />
   <field concept="peri22-dataelement-10400" note="etniciteit" />
   <field concept="peri22-dataelement-10401" note="spreekt Nederlands" />
   <field concept="peri22-dataelement-82371" note="communicatietaal" />
-  <field concept="peri22-dataelement-82154" note="beroep client" />
-  <field concept="peri22-dataelement-82155" note="opleidingsniveau" />
   <field concept="peri22x-memo-client" note="client memo" />
+  <field concept="peri22x-memo-alerttekst" note="alert tekst" />
 
   <field concept="peri22-dataelement-10301" note="straatnaam" />
   <field concept="peri22-dataelement-10302" note="huisnummer" />

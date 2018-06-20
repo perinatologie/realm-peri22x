@@ -136,10 +136,7 @@
   <field concept="peri22-dataelement-80938" note="indicatie guo?" />
   <field concept="peri22-dataelement-82339" note="indicatie nipt?" />
 
-  <field concept="peri22x-memo-atermelijst" note="atermelijst opmerkingen" />
   <field concept="peri22x-memo-intake" note="intake memo" />
   <field concept="peri22x-memo-anamnese" note="anamnese memo" />
-  <field concept="peri22x-memo-zwangerschap" note="zwangerschap memo" />
   <field concept="peri22x-memo-plannen" note="plannen memo" />
-  <field concept="peri22x-memo-mdo" note="mdo memo" />
 </sectionType>

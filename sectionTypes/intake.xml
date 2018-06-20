@@ -104,6 +104,10 @@
   <field concept="peri22-dataelement-80729" note="aandoening details" />
   <field concept="peri22-dataelement-80730" note="type verwantschap" />
 
+  <field concept="peri22x-burgelijke_staat" note="burg.staat" />
+  <field concept="peri22-dataelement-82154" note="beroep client" />
+  <field concept="peri22-dataelement-82155" note="opleidingsniveau" />
+
   <field concept="peri22-dataelement-10801" note="actueel medicatiegebruik? " />
   <field concept="peri22-dataelement-10802" note="soort actuele medicatie" />
   <field concept="peri22-dataelement-80751" note="begindatum" />

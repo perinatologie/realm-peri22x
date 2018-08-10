@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sectionType
+    id="inzender"
+    label="inzender"
+    >
+    <property name="definition">Inzender</property>
+    
+    <field concept="peri22x-gebruiker" note="Gebruiker" />
+    <field concept="peri22x-praktijk" note="Praktijk" />
+    <field concept="peri22x-telefoonnummerpraktijk" note="Telefoonnummer praktijk" />
+</sectionType>

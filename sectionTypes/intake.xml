@@ -84,4 +84,7 @@
   <field concept="peri22x-memo-mdo" note="mdo memo" />
   <field concept="peri22x-memo-atermelijst" note="atermelijst memo" />
 
+  <field concept="peri22x-combitestgt200" note="Combinatietest kans groter dan 200" />
+  <field concept="peri22x-robertszwangere" note="Robertsoniaanse translocatie zwangere" />
+  <field concept="peri22x-robertspartner" note="Robertsoniaanse translocatie partner" />
 </sectionType>

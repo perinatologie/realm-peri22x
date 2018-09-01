@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22x-baring_memo" oid="" status="final" shortName="Baring memo" type="item" dataType="string">
+  <property name="name" language="nl-NL">Baring memo</property>
+  <property name="description" language="nl-NL">Baring memo</property>
+</concept>

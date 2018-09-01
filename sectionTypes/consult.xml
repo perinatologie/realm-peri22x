@@ -58,6 +58,7 @@
   <field concept="peri22-dataelement-20540" note="datum einde zwangerschap" />
 
   <field concept="peri22-dataelement-80897" note="bijlage" />
+  
   <!-- In Onatal staan deze bij aterme datum -->
   <field concept="peri22-dataelement-20030" note="A terme datum" />
   <field concept="peri22-dataelement-20040" note="Datum bepaling à terme datum" />

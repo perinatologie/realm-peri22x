@@ -53,7 +53,7 @@
   <field concept="peri22-dataelement-20130" note="amnioniciteit" />
   <field concept="peri22-dataelement-20140" note="chorioniciteit" />
 
-  <field concept="peri22-dataelement-80689" note="datum bepaling" />
+  <field concept="peri22-dataelement-80689" note="datum bepaling bmi" />
   <field concept="peri22-dataelement-20210" note="gewicht voor de zwangerschap" />
   <field concept="peri22-dataelement-20212" note="lengte" />
   <field concept="peri22-dataelement-10806" note="bmi vrouw" />
@@ -104,6 +104,10 @@
   <field concept="peri22-dataelement-80729" note="aandoening details" />
   <field concept="peri22-dataelement-80730" note="type verwantschap" />
 
+  <field concept="peri22x-burgelijke_staat" note="burg.staat" />
+  <field concept="peri22-dataelement-82154" note="beroep client" />
+  <field concept="peri22-dataelement-82155" note="opleidingsniveau" />
+
   <field concept="peri22-dataelement-10801" note="actueel medicatiegebruik? " />
   <field concept="peri22-dataelement-10802" note="soort actuele medicatie" />
   <field concept="peri22-dataelement-80751" note="begindatum" />
@@ -111,10 +115,12 @@
   <field concept="peri22-dataelement-80750" note="dosering medicatie" />
   <field concept="peri22-dataelement-80753" note="bijzonderheden" />
 
+  <!--In consult
   <field concept="peri22-dataelement-80810" note="rookgedrag" />
   <field concept="peri22-dataelement-80747" note="alcoholgebruik" />
   <field concept="peri22-dataelement-82102" note="drug" />
   <field concept="peri22-dataelement-82103" note="soort drug" />
+  -->
 
   <field concept="peri22-dataelement-82152" note="risicostatus van de zwangerschap" />
   <field concept="peri22-dataelement-20261" note="voorgenomen plaats baring tijdens zwangerschap (type locatie)" />
@@ -132,4 +138,5 @@
 
   <field concept="peri22x-memo-intake" note="intake memo" />
   <field concept="peri22x-memo-anamnese" note="anamnese memo" />
+  <field concept="peri22x-memo-plannen" note="plannen memo" />
 </sectionType>

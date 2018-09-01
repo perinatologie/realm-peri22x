@@ -487,6 +487,7 @@
         />
       </values>
     </section>
+    <!--
     <section type="anamneseAlgemeen" id="4567-5678-9012-3456" effectStamp="2016-02-01" label="Anamnese">
       <values>
         <value
@@ -681,26 +682,23 @@
             concept="peri22-dataelement-80729"
             value="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque congue, neque nec sagittis tempus, odio metus auctor sem, sit amet euismod leo lacus et eros."
           />
-          <!--
-          <value
-            concept="peri22-dataelement-80730"
-            value=""
-          />
-          -->
-          <value
-            concept="peri22-dataelement-80937"
-            value="TRUE"
-          />
-          <value
-            concept="peri22-dataelement-80938"
-            value="TRUE"
-          />
-          <value
-            concept="peri22-dataelement-82339"
-            value="TRUE"
-          />
-
-          <value
+        <value
+          concept="peri22-dataelement-80730"
+          value=""
+        />
+        <value
+          concept="peri22-dataelement-80937"
+          value="TRUE"
+        />
+        <value
+          concept="peri22-dataelement-80938"
+          value="TRUE"
+        />
+        <value
+          concept="peri22-dataelement-82339"
+          value="TRUE"
+        />
+        <value
           concept="peri22-dataelement-80639"
           value="Karel"
         />
@@ -718,6 +716,7 @@
         />
       </values>
     </section>
+    -->
     <section type="anamnese" id="oa1" effectStamp="2016-02-01" label="Obstetrische anamnese">
       <values>
         <value

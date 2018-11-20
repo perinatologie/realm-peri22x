@@ -4764,6 +4764,10 @@
     <property name="name" language="nl-NL">Baring memo</property>
     <property name="description" language="nl-NL">Baring memo</property>
   </concept>
+  <concept id="peri22x-combitestgt200" shortName="Combitest &gt; 200" type="item" status="final" dataType="boolean">
+    <property name="name" language="nl-NL">Combitest &gt; 200</property>
+    <property name="description" language="nl-NL"/>
+  </concept>
   <concept id="peri22x-document-link" shortName="Link" type="item" status="final" dataType="string">
     <property name="name" language="nl-NL">Document link</property>
     <property name="description" language="nl-NL">Hyperlink naar extern document</property>
@@ -4784,9 +4788,21 @@
     <property name="name" language="nl-NL">DICOM beelden</property>
     <property name="description" language="nl-NL">Beelden gemaakt tijdens echo onderzoek</property>
   </concept>
+  <concept id="peri22x-exclcrit" shortName="NIPT exclusie criteria geen van alle van toepassing" type="item" status="final" dataType="boolean">
+    <property name="name" language="nl-NL">NIPT exclusie criteria geen van alle van toepassing</property>
+    <property name="description" language="nl-NL"/>
+  </concept>
+  <concept id="peri22x-gebruiker" shortName="Naam van gebruiker" type="item" status="final" dataType="string">
+    <property name="name" language="nl-NL">Naam van gebruiker</property>
+    <property name="description" language="nl-NL"/>
+  </concept>
   <concept id="peri22x-geloofsovertuiging" shortName="geloofsovertuiging" type="item" status="cancelled" dataType="code" codelist="Geloofsovertuiging">
     <property name="name" language="nl-NL">Geloofsovertuiging</property>
     <property name="description" language="nl-NL">Geloofsovertuiging</property>
+  </concept>
+  <concept id="peri22x-keuzet21t18t13" shortName="Keuze T21 T18 T13" type="item" status="final" dataType="boolean">
+    <property name="name" language="nl-NL">Keuze T21 T18 T13</property>
+    <property name="description" language="nl-NL"/>
   </concept>
   <concept id="peri22x-memo-alerttekst" shortName="Alert tekst" type="item" status="final" dataType="string">
     <property name="name" language="nl-NL">Alert tekst</property>
@@ -4819,6 +4835,42 @@
   <concept id="peri22x-memo-zwangerschap" shortName="Zwangerschap memo" type="item" status="final" dataType="string">
     <property name="name" language="nl-NL">Zwangerschap memo</property>
     <property name="description" language="nl-NL">Memo over de zwangerschap</property>
+  </concept>
+  <concept id="peri22x-nevenbevindingen" shortName="Keuze nevenbevindingen" type="item" status="final" dataType="boolean">
+    <property name="name" language="nl-NL">Keuze nevenbevindingen</property>
+    <property name="description" language="nl-NL"/>
+  </concept>
+  <concept id="peri22x-nipttoestbewaren" shortName="NIPT toestemming bewaren restmateriaal nader gebruik" type="item" status="final" dataType="boolean">
+    <property name="name" language="nl-NL">NIPT toestemming bewaren restmateriaal nader gebruik</property>
+    <property name="description" language="nl-NL"/>
+  </concept>
+  <concept id="peri22x-nipttoestgetekend" shortName="NIPT toestemmingsformulier getekend" type="item" status="final" dataType="boolean">
+    <property name="name" language="nl-NL">NIPT toestemmingsformulier getekend</property>
+    <property name="description" language="nl-NL"/>
+  </concept>
+  <concept id="peri22x-praktijk" shortName="Naam van praktijk" type="item" status="final" dataType="string">
+    <property name="name" language="nl-NL">Naam van praktijk</property>
+    <property name="description" language="nl-NL"/>
+  </concept>
+  <concept id="peri22x-robertspartner" shortName="Robertsoniaanse translocatie partner" type="item" status="final" dataType="boolean">
+    <property name="name" language="nl-NL">Robertsoniaanse translocatie partner</property>
+    <property name="description" language="nl-NL"/>
+  </concept>
+  <concept id="peri22x-robertszwangere" shortName="Robertsoniaanse translocatie zwangere" type="item" status="final" dataType="boolean">
+    <property name="name" language="nl-NL">Robertsoniaanse translocatie zwangere</property>
+    <property name="description" language="nl-NL"/>
+  </concept>
+  <concept id="peri22x-telefoonnummer" shortName="Telefoonnummer" type="item" status="final" dataType="string">
+    <property name="name" language="nl-NL">Telefoonnummer</property>
+    <property name="description" language="nl-NL">Primaire telefoonnummer met beste bereikbaarheid.</property>
+  </concept>
+  <concept id="peri22x-telefoonnummerpraktijk" shortName="Telefoonnummer van praktijk" type="item" status="final" dataType="string">
+    <property name="name" language="nl-NL">Telefoonnummer van praktijk</property>
+    <property name="description" language="nl-NL"/>
+  </concept>
+  <concept id="peri22x-verzekeringsnummer" shortName="Verzekeringsnummer" type="item" status="final" dataType="string">
+    <property name="name" language="nl-NL">Verzekeringsnummer</property>
+    <property name="description" language="nl-NL"/>
   </concept>
   <concept id="peri22x-vrouw-volledige_achternaam" oid="0.0.0.0.0.0.0.0.0.0" shortName="Volledige achternaam" type="item" dataType="string" lengthMax="64">
     <property name="example" language="">Johnson</property>

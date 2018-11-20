@@ -9,13 +9,21 @@
   <field concept="peri22-dataelement-20340" note="datum eind dossier" />
   <field concept="peri22-dataelement-80664" note="casemanager naam" />
   <field concept="peri22-dataelement-20355" note="eindverantwoordelijk in welke perinatale periode?" />
-  <field concept="peri22-dataelement-20305" note="conclusie risicostatus na intake" />
-
   <field concept="peri22-dataelement-20010" note="graviditeit" />
   <field concept="peri22-dataelement-20150" note="pariteit (vóór deze zwangerschap)" /> <!-- gelijk aan 20153 -->
   <field concept="peri22-dataelement-20153" note="pariteit" />
   <field concept="peri22-dataelement-80617" note="aantal levende kinderen" />
   <field concept="peri22-dataelement-80678" note="fetal loss" />
+  <field concept="peri22-dataelement-80819" note="foliumzuur gebruik" />
+  <field concept="peri22-dataelement-80686" note="consanguïniteit" />
+  <field concept="peri22-dataelement-20060" note="vals positieve zwangerschap" />
+  <field concept="peri22-dataelement-20070" note="lvr1 administratienummer" />
+  <field concept="peri22-dataelement-20170" note="trisomie in de anamnese?" />
+  <field concept="peri22-dataelement-20220" note="hoogste diastolische tensie" />
+  <field concept="peri22-dataelement-80675" note="vrouwelijke genitale verminking" />
+  <field concept="peri22-dataelement-80676" note="type vrouwelijke genitale verminking" />
+  <field concept="peri22-dataelement-10800" note="allergie" />
+  <field concept="peri22-dataelement-20305" note="conclusie risicostatus na intake" />
   <field concept="peri22-dataelement-82157" note="accepteert bloedtransfusie?" />
 
   <!--
@@ -33,58 +41,111 @@
   <field concept="peri22-dataelement-80669" note="zeker?" />
   <field concept="peri22-dataelement-82160" note="definitieve a terme datum" />
 
-  <field concept="peri22-dataelement-80819" note="foliumzuur gebruik" />
-  <field concept="peri22-dataelement-20020" note="hoeveelling" />
-  <field concept="peri22-dataelement-20025" note="actuele aantal foetus" />
-  <field concept="peri22-dataelement-20130" note="amnioniciteit" />
-  <field concept="peri22-dataelement-20140" note="chorioniciteit" />
-  <field concept="peri22-dataelement-20060" note="vals positieve zwangerschap" />
-  <field concept="peri22-dataelement-20070" note="lvr1 administratienummer" />
   <field concept="peri22-dataelement-20080" note="subfertiliteitsbehandeling?" />
   <field concept="peri22-dataelement-20091" note="ovulatie-inductie toegepast?" />
   <field concept="peri22-dataelement-20095" note="geassisteerde conceptie" />
   <field concept="peri22-dataelement-20100" note="eiceldonatie toegepast?" />
   <field concept="peri22-dataelement-20102" note="hl7: de eiceldonatrice" />
   <field concept="peri22-dataelement-20103" note="geboortedatum eiceldonatrice" />
-  <field concept="peri22-dataelement-20170" note="trisomie in de anamnese?" />
+
+  <field concept="peri22-dataelement-20020" note="hoeveelling" />
+  <field concept="peri22-dataelement-20025" note="actuele aantal foetus" />
+  <field concept="peri22-dataelement-20130" note="amnioniciteit" />
+  <field concept="peri22-dataelement-20140" note="chorioniciteit" />
+
+  <field concept="peri22-dataelement-80689" note="datum bepaling bmi" />
   <field concept="peri22-dataelement-20210" note="gewicht voor de zwangerschap" />
-  <field concept="peri22-dataelement-20220" note="hoogste diastolische tensie" />
-
   <field concept="peri22-dataelement-20212" note="lengte" />
-  <field concept="peri22-dataelement-80686" note="consanguïniteit" />
-  <field concept="peri22-dataelement-80675" note="vrouwelijke genitale verminking" />
-  <field concept="peri22-dataelement-80676" note="type vrouwelijke genitale verminking" />
-  <field concept="peri22-dataelement-80939" note="operaties" />
-  <field concept="peri22-dataelement-10803" note="nse" />
-  <field concept="peri22-dataelement-80680" note="huis. geweld" />
-  <field concept="peri22-dataelement-80675" note="besnijdenis" />
-  <field concept="peri22-dataelement-82275" note="hyp. tensie" />
+  <field concept="peri22-dataelement-10806" note="bmi vrouw" />
+  
+  <field concept="peri22-dataelement-82020" note="onder behandeling (geweest)?" />
+  <field concept="peri22-dataelement-80905" note="auto-immuun aandoening?" />
+  <field concept="peri22-dataelement-82220" note="auto-immuun aandoening" />
+  <field concept="peri22-dataelement-82216" note="cardiovasculaire aandoening?" />
+  <field concept="peri22-dataelement-80906" note="cardiovasculaire aandoening" />
+  <field concept="peri22-dataelement-80907" note="urogenitale aandoening?" />
+  <field concept="peri22-dataelement-82267" note="urogenitale aandoening" />
+  <field concept="peri22-dataelement-80908" note="oncologische aandoening?" />
+  <field concept="peri22-dataelement-82221" note="oncologische aandoening" />
+  <field concept="peri22-dataelement-82217" note="schildklier aandoening?" />
+  <field concept="peri22-dataelement-80909" note="schildklier aandoening" />
+  <field concept="peri22-dataelement-80910" note="diabetes mellitus?" />
+  <field concept="peri22-dataelement-82218" note="neurologische aandoening?" />
+  <field concept="peri22-dataelement-80912" max="*" note="neurologische aandoening" />
+  <field concept="peri22-dataelement-80913" note="infectieziekte?" />
+  <field concept="peri22-dataelement-82210" max="*" note="infectieziekte" />
+  <field concept="peri22-dataelement-80914" note="mdl aandoening?" />
+  <field concept="peri22-dataelement-82219" note="mdl aandoening" />
+  <field concept="peri22-dataelement-80915" note="anemie?" />
+  <field concept="peri22-dataelement-82222" note="anemie" />
+  <field concept="peri22-dataelement-80916" note="longaandoening?" />
+  <field concept="peri22-dataelement-82266" note="longaandoening" />
+  <field concept="peri22-dataelement-82211" note="gynaecologische aandoening?" />
+  <field concept="peri22-dataelement-80917" max="*" note="gynaecologische aandoening" />
+  <field concept="peri22-dataelement-82213" note="orthopedische afwijking?" />
+  <field concept="peri22-dataelement-80918" note="orthopedische afwijking" />
+  <field concept="peri22-dataelement-10805" note="bloedtransfusie?" />
+  <field concept="peri22-dataelement-82231" note="transfusiereactie?" />
+  <field concept="peri22-dataelement-80939" note="operatie?" />
+  <field concept="peri22-dataelement-80818" note="type operatie" />
+  <field concept="peri22-dataelement-80940" note="stollingsprobleem?" />
+  <field concept="peri22-dataelement-80817" note="type stollingsprobleem" />
+  <field concept="peri22-dataelement-82159" note="psychiatrie?" />
+  <field concept="peri22-dataelement-82332" note="psychiatrie" />
+  <field concept="peri22-dataelement-82212" note="overige aandoening?" />
+  <field concept="peri22-dataelement-80919" note="overige aandoening" />
+  <field concept="peri22-dataelement-82158" note="toelichting algemene anamnese" />
 
-  <field concept="peri22-dataelement-82167" note="herleidbare gegevens in onderzoeksdatabank?" />
+  <field concept="peri22-dataelement-80681" note="psychosociale problematiek?" />
+  <field concept="peri22-dataelement-10803" note="negatieve seksuele ervaringen?" />
+  <field concept="peri22-dataelement-80680" note="huiselijk geweld?" />
+  <field concept="peri22-dataelement-82333" note="toelichting psychosociale anamnese" />
+
+  <field concept="peri22-dataelement-80729" note="aandoening details" />
+  <field concept="peri22-dataelement-80730" note="type verwantschap" />
+
+  <field concept="peri22x-burgelijke_staat" note="burg.staat" />
+  <field concept="peri22-dataelement-82154" note="beroep client" />
+  <field concept="peri22-dataelement-82155" note="opleidingsniveau" />
+
+  <field concept="peri22-dataelement-10801" note="actueel medicatiegebruik? " />
+  <field concept="peri22-dataelement-10802" note="soort actuele medicatie" />
+  <field concept="peri22-dataelement-80751" note="begindatum" />
+  <field concept="peri22-dataelement-80752" note="einddatum" />
+  <field concept="peri22-dataelement-80750" note="dosering medicatie" />
+  <field concept="peri22-dataelement-80753" note="bijzonderheden" />
+
+  <!--In consult
+  <field concept="peri22-dataelement-80810" note="rookgedrag" />
+  <field concept="peri22-dataelement-80747" note="alcoholgebruik" />
+  <field concept="peri22-dataelement-82102" note="drug" />
+  <field concept="peri22-dataelement-82103" note="soort drug" />
+  -->
+
   <field concept="peri22-dataelement-82152" note="risicostatus van de zwangerschap" />
   <field concept="peri22-dataelement-20261" note="voorgenomen plaats baring tijdens zwangerschap (type locatie)" />
   <field concept="peri22-dataelement-82153" note="echelon eindverantwoordelijke" />
-  <field concept="peri22-dataelement-82011" note="afspraken" />
   <field concept="peri22-dataelement-82009" note="voorgenomen voeding" />
   <field concept="peri22-dataelement-82010" note="voorgenomen achternaam" />
   <field concept="peri22-dataelement-20270" note="kraamzorg aangevraagd" />
   <field concept="peri22-dataelement-80642" note="kraamzorginstelling" />
   <field concept="peri22-dataelement-80672" note="bevalplan" />
+  <field concept="peri22-dataelement-82011" note="afspraken" />
 
-  <field concept="peri22-dataelement-10800" note="allergie" />
-  <field concept="peri22-dataelement-82102" note="drug" />
-  <field concept="peri22-dataelement-20320" note="overname van zorginstelling id" />
-  <field concept="peri22-dataelement-20331" max="*" note="reden van overname (lijst PRN)" />
-  <field concept="peri22-dataelement-82164" note="perinatale periode van overname" />
-  <field concept="peri22-dataelement-10023" note="zorginstelling LVR-ID" />
+  <field concept="peri22-dataelement-80937" note="indicatie invasieve prenatale diagnostiek?" />
+  <field concept="peri22-dataelement-80938" note="indicatie guo?" />
+  <field concept="peri22-dataelement-82339" note="indicatie nipt?" />
 
   <field concept="peri22x-memo-intake" note="intake memo" />
   <field concept="peri22x-memo-anamnese" note="anamnese memo" />
+
   <field concept="peri22x-memo-zwangerschap" note="zwangerschap memo" />
   <field concept="peri22x-memo-mdo" note="mdo memo" />
   <field concept="peri22x-memo-atermelijst" note="atermelijst memo" />
+  <field concept="peri22x-memo-plannen" note="plannen memo" />
 
   <field concept="peri22x-combitestgt200" note="Combinatietest kans groter dan 200" />
   <field concept="peri22x-robertszwangere" note="Robertsoniaanse translocatie zwangere" />
   <field concept="peri22x-robertspartner" note="Robertsoniaanse translocatie partner" />
+  
 </sectionType>

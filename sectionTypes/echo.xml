@@ -7,94 +7,98 @@
 
   <field concept="peri22-dataelement-50010" note="onderzoek identificatie" />
   <field concept="peri22-dataelement-50020" note="datum onderzoek" />
+  <field concept="peri22-dataelement-50021" note="zwangerschapsduur op datum onderzoek" />
   <field concept="peri22-dataelement-80754" note="naam uitvoerder onderzoek" />
   <field concept="peri22-dataelement-82068" note="zorgverlenertype" />
-  <field concept="peri22-dataelement-50021" note="zwangerschapsduur op datum onderzoek" />
 
+  <!-- NICTIZ DID NOT YET ISSUE A CODELIST
   <field concept="peri22-dataelement-50100" note="onderzoektype 'jonge zwangerschapsecho'" />
   <field concept="peri22-dataelement-50110" note="onderzoektype 'nt-meting'" />
   <field concept="peri22-dataelement-50120" note="onderzoektype 'seo'" />
   <field concept="peri22-dataelement-50130" note="onderzoektype 'guo'" />
   <field concept="peri22-dataelement-50140" note="onderzoektype 'Kansbepaling combinatietest'" />
-
+  -->
   <field concept="peri22-dataelement-51010" note="seo-type" />
   <field concept="peri22-dataelement-82330" note="conclusie seo" />
   <field concept="peri22-dataelement-82331" note="advies seo" />
   <field concept="peri22-dataelement-51020" note="conclusie a terme datum" />
   <field concept="peri22-dataelement-20470" note="indicatie prenatale diagnostiek obv screening" />
 
-  <field concept="peri22-dataelement-60005" note="foetus identificatie" />
-  <field concept="peri22-dataelement-60010" note="foetus volgletter" />
+  <field concept="peri22-dataelement-60005" note="foetus identificatie" repeatable="true" />
+  <field concept="peri22-dataelement-60010" note="foetus volgletter" repeatable="true" />
 
-  <field concept="peri22-dataelement-60020" note="crl in mm" />
-  <field concept="peri22-dataelement-60030" note="bpd in mm" />
-  <field concept="peri22-dataelement-60031" note="bpd percentiel" />
+  <field concept="peri22-dataelement-82309" note="nt in mm" repeatable="true" />
+  <field concept="peri22-dataelement-82310" note="nt in mom" repeatable="true" />
+  <field concept="peri22-dataelement-82311" note="crl" repeatable="true" />
+  <field concept="peri22-dataelement-82312" note="bpd" repeatable="true" />
 
-  <field concept="peri22-dataelement-60040" note="nt in mm" />
-  <field concept="peri22-dataelement-60060" note="hc in mm" />
-  <field concept="peri22-dataelement-60061" note="hc percentiel" />
-  <field concept="peri22-dataelement-60070" note="tcd (cerebellum) in mm" />
-  <field concept="peri22-dataelement-60080" note="ac in mm" />
-  <field concept="peri22-dataelement-60081" note="ac precentiel" />
-  <field concept="peri22-dataelement-60100" note="fl in mm" />
-  <field concept="peri22-dataelement-60101" note="fl percentiel" />
-  <field concept="peri22-dataelement-82340" note="efw" />
-  <field concept="peri22-dataelement-60102" note="echoparameters bpd, hc, ac, fl" />
-  <field concept="peri22-dataelement-80943" note="hartactie aanwezig?" />
-  <field concept="peri22-dataelement-81007" note="regelmaat hartslag" />
-  <field concept="peri22-dataelement-81008" note="frequentie hartslag" />
-  <field concept="peri22-dataelement-80944" note="ligging" />
-  <field concept="peri22-dataelement-80985" note="beweging" />
-  <field concept="peri22-dataelement-80945" note="vruchtwater" />
-  <field concept="peri22-dataelement-80946" note="placentalokalisatie" />
-  <field concept="peri22-dataelement-82071" note="ostium" />
-  <field concept="peri22-dataelement-82072" note="over sectio litteken?" />
-  <field concept="peri22-dataelement-82287" note="placenta afwijking?" />
-  <field concept="peri22-dataelement-82288" note="placenta afwijking" />
-  <field concept="peri22-dataelement-82073" note="cervixlengte" />
-  <field concept="peri22-dataelement-80947" note="navelstreng vaten" />
-  <field concept="peri22-dataelement-80948" note="opmerkingen" />
+  <field concept="peri22-dataelement-60020" note="crl in mm" repeatable="true" />
+  <field concept="peri22-dataelement-60030" note="bpd in mm" repeatable="true" />
+  <field concept="peri22-dataelement-60031" note="bpd percentiel" repeatable="true" />
+  <field concept="peri22-dataelement-60040" note="nt in mm" repeatable="true" />
+  <field concept="peri22-dataelement-60060" note="hc in mm" repeatable="true" />
+  <field concept="peri22-dataelement-60061" note="hc percentiel" repeatable="true" />
+  <field concept="peri22-dataelement-60070" note="tcd (cerebellum) in mm" repeatable="true" />
+  <field concept="peri22-dataelement-60080" note="ac in mm" repeatable="true" />
+  <field concept="peri22-dataelement-60081" note="ac precentiel" repeatable="true" />
+  <field concept="peri22-dataelement-60100" note="fl in mm" repeatable="true" />
+  <field concept="peri22-dataelement-60101" note="fl percentiel" repeatable="true" />
+  <field concept="peri22-dataelement-82340" note="efw" repeatable="true" />
+  <field concept="peri22-dataelement-60102" note="echoparameters bpd, hc, ac, fl" repeatable="true" />
+  <field concept="peri22-dataelement-80943" note="hartactie aanwezig?" repeatable="true" />
+  <field concept="peri22-dataelement-81007" note="regelmaat hartslag" repeatable="true" />
+  <field concept="peri22-dataelement-81008" note="frequentie hartslag" repeatable="true" />
+  <field concept="peri22-dataelement-80944" note="ligging" repeatable="true" />
+  <field concept="peri22-dataelement-80985" note="beweging" repeatable="true" />
+  <field concept="peri22-dataelement-80945" note="vruchtwater" repeatable="true" />
+  <field concept="peri22-dataelement-80946" note="placentalokalisatie" repeatable="true" />
+  <field concept="peri22-dataelement-82071" note="ostium" repeatable="true" />
+  <field concept="peri22-dataelement-82072" note="over sectio litteken?" repeatable="true" />
+  <field concept="peri22-dataelement-82287" note="placenta afwijking?" repeatable="true" />
+  <field concept="peri22-dataelement-82288" note="placenta afwijking" repeatable="true" />
+  <field concept="peri22-dataelement-82073" note="cervixlengte" repeatable="true" />
+  <field concept="peri22-dataelement-80947" note="navelstreng vaten" repeatable="true" />
+  <field concept="peri22-dataelement-80948" note="opmerkingen" repeatable="true" />
 
-  <field concept="peri22-dataelement-60200" note="algehele beoordeling" />
-  <field concept="peri22-dataelement-82237" note="neuraalbuis van de wervelkolom" />
-  <field concept="peri22-dataelement-82240" note="hersenen neuraalbuisdefect" />
-  <field concept="peri22-dataelement-82241" note="hersenen overige" />
-  <field concept="peri22-dataelement-82242" note="aangezicht" />
-  <field concept="peri22-dataelement-82243" note="nek / huid" />
-  <field concept="peri22-dataelement-82244" note="hart" />
-  <field concept="peri22-dataelement-82245" note="longen" />
-  <field concept="peri22-dataelement-82246" note="diafragma" />
-  <field concept="peri22-dataelement-82247" note="buikwand" />
-  <field concept="peri22-dataelement-82248" note="maag-darm" />
-  <field concept="peri22-dataelement-82249" note="nieren-blaas" />
-  <field concept="peri22-dataelement-82250" note="extremiteiten" />
-  <field concept="peri22-dataelement-82251" note="skelet" />
-  <field concept="peri22-dataelement-82253" note="vruchtwatercompartiment" />
-  <field concept="peri22-dataelement-82254" note="navelstreng" />
-  <field concept="peri22-dataelement-82255" note="placenta afwijkingen" />
-  <field concept="peri22-dataelement-82256" note="wervelkolom neuraalbuisdefect" />
-  <field concept="peri22-dataelement-82257" note="wervelkolom overige" />
+  <field concept="peri22-dataelement-82237" note="neuraalbuis van de wervelkolom" repeatable="true" />
+  <field concept="peri22-dataelement-82240" note="hersenen neuraalbuisdefect" repeatable="true" />
+  <field concept="peri22-dataelement-82241" note="hersenen overige" repeatable="true" />
+  <field concept="peri22-dataelement-82242" note="aangezicht" repeatable="true" />
+  <field concept="peri22-dataelement-82243" note="nek / huid" repeatable="true" />
+  <field concept="peri22-dataelement-82244" note="hart" repeatable="true" />
+  <field concept="peri22-dataelement-82245" note="longen" repeatable="true" />
+  <field concept="peri22-dataelement-82246" note="diafragma" repeatable="true" />
+  <field concept="peri22-dataelement-82247" note="buikwand" repeatable="true" />
+  <field concept="peri22-dataelement-82248" note="maag-darm" repeatable="true" />
+  <field concept="peri22-dataelement-82249" note="nieren-blaas" repeatable="true" />
+  <field concept="peri22-dataelement-82250" note="extremiteiten" repeatable="true" />
+  <field concept="peri22-dataelement-82251" note="skelet" repeatable="true" />
+  <field concept="peri22-dataelement-82253" note="vruchtwatercompartiment" repeatable="true" />
+  <field concept="peri22-dataelement-82254" note="navelstreng" repeatable="true" />
+  <field concept="peri22-dataelement-82255" note="placenta afwijkingen" repeatable="true" />
+  <field concept="peri22-dataelement-82256" note="wervelkolom neuraalbuisdefect" repeatable="true" />
+  <field concept="peri22-dataelement-82257" note="wervelkolom overige" repeatable="true" />
+  <field concept="peri22-dataelement-82239" note="echodense focus in het hart" repeatable="true" />
+  <field concept="peri22-dataelement-82258" note="plexus choroideus cysten" repeatable="true" />
+  <field concept="peri22-dataelement-82259" note="verdikte nekplooi / nekhuid" repeatable="true" />
+  <field concept="peri22-dataelement-82260" note="echodense darmen" repeatable="true" />
+  <field concept="peri22-dataelement-82261" note="milde ventriculomegalie" repeatable="true" />
+  <field concept="peri22-dataelement-82262" note="pyelectasie" repeatable="true" />
+  <field concept="peri22-dataelement-82263" note="kort femur" repeatable="true" />
+  <field concept="peri22-dataelement-82264" note="2 navelstrengvaten" repeatable="true" />
 
-  <field concept="peri22-dataelement-82239" note="echodense focus in het hart" />
-  <field concept="peri22-dataelement-82258" note="plexus choroideus cysten" />
-  <field concept="peri22-dataelement-82259" note="verdikte nekplooi / nekhuid" />
-  <field concept="peri22-dataelement-82260" note="echodense darmen" />
-  <field concept="peri22-dataelement-82261" note="milde ventriculomegalie" />
-  <field concept="peri22-dataelement-82262" note="pyelectasie" />
-  <field concept="peri22-dataelement-82263" note="kort femur" />
-  <field concept="peri22-dataelement-82264" note="2 navelstrengvaten" />
+  <field concept="peri22-dataelement-61010" note="datum kansbepaling" repeatable="true" />
+  <field concept="peri22-dataelement-61040" note="methode kansbepaling" repeatable="true" />
+  <field concept="peri22-dataelement-61025" note="naam kansbepaling softwareapplicatie" repeatable="true" />
+  <field concept="peri22-dataelement-61030" note="versie softwareapplicatie" repeatable="true" />
+  <field concept="peri22-dataelement-61050" note="a priori kans op trisomie 21 (down)" repeatable="true" />
+  <field concept="peri22-dataelement-61060" note="a priori kans op trisomie 18 (edwards)" repeatable="true" />
+  <field concept="peri22-dataelement-61070" note="a priori kans op trisomie 13 (patau)" repeatable="true" />
+  <field concept="peri22-dataelement-61080" note="combinatietest kans op trisomie 21" repeatable="true" />
+  <field concept="peri22-dataelement-61100" note="combinatietest kans op trisomie 18" repeatable="true" />
+  <field concept="peri22-dataelement-61110" note="combinatietest kans op trisomie 13" repeatable="true" />
 
-  <field concept="peri22-dataelement-61010" note="datum kansbepaling" />
-  <field concept="peri22-dataelement-61040" note="methode kansbepaling" />
-  <field concept="peri22-dataelement-61025" note="naam kansbepaling softwareapplicatie" />
-  <field concept="peri22-dataelement-61030" note="versie softwareapplicatie" />
-  <field concept="peri22-dataelement-61050" note="a priori kans op trisomie 21 (down)" />
-  <field concept="peri22-dataelement-61060" note="a priori kans op trisomie 18 (edwards)" />
-  <field concept="peri22-dataelement-61070" note="a priori kans op trisomie 13 (patau)" />
-  <field concept="peri22-dataelement-61080" note="combinatietest kans op trisomie 21" />
-  <field concept="peri22-dataelement-61100" note="combinatietest kans op trisomie 18" />
-  <field concept="peri22-dataelement-61110" note="combinatietest kans op trisomie 13" />
-
+  <!-- niet kind specifieke gegevens -->
   <field concept="peri22-dataelement-82300" note="zwangerschapsduur" />
   <field concept="peri22-dataelement-82301" note="actuele aantal foetus" />
   <field concept="peri22-dataelement-82302" note="chorioniciteit" />
@@ -102,10 +106,9 @@
   <field concept="peri22-dataelement-82304" note="gewicht (gemeten)" />
   <field concept="peri22-dataelement-82305" note="diabetes mellitus?" />
   <field concept="peri22-dataelement-82306" note="ivf / icsi graviditeit?" />
-  <field concept="peri22-dataelement-82307" note="trisomie in de anamnese?" />
+  <field concept="peri22-dataelement-82307" note="trisomie in de anam nese?" />
   <field concept="peri22-dataelement-61200" note="gehanteerde rookgewoonte?" />
   <field concept="peri22-dataelement-82308" note="etniciteit" />
-
   <field concept="peri22-dataelement-61220" note="gehanteerde papp-a concentratie in miu/l" />
   <field concept="peri22-dataelement-61230" note="gehanteerde papp-a in mom" />
   <field concept="peri22-dataelement-61240" note="gehanteerde vrij β-hcg concentratie in ng/ml" />
@@ -114,12 +117,9 @@
   <field concept="peri22-dataelement-61270" note="gehanteerde corrected vrij β-hcg" />
   <field concept="peri22-dataelement-61280" note="gehanteerde datum nt-meting" />
 
-  <field concept="peri22-dataelement-82309" note="nt in mm" />
-  <field concept="peri22-dataelement-82310" note="nt in mom" />
-  <field concept="peri22-dataelement-82311" note="crl" />
-  <field concept="peri22-dataelement-82312" note="bpd" />
   <field concept="peri22-dataelement-82227" note="invasieve prenatale diagnostiek" />
 
+  <field concept="peri22-dataelement-60200" note="algehele beoordeling" />
   <field concept="peri22x-echo-conclusie" note="conclusie gemaakt na echografie" />
   <field concept="peri22x-echo-diagnose" note="diagnose gemaakt na echografie" />
 </sectionType>

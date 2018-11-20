@@ -7,23 +7,19 @@
 
   <field concept="peri22-dataelement-10030" note="bsn" />
   <field concept="peri22-dataelement-10031" note="lokale persoonsidentificatie" />
-
-  <field concept="peri22-dataelement-82360" note="roepnaam" />
   <field concept="peri22-dataelement-10042" max="*" note="voornamen" />
   <field concept="peri22-dataelement-82359" note="initialen" />
+  <field concept="peri22-dataelement-82360" note="roepnaam" />
   <field concept="peri22-dataelement-82363" note="voorvoegsel"/>
   <field concept="peri22-dataelement-10043" note="achternaam" />
   <field concept="peri22x-vrouw-volledige_achternaam" note="volledige achternaam" />
-
   <field concept="peri22-dataelement-10040" note="geboortedatum" />
   <field concept="peri22x-vrouw-geboorteland" note="geboorteland" />
-  <field concept="peri22x-burgelijke_staat" note="burg.staat" />
   <field concept="peri22-dataelement-10400" note="etniciteit" />
   <field concept="peri22-dataelement-10401" note="spreekt Nederlands" />
   <field concept="peri22-dataelement-82371" note="communicatietaal" />
-  <field concept="peri22-dataelement-82154" note="beroep client" />
-  <field concept="peri22-dataelement-82155" note="opleidingsniveau" />
   <field concept="peri22x-memo-client" note="client memo" />
+  <field concept="peri22x-memo-alerttekst" note="alert tekst" />
 
   <field concept="peri22-dataelement-10301" note="straatnaam" />
   <field concept="peri22-dataelement-10302" note="huisnummer" />
@@ -41,7 +37,7 @@
 
   <field concept="peri22x-verzekeringsnummer" note="Verzekeringsnummer" />
   <field concept="peri22x-telefoonnummerclient" note="Telefoonnummer client" />
-    
+  
   <field concept="peri22-dataelement-82027" note="zorgverlener uzi-nummer" />
   <field concept="peri22-dataelement-82028" note="zorgverlener agb-id" />
   <field concept="peri22-dataelement-82029" note="naam zorgverlener" />
@@ -49,11 +45,10 @@
   <field concept="peri22-dataelement-82030" note="zorginstelling agb-id" />
   <field concept="peri22-dataelement-82031" note="naam zorginstelling" />
 
-  <field concept="peri22-dataelement-82039" note="zorgverlener uzi-nummer" />
-  <field concept="peri22-dataelement-82032" note="zorgverlener agb-id" />
   <field concept="peri22-dataelement-82033" note="naam zorgverlener" />
   <field concept="peri22-dataelement-82038" note="type specialist" />
-  <field concept="peri22-dataelement-82036" note="zorginstelling agb-id" />
+  <field concept="peri22-dataelement-82039" note="zorgverlener uzi-nummer" />
+  <field concept="peri22-dataelement-82032" note="zorgverlener agb-id" />
   <field concept="peri22-dataelement-82037" note="naam zorginstelling" />
-
+  <field concept="peri22-dataelement-82036" note="zorginstelling agb-id" />
 </sectionType>

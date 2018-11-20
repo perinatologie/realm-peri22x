@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22x-memo-plannen" oid="" status="final" shortName="Plannen memo" type="item" dataType="string">
+  <property name="name" language="nl-NL">Plannen memo</property>
+  <property name="description" language="nl-NL">Memo betreffende planning</property>
+</concept>

@@ -39,7 +39,6 @@
   <field concept="peri22-dataelement-82271" note="cervixinsufficientie?" />
   <field concept="peri22-dataelement-82273" note="infectie" />
   <field concept="peri22-dataelement-82274" note="hyperemesis gravidarum?" />
-
   <field concept="peri22-dataelement-82275" note="hypertensieve aandoening" />
   <field concept="peri22-dataelement-82276" note="zwangerschapscholestase?" />
   <field concept="peri22-dataelement-82277" note="diabetes gravidarum met insuline?" />
@@ -59,9 +58,28 @@
   <field concept="peri22-dataelement-20540" note="datum einde zwangerschap" />
 
   <field concept="peri22-dataelement-80897" note="bijlage" />
+  
+  <!-- In Onatal staan deze bij aterme datum -->
+  <field concept="peri22-dataelement-20030" note="A terme datum" />
+  <field concept="peri22-dataelement-20040" note="Datum bepaling à terme datum" />
+  <field concept="peri22-dataelement-20050" note="A terme datum o.b.v." />
+  <field concept="peri22-dataelement-20055" note="Actuele à terme datum?" />
+  <field concept="peri22-dataelement-80669" note="Zekerheid AT" />
+  <field concept="peri22-dataelement-82160" note="Definitieve a terme datum" />
+
+  <field concept="peri22-dataelement-20080" note="Subfertiliteitsbehandeling?" />
+  <field concept="peri22-dataelement-20091" note="Ovulatie-inductie toegepast?" />
+  <field concept="peri22-dataelement-20095" note="Geassisteerde conceptie" />
+  <field concept="peri22-dataelement-20100" note="Eiceldonatie toegepast?" />
+  <field concept="peri22-dataelement-20102" note="Eiceldonatrice" />
+  <field concept="peri22-dataelement-20103" note="Geboortedatum eiceldonatrice" />
 
   <!-- In Onatal staan deze bij consult -->
   <field concept="peri22-dataelement-80945" note="vruchtwater" />
   <field concept="peri22-dataelement-10814" note="hb" />
   <field concept="peri22-dataelement-80951" note="mcv" />
+
+  <field concept="peri22x-memo-zwangerschap" note="zwangerschap memo" />
+  <field concept="peri22x-memo-mdo" note="mdo memo" />
+  <field concept="peri22x-memo-atermelijst" note="atermelijst memo" />
 </sectionType>

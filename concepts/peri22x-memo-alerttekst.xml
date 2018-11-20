@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22x-memo-alerttekst" oid="" status="final" shortName="Alert tekst" type="item" dataType="string">
+  <property name="name" language="nl-NL">Alert tekst</property>
+  <property name="description" language="nl-NL">Alert tekst</property>
+</concept>

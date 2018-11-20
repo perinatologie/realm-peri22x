@@ -37,5 +37,5 @@
   <field concept="peri22-dataelement-80853" note="bloeddruk systolisch" />
   <field concept="peri22-dataelement-80854" note="bloeddruk diastolisch" />
   <field concept="peri22-dataelement-80855" note="hb" />
-  <field concept="peri22-dataelement-80863" note="bijzonderheden" />  
+  <field concept="peri22-dataelement-80863" note="bijzonderheden" />
 </sectionType>

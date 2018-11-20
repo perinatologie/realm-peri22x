@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sectionType
-  id="anamneseAlgemeen"
+  id="_anamneseAlgemeen"
   label="Algemene anamnese"
   >
   <property name="definition">Algemene anamnese</property>
+  <!-- Intake -->
   <field concept="peri22-dataelement-82020" note="onder behandeling (geweest)?" />
   <field concept="peri22-dataelement-80905" note="auto-immuun aandoening?" />
   <field concept="peri22-dataelement-82220" note="auto-immuun aandoening" />
@@ -62,6 +63,7 @@
   <field concept="peri22-dataelement-80938" note="indicatie guo?" />
   <field concept="peri22-dataelement-82339" note="indicatie nipt?" />
 
+  <!-- Client -->
   <field concept="peri22-dataelement-80639" max="*" note="partner voornaam" />
   <field concept="peri22-dataelement-80640" note="partner voorvoegsel" />
   <field concept="peri22-dataelement-80641" note="partner achternaam" />

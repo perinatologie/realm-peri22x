@@ -4,7 +4,7 @@
   label="Diagnose"
   >
   <property name="definition">Diagnose, gebaseerd op peri22-dataelement-82268</property>
-
+  <!--consult-->
   <field concept="peri22-dataelement-82270" note="Bloedverlies?" />
   <field concept="peri22-dataelement-82273" note="Infectie" />
   <field concept="peri22-dataelement-82274" note="Hyperemesis gravidarum?" />

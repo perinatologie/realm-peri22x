@@ -3,9 +3,39 @@
   id="document"
   label="Document"
   >
-  <property name="definition">Document</property>
+  <property name="definition">Documentgegevens voor document gebasseerde uitslagen</property>
+  <field concept="peri22-dataelement-80170" note="beheerder document" />
+  <field concept="peri22-dataelement-80200" note="uitgevoerd onderzoek" />
+  <field concept="peri22-dataelement-80205" note="opdrachtnummer uitgevoerd onderzoek" />
+
+  <field concept="peri22-dataelement-80220" note="uitvoerder onderzoek" />
+  <field concept="peri22-dataelement-80230" note="uitvoerder (UZI-nummer) " />
+  <field concept="peri22-dataelement-80240" note="uitvoerder (AGB-ID)" />
+  <field concept="peri22-dataelement-80250" note="naam uitvoerder" />
+  <field concept="peri22-dataelement-80255" note="uitvoerdertype" />
+  <field concept="peri22-dataelement-80265" note="uitvoerende organisatie (URA)" />
+  <field concept="peri22-dataelement-80270" note="uitvoerende organisatie (OID)" />
+  <field concept="peri22-dataelement-80280" note="uitvoerende organisatie (AGB-id)" />
+  <field concept="peri22-dataelement-80285" note="uitvoerende organisatie (ander id-systeem)" />
+  <field concept="peri22-dataelement-80290" note="naam uitvoerende organisatie" />
+  <field concept="peri22-dataelement-80300" note="adres uitvoerende organisatie" />
+
+  <field concept="peri22-dataelement-80420" note="naam beoogde ontvanger" />
+  <field concept="peri22-dataelement-80435" note="beoogde ontvangende organisatie (OID)" />
+  <field concept="peri22-dataelement-80440" note="beoogde ontvangende organisatie (URA)" />
+  <field concept="peri22-dataelement-80445" note="beoogde ontvangende organisatie (AGB-id)" />
+  <field concept="peri22-dataelement-80450" note="naam beoogde ontvangende organisatie" />
+  <field concept="peri22-dataelement-80460" note="adres beoogde ontvangende organisatie" />
+
+  <field concept="peri22-dataelement-80520" note="identificatie aanvrager" />
+  <field concept="peri22-dataelement-80530" note="naam aanvrager" />
+  <field concept="peri22-dataelement-80545" note="organisatie aanvrager (OID)" />
+  <field concept="peri22-dataelement-80550" note="organisatie aanvrager (URA)" />
+  <field concept="peri22-dataelement-80555" note="organisatie aanvrager (AGB-id)" />
+  <field concept="peri22-dataelement-80560" note="naam organisatie aanvrager" />
+  <field concept="peri22-dataelement-80570" note="adres organisatie aanvrager" />
+  <field concept="peri22-dataelement-80610" note="opdrachtnummer aanvraag" />
 
   <field concept="peri22x-document-naam" note="Naam" />
   <field concept="peri22x-document-link" note="Link" />
-
 </sectionType>

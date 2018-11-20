@@ -10,14 +10,11 @@
   <field concept="peri22-dataelement-80754" note="naam uitvoerder onderzoek" />
   <field concept="peri22-dataelement-82068" note="zorgverlenertype" />
   <field concept="peri22-dataelement-50021" note="zwangerschapsduur op datum onderzoek" />
-
   <field concept="peri22-dataelement-82228" note="nipt?" />
   <field concept="peri22-dataelement-82229" note="nipt uitslag" />
-
   <field concept="peri22-dataelement-10814" note="hb" />
-
+  <field concept="peri22-dataelement-40051" note="rhesus d factor foetus" />
   <field concept="peri22-dataelement-20242" note="eiwit/creatinineratio" />
-
   <field concept="peri22-dataelement-80978" note="vaginakweek" />
 
   <field concept="peri22-dataelement-80952" note="bloedgroep vrouw" />
@@ -25,12 +22,16 @@
   <field concept="peri22-dataelement-80954" note="rhesus c factor" />
   <field concept="peri22-dataelement-80955" note="hbsag " />
   <field concept="peri22-dataelement-80956" note="hiv" />
+  <!-- NICTIZ DID NOT YET ISSUE A CODELIST
   <field concept="peri22-dataelement-80957" note="lues" />
+  -->
   <field concept="peri22-dataelement-10812" note="irregulaire antistoffen?" />
   <field concept="peri22-dataelement-10813" note="welke irregulaire antistoffen vrouw aanwezig" />
 
   <field concept="peri22-dataelement-80951" note="mcv" />
+  <!-- NICTIZ DID NOT YET ISSUE A CODELIST
   <field concept="peri22-dataelement-80992" note="hb-pathie" />
+  -->
   <field concept="peri22-dataelement-80993" note="vit. b12" />
   <field concept="peri22-dataelement-80994" note="actief-b12" />
   <field concept="peri22-dataelement-80995" note="ferritine" />
@@ -48,23 +49,25 @@
   <field concept="peri22-dataelement-80968" note="toxoplasmose igm" />
   <field concept="peri22-dataelement-80969" note="rubella igg" />
   <field concept="peri22-dataelement-80970" note="rubella igm" />
+  <!-- NICTIZ DID NOT YET ISSUE A CODELIST
   <field concept="peri22-dataelement-80971" note="cmv igg" />
   <field concept="peri22-dataelement-80972" note="cmv igm" />
   <field concept="peri22-dataelement-80973" note="herpes igg" />
   <field concept="peri22-dataelement-80974" note="herpes igm" />
   <field concept="peri22-dataelement-80975" note="parvovirus igg" />
   <field concept="peri22-dataelement-80976" note="parvovirus igm" />
-
-  <field concept="peri22-dataelement-40051" note="rhesus d factor foetus" />
+  -->
 
   <field concept="peri22-dataelement-82077" note="ketonen" />
+  <!-- NICTIZ DID NOT YET ISSUE A CODELIST
   <field concept="peri22-dataelement-82080" note="nitriet" />
+  -->
   <field concept="peri22-dataelement-82082" note="aantal g proteïne, 24 uurs" />
   <field concept="peri22-dataelement-20243" note="proteïne in urine" />
-
   <field concept="peri22-dataelement-80977" note="urinekweek" />
 
   <field concept="peri22-dataelement-20612" note="portio" />
+  <field concept="peri22-dataelement-82372" note="positie portio" />
   <field concept="peri22-dataelement-20613" note="ontsluiting" />
   <field concept="peri22-dataelement-20614" note="vliezen" />
   <field concept="peri22-dataelement-20615" note="indaling hodge" />

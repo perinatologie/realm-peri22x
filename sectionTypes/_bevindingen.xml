@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sectionType
-  id="bevindingen"
+  id="_bevindingen"
   note="Bevindingen"
   >
   <property name="definition">Bevindingen</property>
+  <!-- echo -->
 <!--
   <field concept="?" note="algehele beoordeling" />
   <field concept="?" note="neuraalbuisdefecten" />

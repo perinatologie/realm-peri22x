@@ -3,8 +3,36 @@
   id="zorgverlener"
   label="Zorgverlener"
   >
-  <property name="definition">Zorgverlener</property>
+  <property name="definition">Zorgverlener/zorginstelling</property>
 
-  <field concept="peri22-dataelement-10003" note="identificatie zorgverlener" />
+  <field concept="peri22-dataelement-10002" note="zorgverlener uzi-nummer" />
+  <field concept="peri22-dataelement-10003" note="zorgverlener agb" />
+  <field concept="peri22-dataelement-10004" note="zorgverlener lvr1-id" />
+  <field concept="peri22-dataelement-10005" note="zorgverlener (lvr2, eigen id)" />
+  <field concept="peri22-dataelement-10006" note="naam zorgverlener" />
+  <field concept="peri22-dataelement-10010" note="zorgverlenertype" />
+  <field concept="peri22-dataelement-10011" note="zorgverlenertype (lvr2-code)" />
+  <field concept="peri22-dataelement-10012" note="telefoon waar zorgverlener te bereiken is" />
 
+  <field concept="peri22-dataelement-10021" note="zorginstelling oid" />
+  <field concept="peri22-dataelement-10022" note="zorginstelling agb-id" />
+  <field concept="peri22-dataelement-10023" note="zorginstelling lvr-id" />
+  <field concept="peri22-dataelement-10024" note="zorginstelling ura" />
+  <field concept="peri22-dataelement-10026" note="naam zorginstelling" />
+
+  <field concept="peri22-dataelement-10032" note="straatnaam" />
+  <field concept="peri22-dataelement-10033" note="huisnummer" />
+  <field concept="peri22-dataelement-10034" note="huisletter/nummertoevoeging" />
+  <field concept="peri22-dataelement-10041" note="postcode" />
+  <field concept="peri22-dataelement-10036" note="plaatsnaam" />
+  <field concept="peri22-dataelement-10037" note="gemeentenaam" />
+  <field concept="peri22-dataelement-10038" note="land" />
+  <field concept="peri22-dataelement-10039" note="adrestype" />
+
+  <field concept="peri22-dataelement-10029" note="type zorginstelling" />
+  <field concept="peri22-dataelement-82019" note="type zorginstelling (bij verwijzing)" />
+
+  <field concept="peri22-dataelement-40058" note="identificatie registrerende instantie" />
+  <field concept="peri22-dataelement-40061" note="type registrerende instantie" />
+  <field concept="peri22-dataelement-40087" note="naam van de organisatie" />
 </sectionType>

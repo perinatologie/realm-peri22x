@@ -35,9 +35,9 @@
   <field concept="peri22-dataelement-80641" note="achternaam partner" />
   <field concept="peri22-dataelement-80636" note="ethniciteit partner" />
 
-  <!-- <field concept="peri22x-verzekeringsnummer" note="Verzekeringsnummer" /> -->
-  <!-- <field concept="peri22x-telefoonnummer" note="Telefoonnummer" /> -->
-
+  <field concept="peri22x-verzekeringsnummer" note="Verzekeringsnummer" />
+  <field concept="peri22x-telefoonnummerclient" note="Telefoonnummer client" />
+  
   <field concept="peri22-dataelement-82027" note="zorgverlener uzi-nummer" />
   <field concept="peri22-dataelement-82028" note="zorgverlener agb-id" />
   <field concept="peri22-dataelement-82029" note="naam zorgverlener" />

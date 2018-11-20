@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22x-verzekeringsnummer" oid="" status="final" shortName="Verzekeringsnummer" type="item" dataType="string">
+  <property name="name" language="nl-NL">Verzekeringsnummer</property>
+  <property name="description" language="nl-NL"></property>
+</concept>

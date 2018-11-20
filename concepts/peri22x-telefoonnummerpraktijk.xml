@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22x-telefoonnummerpraktijk" oid="" status="final" shortName="Telefoonnummer van praktijk" type="item" dataType="string">
+  <property name="name" language="nl-NL">Telefoonnummer van praktijk</property>
+  <property name="description" language="nl-NL"></property>
+</concept>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22x-gebruiker" oid="" status="final" shortName="Naam van gebruiker" type="item" dataType="string">
+  <property name="name" language="nl-NL">Naam van gebruiker</property>
+  <property name="description" language="nl-NL"></property>
+</concept>

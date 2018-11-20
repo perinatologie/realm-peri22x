@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22x-nipttoestgetekend" oid="" status="final" shortName="NIPT toestemmingsformulier getekend" type="item" dataType="boolean">
+  <property name="name" language="nl-NL">NIPT toestemmingsformulier getekend</property>
+  <property name="description" language="nl-NL"></property>
+</concept>

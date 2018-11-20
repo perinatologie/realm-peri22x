@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22x-telefoonnummer" oid="" status="final" shortName="Telefoonnummer" type="item" dataType="string">
+  <property name="name" language="nl-NL">Telefoonnummer</property>
+  <property name="description" language="nl-NL">Primaire telefoonnummer met beste bereikbaarheid.</property>
+</concept>

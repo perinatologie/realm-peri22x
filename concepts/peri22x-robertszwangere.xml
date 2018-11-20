@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22x-robertszwangere" oid="" status="final" shortName="Robertsoniaanse translocatie zwangere" type="item" dataType="boolean">
+  <property name="name" language="nl-NL">Robertsoniaanse translocatie zwangere</property>
+  <property name="description" language="nl-NL"></property>
+</concept>

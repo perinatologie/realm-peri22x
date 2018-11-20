@@ -2,8 +2,8 @@
 <sectionType id="nipt" label="NIPT">
     <property name="definition">NIPT</property>
     <field concept="peri22x-exclcrit" note="Exclusiecriteria geen van alle van toepassing"/>
-    <field concept="peri22x-keuze" note="Keuze T21 T18 T13"/>
-    <field concept="peri22x-neven" note="Keuze nevenbevindingen"/>
-    <field concept="peri22x-toestgetekend" note="Toestemmingsformulier getekend"/>
-    <field concept="peri22x-toestbewaren" note="Toestemming bewaren restmateriaal nader gebruik"/>
+    <field concept="peri22x-keuzet21t18t13" note="Keuze T21 T18 T13"/>
+    <field concept="peri22x-nevenbevindingen" note="Keuze nevenbevindingen"/>
+    <field concept="peri22x-nipttoestgetekend" note="Toestemmingsformulier getekend"/>
+    <field concept="peri22x-nipttoestbewaren" note="Toestemming bewaren restmateriaal nader gebruik"/>
 </sectionType>

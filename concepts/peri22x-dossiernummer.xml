@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22x-dossiernummer" oid="" status="final" shortName="Dossiernummer" type="item" dataType="string">
+  <property name="name" language="nl-NL">Dossiernummer</property>
+  <property name="description" language="nl-NL">Uniek dossiernummer binnen aanleverende instelling</property>
+</concept>
